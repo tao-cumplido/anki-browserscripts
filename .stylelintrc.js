@@ -1,0 +1,46 @@
+const cssNamePatern = /^[a-z]+(-([a-z]+|\d+))*$/;
+
+module.exports = {
+   plugins: ['stylelint-scss'],
+   extends: ['stylelint-config-recommended', 'stylelint-prettier/recommended'],
+   ignoreFiles: ['**/node_modules/**/*'],
+   rules: {
+      'prettier/prettier': null,
+      // core
+      'function-calc-no-invalid': true,
+      'selector-type-no-unknown': [true],
+      'no-empty-source': null,
+      'shorthand-property-no-redundant-values': true,
+      'declaration-block-no-redundant-longhand-properties': true,
+      'declaration-no-important': true,
+      'color-hex-length': 'short',
+      // scss
+      'scss/at-each-key-value-single-line': true,
+      'scss/at-extend-no-missing-placeholder': true,
+      'scss/at-if-no-null': true,
+      'scss/at-import-no-partial-leading-underscore': true,
+      'scss/at-import-partial-extension': 'never',
+      'at-rule-no-unknown': null,
+      'scss/at-rule-no-unknown': true,
+      'scss/dollar-variable-no-missing-interpolation': true,
+      'scss/declaration-nested-properties': ['always', { except: 'only-of-namespace' }],
+      'scss/declaration-nested-properties-no-divided-groups': true,
+      'scss/dimension-no-non-numeric-values': true,
+      'scss/function-color-relative': true,
+      'scss/function-quote-no-quoted-strings-inside': true,
+      'scss/function-unquote-no-unquoted-strings-inside': true,
+      'scss/selector-no-redundant-nesting-selector': true,
+      'scss/no-duplicate-dollar-variables': true,
+      'scss/no-duplicate-mixins': true,
+      // name patterns
+      'keyframes-name-pattern': cssNamePatern,
+      'custom-property-pattern': cssNamePatern,
+      'selector-class-pattern': [cssNamePatern, { resolveNestedSelectors: true }],
+      'selector-id-pattern': cssNamePatern,
+      'custom-media-pattern': cssNamePatern,
+      'scss/at-function-pattern': cssNamePatern,
+      'scss/at-mixin-pattern': cssNamePatern,
+      'scss/dollar-variable-pattern': cssNamePatern,
+      'scss/percent-placeholder-pattern': cssNamePatern,
+   },
+};
