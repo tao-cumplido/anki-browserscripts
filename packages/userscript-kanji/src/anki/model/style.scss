@@ -1,0 +1,53 @@
+$faint: rgba(0, 0, 0, 0.5);
+
+#kanji {
+   display: flex;
+   justify-content: center;
+   font-size: large;
+}
+
+#data > * + * {
+   margin-top: 10px;
+}
+
+#meanings {
+   display: flex;
+   justify-content: center;
+}
+
+#readings {
+   display: flex;
+   justify-content: space-evenly;
+   > * {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+   }
+   .c,
+   .r {
+      color: $faint;
+   }
+   .r {
+      font-size: smaller;
+   }
+}
+
+#frequencies {
+   .disabled-details {
+      display: list-item;
+      list-style-position: inside;
+      &::marker {
+         color: $faint;
+      }
+   }
+   .label {
+      display: inline-block;
+      width: 80px;
+   }
+   > * + * {
+      margin-top: 5px;
+   }
+   details div > * + * {
+      margin-left: 5px;
+   }
+}

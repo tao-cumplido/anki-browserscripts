@@ -1,0 +1,29 @@
+body {
+   font-family: sans-serif;
+}
+
+#userscript-config {
+   padding: 15px;
+}
+
+#userscript-kanji-config {
+   display: flex;
+   flex-direction: column;
+   width: 300px;
+}
+
+#userscript-kanji-actions {
+   display: flex;
+   > * + * {
+      margin-left: 5px;
+   }
+   .kanji-select {
+      width: 180px;
+   }
+}
+
+button.anki {
+   &:not(:disabled):hover {
+      cursor: pointer;
+   }
+}

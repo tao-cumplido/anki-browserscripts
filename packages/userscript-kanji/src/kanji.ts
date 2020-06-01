@@ -4,12 +4,14 @@ export const enum Reading {
    Rare = 'r',
 }
 
+export type FrequencyEntry = [number, ...string[]];
+
 export interface FrequencyRanks {
-   mean: number;
-   literature?: number;
-   news?: number;
-   twitter?: number;
-   wikipedia?: number;
+   mean: FrequencyEntry;
+   literature?: FrequencyEntry;
+   news?: FrequencyEntry;
+   twitter?: FrequencyEntry;
+   wikipedia?: FrequencyEntry;
 }
 
 export interface KanjiEntry {

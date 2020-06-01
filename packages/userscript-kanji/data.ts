@@ -125,13 +125,23 @@ const data = kanjidict
 
       let frequency;
 
+      function generateFrequencyInfo(source: Record<string, number>, kan: string): [number, ...string[]] {
+         const rank = source[kan];
+         return [
+            rank,
+            ...Object.entries(source)
+               .filter(([k, r]) => k !== kan && r === rank)
+               .map(([k]) => k),
+         ];
+      }
+
       if (kanji in frequencyRanks.all) {
          frequency = {
-            mean: frequencyRanks.all[kanji],
-            literature: frequencyRanks.aozora[kanji],
-            news: frequencyRanks.news[kanji],
-            twitter: frequencyRanks.twitter[kanji],
-            wikipedia: frequencyRanks.wikipedia[kanji],
+            mean: generateFrequencyInfo(frequencyRanks.all, kanji),
+            literature: generateFrequencyInfo(frequencyRanks.aozora, kanji),
+            news: generateFrequencyInfo(frequencyRanks.news, kanji),
+            twitter: generateFrequencyInfo(frequencyRanks.twitter, kanji),
+            wikipedia: generateFrequencyInfo(frequencyRanks.wikipedia, kanji),
          };
       }
 
