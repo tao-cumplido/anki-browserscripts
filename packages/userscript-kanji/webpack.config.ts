@@ -1,7 +1,7 @@
-import os from 'os';
 import path from 'path';
 import url from 'url';
 
+import 'dotenv/config';
 import { readFileSync } from 'fs-extra';
 import { JSDOM } from 'jsdom';
 import { fs as memfs } from 'memfs';
@@ -21,8 +21,7 @@ function isResourceModule(module: unknown): module is { resource: string } {
    if (typeof module !== 'object' || !module) {
       return false;
    }
-   const record: Record<string, unknown> = (module as unknown) as Record<string, unknown>;
-   return typeof record.resource === 'string';
+   return typeof (module as Record<string, unknown>).resource === 'string';
 }
 
 const config: Configuration = {
@@ -154,9 +153,9 @@ const config: Configuration = {
       writeToDisk: true,
       disableHostCheck: true,
       https: {
-         key: readFileSync(path.resolve('../../localhost-key.pem')),
-         cert: readFileSync(path.resolve('../../localhost.pem')),
-         ca: readFileSync(path.join(os.homedir(), 'AppData/Local/mkcert/rootCA.pem')),
+         key: readFileSync(process.env['LOCALHOST_KEY'] ?? ''),
+         cert: readFileSync(process.env['LOCALHOST_CERT'] ?? ''),
+         ca: readFileSync(process.env['LOCALHOST_ROOTCA'] ?? ''),
       },
    },
    plugins: [

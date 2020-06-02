@@ -24,6 +24,7 @@
       "@types/webpack-dev-server": "3.10.1",
       "babel-loader": "8.1.0",
       "css-loader": "3.5.3",
+      "dotenv": "8.2.0",
       "fs-extra": "9.0.0",
       "html-loader": "1.1.0",
       "jest": "25.4.0",
