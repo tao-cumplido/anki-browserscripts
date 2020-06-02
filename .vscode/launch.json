@@ -7,12 +7,20 @@
       {
          "type": "node",
          "request": "launch",
-         "name": "test:kanji",
-         "cwd": "${workspaceFolder}/packages/kanji",
+         "name": "test:us-kanji",
+         "cwd": "${workspaceFolder}/packages/userscript-kanji",
          "program": "${workspaceFolder}/node_modules/jest/bin/jest.js",
          "args": ["--runInBand", "--watch"],
          "console": "integratedTerminal",
          "internalConsoleOptions": "neverOpen",
+         "disableOptimisticBPs": true
+      },
+      {
+         "type": "node",
+         "request": "launch",
+         "name": "webpack:us-kanji",
+         "cwd": "${workspaceFolder}/packages/userscript-kanji",
+         "program": "${workspaceFolder}/node_modules/webpack/bin/webpack.js",
          "disableOptimisticBPs": true
       },
       {
@@ -25,6 +33,13 @@
          "env": {
             "TS_NODE_LOG_ERROR": "true"
          }
+      },
+      {
+         "type": "edge",
+         "request": "launch",
+         "name": "us-kanji:sanseido",
+         "url": "https://www.sanseido.biz/User/Dic/Index.aspx?TWords=%u7a7a+%u3080%u306a%u3057%u3044&st=0&DORDER=&DailyJJ=checkbox&DailyEJ=checkbox&DailyJE=checkbox",
+         "webRoot": "${workspaceFolder}/packages/userscript-kanji"
       }
    ]
 }
