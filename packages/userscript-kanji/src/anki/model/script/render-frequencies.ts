@@ -1,45 +1,4 @@
-import { FrequencyEntry, FrequencyRanks, KanjiEntry, Reading } from '../../kanji';
-
-export function renderMeanings(container: Element, data: KanjiEntry) {
-   const meanings = document.createElement('div');
-   meanings.id = 'meanings';
-   meanings.textContent = data.meanings.join('\u2002・\u2002');
-   container.append(meanings);
-}
-
-function renderReadingBlock(container: Element, label: string, data: Record<string, Reading>) {
-   const block = document.createElement('div');
-   const labelElement = document.createElement('span');
-
-   labelElement.classList.add('label');
-   labelElement.textContent = label;
-
-   block.append(labelElement);
-
-   for (const [reading, type] of Object.entries(data)) {
-      const element = document.createElement('span');
-      element.classList.add(type);
-      element.textContent = reading;
-      block.append(element);
-   }
-
-   container.append(block);
-}
-
-export function renderReadings(container: Element, data: KanjiEntry) {
-   const readings = document.createElement('div');
-   readings.id = 'readings';
-
-   if (data.onyomi) {
-      renderReadingBlock(readings, '音', data.onyomi);
-   }
-
-   if (data.kunyomi) {
-      renderReadingBlock(readings, '訓', data.kunyomi);
-   }
-
-   container.append(readings);
-}
+import { FrequencyEntry, FrequencyRanks } from '../../../kanji';
 
 function renderFrequencyBlock(container: Element, label: string, entry: FrequencyEntry) {
    const block = document.createElement('div');
