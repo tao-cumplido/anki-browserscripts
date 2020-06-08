@@ -18,4 +18,8 @@ export function animateStrokes(strokes: NodeListOf<SVGPathElement>) {
 
       delay += duration;
    }
+
+   try {
+      console.log(localStorage);
+   } catch {}
 }
