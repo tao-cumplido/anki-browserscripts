@@ -1,5 +1,5 @@
 import { KanjiEntry, Reading } from '../../../kanji';
-import { createDom } from './create-dom';
+import { createDom } from '../../../util/create-dom';
 
 function renderReadingBlock(container: Element, label: string, data: Record<string, Reading>) {
    const [block] = createDom(`

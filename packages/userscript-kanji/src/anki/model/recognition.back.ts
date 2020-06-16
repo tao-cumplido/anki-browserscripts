@@ -1,5 +1,5 @@
+import { createDom } from '../../util/create-dom';
 import { animateStrokes } from './script/animate-strokes';
-import { createDom } from './script/create-dom';
 import { parseData } from './script/parse-data';
 import { renderFrequencies } from './script/render-frequencies';
 import { renderMeanings } from './script/render-meanings';

@@ -1,5 +1,5 @@
 import { KanjiEntry } from '../../../kanji';
-import { createDom } from './create-dom';
+import { createDom } from '../../../util/create-dom';
 
 export function renderMeanings(container: Element, data: KanjiEntry) {
    container.append(
