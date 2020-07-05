@@ -1,8 +1,8 @@
 import { KanjiEntry, Reading } from '../../../kanji';
-import { createDom } from '../../../util/create-dom';
+import { createHtmlElements } from '../../../util/create-html-elements';
 
 function renderReadingBlock(container: Element, label: string, data: Record<string, Reading>) {
-   const [block] = createDom(`
+   const [block] = createHtmlElements(`
       <div>
          <span class="label">
             ${label}
@@ -11,14 +11,14 @@ function renderReadingBlock(container: Element, label: string, data: Record<stri
    `);
 
    for (const [reading, type] of Object.entries(data)) {
-      block.append(...createDom(`<span class="${type}">${reading}</span>`));
+      block.append(...createHtmlElements(`<span class="${type}">${reading}</span>`));
    }
 
    container.append(block);
 }
 
 export function renderReadings(container: Element, data: KanjiEntry) {
-   const [readings] = createDom(`<div id="readings"></div>`);
+   const [readings] = createHtmlElements(`<div id="readings"></div>`);
 
    if (data.onyomi) {
       renderReadingBlock(readings, '音', data.onyomi);

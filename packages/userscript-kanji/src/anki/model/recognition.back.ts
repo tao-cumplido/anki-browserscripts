@@ -1,5 +1,9 @@
-import { createDom } from '../../util/create-dom';
+import mdiLayersOff from '@mdi/svg/svg/layers-off.svg';
+import mdiLayers from '@mdi/svg/svg/layers.svg';
+import mdiPlay from '@mdi/svg/svg/play.svg';
+
 import { animateStrokes } from './script/animate-strokes';
+import { iconButton, iconToggleButton } from './script/icon-button';
 import { parseData } from './script/parse-data';
 import { renderFrequencies } from './script/render-frequencies';
 import { renderMeanings } from './script/render-meanings';
@@ -21,12 +25,20 @@ if (data.frequency) {
 }
 
 if (data.strokes) {
-   const strokes = document.querySelectorAll('path');
-   const [button] = createDom<HTMLButtonElement>(`<button>▶</button>`);
+   const strokes = document.querySelectorAll<SVGPathElement>('path.stroke');
+   const guides = document.querySelector<SVGElement>('g.guides');
 
-   button.onclick = () => animateStrokes(strokes);
+   if (!guides) {
+      throw new Error(`unexpected error: .guides element missing in dom`);
+   }
 
-   document.querySelector('.side.right')?.append(button);
+   document.querySelector('.side.right')?.append(
+      iconToggleButton(mdiLayers, mdiLayersOff, (state) => {
+         guides.style.opacity = state ? '1' : '0';
+      }),
+   );
+
+   document.querySelector('.side.right')?.append(iconButton(mdiPlay, () => animateStrokes(strokes)));
 
    animateStrokes(strokes);
 }

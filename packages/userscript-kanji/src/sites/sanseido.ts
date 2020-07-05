@@ -3,12 +3,20 @@ import data from '../data.json';
 import { AbstractExtension } from '../extension';
 import extensionStyle from '../extension.scss';
 import spinner from '../spinner.html';
+import { createHtmlElements } from '../util/create-html-elements';
 import sanseidoStyle from './sanseido.scss';
 
 export class Sanseido extends AbstractExtension {
    private readonly dictionaryArea: HTMLDivElement;
 
-   private readonly deckSelect = document.createElement('select');
+   private readonly deckSelect = createHtmlElements<HTMLSelectElement>(`
+      <select id="userscript-kanji-deck-select" disabled>
+         <option selected>
+            -- checking Anki
+         </option>
+      </select>
+   `)[0];
+
    private readonly kanjiSelect = document.createElement('select');
    private readonly addCardsButton = document.createElement('button');
 
@@ -29,33 +37,22 @@ export class Sanseido extends AbstractExtension {
    private setupConfig() {
       const containerId = 'userscript-config';
 
-      let configContainer = document.querySelector<HTMLDivElement>(`#${containerId}`);
+      let configContainer = document.querySelector(`#${containerId}`);
 
       if (!configContainer) {
-         configContainer = document.createElement('div');
-         configContainer.id = containerId;
+         [configContainer] = createHtmlElements(`<div id="${containerId}"></div>`);
          this.dictionaryArea.parentElement?.insertBefore(configContainer, this.dictionaryArea);
       }
 
-      const configElement = document.createElement('div');
-      configElement.id = 'userscript-kanji-config';
+      const [configElement] = createHtmlElements(`<div id="userscript-kanji-config"></div>`);
 
       configContainer.append(configElement);
-
-      this.deckSelect.id = 'userscript-kanji-deck-select';
-      this.deckSelect.disabled = true;
-      this.deckSelect.options.add(document.createElement('option'));
-      this.deckSelect.options[0].selected = true;
-      this.deckSelect.options[0].textContent = '-- checking Anki';
 
       this.deckSelect.onchange = () => {
          localStorage.setItem('kanji:deck', this.deckSelect.value);
       };
 
-      const deckSelectLabel = document.createElement('label');
-      deckSelectLabel.textContent = 'Deck to add kanji-cards';
-
-      configElement.append(deckSelectLabel);
+      configElement.append(...createHtmlElements(`<label>Deck to add kanji-cards</label>`));
       configElement.append(this.deckSelect);
    }
 

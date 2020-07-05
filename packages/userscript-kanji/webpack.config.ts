@@ -97,6 +97,21 @@ const config: Configuration = {
                                  ],
                                  exclude: /node_modules/,
                               },
+                              {
+                                 test: /\.svg$/,
+                                 use: [
+                                    {
+                                       loader: 'string-replace-loader',
+                                       options: {
+                                          search: /<\?xml.+d=\\"(.+?)\\".+svg>/,
+                                          replace: '$1',
+                                       },
+                                    },
+                                    {
+                                       loader: 'raw-loader',
+                                    },
+                                 ],
+                              },
                            ],
                         },
                         resolve: {
