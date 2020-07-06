@@ -162,6 +162,9 @@ const config: Configuration = {
       extensions: ['.ts', '.js', '.scss'],
    },
    devtool,
+   performance: {
+      hints: false,
+   },
    devServer: {
       contentBase: path.join(__dirname, 'dist'),
       clientLogLevel: 'error',
