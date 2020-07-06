@@ -125,8 +125,16 @@ const data = kanjidict
 
       let frequency;
 
-      function generateFrequencyInfo(source: Record<string, number>, kan: string): [number, ...string[]] {
+      function generateFrequencyInfo(
+         source: Partial<Record<string, number>>,
+         kan: string,
+      ): [number, ...string[]] | undefined {
          const rank = source[kan];
+
+         if (rank === undefined) {
+            return;
+         }
+
          return [
             rank,
             ...Object.entries(source)
@@ -137,7 +145,7 @@ const data = kanjidict
 
       if (kanji in frequencyRanks.all) {
          frequency = {
-            mean: generateFrequencyInfo(frequencyRanks.all, kanji),
+            mean: generateFrequencyInfo(frequencyRanks.all, kanji) ?? [1],
             literature: generateFrequencyInfo(frequencyRanks.aozora, kanji),
             news: generateFrequencyInfo(frequencyRanks.news, kanji),
             twitter: generateFrequencyInfo(frequencyRanks.twitter, kanji),
