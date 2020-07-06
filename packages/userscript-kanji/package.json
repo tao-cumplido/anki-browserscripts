@@ -1,9 +1,11 @@
 {
    "name": "userscript-kanji",
-   "version": "0.0.0-alpha",
+   "version": "1.0.0-beta.1",
+   "author": "Tao Cumplido",
    "private": true,
    "scripts": {
       "build:data": "ts-node data.ts",
+      "build": "env NODE_ENV=production webpack",
       "serve": "webpack-dev-server"
    },
    "dependencies": {
