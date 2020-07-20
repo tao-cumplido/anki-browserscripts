@@ -1,8 +1,10 @@
 import path from 'path';
 
-import { readdirSync, readFileSync, readJsonSync, writeJsonSync } from 'fs-extra';
+import 'dotenv/config';
+import { readdirSync, readFileSync, readJsonSync } from 'fs-extra';
+import parse from 'parse/node';
 
-import { KanjiEntry, Reading } from './src/kanji';
+import { FrequencyInfo, KanjiEntry, Readings } from './types';
 
 const enum KanjidictColumn {
    Kanji = 0,
@@ -16,6 +18,18 @@ const enum KanjidictColumn {
 
 type FrequencySet = Record<string, number>;
 type FrequencyGroups = Record<string, FrequencySet>;
+
+const { PARSE_SERVER_URL, PARSE_APPLICATION_ID, PARSE_JAVASCRIPT_KEY, PARSE_MASTER_KEY } = process.env;
+
+if (!PARSE_SERVER_URL || !PARSE_APPLICATION_ID || !PARSE_JAVASCRIPT_KEY || !PARSE_MASTER_KEY) {
+   throw new Error(`missing env variables for Parse server config`);
+}
+
+parse.serverURL = PARSE_SERVER_URL;
+parse.initialize(PARSE_APPLICATION_ID, PARSE_JAVASCRIPT_KEY, PARSE_MASTER_KEY);
+parse.Cloud.useMasterKey();
+
+const Kanji = (parse.Object.extend('Kanji') as unknown) as new () => parse.Object<KanjiEntry>;
 
 const frequencies = ['aozora', 'news', 'twitter', 'wikipedia'].reduce<FrequencyGroups>(
    (result, source) => {
@@ -82,28 +96,41 @@ console.log('reading kanjium source');
 const kanjidict = readFileSync(require.resolve('kanjium/data/source_files/kanjidict.txt'), 'utf-8')
    .split('\n')
    .map((entry) => entry.split('\t'))
-   .filter(({ length }) => length > 0);
+   .filter(({ length }) => length > 0)
+   .filter(([kanji]) => /\p{sc=Han}/u.exec(kanji));
 
-const collectReadings = (source: string[]) => (result: Record<string, Reading>, reading: string) => {
-   let type = Reading.Rare;
-
+const collectReadings = (source: string[]) => (result: Readings, reading: string) => {
    if (source.includes(`${reading}*`)) {
-      type = Reading.Frequent;
+      result.frequent.push(reading);
    } else if (source.includes(reading)) {
-      type = Reading.Common;
+      result.common.push(reading);
+   } else {
+      result.rare.push(reading);
    }
-
-   result[reading] = type;
 
    return result;
 };
 
-const data = kanjidict
-   .filter(([kanji]) => /\p{sc=Han}/u.exec(kanji))
-   .reduce<Record<string, KanjiEntry>>((result, entry, index, { length }) => {
+const generateFrequencyInfo = (source: Partial<Record<string, number>>, kanji: string): FrequencyInfo | undefined => {
+   const rank = source[kanji];
+
+   if (rank === undefined) {
+      return;
+   }
+
+   return {
+      rank,
+      siblings: Object.entries(source)
+         .filter(([k, r]) => k !== kanji && r === rank)
+         .map(([k]) => k),
+   };
+};
+
+async function build() {
+   for (const [index, entry] of kanjidict.entries()) {
       const kanji = entry[KanjidictColumn.Kanji];
 
-      console.log(`processing entry for: ${kanji} (${index + 1}/${length})`);
+      console.log(`processing entry for: ${kanji} (${index + 1}/${kanjidict.length})`);
 
       const regularOnyomi = entry[KanjidictColumn.RegularOnyomi].split('、');
       const regularKunyomi = entry[KanjidictColumn.RegularKunyomi]
@@ -113,39 +140,29 @@ const data = kanjidict
       const onyomi = entry[KanjidictColumn.Onyomi]
          .replace(/\(\p{sc=Han}\)/gu, '')
          .split('、')
-         .reduce(collectReadings(regularOnyomi), {});
+         .reduce(collectReadings(regularOnyomi), {
+            frequent: [],
+            common: [],
+            rare: [],
+         });
 
       const kunyomi = entry[KanjidictColumn.Kunyomi]
          .replace(/（(\p{sc=Hiragana}+?)）/gu, '.$1')
          .split('、')
-         .reduce(collectReadings(regularKunyomi), {});
+         .reduce(collectReadings(regularKunyomi), {
+            frequent: [],
+            common: [],
+            rare: [],
+         });
 
       const meanings = entry[KanjidictColumn.Meaning].split(';');
       const compactMeanings = entry[KanjidictColumn.CompactMeaning].split(';');
 
       let frequency;
 
-      function generateFrequencyInfo(
-         source: Partial<Record<string, number>>,
-         kan: string,
-      ): [number, ...string[]] | undefined {
-         const rank = source[kan];
-
-         if (rank === undefined) {
-            return;
-         }
-
-         return [
-            rank,
-            ...Object.entries(source)
-               .filter(([k, r]) => k !== kan && r === rank)
-               .map(([k]) => k),
-         ];
-      }
-
       if (kanji in frequencyRanks.all) {
          frequency = {
-            mean: generateFrequencyInfo(frequencyRanks.all, kanji) ?? [1],
+            mean: generateFrequencyInfo(frequencyRanks.all, kanji) ?? { rank: 1, siblings: [] },
             literature: generateFrequencyInfo(frequencyRanks.aozora, kanji),
             news: generateFrequencyInfo(frequencyRanks.news, kanji),
             twitter: generateFrequencyInfo(frequencyRanks.twitter, kanji),
@@ -153,15 +170,20 @@ const data = kanjidict
          };
       }
 
-      result[kanji] = {
-         meanings: compactMeanings[0] ? compactMeanings : meanings,
-         onyomi: Object.keys(onyomi).length ? onyomi : undefined,
-         kunyomi: Object.keys(kunyomi).length ? kunyomi : undefined,
-         strokes: strokes[kanji],
-         frequency,
-      };
+      const parseInstance = await new parse.Query(Kanji)
+         .equalTo('kanji', kanji)
+         .find()
+         .then((results) => (results.length ? results[0] : new Kanji()));
 
-      return result;
-   }, {});
+      parseInstance.set('kanji', kanji);
+      parseInstance.set('meanings', compactMeanings[0] ? compactMeanings : meanings);
+      parseInstance.set('onyomi', Object.keys(onyomi).length ? onyomi : undefined);
+      parseInstance.set('kunyomi', Object.keys(kunyomi).length ? kunyomi : undefined);
+      parseInstance.set('frequency', frequency);
+      parseInstance.set('strokes', strokes[kanji]);
 
-writeJsonSync('src/data.json', data);
+      await parseInstance.save();
+   }
+}
+
+build().catch(console.error);

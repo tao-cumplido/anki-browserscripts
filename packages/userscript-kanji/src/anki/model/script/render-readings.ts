@@ -1,7 +1,8 @@
-import { KanjiEntry, Reading } from '../../../kanji';
+import { KanjiEntry, Readings } from 'kanji-db';
+
 import { createHtmlElements } from '../../../util/create-html-elements';
 
-function renderReadingBlock(container: Element, label: string, data: Record<string, Reading>) {
+function renderReadingBlock(container: Element, label: string, data: Readings) {
    const [block] = createHtmlElements(`
       <div>
          <span class="label">
@@ -10,8 +11,16 @@ function renderReadingBlock(container: Element, label: string, data: Record<stri
       </div>
    `);
 
-   for (const [reading, type] of Object.entries(data)) {
-      block.append(...createHtmlElements(`<span class="${type}">${reading}</span>`));
+   for (const reading of data.frequent) {
+      block.append(...createHtmlElements(`<span class="frequent">${reading}</span>`));
+   }
+
+   for (const reading of data.common) {
+      block.append(...createHtmlElements(`<span class="common">${reading}</span>`));
+   }
+
+   for (const reading of data.rare) {
+      block.append(...createHtmlElements(`<span class="rare">${reading}</span>`));
    }
 
    container.append(block);

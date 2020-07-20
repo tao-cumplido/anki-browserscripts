@@ -1,5 +1,4 @@
 import anki from '../anki';
-import data from '../data.json';
 import { AbstractExtension } from '../extension';
 import extensionStyle from '../extension.scss';
 import spinner from '../spinner.html';
@@ -101,21 +100,24 @@ export class Sanseido extends AbstractExtension {
          this.addCardsButton.disabled = true;
          this.addCardsButton.innerHTML = spinner;
 
-         for (const option of this.kanjiSelect.options) {
-            if (!option.selected) {
-               continue;
-            }
+         const selectedKanji = [...this.kanjiSelect.options]
+            .filter(({ selected }) => selected)
+            .map(({ value }) => value);
 
-            const kanji = option.value;
+         const data = await this.parseQuery
+            .containedIn('kanji', selectedKanji)
+            .find()
+            .then((results) => results.map(({ attributes }) => attributes));
 
-            const entry = data[kanji];
+         for (const kanji of selectedKanji) {
+            const fetchedEntry = data.find((entry) => entry.kanji === kanji);
 
-            if (!entry) {
+            if (!fetchedEntry) {
                console.warn(`no data for kanji: ${kanji}`);
                continue;
             }
 
-            await anki.add(this.deckSelect.value, kanji, entry);
+            await anki.add(this.deckSelect.value, kanji, fetchedEntry);
          }
 
          this.addCardsButton.innerHTML = 'Add kanji-cards';

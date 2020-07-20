@@ -25,11 +25,11 @@ button.icon {
       flex-direction: column;
       align-items: center;
    }
-   .c,
-   .r {
+   .common,
+   .rare {
       color: $faint;
    }
-   .r {
+   .rare {
       font-size: smaller;
    }
 }

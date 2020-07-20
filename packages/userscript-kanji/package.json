@@ -4,14 +4,15 @@
    "author": "Tao Cumplido",
    "private": true,
    "scripts": {
-      "build:data": "ts-node data.ts",
       "build": "env NODE_ENV=production webpack",
       "serve": "webpack-dev-server"
    },
    "dependencies": {
       "@mdi/svg": "5.3.45",
       "anki-connect": "0.0.0",
-      "anki-persistence": "https://github.com/SimonLammer/anki-persistence#v0.5.3"
+      "anki-persistence": "https://github.com/SimonLammer/anki-persistence#v0.5.3",
+      "kanji-db": "1.0.0-beta.1",
+      "parse": "2.15.0"
    },
    "devDependencies": {
       "@babel/core": "7.9.6",
@@ -22,6 +23,7 @@
       "@types/jest": "25.2.1",
       "@types/jsdom": "16.2.1",
       "@types/jsesc": "2.5.0",
+      "@types/parse": "2.12.2",
       "@types/tampermonkey": "0.0.0",
       "@types/webpack": "4.41.16",
       "@types/webpack-dev-server": "3.10.1",
@@ -33,9 +35,6 @@
       "jest": "25.4.0",
       "jsdom": "16.2.2",
       "jsesc": "3.0.1",
-      "kanji-frequency": "https://github.com/scriptin/kanji-frequency#gh-pages",
-      "kanjium": "https://github.com/mifunetoshiro/kanjium#c97ef30c8777de7d5f8e5b04c696a3fe00a2a83a",
-      "kanjivg": "https://github.com/KanjiVG/kanjivg#1eaef89b17e088f14a13cbb7091607b2ba0530fb",
       "memfs": "3.2.0",
       "raw-loader": "4.0.1",
       "sass": "1.26.5",
@@ -44,8 +43,7 @@
       "to-string-loader": "1.1.6",
       "ts-jest": "25.4.0",
       "ts-loader": "7.0.1",
-      "ts-node": "8.9.0",
-      "typescript": "3.9.2",
+      "typescript": "3.9.7",
       "webpack": "4.43.0",
       "webpack-cli": "3.3.11",
       "webpack-dev-server": "3.10.3",

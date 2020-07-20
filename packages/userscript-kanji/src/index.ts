@@ -1,3 +1,5 @@
+import parse from 'parse';
+
 import { Extension } from './extension';
 import styles from './extension.scss';
 import { Sanseido } from './sites/sanseido';
@@ -13,5 +15,8 @@ if (!KanjiExtension) {
 }
 
 GM_addStyle(styles);
+
+parse.serverURL = PARSE_SERVER_URL;
+parse.initialize(PARSE_APPLICATION_ID, PARSE_JAVASCRIPT_KEY);
 
 new KanjiExtension().run().catch(console.error);

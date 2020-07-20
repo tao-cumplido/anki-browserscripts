@@ -1,7 +1,7 @@
 import { request, ModelTemplate } from 'anki-connect';
 import jsesc from 'jsesc';
+import { KanjiEntry } from 'kanji-db';
 
-import { KanjiEntry } from '../kanji';
 import { model, modelName, modelVersion } from './model';
 
 async function checkModel() {
@@ -58,7 +58,7 @@ export default {
             modelName: model.modelName,
             fields: {
                Kanji: kanji,
-               Data: jsesc(JSON.stringify(data)),
+               Data: jsesc(JSON.stringify(data), { quotes: 'double', minimal: true }),
             },
             tags: [],
          },

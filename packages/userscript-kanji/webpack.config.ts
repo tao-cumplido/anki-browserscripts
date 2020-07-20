@@ -13,7 +13,20 @@ const mode = production ? 'production' : 'development';
 const devtool = production ? false : 'eval-source-map';
 const tsConfig = 'tsconfig.app.json';
 
-const define = new DefinePlugin({
+const { PARSE_SERVER_URL, PARSE_APPLICATION_ID, PARSE_JAVASCRIPT_KEY } = process.env;
+
+if (!PARSE_SERVER_URL || !PARSE_APPLICATION_ID || !PARSE_JAVASCRIPT_KEY) {
+   throw new Error(`missing env variables for Parse server config`);
+}
+
+const defineScript = new DefinePlugin({
+   PRODUCTION: production,
+   PARSE_SERVER_URL: JSON.stringify(PARSE_SERVER_URL),
+   PARSE_APPLICATION_ID: JSON.stringify(PARSE_APPLICATION_ID),
+   PARSE_JAVASCRIPT_KEY: JSON.stringify(PARSE_JAVASCRIPT_KEY),
+});
+
+const defineModel = new DefinePlugin({
    PRODUCTION: production,
 });
 
@@ -118,7 +131,7 @@ const config: Configuration = {
                            extensions: ['.ts', '.js'],
                         },
                         devtool,
-                        plugins: [define],
+                        plugins: [defineModel],
                      });
 
                      compiler.outputFileSystem = {
@@ -177,7 +190,7 @@ const config: Configuration = {
       },
    },
    plugins: [
-      define,
+      defineScript,
       new WebpackUserscript({
          headers: {
             name: 'kanji2anki',

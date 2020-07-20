@@ -1,11 +1,12 @@
-import { KanjiEntry } from '../../../kanji';
+import { KanjiEntry } from 'kanji-db';
+
 import { createHtmlElements } from '../../../util/create-html-elements';
 
-export function renderMeanings(container: Element, data: KanjiEntry) {
+export function renderMeanings(container: Element, { meanings }: KanjiEntry) {
    container.append(
       ...createHtmlElements(`
          <div id="meanings">
-            ${data.meanings.join('\u2002・\u2002')}
+            ${meanings.join('\u2002・\u2002')}
          </div>
       `),
    );

@@ -10,6 +10,8 @@ if (!container) {
 
 const data = parseData(`{{Data}}`);
 
+console.log(data);
+
 if (data.strokes) {
    const svg = createCanvas();
    renderStrokes(svg, data.strokes);

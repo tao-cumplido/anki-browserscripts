@@ -1,20 +1,21 @@
-import { KanjiEntry, Reading } from '../../../kanji';
+import { KanjiEntry } from 'kanji-db';
 
 export function parseData(data: string): KanjiEntry {
    try {
       return (JSON.parse(data) as unknown) as KanjiEntry;
    } catch {
       return {
+         kanji: '',
          meanings: ['meaning 1', 'meaning 3'],
          onyomi: {
-            こう: Reading.Frequent,
-            そう: Reading.Common,
-            よう: Reading.Rare,
+            frequent: ['こう'],
+            common: ['そう'],
+            rare: ['よう'],
          },
          kunyomi: {
-            こう: Reading.Frequent,
-            そう: Reading.Common,
-            よう: Reading.Rare,
+            frequent: ['こう'],
+            common: ['そう'],
+            rare: ['よう'],
          },
          strokes: [
             'M50.75,19.5c0.1,1.3,0.37,3.74-0.19,5.21C43.57,43,32.73,60.29,14.5,75.04',
@@ -22,8 +23,14 @@ export function parseData(data: string): KanjiEntry {
             'M42.52,68.33c10.16,5.01,26.25,20.59,28.79,28.38',
          ],
          frequency: {
-            mean: [1],
-            news: [50, '一', '二', '三'],
+            mean: {
+               rank: 1,
+               siblings: [],
+            },
+            news: {
+               rank: 50,
+               siblings: ['一', '二', '三'],
+            },
          },
       };
    }

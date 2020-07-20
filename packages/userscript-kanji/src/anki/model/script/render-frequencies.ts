@@ -1,11 +1,9 @@
-import { FrequencyEntry, FrequencyRanks } from '../../../kanji';
+import { FrequencyInfo, FrequencyRanks } from 'kanji-db';
 
-function renderFrequencyBlock(container: Element, label: string, entry: FrequencyEntry) {
+function renderFrequencyBlock(container: Element, label: string, { rank, siblings }: FrequencyInfo) {
    const block = document.createElement('div');
 
-   const [rank, ...otherKanjis] = entry;
-
-   if (otherKanjis.length) {
+   if (siblings.length) {
       block.innerHTML = `
          <details>
             <summary>
@@ -13,7 +11,7 @@ function renderFrequencyBlock(container: Element, label: string, entry: Frequenc
                <span class="rank">${rank}</span>
             </summary>
             <div>
-               ${otherKanjis.map((kanji) => `<span>${kanji}</span>`).join('')}
+               ${siblings.map((kanji) => `<span>${kanji}</span>`).join('')}
             </div>
          </details>
       `;
