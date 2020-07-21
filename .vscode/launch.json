@@ -35,12 +35,15 @@
          }
       },
       {
-         "type": "edge",
+         "type": "chrome",
          "request": "launch",
          "name": "us-kanji:sanseido",
          "url": "https://www.sanseido.biz/User/Dic/Index.aspx?TWords=%u7a7a+%u3080%u306a%u3057%u3044&st=0&DORDER=&DailyJJ=checkbox&DailyEJ=checkbox&DailyJE=checkbox",
          "webRoot": "${workspaceFolder}/packages/userscript-kanji",
-         "userDataDir": "${workspaceFolder}/.dev"
+         "userDataDir": "${workspaceFolder}/.dev",
+         "windows": {
+            "runtimeExecutable": "${env:USERPROFILE}/AppData/Local/Chromium/Application/chrome.exe"
+         }
       }
    ]
 }
