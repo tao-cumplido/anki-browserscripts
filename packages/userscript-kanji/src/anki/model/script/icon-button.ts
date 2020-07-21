@@ -1,13 +1,16 @@
 import { createHtmlElements } from '../../../util/create-html-elements';
 
 export function iconButton(path: string, onClick?: (event: MouseEvent) => void) {
-   const [button] = createHtmlElements<HTMLButtonElement>(`
+   const [button] = createHtmlElements(
+      `
       <button class="icon">
          <svg viewBox="0 0 24 24">
             <path d="${path}"></path>
          </svg>
       </button>
-   `);
+   `,
+      HTMLButtonElement,
+   );
 
    button.onclick = (event) => {
       event.stopPropagation();

@@ -5,7 +5,7 @@ export function parseData(data: string): KanjiEntry {
       return (JSON.parse(data) as unknown) as KanjiEntry;
    } catch {
       return {
-         kanji: '',
+         kanji: 'X',
          meanings: ['meaning 1', 'meaning 3'],
          onyomi: {
             frequent: ['こう'],

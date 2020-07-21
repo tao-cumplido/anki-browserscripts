@@ -9,6 +9,7 @@ import { drawLines, Line } from './script/draw';
 import { iconButton, iconToggleButton } from './script/icon-button';
 import { parseData } from './script/parse-data';
 import { renderFrequencies } from './script/render-frequencies';
+import { renderReadings } from './script/render-readings';
 import { renderStrokes } from './script/render-strokes';
 
 const context = document.querySelector('canvas')?.getContext('2d');
@@ -33,6 +34,8 @@ if (!container) {
 }
 
 const data = parseData(`{{Data}}`);
+
+renderReadings(container, data);
 
 if (data.frequency) {
    renderFrequencies(container, data.frequency);

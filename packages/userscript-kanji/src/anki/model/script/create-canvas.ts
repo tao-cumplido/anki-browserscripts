@@ -1,7 +1,8 @@
 import { createHtmlElements } from '../../../util/create-html-elements';
 
 export function createCanvas() {
-   const [svg] = createHtmlElements<SVGElement>(`
+   const [svg] = createHtmlElements(
+      `
       <svg viewBox="0 0 109 109">
          <g class="grid">
             <line x1="0" y1="0" x2="109" y2="109"></line>
@@ -10,7 +11,9 @@ export function createCanvas() {
             <line x1="54.5" y1="0" x2="54.5" y2="109"></line>
          </g>
       </svg>
-   `);
+   `,
+      SVGElement,
+   );
 
    return svg;
 }

@@ -20,14 +20,14 @@ button.icon {
 #readings {
    display: flex;
    justify-content: space-evenly;
-   > * {
+   > *,
+   details div {
       display: flex;
       flex-direction: column;
       align-items: center;
    }
-   .common,
-   .rare {
-      color: $faint;
+   .frequent {
+      font-weight: bold;
    }
    .rare {
       font-size: smaller;

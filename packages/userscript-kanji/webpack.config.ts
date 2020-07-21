@@ -196,8 +196,9 @@ const config: Configuration = {
             name: 'kanji2anki',
             version: production ? '[version]' : '[version]-build.[buildNo]',
             description: 'Add kanji from online dictionaries to anki',
+            updateURL: process.env['SCRIPT_UPDATE_URL'] ?? '',
             author: '[author]',
-            match: 'https://www.sanseido.biz/User/Dic/*',
+            match: ['https://www.sanseido.biz/User/Dic/*'],
             grant: ['GM_addStyle'],
          },
          proxyScript: {

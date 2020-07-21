@@ -19,8 +19,21 @@ function renderReadingBlock(container: Element, label: string, data: Readings) {
       block.append(...createHtmlElements(`<span class="common">${reading}</span>`));
    }
 
-   for (const reading of data.rare) {
-      block.append(...createHtmlElements(`<span class="rare">${reading}</span>`));
+   // for (const reading of data.rare) {
+   //    block.append(...createHtmlElements(`<span class="rare">${reading}</span>`));
+   // }
+
+   if (data.rare.length) {
+      block.append(
+         ...createHtmlElements(`
+            <details>
+               <summary>rare</summary>
+               <div>
+                  ${data.rare.map((reading) => `<span class="rare">${reading}</span>`).join('')}
+               </div>
+            </details>
+         `),
+      );
    }
 
    container.append(block);

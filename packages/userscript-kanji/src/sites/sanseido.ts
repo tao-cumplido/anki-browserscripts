@@ -8,13 +8,16 @@ import sanseidoStyle from './sanseido.scss';
 export class Sanseido extends AbstractExtension {
    private readonly dictionaryArea: HTMLDivElement;
 
-   private readonly deckSelect = createHtmlElements<HTMLSelectElement>(`
+   private readonly deckSelect = createHtmlElements(
+      `
       <select id="userscript-kanji-deck-select" disabled>
          <option selected>
             -- checking Anki
          </option>
       </select>
-   `)[0];
+   `,
+      HTMLSelectElement,
+   )[0];
 
    private readonly kanjiSelect = document.createElement('select');
    private readonly addCardsButton = document.createElement('button');
