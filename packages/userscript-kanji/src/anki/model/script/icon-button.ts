@@ -1,14 +1,14 @@
-import { createHtmlElements } from '../../../util/create-html-elements';
+import { createHtmlElements } from 'script-util';
 
 export function iconButton(path: string, onClick?: (event: MouseEvent) => void) {
    const [button] = createHtmlElements(
       `
-      <button class="icon">
-         <svg viewBox="0 0 24 24">
-            <path d="${path}"></path>
-         </svg>
-      </button>
-   `,
+         <button class="icon">
+            <svg viewBox="0 0 24 24">
+               <path d="${path}"></path>
+            </svg>
+         </button>
+      `,
       HTMLButtonElement,
    );
 

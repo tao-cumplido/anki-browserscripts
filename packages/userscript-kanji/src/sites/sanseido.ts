@@ -1,8 +1,9 @@
+import { createHtmlElements } from 'script-util';
+
 import anki from '../anki';
 import { AbstractExtension } from '../extension';
 import extensionStyle from '../extension.scss';
 import spinner from '../spinner.html';
-import { createHtmlElements } from '../util/create-html-elements';
 import sanseidoStyle from './sanseido.scss';
 
 export class Sanseido extends AbstractExtension {

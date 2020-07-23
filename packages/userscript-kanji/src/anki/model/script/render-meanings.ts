@@ -1,6 +1,5 @@
 import { KanjiEntry } from 'kanji-db';
-
-import { createHtmlElements } from '../../../util/create-html-elements';
+import { createHtmlElements } from 'script-util';
 
 export function renderMeanings(container: Element, { meanings }: KanjiEntry) {
    container.append(

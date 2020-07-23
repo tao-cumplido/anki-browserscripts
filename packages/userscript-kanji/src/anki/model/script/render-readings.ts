@@ -1,6 +1,5 @@
 import { KanjiEntry, Readings } from 'kanji-db';
-
-import { createHtmlElements } from '../../../util/create-html-elements';
+import { createHtmlElements } from 'script-util';
 
 function renderReadingBlock(container: Element, label: string, data: Readings) {
    const [block] = createHtmlElements(`

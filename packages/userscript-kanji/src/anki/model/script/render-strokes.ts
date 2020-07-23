@@ -1,4 +1,4 @@
-import { createSvgElements } from '../../../util/create-svg-elements';
+import { createSvgElements } from 'script-util';
 
 export function renderStrokes(container: SVGElement, strokes: string[]) {
    container.append(

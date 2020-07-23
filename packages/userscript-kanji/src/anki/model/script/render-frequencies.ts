@@ -1,27 +1,32 @@
 import { FrequencyInfo, FrequencyRanks } from 'kanji-db';
+import { createHtmlElements } from 'script-util';
 
 function renderFrequencyBlock(container: Element, label: string, { rank, siblings }: FrequencyInfo) {
    const block = document.createElement('div');
 
    if (siblings.length) {
-      block.innerHTML = `
-         <details>
-            <summary>
+      block.append(
+         ...createHtmlElements(`
+            <details>
+               <summary>
+                  <span class="label">${label}</span>
+                  <span class="rank">${rank}</span>
+               </summary>
+               <div>
+                  ${siblings.map((kanji) => `<span>${kanji}</span>`).join('')}
+               </div>
+            </details>
+         `),
+      );
+   } else {
+      block.append(
+         ...createHtmlElements(`
+            <div class="disabled-details">
                <span class="label">${label}</span>
                <span class="rank">${rank}</span>
-            </summary>
-            <div>
-               ${siblings.map((kanji) => `<span>${kanji}</span>`).join('')}
             </div>
-         </details>
-      `;
-   } else {
-      block.innerHTML = `
-         <div class="disabled-details">
-            <span class="label">${label}</span>
-            <span class="rank">${rank}</span>
-         </div>
-      `;
+         `),
+      );
    }
 
    container.append(block);
