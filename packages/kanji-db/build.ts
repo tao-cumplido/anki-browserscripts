@@ -1,35 +1,48 @@
 import path from 'path';
 
-import 'dotenv/config';
-import { readdirSync, readFileSync, readJsonSync } from 'fs-extra';
-import parse from 'parse/node';
+import xml from 'fast-xml-parser';
+import { ensureDirSync, readdirSync, readFileSync, readJsonSync, writeJsonSync } from 'fs-extra';
+import { MappedRecord } from 'misc-util';
 
-import { FrequencyInfo, KanjiEntry, Readings } from './types';
+import { KanjiEntry, Readings } from './types';
 
-const enum KanjidictColumn {
+const enum Kanjium {
    Kanji = 0,
-   RegularOnyomi = 6,
-   RegularKunyomi = 7,
-   Onyomi = 8,
-   Kunyomi = 9,
-   Meaning = 16,
-   CompactMeaning = 17,
+   Onyomi = 6,
+   Kunyomi = 7,
 }
 
 type FrequencySet = Record<string, number>;
 type FrequencyGroups = Record<string, FrequencySet>;
 
-const { PARSE_SERVER_URL, PARSE_APPLICATION_ID, PARSE_JAVASCRIPT_KEY, PARSE_MASTER_KEY } = process.env;
+type XmlNode<A extends string> = Record<A | '#text', string>;
 
-if (!PARSE_SERVER_URL || !PARSE_APPLICATION_ID || !PARSE_JAVASCRIPT_KEY || !PARSE_MASTER_KEY) {
-   throw new Error(`missing env variables for Parse server config`);
+interface KanjiDic {
+   kanjidic2: {
+      header: {
+         file_version: number;
+         database_version: string;
+         date_of_creation: string;
+      };
+      character: Array<{
+         literal: string;
+         reading_meaning?: {
+            rmgroup: {
+               reading?: XmlNode<'@_r_type'> | Array<XmlNode<'@_r_type'>>;
+               meaning: string | Array<string | object>;
+            };
+         };
+      }>;
+   };
 }
 
-parse.serverURL = PARSE_SERVER_URL;
-parse.initialize(PARSE_APPLICATION_ID, PARSE_JAVASCRIPT_KEY, PARSE_MASTER_KEY);
-parse.Cloud.useMasterKey();
-
-const Kanji = (parse.Object.extend('Kanji') as unknown) as new () => parse.Object<KanjiEntry>;
+const printProgress = (message: string, current: number, total: number) => {
+   process.stdout.cursorTo(0);
+   process.stdout.write(`${message} (${current}/${total})`);
+   if (current === total) {
+      process.stdout.write('\n');
+   }
+};
 
 const frequencies = ['aozora', 'news', 'twitter', 'wikipedia'].reduce<FrequencyGroups>(
    (result, source) => {
@@ -85,7 +98,7 @@ const strokes = readdirSync(kanjivgPath)
    .map((file) => [String.fromCodePoint(parseInt(file, 16)), file])
    .filter(([char]) => /\p{sc=Han}/u.exec(char))
    .reduce<Partial<Record<string, string[]>>>((result, [kanji, file], index, { length }) => {
-      console.log(`reading strokes for: ${kanji} (${index + 1}/${length})`);
+      printProgress(`reading strokes for: ${kanji}`, index + 1, length);
       const data = readFileSync(path.join(kanjivgPath, file), 'utf-8');
       result[kanji] = [...data.matchAll(/(?<=<path.+ d=").+?(?=")/g)].map(([d]) => d);
       return result;
@@ -93,76 +106,94 @@ const strokes = readdirSync(kanjivgPath)
 
 console.log('reading kanjium source');
 
-const kanjidict = readFileSync(require.resolve('kanjium/data/source_files/kanjidict.txt'), 'utf-8')
+const kanjium = readFileSync(require.resolve('kanjium/data/source_files/kanjidict.txt'), 'utf-8')
    .split('\n')
    .map((entry) => entry.split('\t'))
    .filter(({ length }) => length > 0)
    .filter(([kanji]) => /\p{sc=Han}/u.exec(kanji));
 
-const collectReadings = (source: string[]) => (result: Readings, reading: string) => {
-   if (source.includes(`${reading}*`)) {
-      result.frequent.push(reading);
-   } else if (source.includes(reading)) {
-      result.common.push(reading);
+console.log('reading kanjidic source');
+
+const {
+   kanjidic2: { character: kanjidic },
+} = (xml.parse(readFileSync(path.resolve(__dirname, 'kanjidic2.xml'), 'utf-8'), {
+   ignoreAttributes: false,
+}) as unknown) as KanjiDic;
+
+const collectReadings = (kanjiumReadings?: string[]) => (
+   result: MappedRecord<Readings, Set<string>>,
+   reading: string,
+) => {
+   if (reading.includes('.')) {
+      result.okurigana?.add(reading);
+      reading = reading.split('.')[0];
+   }
+
+   if (kanjiumReadings?.includes(`${reading}*`)) {
+      result.common.add(reading);
+   } else if (kanjiumReadings?.includes(reading)) {
+      result.frequent.add(reading);
+   } else if (kanjiumReadings?.length) {
+      result.rare.add(reading);
    } else {
-      result.rare.push(reading);
+      result.common.add(reading);
    }
 
    return result;
 };
 
-const generateFrequencyInfo = (source: Partial<Record<string, number>>, kanji: string): FrequencyInfo | undefined => {
-   const rank = source[kanji];
+const mapReadingSets = (readings: MappedRecord<Readings, Set<string>>) => {
+   const entries = Object.entries(readings);
 
-   if (rank === undefined) {
+   if (!entries.some(([_, set]) => set?.size)) {
       return;
    }
 
-   return {
-      rank,
-      siblings: Object.entries(source)
-         .filter(([k, r]) => k !== kanji && r === rank)
-         .map(([k]) => k),
-   };
+   return (Object.fromEntries(entries.map(([key, set]) => [key, [...(set ?? [])]])) as unknown) as Readings;
 };
 
-async function build() {
-   for (const [index, entry] of kanjidict.entries()) {
-      const kanji = entry[KanjidictColumn.Kanji];
+const generateFrequencyInfo = (source: Partial<Record<string, number>>, kanji: string) => source[kanji];
 
-      console.log(`processing entry for: ${kanji} (${index + 1}/${kanjidict.length})`);
+const data = kanjidic
+   .filter((entry): entry is Required<typeof entry> => 'reading_meaning' in entry)
+   .map<KanjiEntry>((entry, index, { length }) => {
+      const kanji = entry.literal;
 
-      const regularOnyomi = entry[KanjidictColumn.RegularOnyomi].split('、');
-      const regularKunyomi = entry[KanjidictColumn.RegularKunyomi]
-         .replace(/（(\p{sc=Hiragana}+?)）/gu, '.$1')
-         .split('、');
+      printProgress(`processing entry for: ${kanji}`, index + 1, length);
 
-      const onyomi = entry[KanjidictColumn.Onyomi]
-         .replace(/\(\p{sc=Han}\)/gu, '')
-         .split('、')
-         .reduce(collectReadings(regularOnyomi), {
-            frequent: [],
-            common: [],
-            rare: [],
+      const kanjiumEntry = kanjium.find(($) => $[Kanjium.Kanji] === kanji);
+
+      const onyomi = [entry.reading_meaning.rmgroup.reading ?? []]
+         .flat()
+         .filter((reading) => reading['@_r_type'] === 'ja_on')
+         .map((reading) => reading['#text'])
+         .reduce(collectReadings(kanjiumEntry?.[Kanjium.Onyomi].split('、')), {
+            frequent: new Set<string>(),
+            common: new Set<string>(),
+            rare: new Set<string>(),
          });
 
-      const kunyomi = entry[KanjidictColumn.Kunyomi]
-         .replace(/（(\p{sc=Hiragana}+?)）/gu, '.$1')
-         .split('、')
-         .reduce(collectReadings(regularKunyomi), {
-            frequent: [],
-            common: [],
-            rare: [],
-         });
+      const kunyomi = [entry.reading_meaning.rmgroup.reading ?? []]
+         .flat()
+         .filter((reading) => reading['@_r_type'] === 'ja_kun')
+         .map((reading) => reading['#text'].replace('-', ''))
+         .reduce(
+            collectReadings(kanjiumEntry?.[Kanjium.Kunyomi].replace(/（(\p{sc=Hiragana}+?)）/gu, '').split('、')),
+            {
+               frequent: new Set<string>(),
+               common: new Set<string>(),
+               rare: new Set<string>(),
+               okurigana: new Set<string>(),
+            },
+         );
 
-      const meanings = entry[KanjidictColumn.Meaning].split(';');
-      const compactMeanings = entry[KanjidictColumn.CompactMeaning].split(';');
+      const meanings = [entry.reading_meaning.rmgroup.meaning].flat().filter(($): $ is string => typeof $ === 'string');
 
       let frequency;
 
       if (kanji in frequencyRanks.all) {
          frequency = {
-            mean: generateFrequencyInfo(frequencyRanks.all, kanji) ?? { rank: 1, siblings: [] },
+            mean: generateFrequencyInfo(frequencyRanks.all, kanji) ?? 1,
             literature: generateFrequencyInfo(frequencyRanks.aozora, kanji),
             news: generateFrequencyInfo(frequencyRanks.news, kanji),
             twitter: generateFrequencyInfo(frequencyRanks.twitter, kanji),
@@ -170,20 +201,15 @@ async function build() {
          };
       }
 
-      const parseInstance = await new parse.Query(Kanji)
-         .equalTo('kanji', kanji)
-         .find()
-         .then((results) => (results.length ? results[0] : new Kanji()));
+      return {
+         kanji,
+         meanings,
+         onyomi: mapReadingSets(onyomi),
+         kunyomi: mapReadingSets(kunyomi),
+         frequency,
+         strokes: strokes[kanji],
+      };
+   });
 
-      parseInstance.set('kanji', kanji);
-      parseInstance.set('meanings', compactMeanings[0] ? compactMeanings : meanings);
-      parseInstance.set('onyomi', Object.keys(onyomi).length ? onyomi : undefined);
-      parseInstance.set('kunyomi', Object.keys(kunyomi).length ? kunyomi : undefined);
-      parseInstance.set('frequency', frequency);
-      parseInstance.set('strokes', strokes[kanji]);
-
-      await parseInstance.save();
-   }
-}
-
-build().catch(console.error);
+ensureDirSync(path.resolve(__dirname, 'dist'));
+writeJsonSync(path.resolve(__dirname, 'dist/kanji-db.json'), data);

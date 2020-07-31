@@ -1,0 +1,9 @@
+{
+   "name": "misc-util",
+   "version": "0.0.0",
+   "private": true,
+   "main": "src/index.ts",
+   "dependencies": {
+      "ts-toolbelt": "6.13.35"
+   }
+}

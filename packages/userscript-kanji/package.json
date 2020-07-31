@@ -11,9 +11,9 @@
       "@mdi/svg": "5.3.45",
       "anki-connect": "0.0.0",
       "anki-persistence": "https://github.com/SimonLammer/anki-persistence#v0.5.3",
-      "kanji-db": "1.0.0-beta.1",
+      "kanji-db": "1.0.0-beta.2",
       "parse": "2.15.0",
-      "script-util": "0.0.0"
+      "misc-util": "0.0.0"
    },
    "devDependencies": {
       "@babel/core": "7.9.6",

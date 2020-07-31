@@ -2,19 +2,15 @@ export interface Readings {
    frequent: string[];
    common: string[];
    rare: string[];
-}
-
-export interface FrequencyInfo {
-   rank: number;
-   siblings: string[];
+   okurigana?: string[];
 }
 
 export interface FrequencyRanks {
-   mean: FrequencyInfo;
-   literature?: FrequencyInfo;
-   news?: FrequencyInfo;
-   twitter?: FrequencyInfo;
-   wikipedia?: FrequencyInfo;
+   mean: number;
+   literature?: number;
+   news?: number;
+   twitter?: number;
+   wikipedia?: number;
 }
 
 export interface KanjiEntry {
