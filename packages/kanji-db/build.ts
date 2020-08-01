@@ -1,5 +1,6 @@
 import path from 'path';
 
+import csvParse from 'csv-parse/lib/sync';
 import xml from 'fast-xml-parser';
 import { ensureDirSync, readdirSync, readFileSync, readJsonSync, writeJsonSync } from 'fs-extra';
 import { MappedRecord } from 'misc-util';
@@ -34,6 +35,12 @@ interface KanjiDic {
          };
       }>;
    };
+}
+
+interface RtkEntry {
+   kanji: string;
+   keyword_5th_ed: string;
+   keyword_6th_ed: string;
 }
 
 const printProgress = (message: string, current: number, total: number) => {
@@ -111,6 +118,12 @@ const kanjium = readFileSync(require.resolve('kanjium/data/source_files/kanjidic
    .map((entry) => entry.split('\t'))
    .filter(({ length }) => length > 0)
    .filter(([kanji]) => /\p{sc=Han}/u.exec(kanji));
+
+console.log('reading heisig-rtk source');
+
+const rtk = (csvParse(readFileSync(require.resolve('heisig-rtk/heisig-kanjis.csv'), 'utf-8'), {
+   columns: true,
+}) as unknown) as RtkEntry[];
 
 console.log('reading kanjidic source');
 
@@ -201,9 +214,18 @@ const data = kanjidic
          };
       }
 
+      let keyword;
+
+      const rtkEntry = rtk.find(($) => $.kanji === kanji);
+
+      if (rtkEntry) {
+         keyword = rtkEntry.keyword_6th_ed || rtkEntry.keyword_5th_ed;
+      }
+
       return {
          kanji,
          meanings,
+         keyword,
          onyomi: mapReadingSets(onyomi),
          kunyomi: mapReadingSets(kunyomi),
          frequency,

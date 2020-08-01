@@ -16,6 +16,7 @@ export interface FrequencyRanks {
 export interface KanjiEntry {
    kanji: string;
    meanings: string[];
+   keyword?: string;
    onyomi?: Readings;
    kunyomi?: Readings;
    frequency?: FrequencyRanks;
