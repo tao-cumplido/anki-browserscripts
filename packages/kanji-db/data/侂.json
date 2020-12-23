@@ -1,0 +1,19 @@
+{
+	"kanji": "侂",
+	"meanings": ["to commission", "to entrust to", "to depute", "to request", "to ask"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["タク"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["よ", "たの"],
+		"rare": [],
+		"okurigana": ["よ.せる", "たの.む"]
+	},
+	"frequency": {
+		"mean": 4436,
+		"wikipedia": 4127
+	}
+}

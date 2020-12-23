@@ -1,0 +1,19 @@
+{
+	"kanji": "阱",
+	"meanings": ["pitfall", "trap", "snare"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["セイ", "ジョウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["あな"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4525,
+		"wikipedia": 4216
+	}
+}

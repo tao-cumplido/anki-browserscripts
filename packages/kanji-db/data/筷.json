@@ -1,0 +1,19 @@
+{
+	"kanji": "筷",
+	"meanings": ["chopsticks"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["カイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["はし"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4510,
+		"wikipedia": 4201
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "忯",
+	"meanings": ["to be fond of", "to love", "to be respectful of"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["キ", "シ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["つつし"],
+		"rare": [],
+		"okurigana": ["つつし.む"]
+	},
+	"frequency": {
+		"mean": 4511,
+		"wikipedia": 4202
+	}
+}

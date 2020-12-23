@@ -1,0 +1,19 @@
+{
+	"kanji": "杌",
+	"meanings": ["stubble", "stump of a tree (hence: sterility)", "square stool"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ゴツ", "ゴチ", "グツ", "グチ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["きりかぶ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4519,
+		"wikipedia": 4210
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "疴",
+	"meanings": ["illness", "sickness", "disease", "pain"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ア"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["やまい"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

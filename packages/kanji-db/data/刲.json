@@ -1,0 +1,19 @@
+{
+	"kanji": "刲",
+	"meanings": ["cut", "slice off", "pierce"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ケイ", "ケ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["さ", "えぐ", "ころ"],
+		"rare": [],
+		"okurigana": ["さ.す", "さ.く", "えぐ.る", "ころ.す"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

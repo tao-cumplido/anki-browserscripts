@@ -1,0 +1,19 @@
+{
+	"kanji": "灶",
+	"meanings": ["kitchen range", "cooking stove"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ソウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["かまど", "かま", "へっつい"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4468,
+		"wikipedia": 4159
+	}
+}

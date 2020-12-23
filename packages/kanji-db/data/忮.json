@@ -1,0 +1,19 @@
+{
+	"kanji": "忮",
+	"meanings": ["stubborn", "perverse", "aggressive"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["シ", "キ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["さか"],
+		"rare": [],
+		"okurigana": ["さか.らう"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

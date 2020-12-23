@@ -1,0 +1,19 @@
+{
+	"kanji": "惙",
+	"meanings": ["sad", "melancholy", "grieving", "mourn"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["テツ", "テチ", "テイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["うれ"],
+		"rare": [],
+		"okurigana": ["うれ.える"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

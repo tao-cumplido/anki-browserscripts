@@ -1,0 +1,19 @@
+{
+	"kanji": "匾",
+	"meanings": ["flat", "round split-bamboo contain"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ヘン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["うす", "ひら", "がく"],
+		"rare": [],
+		"okurigana": ["うす.い", "ひら.たい"]
+	},
+	"frequency": {
+		"mean": 4533,
+		"wikipedia": 4224
+	}
+}

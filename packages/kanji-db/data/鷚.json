@@ -1,0 +1,19 @@
+{
+	"kanji": "鷚",
+	"meanings": ["anthus", "skylark"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["リュウ", "ル", "ボウ", "ム"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ひばり"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

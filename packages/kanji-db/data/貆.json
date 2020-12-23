@@ -1,0 +1,19 @@
+{
+	"kanji": "貆",
+	"meanings": ["small badger", "porcupine"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["カン", "ケン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["むじな"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

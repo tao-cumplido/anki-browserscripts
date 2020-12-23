@@ -1,0 +1,19 @@
+{
+	"kanji": "謼",
+	"meanings": ["to shout", "to mourn", "to invoke"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["コ", "ク", "コウ", "キョウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["よ"],
+		"rare": [],
+		"okurigana": ["よ.ぶ"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "秸",
+	"meanings": ["stalks of millet", "corn"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["カツ", "ケチ", "カイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["わら"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

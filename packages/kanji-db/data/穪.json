@@ -1,0 +1,19 @@
+{
+	"kanji": "穪",
+	"meanings": ["to praise"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ショウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["たた", "とな", "あ", "かな", "はか", "ほめ"],
+		"rare": [],
+		"okurigana": ["たた.える", "とな.える", "あ.げる", "かな.う", "はか.る", "ほめ.る"]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

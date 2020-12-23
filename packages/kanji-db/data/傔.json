@@ -1,0 +1,19 @@
+{
+	"kanji": "傔",
+	"meanings": ["servant"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ケン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["したが", "はべ", "つか"],
+		"rare": [],
+		"okurigana": ["したが.う", "はべ.る", "つか.える"]
+	},
+	"frequency": {
+		"mean": 4517,
+		"wikipedia": 4208
+	}
+}

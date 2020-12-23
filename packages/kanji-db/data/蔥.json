@@ -1,0 +1,19 @@
+{
+	"kanji": "蔥",
+	"meanings": ["scallions", "onions", "leeks"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ソウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ねぎ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4515,
+		"wikipedia": 4206
+	}
+}

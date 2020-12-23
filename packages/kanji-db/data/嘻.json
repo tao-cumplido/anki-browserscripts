@@ -1,0 +1,19 @@
+{
+	"kanji": "嘻",
+	"meanings": ["mirthful", "happy", "interjection"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["キ", "イ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["いまし", "やわら", "ああ", "わら"],
+		"rare": [],
+		"okurigana": ["いまし.め", "やわら.ぐ", "わら.う"]
+	},
+	"frequency": {
+		"mean": 4531,
+		"wikipedia": 4222
+	}
+}

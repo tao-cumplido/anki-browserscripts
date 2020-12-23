@@ -1,0 +1,19 @@
+{
+	"kanji": "嗑",
+	"meanings": ["eat seeds", "reproach", "loquacious"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["コウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["おしゃべり", "あ", "の", "かた"],
+		"rare": [],
+		"okurigana": ["あ.う", "の.む", "かた.る"]
+	},
+	"frequency": {
+		"mean": 4526,
+		"wikipedia": 4217
+	}
+}

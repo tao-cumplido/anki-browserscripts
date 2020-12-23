@@ -1,0 +1,19 @@
+{
+	"kanji": "佬",
+	"meanings": ["(Cantonese) man", "person", "mature"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["リョウ", "ロ", "ロウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["おお"],
+		"rare": [],
+		"okurigana": ["おお.きい"]
+	},
+	"frequency": {
+		"mean": 4391,
+		"wikipedia": 4082
+	}
+}

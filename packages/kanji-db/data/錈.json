@@ -1,0 +1,19 @@
+{
+	"kanji": "錈",
+	"meanings": ["to bend iron"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ケン", "ガン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ま"],
+		"rare": [],
+		"okurigana": ["ま.がる"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

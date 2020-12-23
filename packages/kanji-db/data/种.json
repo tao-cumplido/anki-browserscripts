@@ -1,0 +1,20 @@
+{
+	"kanji": "种",
+	"meanings": ["seed", "race", "breed", "to plant"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["チュウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["おさない"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4437,
+		"twitter": 1726,
+		"wikipedia": 4130
+	}
+}

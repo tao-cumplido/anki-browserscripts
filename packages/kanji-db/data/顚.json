@@ -1,0 +1,20 @@
+{
+	"kanji": "顚",
+	"meanings": ["top", "peak", "summit", "upset"],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["テン"]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["いただ", "たお"],
+		"okurigana": ["いただ.き", "たお.れる"]
+	},
+	"frequency": {
+		"mean": 4469,
+		"news": 1705,
+		"wikipedia": 4161
+	}
+}

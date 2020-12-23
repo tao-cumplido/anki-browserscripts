@@ -1,0 +1,19 @@
+{
+	"kanji": "卲",
+	"meanings": ["eminent", "lofty", "beautiful", "surname"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ショウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["たか"],
+		"rare": [],
+		"okurigana": ["たか.い"]
+	},
+	"frequency": {
+		"mean": 4516,
+		"wikipedia": 4207
+	}
+}

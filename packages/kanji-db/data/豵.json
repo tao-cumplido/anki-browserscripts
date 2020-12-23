@@ -1,0 +1,19 @@
+{
+	"kanji": "豵",
+	"meanings": ["young pig"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ソウ", "ス", "ショウ", "シュ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["いのこ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

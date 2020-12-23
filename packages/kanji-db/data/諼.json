@@ -1,0 +1,19 @@
+{
+	"kanji": "諼",
+	"meanings": ["forget", "lie", "cheat", "deceive"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ケン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["かまびす", "わす", "いつわ"],
+		"rare": [],
+		"okurigana": ["かまびす.しい", "わす.れる", "いつわ.る"]
+	},
+	"frequency": {
+		"mean": 4537,
+		"wikipedia": 4228
+	}
+}

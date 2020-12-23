@@ -1,0 +1,19 @@
+{
+	"kanji": "蜇",
+	"meanings": ["jellyfish"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["テツ", "テチ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["さ"],
+		"rare": [],
+		"okurigana": ["さ.す"]
+	},
+	"frequency": {
+		"mean": 4538,
+		"wikipedia": 4229
+	}
+}

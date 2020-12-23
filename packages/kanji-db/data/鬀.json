@@ -1,0 +1,19 @@
+{
+	"kanji": "鬀",
+	"meanings": ["to shave"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["テイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["かみ", "まい", "そ", "す"],
+		"rare": [],
+		"okurigana": ["そ.る", "す.る"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

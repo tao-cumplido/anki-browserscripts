@@ -1,0 +1,19 @@
+{
+	"kanji": "燙",
+	"meanings": ["scald", "heat", "wash", "iron clothes"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["トウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["あたた"],
+		"rare": [],
+		"okurigana": ["あたた.める"]
+	},
+	"frequency": {
+		"mean": 4539,
+		"wikipedia": 4230
+	}
+}

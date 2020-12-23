@@ -1,0 +1,20 @@
+{
+	"kanji": "擋",
+	"meanings": ["obstruct", "impede", "stop", "resist"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["トウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["さ"],
+		"rare": [],
+		"okurigana": ["さ.ける"]
+	},
+	"frequency": {
+		"mean": 4536,
+		"twitter": 1727,
+		"wikipedia": 4228
+	}
+}

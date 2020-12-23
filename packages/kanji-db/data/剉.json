@@ -1,0 +1,19 @@
+{
+	"kanji": "剉",
+	"meanings": ["cut", "file", "trim"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["サ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["くじく", "かどをと"],
+		"rare": [],
+		"okurigana": ["かどをと.る"]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

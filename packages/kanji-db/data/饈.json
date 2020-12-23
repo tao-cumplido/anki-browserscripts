@@ -1,0 +1,19 @@
+{
+	"kanji": "饈",
+	"meanings": ["food", "meal", "eat", "offer"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["シュウ", "シュ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["すす"],
+		"rare": [],
+		"okurigana": ["すす.める"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

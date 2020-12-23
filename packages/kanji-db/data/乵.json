@@ -1,0 +1,19 @@
+{
+	"kanji": "乵",
+	"meanings": ["to enter", "to make progress", "to advance", "to urge forward"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["エン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["すす"],
+		"rare": [],
+		"okurigana": ["すす.む"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

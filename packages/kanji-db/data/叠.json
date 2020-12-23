@@ -1,0 +1,19 @@
+{
+	"kanji": "叠",
+	"meanings": ["pile", "be piled up", "fold up"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ジョウ", "チョウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["たた", "たたみ", "かさ"],
+		"rare": [],
+		"okurigana": ["たた.む", "かさ.なる"]
+	},
+	"frequency": {
+		"mean": 4529,
+		"wikipedia": 4220
+	}
+}

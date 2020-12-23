@@ -1,0 +1,19 @@
+{
+	"kanji": "幨",
+	"meanings": ["curtain"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["セン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["とばり", "ほろ", "たちき"],
+		"rare": [],
+		"okurigana": ["たちき.れる"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

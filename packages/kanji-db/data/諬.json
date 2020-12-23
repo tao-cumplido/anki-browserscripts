@@ -1,0 +1,19 @@
+{
+	"kanji": "諬",
+	"meanings": ["to open", "to begin", "to explain", "to inform", "letter"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ケイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ひら", "さと"],
+		"rare": [],
+		"okurigana": ["ひら.く", "さと.す"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

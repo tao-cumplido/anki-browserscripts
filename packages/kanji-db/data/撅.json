@@ -1,0 +1,19 @@
+{
+	"kanji": "撅",
+	"meanings": ["protrude", "snap", "break", "dig"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ケツ", "カチ", "ケイ", "ケ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["あつ"],
+		"rare": [],
+		"okurigana": ["あつ.める"]
+	},
+	"frequency": {
+		"mean": 4496,
+		"wikipedia": 4187
+	}
+}

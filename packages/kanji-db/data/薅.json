@@ -1,0 +1,19 @@
+{
+	"kanji": "薅",
+	"meanings": ["to weed", "to eradicate"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["コウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["くきをと"],
+		"rare": [],
+		"okurigana": ["くきをと.る"]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

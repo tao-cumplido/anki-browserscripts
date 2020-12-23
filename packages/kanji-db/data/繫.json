@@ -1,0 +1,21 @@
+{
+	"kanji": "繫",
+	"meanings": ["attach", "connect", "unite", "fasten"],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["ケイ"]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["つな", "かか", "か"],
+		"okurigana": ["つな.ぐ", "かか.る", "か.ける"]
+	},
+	"frequency": {
+		"mean": 4352,
+		"news": 1703,
+		"twitter": 1726,
+		"wikipedia": 4048
+	}
+}

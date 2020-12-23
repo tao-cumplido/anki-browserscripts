@@ -1,0 +1,19 @@
+{
+	"kanji": "倝",
+	"meanings": ["sunrise", "dawn"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["カン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["かがや"],
+		"rare": [],
+		"okurigana": ["かがや.く"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

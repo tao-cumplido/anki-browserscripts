@@ -1,0 +1,19 @@
+{
+	"kanji": "减",
+	"meanings": ["decrease", "subtract", "diminish"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ゲン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["へ"],
+		"rare": [],
+		"okurigana": ["へ.る", "へ.らす"]
+	},
+	"frequency": {
+		"mean": 4525,
+		"wikipedia": 4216
+	}
+}

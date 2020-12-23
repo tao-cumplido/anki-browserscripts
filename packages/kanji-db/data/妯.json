@@ -1,0 +1,19 @@
+{
+	"kanji": "妯",
+	"meanings": ["wives of one's brothers", "sister-in-law"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["チュウ", "ジク", "ロク", "トク"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["あいよ", "うご", "さわ", "いた"],
+		"rare": [],
+		"okurigana": ["あいよ.め", "うご.く", "さわ.ぐ", "いた.む"]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"kanji": "丶",
+	"meanings": ["dot", "tick or dot radical (no. 3)"],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["チュ"]
+	},
+	"frequency": {
+		"mean": 4216,
+		"literature": 3204,
+		"twitter": 1641,
+		"wikipedia": 4015
+	},
+	"strokes": ["M44.75,43.5c10.77,8.33,16.92,17.19,20.25,25"]
+}

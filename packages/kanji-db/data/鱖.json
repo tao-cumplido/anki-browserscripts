@@ -1,0 +1,19 @@
+{
+	"kanji": "鱖",
+	"meanings": ["mandarin fish"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ケイ", "ケ", "ケツ", "カチ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["さけ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4496,
+		"wikipedia": 4187
+	}
+}

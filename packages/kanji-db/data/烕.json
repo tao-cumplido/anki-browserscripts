@@ -1,0 +1,19 @@
+{
+	"kanji": "烕",
+	"meanings": ["to destroy", "to exterminate", "to extinguish"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ケツ", "ケチ", "ベツ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ほろ"],
+		"rare": [],
+		"okurigana": ["ほろ.びる", "ほろ.ぼす"]
+	},
+	"frequency": {
+		"mean": 4535,
+		"wikipedia": 4226
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "曨",
+	"meanings": ["vague", "dim", "twilight"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ロウ", "ル"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["おぼろ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

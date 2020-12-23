@@ -1,0 +1,19 @@
+{
+	"kanji": "摏",
+	"meanings": ["pound", "strike against", "ram"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ショウ", "シュ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["つ"],
+		"rare": [],
+		"okurigana": ["つ.く"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

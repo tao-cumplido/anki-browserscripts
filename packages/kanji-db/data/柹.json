@@ -1,0 +1,19 @@
+{
+	"kanji": "柹",
+	"meanings": ["persimmon"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["シ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["かき", "こけら"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4538,
+		"wikipedia": 4229
+	}
+}

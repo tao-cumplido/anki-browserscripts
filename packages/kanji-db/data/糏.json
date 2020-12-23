@@ -1,0 +1,19 @@
+{
+	"kanji": "糏",
+	"meanings": ["rice grits left after hulling"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["セツ", "セチ", "ソツ", "ソチ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["こごめ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

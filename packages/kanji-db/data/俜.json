@@ -1,0 +1,19 @@
+{
+	"kanji": "俜",
+	"meanings": ["to trust to", "send a message"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ヘイ", "ビョウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["つか", "おとこだて"],
+		"rare": [],
+		"okurigana": ["つか.う"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "噲",
+	"meanings": ["swallow", "gulp down", "greedy"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["カイ", "ケ", "ワイ", "エ", "カツ", "カチ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["のど", "すす", "こころよ", "あか"],
+		"rare": [],
+		"okurigana": ["すす.る", "こころよ.い", "あか.るい"]
+	},
+	"frequency": {
+		"mean": 4460,
+		"wikipedia": 4151
+	}
+}

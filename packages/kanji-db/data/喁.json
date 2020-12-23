@@ -1,0 +1,19 @@
+{
+	"kanji": "喁",
+	"meanings": ["the mouth of a fish at the surface of the water", "gasping for breath"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["グ", "ゴウ", "キョウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["あぎとう"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4528,
+		"wikipedia": 4219
+	}
+}

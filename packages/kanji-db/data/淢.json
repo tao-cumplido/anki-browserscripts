@@ -1,0 +1,19 @@
+{
+	"kanji": "淢",
+	"meanings": ["ditch"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ヨク", "イキ", "イツ", "イチ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["はや"],
+		"rare": [],
+		"okurigana": ["はや.い"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

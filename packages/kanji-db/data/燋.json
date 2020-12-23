@@ -1,0 +1,19 @@
+{
+	"kanji": "燋",
+	"meanings": ["scorch", "burn", "scald", "torch", "bonfire"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ショウ", "セキ", "シャク"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["たいまつ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4538,
+		"wikipedia": 4229
+	}
+}

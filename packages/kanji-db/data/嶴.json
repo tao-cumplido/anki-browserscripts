@@ -1,0 +1,19 @@
+{
+	"kanji": "嶴",
+	"meanings": ["island"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["オウ", "オク"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["おく", "くま"],
+		"rare": [],
+		"okurigana": ["おく.まる"]
+	},
+	"frequency": {
+		"mean": 4526,
+		"wikipedia": 4217
+	}
+}

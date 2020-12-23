@@ -1,0 +1,19 @@
+{
+	"kanji": "搵",
+	"meanings": ["wipe off", "press down with knuckle", "to immerse"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["オン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["しず", "おさ"],
+		"rare": [],
+		"okurigana": ["しず.む", "おさ.える"]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

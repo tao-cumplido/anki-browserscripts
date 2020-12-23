@@ -1,0 +1,19 @@
+{
+	"kanji": "耾",
+	"meanings": ["deafness"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["コウ", "オウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ささや"],
+		"rare": [],
+		"okurigana": ["ささや.く"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

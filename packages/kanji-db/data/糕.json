@@ -1,0 +1,20 @@
+{
+	"kanji": "糕",
+	"meanings": ["cakes", "pastry"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["コウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["こなもち"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4401,
+		"twitter": 1726,
+		"wikipedia": 4094
+	}
+}

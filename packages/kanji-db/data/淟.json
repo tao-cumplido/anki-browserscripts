@@ -1,0 +1,19 @@
+{
+	"kanji": "淟",
+	"meanings": ["turbid", "muddy"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["テン", "トン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["にご"],
+		"rare": [],
+		"okurigana": ["にご.る"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

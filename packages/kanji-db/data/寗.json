@@ -1,0 +1,19 @@
+{
+	"kanji": "寗",
+	"meanings": ["surname", "peaceful", "rather"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ネイ", "ニュウ", "デイ", "ニョウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ねが"],
+		"rare": [],
+		"okurigana": ["ねが.い"]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

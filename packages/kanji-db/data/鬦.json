@@ -1,0 +1,19 @@
+{
+	"kanji": "鬦",
+	"meanings": ["struggle", "fight", "compete", "contend"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["トウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["たたか", "あらそ"],
+		"rare": [],
+		"okurigana": ["たたか.う", "あらそ.う"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "絀",
+	"meanings": ["sew", "stitch", "insufficient"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["チュツ", "チュチ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["あか"],
+		"rare": [],
+		"okurigana": ["あか.い"]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "殛",
+	"meanings": ["to put to death", "to imprison for life", "to punish"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["キョク", "コク"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ころ"],
+		"rare": [],
+		"okurigana": ["ころ.す"]
+	},
+	"frequency": {
+		"mean": 4527,
+		"wikipedia": 4218
+	}
+}

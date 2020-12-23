@@ -1,0 +1,19 @@
+{
+	"kanji": "汛",
+	"meanings": ["high water", "flood tides"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["シン", "サン", "シャ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["そそ"],
+		"rare": [],
+		"okurigana": ["そそ.ぐ"]
+	},
+	"frequency": {
+		"mean": 4432,
+		"wikipedia": 4123
+	}
+}

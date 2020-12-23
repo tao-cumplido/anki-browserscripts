@@ -1,0 +1,19 @@
+{
+	"kanji": "澼",
+	"meanings": ["bleach", "wash", "clean"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ヘキ", "ヒャク", "ケキ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ただよ"],
+		"rare": [],
+		"okurigana": ["ただよ.う"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

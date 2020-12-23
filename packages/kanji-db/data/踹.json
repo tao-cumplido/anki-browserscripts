@@ -1,0 +1,19 @@
+{
+	"kanji": "踹",
+	"meanings": ["trample", "tread", "kick"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["セン", "タン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["かかと"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4537,
+		"wikipedia": 4228
+	}
+}

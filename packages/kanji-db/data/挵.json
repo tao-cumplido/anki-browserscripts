@@ -1,0 +1,19 @@
+{
+	"kanji": "挵",
+	"meanings": ["play with", "handle things"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ロウ", "ル"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["いじく", "いじ", "ひねく", "たわむ", "もてあそ", "せせ"],
+		"rare": [],
+		"okurigana": ["いじく.る", "いじ.る", "ひねく.る", "たわむ.れる", "もてあそ.ぶ", "せせ.る"]
+	},
+	"frequency": {
+		"mean": 4496,
+		"wikipedia": 4187
+	}
+}

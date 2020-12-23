@@ -1,0 +1,19 @@
+{
+	"kanji": "颺",
+	"meanings": ["soar", "fly", "float", "scatter"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ヨウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["あ"],
+		"rare": [],
+		"okurigana": ["あ.げる"]
+	},
+	"frequency": {
+		"mean": 4512,
+		"wikipedia": 4203
+	}
+}

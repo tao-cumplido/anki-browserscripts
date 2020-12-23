@@ -1,0 +1,19 @@
+{
+	"kanji": "俏",
+	"meanings": ["like", "similar", "resemble", "pretty", "disguise oneself as", "dress up", "pine away"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ショウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["に", "かたど", "みめよい", "やつ"],
+		"rare": [],
+		"okurigana": ["に.る", "かたど.る", "やつ.す"]
+	},
+	"frequency": {
+		"mean": 4501,
+		"wikipedia": 4192
+	}
+}

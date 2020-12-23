@@ -1,0 +1,19 @@
+{
+	"kanji": "傖",
+	"meanings": ["vulgar person", "country man"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ショウ", "ソウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["いや", "いやしいもの", "いなかもの"],
+		"rare": [],
+		"okurigana": ["いや.しい"]
+	},
+	"frequency": {
+		"mean": 4534,
+		"wikipedia": 4225
+	}
+}

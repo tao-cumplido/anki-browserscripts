@@ -1,0 +1,19 @@
+{
+	"kanji": "駙",
+	"meanings": ["extra horse", "imperial son-in-law"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["フ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["そえうま", "ちか"],
+		"rare": [],
+		"okurigana": ["ちか.い"]
+	},
+	"frequency": {
+		"mean": 4358,
+		"wikipedia": 4049
+	}
+}

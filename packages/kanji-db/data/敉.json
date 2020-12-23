@@ -1,0 +1,19 @@
+{
+	"kanji": "敉",
+	"meanings": ["pacify", "soothe", "stabilize"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ミ", "ヒ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["な"],
+		"rare": [],
+		"okurigana": ["な.でる"]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

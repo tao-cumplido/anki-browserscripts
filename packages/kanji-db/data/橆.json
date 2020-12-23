@@ -1,0 +1,19 @@
+{
+	"kanji": "橆",
+	"meanings": ["without", "apart from", "none", "a negative"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ブ", "ム"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["しげ"],
+		"rare": [],
+		"okurigana": ["しげ.る"]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

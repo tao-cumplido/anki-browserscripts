@@ -1,0 +1,20 @@
+{
+	"kanji": "舔",
+	"meanings": ["lick with tongue", "taste"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["テン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["な"],
+		"rare": [],
+		"okurigana": ["な.める"]
+	},
+	"frequency": {
+		"mean": 4537,
+		"twitter": 1726,
+		"wikipedia": 4230
+	}
+}

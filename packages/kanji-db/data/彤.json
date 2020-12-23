@@ -1,0 +1,19 @@
+{
+	"kanji": "彤",
+	"meanings": ["red", "vermilion", "name of ancient"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["トウ", "ズ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["あか"],
+		"rare": [],
+		"okurigana": ["あか.い"]
+	},
+	"frequency": {
+		"mean": 4201,
+		"wikipedia": 3890
+	}
+}

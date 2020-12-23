@@ -1,0 +1,20 @@
+{
+	"kanji": "裵",
+	"meanings": ["surname", "look of a flowing gown"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ハイ", "ヒ", "ベ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["たちもとお"],
+		"rare": [],
+		"okurigana": ["たちもとお.る"]
+	},
+	"frequency": {
+		"mean": 4214,
+		"twitter": 1727,
+		"wikipedia": 3904
+	}
+}

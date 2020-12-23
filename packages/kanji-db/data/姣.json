@@ -1,0 +1,19 @@
+{
+	"kanji": "姣",
+	"meanings": ["beautiful", "handsome", "pretty"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["コウ", "キョウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["みめよ", "うつく", "いさぎよ"],
+		"rare": [],
+		"okurigana": ["みめよ.い", "うつく.しい", "いさぎよ.い"]
+	},
+	"frequency": {
+		"mean": 4503,
+		"wikipedia": 4194
+	}
+}

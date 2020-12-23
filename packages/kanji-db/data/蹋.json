@@ -1,0 +1,19 @@
+{
+	"kanji": "蹋",
+	"meanings": ["step on", "tread on", "stumble", "slip"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["トウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ふ"],
+		"rare": [],
+		"okurigana": ["ふ.む"]
+	},
+	"frequency": {
+		"mean": 4491,
+		"wikipedia": 4182
+	}
+}

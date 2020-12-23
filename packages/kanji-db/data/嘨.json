@@ -1,0 +1,19 @@
+{
+	"kanji": "嘨",
+	"meanings": ["roar", "howl", "scream", "whistle"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ショウ", "シツ", "シュウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["うそぶく", "もぐぶく"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4537,
+		"wikipedia": 4228
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "徯",
+	"meanings": ["wait for", "await", "expect", "hope"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ケイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["こみち", "も"],
+		"rare": [],
+		"okurigana": ["も.つ"]
+	},
+	"frequency": {
+		"mean": 4500,
+		"wikipedia": 4191
+	}
+}

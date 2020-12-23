@@ -1,0 +1,19 @@
+{
+	"kanji": "羐",
+	"meanings": ["to lead", "guide"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ユウ", "ユ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["みちび", "いざな", "すす"],
+		"rare": [],
+		"okurigana": ["みちび.く", "いざな.う", "すす.める"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "踖",
+	"meanings": ["trample on", "tread on", "walk on"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["セキ", "シャク", "サク"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ふ"],
+		"rare": [],
+		"okurigana": ["ふ.む"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

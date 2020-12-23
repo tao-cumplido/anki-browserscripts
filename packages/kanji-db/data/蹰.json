@@ -1,0 +1,19 @@
+{
+	"kanji": "蹰",
+	"meanings": ["hesitate", "waver", "falter"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["チュウ", "チュ", "シュウ", "ジュ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ためら"],
+		"rare": [],
+		"okurigana": ["ためら.う"]
+	},
+	"frequency": {
+		"mean": 4539,
+		"wikipedia": 4230
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "奶",
+	"meanings": ["milk", "woman's breasts", "nurse"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ダイ", "ネ", "ナイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ちち", "はぐく"],
+		"rare": [],
+		"okurigana": ["はぐく.む"]
+	},
+	"frequency": {
+		"mean": 4303,
+		"wikipedia": 3994
+	}
+}

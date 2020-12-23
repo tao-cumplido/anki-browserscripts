@@ -1,0 +1,19 @@
+{
+	"kanji": "翯",
+	"meanings": ["glistening plumage", "reflection of the sun on water"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["コク", "カク"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["つやがあ"],
+		"rare": [],
+		"okurigana": ["つやがあ.る"]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

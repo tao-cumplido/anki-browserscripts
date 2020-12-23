@@ -1,0 +1,20 @@
+{
+	"kanji": "囊",
+	"meanings": ["bag", "purse", "sack", "put in bag"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ノウ", "ドウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ふくろ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4243,
+		"news": 1698,
+		"wikipedia": 3941
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "菀",
+	"meanings": ["luxuriance of growth"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["エン", "オン", "ウツ", "ウチ", "ウン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["その", "つ"],
+		"rare": [],
+		"okurigana": ["つ.む"]
+	},
+	"frequency": {
+		"mean": 4491,
+		"wikipedia": 4182
+	}
+}

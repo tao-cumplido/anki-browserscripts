@@ -1,0 +1,19 @@
+{
+	"kanji": "曆",
+	"meanings": ["calendar", "era"],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["レキ"]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["こよみ"],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4484,
+		"wikipedia": 4175
+	}
+}

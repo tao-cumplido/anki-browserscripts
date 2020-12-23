@@ -1,0 +1,19 @@
+{
+	"kanji": "丫",
+	"meanings": ["bifurcation", "fork"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ア", "ヤ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ふたまた", "あげまき"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4450,
+		"wikipedia": 4141
+	}
+}

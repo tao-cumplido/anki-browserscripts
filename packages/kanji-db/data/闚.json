@@ -1,0 +1,19 @@
+{
+	"kanji": "闚",
+	"meanings": ["flash", "flashing", "steal look"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["キ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["うかが"],
+		"rare": [],
+		"okurigana": ["うかが.う"]
+	},
+	"frequency": {
+		"mean": 4537,
+		"wikipedia": 4228
+	}
+}

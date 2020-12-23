@@ -1,0 +1,20 @@
+{
+	"kanji": "昱",
+	"meanings": ["bright light", "sunlight", "dazzling"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["イク"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["あき"],
+		"rare": [],
+		"okurigana": ["あき.らか"]
+	},
+	"frequency": {
+		"mean": 3960,
+		"news": 1705,
+		"wikipedia": 3661
+	}
+}

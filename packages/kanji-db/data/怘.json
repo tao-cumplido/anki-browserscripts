@@ -1,0 +1,19 @@
+{
+	"kanji": "怘",
+	"meanings": ["protect", "safeguard"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["コ", "ク"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["かた", "かたく"],
+		"rare": [],
+		"okurigana": ["かた.める"]
+	},
+	"frequency": {
+		"mean": 4533,
+		"wikipedia": 4224
+	}
+}

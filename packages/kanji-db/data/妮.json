@@ -1,0 +1,19 @@
+{
+	"kanji": "妮",
+	"meanings": ["maid", "servant girl", "cute girl"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ジ", "ニ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["はした", "やわらかくまつは"],
+		"rare": [],
+		"okurigana": ["はした.め", "やわらかくまつは.る"]
+	},
+	"frequency": {
+		"mean": 4281,
+		"wikipedia": 3972
+	}
+}

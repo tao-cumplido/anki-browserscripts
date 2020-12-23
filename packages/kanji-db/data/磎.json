@@ -1,0 +1,19 @@
+{
+	"kanji": "磎",
+	"meanings": ["mountain stream", "creek"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ケイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["たに", "たにがわ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4504,
+		"wikipedia": 4195
+	}
+}

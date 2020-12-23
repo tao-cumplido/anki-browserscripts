@@ -1,0 +1,20 @@
+{
+	"kanji": "晚",
+	"meanings": ["night", "evening", "late"],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["バン"]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["くれ", "おそい"],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4296,
+		"twitter": 1718,
+		"wikipedia": 3997
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "媢",
+	"meanings": ["be jealous of", "be envious"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ボウ", "モウ", "ボク", "モク", "バイ", "メ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ねた", "にら"],
+		"rare": [],
+		"okurigana": ["ねた.む", "にら.む"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

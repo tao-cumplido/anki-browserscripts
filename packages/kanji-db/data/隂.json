@@ -1,0 +1,19 @@
+{
+	"kanji": "隂",
+	"meanings": ["shady", "secret", "dark", "mysterious", "cold", "the negative of female principle in nature"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["イン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["かげ"],
+		"rare": [],
+		"okurigana": ["かげ.る"]
+	},
+	"frequency": {
+		"mean": 4528,
+		"wikipedia": 4219
+	}
+}

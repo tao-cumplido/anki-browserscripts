@@ -1,0 +1,19 @@
+{
+	"kanji": "遹",
+	"meanings": ["comply with", "obey", "shun", "avoid"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["イツ", "イチ", "シュツ", "ジュチ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["かたよ"],
+		"rare": [],
+		"okurigana": ["かたよ.る"]
+	},
+	"frequency": {
+		"mean": 4472,
+		"wikipedia": 4163
+	}
+}

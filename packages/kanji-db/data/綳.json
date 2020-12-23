@@ -1,0 +1,19 @@
+{
+	"kanji": "綳",
+	"meanings": ["cloth to carry an infant on the back", "to tie", "to bind"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ホウ", "ヒョウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ま", "たば"],
+		"rare": [],
+		"okurigana": ["ま.く", "たば.ねる"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

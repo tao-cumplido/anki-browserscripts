@@ -1,0 +1,19 @@
+{
+	"kanji": "縶",
+	"meanings": ["confine", "tie up", "imprison", "shack"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["チュウ", "ショウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["つな"],
+		"rare": [],
+		"okurigana": ["つな.ぐ"]
+	},
+	"frequency": {
+		"mean": 4538,
+		"wikipedia": 4229
+	}
+}

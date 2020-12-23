@@ -1,0 +1,19 @@
+{
+	"kanji": "婐",
+	"meanings": ["maid"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ワ", "カ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["たおや", "はべ"],
+		"rare": [],
+		"okurigana": ["たおや.か", "はべ.る"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

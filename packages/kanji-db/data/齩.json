@@ -1,0 +1,19 @@
+{
+	"kanji": "齩",
+	"meanings": ["to chew", "to bite"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["コウ", "ゴウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["か"],
+		"rare": [],
+		"okurigana": ["か.む", "か.じる"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

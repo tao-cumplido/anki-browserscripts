@@ -1,0 +1,19 @@
+{
+	"kanji": "崒",
+	"meanings": ["rocky peaks", "lofty and dangerous"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["シュツ", "シュチ", "ソツ", "ゾチ", "スイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["けわ"],
+		"rare": [],
+		"okurigana": ["けわ.しい"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

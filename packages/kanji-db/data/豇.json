@@ -1,0 +1,19 @@
+{
+	"kanji": "豇",
+	"meanings": ["small kidney bean"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["コウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ささ"],
+		"rare": [],
+		"okurigana": ["ささ.げる"]
+	},
+	"frequency": {
+		"mean": 4535,
+		"wikipedia": 4226
+	}
+}

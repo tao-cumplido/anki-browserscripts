@@ -1,0 +1,19 @@
+{
+	"kanji": "搯",
+	"meanings": ["take out", "pull out"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["トウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["とりだ"],
+		"rare": [],
+		"okurigana": ["とりだ.す"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

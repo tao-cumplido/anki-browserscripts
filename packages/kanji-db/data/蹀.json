@@ -1,0 +1,19 @@
+{
+	"kanji": "蹀",
+	"meanings": ["to skip", "to dance", "to put the foot down"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["チョウ", "ジョウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ふ"],
+		"rare": [],
+		"okurigana": ["ふ.む"]
+	},
+	"frequency": {
+		"mean": 4538,
+		"wikipedia": 4229
+	}
+}

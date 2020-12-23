@@ -1,0 +1,19 @@
+{
+	"kanji": "洊",
+	"meanings": ["flowing water"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["セン", "ソン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["いた"],
+		"rare": [],
+		"okurigana": ["いた.る"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

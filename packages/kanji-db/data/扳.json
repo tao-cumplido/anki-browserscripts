@@ -1,0 +1,19 @@
+{
+	"kanji": "扳",
+	"meanings": ["pull", "drag", "right itself"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ハン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ひ", "さ", "ひきとめる"],
+		"rare": [],
+		"okurigana": ["ひ.く", "さ.く"]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

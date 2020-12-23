@@ -1,0 +1,19 @@
+{
+	"kanji": "覶",
+	"meanings": ["to look about", "order", "sequence", "complicated thought which is not easy to express"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ラ", "ラン", "レン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["み"],
+		"rare": [],
+		"okurigana": ["み.る"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

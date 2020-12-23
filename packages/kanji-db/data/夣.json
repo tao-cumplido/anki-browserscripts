@@ -1,0 +1,19 @@
+{
+	"kanji": "夣",
+	"meanings": ["dream", "to dream", "visionary", "stupid"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ム", "ボウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ゆめ", "くら"],
+		"rare": [],
+		"okurigana": ["ゆめ.みる", "くら.い"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

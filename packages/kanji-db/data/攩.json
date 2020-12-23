@@ -1,0 +1,19 @@
+{
+	"kanji": "攩",
+	"meanings": ["obstruct", "impede", "stop", "resist"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["トウ", "コウ", "オウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["たも", "とも", "たた"],
+		"rare": [],
+		"okurigana": ["たた.く"]
+	},
+	"frequency": {
+		"mean": 4538,
+		"wikipedia": 4229
+	}
+}

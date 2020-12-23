@@ -1,0 +1,19 @@
+{
+	"kanji": "鴳",
+	"meanings": ["quail"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["アン", "エン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["うずら"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

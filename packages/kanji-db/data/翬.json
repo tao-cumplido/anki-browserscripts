@@ -1,0 +1,19 @@
+{
+	"kanji": "翬",
+	"meanings": ["pheasant", "variegated", "to fly"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["キ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["と"],
+		"rare": [],
+		"okurigana": ["と.ぶ"]
+	},
+	"frequency": {
+		"mean": 4506,
+		"wikipedia": 4197
+	}
+}

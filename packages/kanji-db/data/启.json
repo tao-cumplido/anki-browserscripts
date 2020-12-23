@@ -1,0 +1,19 @@
+{
+	"kanji": "启",
+	"meanings": ["open", "begin", "commence", "explain"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ケイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ひら"],
+		"rare": [],
+		"okurigana": ["ひら.く"]
+	},
+	"frequency": {
+		"mean": 4456,
+		"wikipedia": 4147
+	}
+}

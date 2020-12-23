@@ -1,0 +1,19 @@
+{
+	"kanji": "擗",
+	"meanings": ["to beat the breast"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ヘキ", "ヒャク", "ハク"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["むねをう"],
+		"rare": [],
+		"okurigana": ["むねをう.つ"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"kanji": "佈",
+	"meanings": ["spread", "publicize", "announce"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ホ", "フ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["あまね"],
+		"rare": [],
+		"okurigana": ["あまね.し"]
+	},
+	"frequency": {
+		"mean": 4477,
+		"twitter": 1725,
+		"wikipedia": 4171
+	}
+}

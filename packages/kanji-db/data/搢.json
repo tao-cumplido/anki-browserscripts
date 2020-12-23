@@ -1,0 +1,19 @@
+{
+	"kanji": "搢",
+	"meanings": ["to stick into", "to shake", "put between", "insert"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["シン", "セン", "セイ", "サイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["はさ"],
+		"rare": [],
+		"okurigana": ["はさ.む"]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

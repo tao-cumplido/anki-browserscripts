@@ -1,0 +1,19 @@
+{
+	"kanji": "惛",
+	"meanings": ["confused", "stupid", "dull", "senile"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["コン", "ビン", "ミン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["おろ"],
+		"rare": [],
+		"okurigana": ["おろ.か"]
+	},
+	"frequency": {
+		"mean": 4533,
+		"wikipedia": 4224
+	}
+}

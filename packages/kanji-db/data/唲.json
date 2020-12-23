@@ -1,0 +1,19 @@
+{
+	"kanji": "唲",
+	"meanings": ["forced laughter"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ジ", "ニ", "アイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["へつら", "かたこと"],
+		"rare": [],
+		"okurigana": ["へつら.う"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

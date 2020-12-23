@@ -1,0 +1,19 @@
+{
+	"kanji": "鮚",
+	"meanings": ["clam", "oyster"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["キツ", "ギチ", "ケツ", "ケチ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["はまぐり"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4538,
+		"wikipedia": 4229
+	}
+}

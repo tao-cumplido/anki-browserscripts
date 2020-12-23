@@ -1,0 +1,19 @@
+{
+	"kanji": "儆",
+	"meanings": ["warn", "warning"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ケイ", "ショウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["いまし"],
+		"rare": [],
+		"okurigana": ["いまし.める"]
+	},
+	"frequency": {
+		"mean": 4478,
+		"wikipedia": 4169
+	}
+}

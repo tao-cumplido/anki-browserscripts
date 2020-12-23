@@ -1,0 +1,19 @@
+{
+	"kanji": "櫈",
+	"meanings": ["bench", "stool"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["トウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["こしか"],
+		"rare": [],
+		"okurigana": ["こしか.け"]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

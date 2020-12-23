@@ -1,0 +1,19 @@
+{
+	"kanji": "奼",
+	"meanings": ["young girl", "maiden", "virgin", "beautiful woman", "charming and beautiful"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["タ", "ト", "ツ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["おとめ", "ほこ"],
+		"rare": [],
+		"okurigana": ["ほこ.る"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

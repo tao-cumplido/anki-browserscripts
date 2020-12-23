@@ -1,0 +1,19 @@
+{
+	"kanji": "惋",
+	"meanings": ["regret", "be sorry", "alarmed"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ワン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["なげ"],
+		"rare": [],
+		"okurigana": ["なげ.く"]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

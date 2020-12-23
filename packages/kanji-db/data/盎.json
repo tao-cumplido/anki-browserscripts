@@ -1,0 +1,19 @@
+{
+	"kanji": "盎",
+	"meanings": ["cup", "pot", "bowl", "abundant"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["オウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["はち"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4485,
+		"wikipedia": 4176
+	}
+}

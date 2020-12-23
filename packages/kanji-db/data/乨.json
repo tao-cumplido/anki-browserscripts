@@ -1,0 +1,19 @@
+{
+	"kanji": "乨",
+	"meanings": ["the beginning", "to start", "to begin", "to be the first"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["シ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["はじ"],
+		"rare": [],
+		"okurigana": ["はじ.める", "はじ.まる"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

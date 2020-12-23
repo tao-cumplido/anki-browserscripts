@@ -1,0 +1,19 @@
+{
+	"kanji": "訒",
+	"meanings": ["hesitate say", "be reluctant speak"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ジン", "ニン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["なや"],
+		"rare": [],
+		"okurigana": ["なや.む"]
+	},
+	"frequency": {
+		"mean": 4538,
+		"wikipedia": 4229
+	}
+}

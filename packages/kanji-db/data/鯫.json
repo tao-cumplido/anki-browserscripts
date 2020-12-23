@@ -1,0 +1,19 @@
+{
+	"kanji": "鯫",
+	"meanings": ["small fish", "small", "minnow"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ソウ", "ス"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["みごい"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

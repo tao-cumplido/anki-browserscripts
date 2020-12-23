@@ -1,0 +1,19 @@
+{
+	"kanji": "鋹",
+	"meanings": ["sharp", "keen edge", "sharp point"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["チョ", "チョウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["するど"],
+		"rare": [],
+		"okurigana": ["するど.い"]
+	},
+	"frequency": {
+		"mean": 4474,
+		"wikipedia": 4165
+	}
+}

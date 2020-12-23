@@ -1,0 +1,19 @@
+{
+	"kanji": "訕",
+	"meanings": ["abuse", "slander", "vilify", "ridicule"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["サン", "セン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["そし"],
+		"rare": [],
+		"okurigana": ["そし.る"]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "杇",
+	"meanings": ["loquat"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["オ", "ウ", "コ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["こて", "ぬ"],
+		"rare": [],
+		"okurigana": ["ぬ.る"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

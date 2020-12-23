@@ -1,0 +1,19 @@
+{
+	"kanji": "曈",
+	"meanings": ["twilight just before sunrise"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["トウ", "ツ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ほのぐら"],
+		"rare": [],
+		"okurigana": ["ほのぐら.い"]
+	},
+	"frequency": {
+		"mean": 4516,
+		"wikipedia": 4207
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "瓯",
+	"meanings": ["bowl", "cup", "small tray"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["オウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ほとぎ", "はち", "かめ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4527,
+		"wikipedia": 4218
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "魨",
+	"meanings": ["blowfish", "globefish", "spheroides vermicular"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["トン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ふぐ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

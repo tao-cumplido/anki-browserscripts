@@ -1,0 +1,19 @@
+{
+	"kanji": "酡",
+	"meanings": ["flushed", "rubicund"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["タ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["あか"],
+		"rare": [],
+		"okurigana": ["あか.らむ"]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

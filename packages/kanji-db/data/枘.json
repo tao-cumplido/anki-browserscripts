@@ -1,0 +1,19 @@
+{
+	"kanji": "枘",
+	"meanings": ["the handle of tools", "tenon", "cog"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ゼイ", "ネイ", "ドン", "ノン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["せん", "ほぞ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4485,
+		"wikipedia": 4176
+	}
+}

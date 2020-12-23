@@ -1,0 +1,19 @@
+{
+	"kanji": "漚",
+	"meanings": ["soak", "steep", "sodden", "soaked"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["オウ", "ウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ひた"],
+		"rare": [],
+		"okurigana": ["ひた.す"]
+	},
+	"frequency": {
+		"mean": 4526,
+		"wikipedia": 4217
+	}
+}

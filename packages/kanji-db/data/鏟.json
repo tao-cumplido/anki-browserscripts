@@ -1,0 +1,19 @@
+{
+	"kanji": "鏟",
+	"meanings": ["spade", "shovel", "trowel", "scoop"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["サン", "セン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["いたがね"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4526,
+		"wikipedia": 4217
+	}
+}

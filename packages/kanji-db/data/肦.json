@@ -1,0 +1,19 @@
+{
+	"kanji": "肦",
+	"meanings": ["large head", "many", "high", "to divide", "to distribute"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["フン", "ハン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["たか", "わ"],
+		"rare": [],
+		"okurigana": ["たか.い", "わ.ける"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

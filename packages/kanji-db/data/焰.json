@@ -1,0 +1,19 @@
+{
+	"kanji": "焰",
+	"meanings": ["flame", "blaze", "glowing", "blazing"],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["エン"]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["ほのお"],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4428,
+		"wikipedia": 4119
+	}
+}

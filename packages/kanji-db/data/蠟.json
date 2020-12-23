@@ -1,0 +1,19 @@
+{
+	"kanji": "蠟",
+	"meanings": ["wax", "candle", "waxy", "glazed"],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["ロウ"]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["みつろう", "ろうそく"],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4347,
+		"wikipedia": 4038
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "蚦",
+	"meanings": ["boa constrictor"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ゼン", "ネン", "ザン", "ナン", "テン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["にしきへび"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"kanji": "硏",
+	"meanings": ["grind"],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["ケン"]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["とぐ", "みがく"],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4481,
+		"twitter": 1727,
+		"wikipedia": 4173
+	}
+}

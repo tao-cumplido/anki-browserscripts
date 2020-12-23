@@ -1,0 +1,19 @@
+{
+	"kanji": "咍",
+	"meanings": ["laugh"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["カイ", "タイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["わら", "よろこ"],
+		"rare": [],
+		"okurigana": ["わら.う", "よろこ.ぶ"]
+	},
+	"frequency": {
+		"mean": 4539,
+		"wikipedia": 4230
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"kanji": "烘",
+	"meanings": ["bake", "roast", "grill", "dry by fire"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["コウ", "キョウ", "ク"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["かがりび", "あぶ"],
+		"rare": [],
+		"okurigana": ["あぶ.る"]
+	},
+	"frequency": {
+		"mean": 4498,
+		"news": 1704,
+		"wikipedia": 4191
+	}
+}

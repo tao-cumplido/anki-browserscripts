@@ -1,0 +1,20 @@
+{
+	"kanji": "溱",
+	"meanings": ["river in Henan"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["シン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["おお"],
+		"rare": [],
+		"okurigana": ["おお.い"]
+	},
+	"frequency": {
+		"mean": 4460,
+		"twitter": 1726,
+		"wikipedia": 4153
+	}
+}

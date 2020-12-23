@@ -1,0 +1,19 @@
+{
+	"kanji": "睒",
+	"meanings": ["to glance at", "to peep", "glittering", "to shine"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["セン", "ダン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ぬすみ"],
+		"rare": [],
+		"okurigana": ["ぬすみ.みる"]
+	},
+	"frequency": {
+		"mean": 4535,
+		"wikipedia": 4226
+	}
+}

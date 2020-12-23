@@ -1,0 +1,19 @@
+{
+	"kanji": "吡",
+	"meanings": ["blame"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ヒツ", "ビチ", "ヒ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["そし"],
+		"rare": [],
+		"okurigana": ["そし.る"]
+	},
+	"frequency": {
+		"mean": 4538,
+		"wikipedia": 4229
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "乚",
+	"meanings": ["hidden", "mysterious", "secret", "to conceal", "small", "minute", "fishhook radical variant (no. 5)"],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["イン", "オン"]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["かく", "かか", "よ"],
+		"okurigana": ["かく.す", "かく.れる", "かか.す", "よ.る"]
+	},
+	"frequency": {
+		"mean": 4533,
+		"wikipedia": 4224
+	}
+}

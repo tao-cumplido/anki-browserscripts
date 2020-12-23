@@ -1,0 +1,19 @@
+{
+	"kanji": "顓",
+	"meanings": ["good", "honest", "simple", "respectful"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["セン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["うやうや"],
+		"rare": [],
+		"okurigana": ["うやうや.しい"]
+	},
+	"frequency": {
+		"mean": 4435,
+		"wikipedia": 4126
+	}
+}

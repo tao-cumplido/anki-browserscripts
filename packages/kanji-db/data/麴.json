@@ -1,0 +1,21 @@
+{
+	"kanji": "麴",
+	"meanings": ["yeast", "leaven", "surname"],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["キク"]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["こうじ"],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4213,
+		"news": 1696,
+		"twitter": 1720,
+		"wikipedia": 3917
+	}
+}

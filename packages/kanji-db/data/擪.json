@@ -1,0 +1,19 @@
+{
+	"kanji": "擪",
+	"meanings": ["to tuck in", "to put the finger into", "to put in", "to stow away"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ヨウ", "チョウ", "ジョウ", "ニョウ", "オウ", "エン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["おさ", "も"],
+		"rare": [],
+		"okurigana": ["おさ.える", "も.つ"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "喿",
+	"meanings": ["chirping of birds"],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["ソウ", "ショウ"]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["さわ", "かしま", "すき"],
+		"okurigana": ["さわ.ぐ", "かしま.しい"]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

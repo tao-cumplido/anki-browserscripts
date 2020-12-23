@@ -1,0 +1,19 @@
+{
+	"kanji": "踔",
+	"meanings": ["to get ahead", "to stride", "to excel"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["トウ", "チョウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["たく", "ふ"],
+		"rare": [],
+		"okurigana": ["ふ.む"]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

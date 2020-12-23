@@ -1,0 +1,19 @@
+{
+	"kanji": "欿",
+	"meanings": ["discontented", "sad", "gloomy"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["タン", "トン", "カン", "コン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["もと"],
+		"rare": [],
+		"okurigana": ["もと.める"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

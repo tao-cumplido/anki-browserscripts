@@ -1,0 +1,19 @@
+{
+	"kanji": "堌",
+	"meanings": ["dam", "dike", "used in place names"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["コ", "ク"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["つつ", "つか"],
+		"rare": [],
+		"okurigana": ["つつ.み"]
+	},
+	"frequency": {
+		"mean": 4534,
+		"wikipedia": 4225
+	}
+}

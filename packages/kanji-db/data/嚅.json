@@ -1,0 +1,19 @@
+{
+	"kanji": "嚅",
+	"meanings": ["talk indistinctly and falteringly"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ジュ", "ニュ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["やかま"],
+		"rare": [],
+		"okurigana": ["やかま.しい"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

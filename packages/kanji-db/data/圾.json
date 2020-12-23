@@ -1,0 +1,19 @@
+{
+	"kanji": "圾",
+	"meanings": ["garbage", "rubbish", "shaking", "danger"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ギュウ", "ゴウ", "ショク", "セイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["あや"],
+		"rare": [],
+		"okurigana": ["あや.うい"]
+	},
+	"frequency": {
+		"mean": 4530,
+		"wikipedia": 4221
+	}
+}

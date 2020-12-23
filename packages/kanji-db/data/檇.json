@@ -1,0 +1,19 @@
+{
+	"kanji": "檇",
+	"meanings": ["wooden rammer", "wooden pestle", "place"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["スイ", "サイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["つ"],
+		"rare": [],
+		"okurigana": ["つ.く"]
+	},
+	"frequency": {
+		"mean": 4538,
+		"wikipedia": 4229
+	}
+}

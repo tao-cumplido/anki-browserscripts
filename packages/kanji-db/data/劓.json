@@ -1,0 +1,19 @@
+{
+	"kanji": "劓",
+	"meanings": ["cut off nose"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ギ", "ゲイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["はなき", "はなきり", "さ"],
+		"rare": [],
+		"okurigana": ["はなき.る", "さ.く"]
+	},
+	"frequency": {
+		"mean": 4524,
+		"wikipedia": 4215
+	}
+}

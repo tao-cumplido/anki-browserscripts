@@ -1,0 +1,19 @@
+{
+	"kanji": "嬈",
+	"meanings": ["graceful", "charming", "fascinating"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ニョウ", "ドウ", "キョウ", "ジョウ", "ヨウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["わずら", "なや"],
+		"rare": [],
+		"okurigana": ["わずら.わしい", "なや.む"]
+	},
+	"frequency": {
+		"mean": 4533,
+		"wikipedia": 4224
+	}
+}

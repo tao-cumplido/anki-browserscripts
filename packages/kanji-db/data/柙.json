@@ -1,0 +1,19 @@
+{
+	"kanji": "柙",
+	"meanings": ["cage", "pen for wild animals"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["コウ", "オウ", "ヨウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["おり"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"kanji": "丿",
+	"meanings": ["katakana no radical (no. 4)"],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["ヘツ"]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["えい", "よう"],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 3954,
+		"literature": 2941,
+		"twitter": 1542,
+		"wikipedia": 4076
+	},
+	"strokes": ["M54.98,13.75c0.77,2.25,1.87,4.02,1.87,6.83c0,25.67,3.15,62.67-23.04,75.89"]
+}

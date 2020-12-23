@@ -1,0 +1,19 @@
+{
+	"kanji": "蹭",
+	"meanings": ["procrastinate", "dilly dally"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ソウ", "ショウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["よろめ"],
+		"rare": [],
+		"okurigana": ["よろめ.く"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "嚳",
+	"meanings": ["mythical emperor", "to inform quickly", "an urgent communication"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["コク"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["つ"],
+		"rare": [],
+		"okurigana": ["つ.げる"]
+	},
+	"frequency": {
+		"mean": 4501,
+		"wikipedia": 4192
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "媿",
+	"meanings": ["ashamed", "conscience-stricken"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["キ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["はじ", "はずかし", "とが"],
+		"rare": [],
+		"okurigana": ["はじ.る", "はじ.らう", "はずかし.める", "とが.める"]
+	},
+	"frequency": {
+		"mean": 4539,
+		"wikipedia": 4230
+	}
+}

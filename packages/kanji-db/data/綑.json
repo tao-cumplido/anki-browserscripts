@@ -1,0 +1,19 @@
+{
+	"kanji": "綑",
+	"meanings": ["coil", "roll", "bundle", "tie up"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["コン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["お"],
+		"rare": [],
+		"okurigana": ["お.る"]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

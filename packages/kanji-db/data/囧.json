@@ -1,0 +1,20 @@
+{
+	"kanji": "囧",
+	"meanings": ["light", "clear", "bright"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ケイ", "キョウ", "ソウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["あきらか"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4395,
+		"twitter": 1630,
+		"wikipedia": 4184
+	}
+}

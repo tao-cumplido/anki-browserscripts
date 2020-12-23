@@ -1,0 +1,19 @@
+{
+	"kanji": "雟",
+	"meanings": ["sparrow", "revolve", "place name"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ケイ", "エ", "キ", "スイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["めぐり", "つばめ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4539,
+		"wikipedia": 4230
+	}
+}

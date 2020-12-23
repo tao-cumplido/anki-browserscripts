@@ -1,0 +1,19 @@
+{
+	"kanji": "礱",
+	"meanings": ["grind", "sharpen", "mill"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ロウ", "ル"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["と"],
+		"rare": [],
+		"okurigana": ["と.ぐ"]
+	},
+	"frequency": {
+		"mean": 4480,
+		"wikipedia": 4171
+	}
+}

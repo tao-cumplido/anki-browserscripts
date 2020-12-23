@@ -1,0 +1,19 @@
+{
+	"kanji": "儱",
+	"meanings": ["rude", "barbarous"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ロウ", "ル", "リョウ", "リュ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["できあ", "うやむや"],
+		"rare": [],
+		"okurigana": ["できあ.がらない"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

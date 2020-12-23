@@ -1,0 +1,19 @@
+{
+	"kanji": "噩",
+	"meanings": ["bad", "ill-omened", "unlucky"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ガク", "カク"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["おごそ", "おどろ"],
+		"rare": [],
+		"okurigana": ["おごそ.か", "おどろ.く"]
+	},
+	"frequency": {
+		"mean": 4534,
+		"wikipedia": 4225
+	}
+}

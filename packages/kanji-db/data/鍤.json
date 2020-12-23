@@ -1,0 +1,19 @@
+{
+	"kanji": "鍤",
+	"meanings": ["spade", "shovel", "marking pin"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ソウ", "ショウ", "チョウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["すき"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

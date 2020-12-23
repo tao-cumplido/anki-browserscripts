@@ -1,0 +1,19 @@
+{
+	"kanji": "緶",
+	"meanings": ["hem", "plait", "braid", "queue"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ヘン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["と"],
+		"rare": [],
+		"okurigana": ["と.る"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

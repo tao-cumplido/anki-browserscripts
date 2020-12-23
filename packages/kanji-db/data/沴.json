@@ -1,0 +1,19 @@
+{
+	"kanji": "沴",
+	"meanings": ["foul and poisonous in confusion", "out of harmony"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["レイ", "ライ", "テン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["そこな"],
+		"rare": [],
+		"okurigana": ["そこな.う"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

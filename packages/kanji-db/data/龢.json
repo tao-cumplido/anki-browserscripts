@@ -1,0 +1,19 @@
+{
+	"kanji": "龢",
+	"meanings": ["in harmony", "calm", "peaceful"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ワ", "オ", "カ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["やわ", "なご"],
+		"rare": [],
+		"okurigana": ["やわ.らぐ", "やわ.らげる", "なご.む", "なご.やか"]
+	},
+	"frequency": {
+		"mean": 4461,
+		"wikipedia": 4152
+	}
+}

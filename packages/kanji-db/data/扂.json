@@ -1,0 +1,19 @@
+{
+	"kanji": "扂",
+	"meanings": ["lock", "latch", "bar", "bolt"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["テン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["かんぬき", "とざし"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

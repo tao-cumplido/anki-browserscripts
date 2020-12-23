@@ -1,0 +1,19 @@
+{
+	"kanji": "茀",
+	"meanings": ["overgrown with grass", "weedy"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["フツ", "ブチ", "ホツ", "ボチ", "ヒ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ふさ"],
+		"rare": [],
+		"okurigana": ["ふさ.ぐ"]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

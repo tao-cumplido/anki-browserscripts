@@ -1,0 +1,19 @@
+{
+	"kanji": "饔",
+	"meanings": ["breakfast", "eat prepared food"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ヨウ", "ユ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["に"],
+		"rare": [],
+		"okurigana": ["に.る"]
+	},
+	"frequency": {
+		"mean": 4535,
+		"wikipedia": 4226
+	}
+}

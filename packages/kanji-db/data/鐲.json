@@ -1,0 +1,19 @@
+{
+	"kanji": "鐲",
+	"meanings": ["bracelet", "arm-band", "small bell"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["タク", "ショク", "ゾク"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ふりがね"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4539,
+		"wikipedia": 4230
+	}
+}

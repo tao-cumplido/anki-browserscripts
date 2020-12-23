@@ -1,0 +1,19 @@
+{
+	"kanji": "褎",
+	"meanings": ["sleeve", "ample flowing robes"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["シュウ", "ジュ", "ユウ", "ユ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["そで", "たもと"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

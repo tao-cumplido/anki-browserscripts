@@ -1,0 +1,19 @@
+{
+	"kanji": "迣",
+	"meanings": ["to leap over"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["セイ", "テイ", "レイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["さえぎ"],
+		"rare": [],
+		"okurigana": ["さえぎ.る"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

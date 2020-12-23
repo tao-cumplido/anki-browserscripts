@@ -1,0 +1,20 @@
+{
+	"kanji": "德",
+	"meanings": ["ethics", "morality", "virtue"],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["トク"]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["おしえ"],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 3012,
+		"twitter": 1725,
+		"wikipedia": 2835
+	}
+}

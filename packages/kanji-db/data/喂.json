@@ -1,0 +1,19 @@
+{
+	"kanji": "喂",
+	"meanings": ["interjection", "to call attention"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["イ", "キ", "カイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["なげ"],
+		"rare": [],
+		"okurigana": ["なげ.く"]
+	},
+	"frequency": {
+		"mean": 4533,
+		"wikipedia": 4224
+	}
+}

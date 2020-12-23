@@ -1,0 +1,19 @@
+{
+	"kanji": "襵",
+	"meanings": ["pleat in a skirt"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ショウ", "チョウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ひだ", "たた", "ぬ", "ぬいめ", "ま"],
+		"rare": [],
+		"okurigana": ["たた.む", "ぬ.う", "ま.く"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

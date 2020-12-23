@@ -1,0 +1,19 @@
+{
+	"kanji": "稉",
+	"meanings": ["non-glutinous rice"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["コウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["うるち", "ぬか"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

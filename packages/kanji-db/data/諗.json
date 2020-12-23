@@ -1,0 +1,19 @@
+{
+	"kanji": "諗",
+	"meanings": ["consult carefully with", "counsel"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["シン", "ジョウ", "ニョウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["いさ"],
+		"rare": [],
+		"okurigana": ["いさ.める"]
+	},
+	"frequency": {
+		"mean": 4526,
+		"wikipedia": 4217
+	}
+}

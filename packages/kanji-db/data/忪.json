@@ -1,0 +1,19 @@
+{
+	"kanji": "忪",
+	"meanings": ["quiet", "calm", "tranquil", "peaceful"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ショウ", "シュ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["おどろ"],
+		"rare": [],
+		"okurigana": ["おどろ.く"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "嗆",
+	"meanings": ["choke by smoke", "irritates nose"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ショウ", "ソウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ついば", "むせ", "つ"],
+		"rare": [],
+		"okurigana": ["ついば.む", "むせ.る", "つ.まる"]
+	},
+	"frequency": {
+		"mean": 4539,
+		"wikipedia": 4230
+	}
+}

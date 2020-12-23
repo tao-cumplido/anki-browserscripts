@@ -1,0 +1,19 @@
+{
+	"kanji": "襛",
+	"meanings": ["fine clothes"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ジョウ", "ニュ", "ジュウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["あつ"],
+		"rare": [],
+		"okurigana": ["あつ.い"]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

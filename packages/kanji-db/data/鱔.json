@@ -1,0 +1,19 @@
+{
+	"kanji": "鱔",
+	"meanings": ["eel"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["セン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["うみへび", "ごまめ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4520,
+		"wikipedia": 4211
+	}
+}

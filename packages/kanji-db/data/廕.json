@@ -1,0 +1,19 @@
+{
+	"kanji": "廕",
+	"meanings": ["shade", "protect", "cover"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["イン", "オン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["おお", "かば", "かげ"],
+		"rare": [],
+		"okurigana": ["おお.う", "かば.う"]
+	},
+	"frequency": {
+		"mean": 4534,
+		"wikipedia": 4225
+	}
+}

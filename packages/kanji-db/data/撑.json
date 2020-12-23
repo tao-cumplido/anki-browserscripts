@@ -1,0 +1,19 @@
+{
+	"kanji": "撑",
+	"meanings": ["prop up", "support", "brace"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["チョウ", "トウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ささ", "あ"],
+		"rare": [],
+		"okurigana": ["ささ.える", "あ.く"]
+	},
+	"frequency": {
+		"mean": 4526,
+		"wikipedia": 4217
+	}
+}

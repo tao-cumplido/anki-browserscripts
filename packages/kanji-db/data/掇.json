@@ -1,0 +1,19 @@
+{
+	"kanji": "掇",
+	"meanings": ["collect", "gather up", "pick up"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["タツ", "タチ", "テツ", "テチ", "セツ", "セチ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ひろ"],
+		"rare": [],
+		"okurigana": ["ひろ.う"]
+	},
+	"frequency": {
+		"mean": 4523,
+		"wikipedia": 4214
+	}
+}

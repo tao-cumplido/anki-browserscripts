@@ -1,0 +1,19 @@
+{
+	"kanji": "响",
+	"meanings": ["make sound", "make noise", "sound"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["キョウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ひび"],
+		"rare": [],
+		"okurigana": ["ひび.く"]
+	},
+	"frequency": {
+		"mean": 4488,
+		"wikipedia": 4179
+	}
+}

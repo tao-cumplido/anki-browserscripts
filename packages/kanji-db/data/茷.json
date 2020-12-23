@@ -1,0 +1,19 @@
+{
+	"kanji": "茷",
+	"meanings": ["flutter", "flower"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ハイ", "ヒツ", "ホチ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["しげ"],
+		"rare": [],
+		"okurigana": ["しげ.る"]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "涑",
+	"meanings": ["river in Shansi province"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ソウ", "ス", "シュウ", "シュ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["すす"],
+		"rare": [],
+		"okurigana": ["すす.ぐ"]
+	},
+	"frequency": {
+		"mean": 4525,
+		"wikipedia": 4216
+	}
+}

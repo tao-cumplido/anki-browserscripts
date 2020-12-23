@@ -1,0 +1,19 @@
+{
+	"kanji": "圂",
+	"meanings": ["pig-sty", "privy"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["コン", "カン", "ダン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["かわや", "わずら"],
+		"rare": [],
+		"okurigana": ["わずら.わす"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

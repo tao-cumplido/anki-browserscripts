@@ -1,0 +1,19 @@
+{
+	"kanji": "饇",
+	"meanings": ["to eat too much", "surfeited", "to confer"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ヨ", "オ", "ウ", "オウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["あく"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

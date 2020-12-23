@@ -1,0 +1,21 @@
+{
+	"kanji": "禱",
+	"meanings": ["pray", "entreat", "beg", "plead", "prayer"],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["トウ"]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["いの", "まつ"],
+		"okurigana": ["いの.る", "まつ.る"]
+	},
+	"frequency": {
+		"mean": 4226,
+		"news": 1629,
+		"twitter": 1727,
+		"wikipedia": 3990
+	}
+}

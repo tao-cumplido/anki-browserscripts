@@ -1,0 +1,19 @@
+{
+	"kanji": "譸",
+	"meanings": ["deceive", "cheat", "hurried", "bustling"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["チュウ", "チュ", "ジュ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["のろ"],
+		"rare": [],
+		"okurigana": ["のろ.う"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

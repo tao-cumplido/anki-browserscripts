@@ -1,0 +1,19 @@
+{
+	"kanji": "筲",
+	"meanings": ["basket", "bucket"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ソウ", "ショウ", "サク"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["かご"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4452,
+		"wikipedia": 4143
+	}
+}

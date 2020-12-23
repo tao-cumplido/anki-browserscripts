@@ -1,0 +1,19 @@
+{
+	"kanji": "侗",
+	"meanings": ["big", "ignorant", "rude", "rustic"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["トウ", "ツ", "ズ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["おろ", "いた", "かたち", "なおい", "まこと", "つつし"],
+		"rare": [],
+		"okurigana": ["おろ.か", "いた.む", "つつし.む"]
+	},
+	"frequency": {
+		"mean": 4340,
+		"wikipedia": 4031
+	}
+}

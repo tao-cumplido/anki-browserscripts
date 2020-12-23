@@ -1,0 +1,19 @@
+{
+	"kanji": "鋍",
+	"meanings": ["Beryllium (element)"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ホツ", "ボチ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["あきこぼ", "ベリリウム"],
+		"rare": [],
+		"okurigana": ["あきこぼ.れる"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

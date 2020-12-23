@@ -1,0 +1,19 @@
+{
+	"kanji": "脃",
+	"meanings": ["gland"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["セイ", "セツ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["もろ", "よわ"],
+		"rare": [],
+		"okurigana": ["もろ.い", "よわ.い"]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

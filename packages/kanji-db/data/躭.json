@@ -1,0 +1,19 @@
+{
+	"kanji": "躭",
+	"meanings": ["to delay", "to loiter", "to hinder"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["タン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ふ"],
+		"rare": [],
+		"okurigana": ["ふ.ける"]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

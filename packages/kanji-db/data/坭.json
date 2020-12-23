@@ -1,0 +1,19 @@
+{
+	"kanji": "坭",
+	"meanings": ["mud", "mire", "to paste", "to plaster"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["デイ", "ナイ", "デ", "ニ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["どろ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4522,
+		"wikipedia": 4213
+	}
+}

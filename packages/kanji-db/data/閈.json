@@ -1,0 +1,19 @@
+{
+	"kanji": "閈",
+	"meanings": ["village"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["カン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["さと", "ふせ", "と"],
+		"rare": [],
+		"okurigana": ["ふせ.ぐ", "と.じる"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

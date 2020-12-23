@@ -1,0 +1,19 @@
+{
+	"kanji": "穌",
+	"meanings": ["revive", "to rise again", "collect"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ソ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["かきあつ"],
+		"rare": [],
+		"okurigana": ["かきあつ.める"]
+	},
+	"frequency": {
+		"mean": 4520,
+		"wikipedia": 4211
+	}
+}

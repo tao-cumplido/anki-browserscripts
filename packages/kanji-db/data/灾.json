@@ -1,0 +1,20 @@
+{
+	"kanji": "灾",
+	"meanings": ["calamity", "disaster", "catastrophe"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["サイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["わざわ"],
+		"rare": [],
+		"okurigana": ["わざわ.い"]
+	},
+	"frequency": {
+		"mean": 4483,
+		"twitter": 1727,
+		"wikipedia": 4175
+	}
+}

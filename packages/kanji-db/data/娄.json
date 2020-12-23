@@ -1,0 +1,19 @@
+{
+	"kanji": "娄",
+	"meanings": ["surname", "constellation", "to wear"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ル", "ロウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["つな", "ひ"],
+		"rare": [],
+		"okurigana": ["つな.ぐ", "ひ.く"]
+	},
+	"frequency": {
+		"mean": 4512,
+		"wikipedia": 4203
+	}
+}

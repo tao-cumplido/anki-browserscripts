@@ -1,0 +1,19 @@
+{
+	"kanji": "酹",
+	"meanings": ["to pour out a libation", "to sprinkle"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ライ", "ルイ", "ラツ", "ラチ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["そそ"],
+		"rare": [],
+		"okurigana": ["そそ.ぐ"]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "迻",
+	"meanings": ["to shift", "to transfer", "to translate"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["イ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["うつ"],
+		"rare": [],
+		"okurigana": ["うつ.る"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

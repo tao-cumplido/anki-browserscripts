@@ -1,0 +1,19 @@
+{
+	"kanji": "刘",
+	"meanings": ["surname", "kill", "destroy"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["リュウ", "ル"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ころ"],
+		"rare": [],
+		"okurigana": ["ころ.す"]
+	},
+	"frequency": {
+		"mean": 4170,
+		"wikipedia": 3854
+	}
+}

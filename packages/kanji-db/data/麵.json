@@ -1,0 +1,20 @@
+{
+	"kanji": "麵",
+	"meanings": ["flour", "dough", "noodles"],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["メン", "ベン"]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["むぎこ"],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4203,
+		"twitter": 1712,
+		"wikipedia": 3906
+	}
+}

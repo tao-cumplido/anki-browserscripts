@@ -1,0 +1,19 @@
+{
+	"kanji": "逬",
+	"meanings": ["to scatter", "to expel", "to crack", "to split", "to jump"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ホウ", "ヒョウ", "ヘイ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["はし", "ほとばし", "しりぞ", "つかう"],
+		"rare": [],
+		"okurigana": ["はし.る", "ほとばし.る", "しりぞ.ける"]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

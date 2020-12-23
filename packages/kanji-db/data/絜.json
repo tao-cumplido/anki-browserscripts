@@ -1,0 +1,19 @@
+{
+	"kanji": "絜",
+	"meanings": ["marking line", "ascertain", "assess", "measure"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ケツ", "ケチ", "ケイ", "カツ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["あさ", "たば", "きよ"],
+		"rare": [],
+		"okurigana": ["きよ.い"]
+	},
+	"frequency": {
+		"mean": 4524,
+		"wikipedia": 4215
+	}
+}

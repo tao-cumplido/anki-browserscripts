@@ -1,0 +1,19 @@
+{
+	"kanji": "謊",
+	"meanings": ["lie"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["コウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["いつわ"],
+		"rare": [],
+		"okurigana": ["いつわ.る"]
+	},
+	"frequency": {
+		"mean": 4523,
+		"wikipedia": 4214
+	}
+}

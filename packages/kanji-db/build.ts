@@ -4,7 +4,7 @@ import path from 'path';
 import type { MappedRecord } from 'misc-util';
 import csvParse from 'csv-parse/lib/sync';
 import xml from 'fast-xml-parser';
-import { ensureDirSync, readdirSync, readFileSync, readJsonSync, writeJsonSync } from 'fs-extra';
+import { ensureDirSync, readdirSync, readFileSync, readJsonSync, writeJson } from 'fs-extra';
 
 import type { KanjiEntry, Readings } from './types';
 
@@ -163,9 +163,21 @@ const mapReadingSets = (readings: MappedRecord<Readings, Set<string>>) => {
 
 const generateFrequencyInfo = (source: Partial<Record<string, number>>, kanji: string) => source[kanji];
 
-const data = kanjidic
+const dataPath = path.resolve(__dirname, 'data');
+
+ensureDirSync(dataPath);
+
+kanjidic
 	.filter((entry): entry is Required<typeof entry> => 'reading_meaning' in entry)
-	.map<KanjiEntry>((entry, index, { length }) => {
+	.map((entry) => {
+		const meanings = [entry.reading_meaning.rmgroup.meaning].flat().filter(($): $ is string => typeof $ === 'string');
+		return {
+			entry,
+			meanings,
+		};
+	})
+	.filter(({ meanings }) => meanings.length > 0)
+	.forEach(({ entry, meanings }, index, { length }) => {
 		const kanji = entry.literal;
 
 		printProgress(`processing entry for: ${kanji}`, index + 1, length);
@@ -193,8 +205,6 @@ const data = kanjidic
 				okurigana: new Set<string>(),
 			});
 
-		const meanings = [entry.reading_meaning.rmgroup.meaning].flat().filter(($): $ is string => typeof $ === 'string');
-
 		let frequency;
 
 		if (kanji in frequencyRanks.all) {
@@ -215,7 +225,7 @@ const data = kanjidic
 			keyword = rtkEntry.keyword_6th_ed || rtkEntry.keyword_5th_ed;
 		}
 
-		return {
+		const result: KanjiEntry = {
 			kanji,
 			meanings,
 			keyword,
@@ -224,7 +234,6 @@ const data = kanjidic
 			frequency,
 			strokes: strokes[kanji],
 		};
-	});
 
-ensureDirSync(path.resolve(__dirname, 'dist'));
-writeJsonSync(path.resolve(__dirname, 'dist/kanji-db.json'), data);
+		writeJson(path.join(dataPath, `${kanji}.json`), result, { spaces: '\t' }).catch(console.error);
+	});

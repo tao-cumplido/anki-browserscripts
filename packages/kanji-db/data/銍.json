@@ -1,0 +1,19 @@
+{
+	"kanji": "銍",
+	"meanings": ["sickle"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["チツ", "チチ", "シツ", "シチ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["かま"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4521,
+		"wikipedia": 4212
+	}
+}

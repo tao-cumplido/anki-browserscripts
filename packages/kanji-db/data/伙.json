@@ -1,0 +1,19 @@
+{
+	"kanji": "伙",
+	"meanings": ["companion", "colleague", "utensils"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["カ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ひ", "ほ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4502,
+		"wikipedia": 4193
+	}
+}

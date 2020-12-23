@@ -1,0 +1,19 @@
+{
+	"kanji": "歆",
+	"meanings": ["like", "admire", "willingly", "gladly", "to quicken"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["キン", "コン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["う"],
+		"rare": [],
+		"okurigana": ["う.ける"]
+	},
+	"frequency": {
+		"mean": 4257,
+		"wikipedia": 3946
+	}
+}

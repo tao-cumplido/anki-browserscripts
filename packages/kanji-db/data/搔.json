@@ -1,0 +1,20 @@
+{
+	"kanji": "搔",
+	"meanings": ["to scratch"],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["ソウ"]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["か"],
+		"okurigana": ["か.く"]
+	},
+	"frequency": {
+		"mean": 4473,
+		"news": 1704,
+		"wikipedia": 4166
+	}
+}

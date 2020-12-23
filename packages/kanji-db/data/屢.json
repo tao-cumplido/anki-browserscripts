@@ -1,0 +1,19 @@
+{
+	"kanji": "屢",
+	"meanings": ["frequently", "often", "again &amp; again"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ル"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["しばしば"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4491,
+		"wikipedia": 4182
+	}
+}

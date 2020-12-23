@@ -1,0 +1,19 @@
+{
+	"kanji": "筭",
+	"meanings": ["an ancient device for working with numbers", "count", "calculate", "figure"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["サン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["そろばん", "かぞ"],
+		"rare": [],
+		"okurigana": ["かぞ.える"]
+	},
+	"frequency": {
+		"mean": 4530,
+		"wikipedia": 4221
+	}
+}

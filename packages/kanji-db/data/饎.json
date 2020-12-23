@@ -1,0 +1,19 @@
+{
+	"kanji": "饎",
+	"meanings": ["wine and food eaten with wine"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["シ", "キ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["さけさかな", "む"],
+		"rare": [],
+		"okurigana": ["む.す"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

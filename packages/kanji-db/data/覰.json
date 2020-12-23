@@ -1,0 +1,19 @@
+{
+	"kanji": "覰",
+	"meanings": ["to spy", "to watch for"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ソ", "ショ", "キョ", "シュ", "ス"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["うかが", "み", "あら"],
+		"rare": [],
+		"okurigana": ["うかが.う", "み.る", "あら.い"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

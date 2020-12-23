@@ -1,0 +1,20 @@
+{
+	"kanji": "廆",
+	"meanings": ["room", "the wall of a house", "man's name"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["カイ", "エ", "ケ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["かき"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4426,
+		"twitter": 1726,
+		"wikipedia": 4119
+	}
+}

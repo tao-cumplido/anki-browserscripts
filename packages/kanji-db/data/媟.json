@@ -1,0 +1,19 @@
+{
+	"kanji": "媟",
+	"meanings": ["lust after", "act indecently", "lewd"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["セツ", "セチ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["けが", "なれ", "あなど"],
+		"rare": [],
+		"okurigana": ["けが.す", "けが.れる", "なれ.る", "あなど.る"]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

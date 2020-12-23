@@ -1,0 +1,19 @@
+{
+	"kanji": "讋",
+	"meanings": ["fear", "envy", "loquacious"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ショウ", "トウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["おそ"],
+		"rare": [],
+		"okurigana": ["おそ.れる"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "墐",
+	"meanings": ["build with soil", "plaster over with soil"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["キン", "ゴン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ぬ", "ねばつち"],
+		"rare": [],
+		"okurigana": ["ぬ.る"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

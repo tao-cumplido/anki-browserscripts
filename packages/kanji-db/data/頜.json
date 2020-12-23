@@ -1,0 +1,19 @@
+{
+	"kanji": "頜",
+	"meanings": ["mouth", "jaw"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["カン", "ゴン", "コウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["あご"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

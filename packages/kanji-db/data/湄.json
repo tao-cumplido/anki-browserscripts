@@ -1,0 +1,19 @@
+{
+	"kanji": "湄",
+	"meanings": ["water's edge", "shore", "bank"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ビ", "ミ", "ダン", "ナン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["みずぎわ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4440,
+		"wikipedia": 4131
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "紾",
+	"meanings": ["turns", "twists", "switch"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["シン", "テン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["もと"],
+		"rare": [],
+		"okurigana": ["もと.る"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

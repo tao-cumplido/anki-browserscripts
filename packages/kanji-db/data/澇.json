@@ -1,0 +1,19 @@
+{
+	"kanji": "澇",
+	"meanings": ["inundate", "flood", "torrent"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ロウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["おおなみ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4529,
+		"wikipedia": 4220
+	}
+}

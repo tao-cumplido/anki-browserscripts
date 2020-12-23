@@ -1,0 +1,20 @@
+{
+	"kanji": "异",
+	"meanings": ["different", "unusual", "strange"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["イ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["あ"],
+		"rare": [],
+		"okurigana": ["あ.げる"]
+	},
+	"frequency": {
+		"mean": 4463,
+		"twitter": 1727,
+		"wikipedia": 4155
+	}
+}

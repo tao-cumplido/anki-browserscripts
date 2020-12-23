@@ -1,0 +1,19 @@
+{
+	"kanji": "镸",
+	"meanings": ["long radical (no. 168)"],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["チョウ"]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["なが", "おさ"],
+		"okurigana": ["なが.い"]
+	},
+	"frequency": {
+		"mean": 4538,
+		"wikipedia": 4229
+	}
+}

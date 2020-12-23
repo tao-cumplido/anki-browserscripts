@@ -1,0 +1,19 @@
+{
+	"kanji": "揸",
+	"meanings": ["handful", "pick up with fingers"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["サ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["つま"],
+		"rare": [],
+		"okurigana": ["つま.む"]
+	},
+	"frequency": {
+		"mean": 4536,
+		"wikipedia": 4227
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "匽",
+	"meanings": ["to hide", "to secrete", "to repress", "to bend"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["エン"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["かく", "ふ", "なび", "はこ", "どぶ"],
+		"rare": [],
+		"okurigana": ["かく.す", "ふ.す", "なび.く"]
+	},
+	"frequency": {
+		"mean": 4534,
+		"wikipedia": 4225
+	}
+}

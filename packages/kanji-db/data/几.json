@@ -1,0 +1,26 @@
+{
+	"kanji": "几",
+	"meanings": ["table", "table enclosure", "table or windy radical (no. 16)"],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["キ"]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": ["きにょう"],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 3191,
+		"literature": 2187,
+		"news": 1705,
+		"twitter": 1717,
+		"wikipedia": 3485
+	},
+	"strokes": [
+		"M35.05,21.5c0.65,1.89,1.57,3.38,1.57,5.74c0,21.57,1.65,52.66-20.37,63.76",
+		"M37,23.5c3.75-0.75,21.5-3.25,24.5-4s6.25,0.75,5.5,4.5s-0.5,55-0.5,57.75S67.25,90,78.75,90c17,0,13.5-4,13.5-9.75"
+	]
+}

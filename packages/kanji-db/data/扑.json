@@ -1,0 +1,19 @@
+{
+	"kanji": "扑",
+	"meanings": ["pound", "beat", "strike", "attack"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ボク", "ハク", "ホウ", "フ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["かるくう", "むちう"],
+		"rare": [],
+		"okurigana": ["かるくう.つ", "むちう.つ"]
+	},
+	"frequency": {
+		"mean": 4531,
+		"wikipedia": 4222
+	}
+}

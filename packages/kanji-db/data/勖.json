@@ -1,0 +1,19 @@
+{
+	"kanji": "勖",
+	"meanings": ["enjoin", "advise", "preach to"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["キャク", "コク", "ボウ", "キョク"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["つと"],
+		"rare": [],
+		"okurigana": ["つと.める"]
+	},
+	"frequency": {
+		"mean": 4516,
+		"wikipedia": 4207
+	}
+}

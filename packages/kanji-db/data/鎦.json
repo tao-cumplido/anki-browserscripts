@@ -1,0 +1,19 @@
+{
+	"kanji": "鎦",
+	"meanings": ["distill", "lutecium", "surname"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["リュウ", "ル"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["こしき", "かま", "ころ"],
+		"rare": [],
+		"okurigana": ["ころ.す"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

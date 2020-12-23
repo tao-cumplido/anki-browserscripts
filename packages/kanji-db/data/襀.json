@@ -1,0 +1,19 @@
+{
+	"kanji": "襀",
+	"meanings": ["pleat", "fold", "tuck", "crease"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["セキ", "シャク"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ひだ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4535,
+		"wikipedia": 4226
+	}
+}

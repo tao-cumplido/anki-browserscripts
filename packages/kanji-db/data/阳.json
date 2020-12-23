@@ -1,0 +1,20 @@
+{
+	"kanji": "阳",
+	"meanings": ["\"male\" principle", "light", "sun"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["ヨウ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["ひ"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 3986,
+		"twitter": 1725,
+		"wikipedia": 3685
+	}
+}

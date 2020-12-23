@@ -1,0 +1,19 @@
+{
+	"kanji": "嗞",
+	"meanings": ["to consult about", "to plan", "to report in writing to an equal", "a despatch"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["シ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["なげ", "わら"],
+		"rare": [],
+		"okurigana": ["なげ.く", "わら.う"]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "佪",
+	"meanings": ["hesitate", "go around"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["カイ", "エ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["さまよ"],
+		"rare": [],
+		"okurigana": ["さまよ.う"]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"kanji": "媞",
+	"meanings": ["at ease"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["シ", "テイ", "タイ", "タ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["つまび", "わるがしこ", "はは"],
+		"rare": [],
+		"okurigana": ["つまび.らか", "わるがしこ.い"]
+	},
+	"frequency": {
+		"mean": 4455,
+		"wikipedia": 4146
+	}
+}

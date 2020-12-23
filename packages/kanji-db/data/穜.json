@@ -1,0 +1,19 @@
+{
+	"kanji": "穜",
+	"meanings": ["rice"],
+	"onyomi": {
+		"frequent": [],
+		"common": ["トウ", "ズ", "ショウ", "シュ"],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": ["おくて"],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}
