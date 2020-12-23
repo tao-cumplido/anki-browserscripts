@@ -1,20 +1,18 @@
 import parse from 'parse';
 
-import { Extension } from './extension';
-import styles from './extension.scss';
-import { Sanseido } from './sites/sanseido';
+import type { Extension } from './extension';
+import { Jisho } from './sites/jisho';
 
 const sites: Partial<Record<string, new () => Extension>> = {
-   'www.sanseido.biz': Sanseido,
+	'jisho.org': Jisho,
 };
 
+// eslint-disable-next-line @typescript-eslint/naming-convention
 const KanjiExtension = sites[location.hostname];
 
 if (!KanjiExtension) {
-   throw new Error(`no extension found for site: ${location.hostname}`);
+	throw new Error(`no extension found for site: ${location.hostname}`);
 }
-
-GM_addStyle(styles);
 
 parse.serverURL = PARSE_SERVER_URL;
 parse.initialize(PARSE_APPLICATION_ID, PARSE_JAVASCRIPT_KEY);

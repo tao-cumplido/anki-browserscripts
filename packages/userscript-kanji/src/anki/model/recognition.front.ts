@@ -1,21 +1,11 @@
-import { createCanvas } from './script/create-canvas';
+import { html, render } from 'lit-html';
+import { assert } from 'misc-util';
+
+import './script/kanji-main';
 import { parseData } from './script/parse-data';
-import { renderStrokes } from './script/render-strokes';
 
-const container = document.querySelector('#canvas');
-
-if (!container) {
-   throw new Error(`unexpected error: #canvas element missing in dom`);
-}
+const container = assert(document.querySelector('#kanji'));
 
 const data = parseData(`{{Data}}`);
 
-console.log(data);
-
-if (data.strokes) {
-   const svg = createCanvas();
-   renderStrokes(svg, data.strokes);
-   container.append(svg);
-} else {
-   container.textContent = `{{Kanji}}`;
-}
+render(html`<kanji-main .kanji=${data.kanji} .strokes=${data.strokes ?? []}></kanji-main>`, container);

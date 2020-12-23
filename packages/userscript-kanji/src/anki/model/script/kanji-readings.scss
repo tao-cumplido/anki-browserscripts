@@ -1,0 +1,23 @@
+:host {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+:host > *,
+details div {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.frequent {
+	font-weight: bold;
+}
+
+.rare {
+	color: rgb(0 0 0 / 50%);
+}
+
+.okurigana {
+	font-size: smaller;
+}

@@ -1,0 +1,58 @@
+:host {
+	display: flex;
+	width: 100%;
+	justify-content: space-evenly;
+	font-size: large;
+}
+
+.side {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	> * + * {
+		margin-top: 4px;
+	}
+}
+
+.canvas {
+	position: relative;
+	width: min(60vw, 250px);
+	height: min(60vw, 250px);
+	border: 1px solid #000;
+}
+
+canvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	cursor: crosshair;
+}
+
+svg {
+	width: 100%;
+	height: 100%;
+}
+
+line {
+	stroke: #bbb;
+	stroke-dasharray: 1 2;
+}
+
+path {
+	fill: none;
+	stroke-width: 3;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+}
+
+.strokes path {
+	stroke: #000;
+}
+
+.guides path {
+	stroke: #bbb;
+}

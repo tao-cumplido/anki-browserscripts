@@ -1,23 +1,23 @@
 {
-   "name": "kanji-db",
-   "version": "1.0.0-beta.3",
-   "author": "Tao Cumplido",
-   "private": true,
-   "scripts": {
-      "build": "ts-node build.ts"
-   },
-   "dependencies": {
-      "heisig-rtk": "https://github.com/sdcr/heisig-kanjis#c801bffcc44cb71b5bde6776265ee0898f2e7424",
-      "kanji-frequency": "https://github.com/scriptin/kanji-frequency#gh-pages",
-      "kanjium": "https://github.com/mifunetoshiro/kanjium#c97ef30c8777de7d5f8e5b04c696a3fe00a2a83a",
-      "kanjivg": "https://github.com/KanjiVG/kanjivg#1eaef89b17e088f14a13cbb7091607b2ba0530fb"
-   },
-   "devDependencies": {
-      "@types/fs-extra": "9.0.1",
-      "csv-parse": "4.11.1",
-      "fast-xml-parser": "3.17.4",
-      "fs-extra": "9.0.1",
-      "ts-node": "8.10.2",
-      "typescript": "3.9.7"
-   }
+	"name": "kanji-db",
+	"version": "2.0.0-beta.1",
+	"author": "Tao Cumplido",
+	"private": true,
+	"scripts": {
+		"build": "ts-node build.ts"
+	},
+	"dependencies": {
+		"heisig-rtk": "https://github.com/sdcr/heisig-kanjis#c801bffcc44cb71b5bde6776265ee0898f2e7424",
+		"kanji-frequency": "https://github.com/scriptin/kanji-frequency#gh-pages",
+		"kanjium": "https://github.com/mifunetoshiro/kanjium#c97ef30c8777de7d5f8e5b04c696a3fe00a2a83a",
+		"kanjivg": "https://github.com/KanjiVG/kanjivg#1eaef89b17e088f14a13cbb7091607b2ba0530fb"
+	},
+	"devDependencies": {
+		"@types/fs-extra": "9.0.2",
+		"csv-parse": "4.12.0",
+		"fast-xml-parser": "3.17.4",
+		"fs-extra": "9.0.1",
+		"ts-node": "9.0.0",
+		"typescript": "4.0.3"
+	}
 }

@@ -4,26 +4,30 @@ import style from './style.scss';
 import writingBack from './writing.back.html';
 import writingFront from './writing.front.html';
 
-export const modelVersion = PRODUCTION ? 1 : 0;
+export const modelVersion = PRODUCTION ? 2 : 0;
 
-export function modelName(version: number) {
-   return `jp:userscript:kanji:v${version}`;
+export const dbRevision = 1;
+
+export function modelName(version: number): string {
+	return `jp:userscript:kanji:v${version}`;
 }
 
 export const model = {
-   modelName: modelName(modelVersion),
-   inOrderFields: ['Kanji', 'Data'],
-   css: style,
-   cardTemplates: [
-      {
-         Name: 'Recognition',
-         Front: recognitionFront,
-         Back: recognitionBack,
-      },
-      {
-         Name: 'Writing',
-         Front: writingFront,
-         Back: writingBack,
-      },
-   ],
+	modelName: modelName(modelVersion),
+	inOrderFields: ['Kanji', 'DB', 'Data'],
+	css: style,
+	cardTemplates: [
+		/* eslint-disable @typescript-eslint/naming-convention */
+		{
+			Name: 'Recognition',
+			Front: recognitionFront,
+			Back: recognitionBack,
+		},
+		{
+			Name: 'Writing',
+			Front: writingFront,
+			Back: writingBack,
+		},
+		/* eslint-enable @typescript-eslint/naming-convention */
+	],
 };

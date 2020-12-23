@@ -1,7 +1,7 @@
 {
-   "extends": "./tsconfig.json",
-   "compilerOptions": {
-      "types": ["node", "jsdom", "jest"]
-   },
-   "exclude": ["dist"]
+	"extends": "./tsconfig.json",
+	"compilerOptions": {
+		"types": ["node", "jsdom", "jest"]
+	},
+	"exclude": ["dist"]
 }

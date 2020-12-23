@@ -1,11 +1,11 @@
 {
-   "extends": "../../tsconfig.json",
-   "compilerOptions": {
-      "module": "esnext",
-      "target": "esnext",
-      "types": ["tampermonkey"],
-      "lib": ["es2020", "dom", "dom.iterable"]
-   },
-   "include": ["src/**/*.ts"],
-   "exclude": ["src/**/*.spec.ts"]
+	"extends": "../../tsconfig.json",
+	"compilerOptions": {
+		"module": "esnext",
+		"target": "esnext",
+		"types": ["tampermonkey"],
+		"lib": ["es2020", "dom", "dom.iterable"]
+	},
+	"include": ["src/**/*.ts"],
+	"exclude": ["src/**/*.spec.ts"]
 }

@@ -1,74 +1,112 @@
-import { request, ModelTemplate } from 'anki-connect';
+import type { ModelTemplate, NotesInfoResult } from 'anki-connect';
+import type { KanjiEntry } from 'kanji-db';
+import { request } from 'anki-connect';
 import jsesc from 'jsesc';
-import { KanjiEntry } from 'kanji-db';
 
-import { model, modelName, modelVersion } from './model';
+import { dbRevision, model, modelName, modelVersion } from './model';
 
 async function checkModel() {
-   const availableModels = await request('modelNames');
+	const availableModels = await request('modelNames');
 
-   if (availableModels.includes(model.modelName)) {
-      if (!PRODUCTION) {
-         await request('updateModelStyling', {
-            model: {
-               name: model.modelName,
-               css: model.css,
-            },
-         });
+	if (availableModels.includes(model.modelName)) {
+		if (!PRODUCTION) {
+			const update = async () => {
+				/* eslint-disable no-console */
 
-         await request('updateModelTemplates', {
-            model: {
-               name: model.modelName,
-               templates: model.cardTemplates.reduce<Record<string, ModelTemplate>>((result, template) => {
-                  result[template.Name] = template;
-                  return result;
-               }, {}),
-            },
-         });
-      }
+				console.log(`updating model: '${model.modelName}'`);
 
-      return;
-   }
+				await request('updateModelStyling', {
+					model: {
+						name: model.modelName,
+						css: model.css,
+					},
+				});
 
-   return request('createModel', model);
+				console.log(`updated stylings for '${model.modelName}'`);
+
+				await request('updateModelTemplates', {
+					model: {
+						name: model.modelName,
+						templates: model.cardTemplates.reduce<Record<string, ModelTemplate>>((result, template) => {
+							result[template.Name] = template;
+							return result;
+						}, {}),
+					},
+				});
+
+				console.log(`updated templates for '${model.modelName}'`);
+
+				/* eslint-enable no-console */
+			};
+
+			update().catch(console.error);
+		}
+
+		return;
+	}
+
+	await request('createModel', model);
 }
 
-let isOnline = false;
+function escapeEntry(entry: KanjiEntry) {
+	return jsesc(JSON.stringify(entry), { quotes: 'double', minimal: true });
+}
+
+let isOnlineCache: Promise<boolean> | null = null;
+let notesCache: Promise<readonly NotesInfoResult[]> | null = null;
 
 export default {
-   isOnline: async () => {
-      if (isOnline) {
-         return true;
-      }
+	isOnline: async (): Promise<boolean> => {
+		isOnlineCache ??= request('version')
+			.then(async () => {
+				await checkModel();
+				return true;
+			})
+			.catch(() => false);
 
-      try {
-         await request('version');
-         isOnline = true;
-      } catch {}
+		return isOnlineCache;
+	},
+	decks: async (): Promise<readonly string[]> => request('deckNames'),
+	add: async (deck: string, kanji: string, data: KanjiEntry): Promise<number> =>
+		request('addNote', {
+			note: {
+				deckName: deck,
+				modelName: model.modelName,
+				fields: {
+					/* eslint-disable @typescript-eslint/naming-convention */
+					Kanji: kanji,
+					DB: `${dbRevision}`,
+					Data: escapeEntry(data),
+					/* eslint-enable @typescript-eslint/naming-convention */
+				},
+				tags: [],
+			},
+		}),
+	async notes({ forceUpdate = false } = {}): Promise<readonly NotesInfoResult[]> {
+		if (forceUpdate || !notesCache) {
+			notesCache = request('findNotes', {
+				query: [...Array(modelVersion).keys()].map((index) => `note:${modelName(index + 1)}`).join(' or '),
+			}).then(async (idList) => request('notesInfo', { notes: [...new Set(idList)] }));
+		}
 
-      await checkModel();
-
-      return isOnline;
-   },
-   decks: () => request('deckNames'),
-   add: (deck: string, kanji: string, data: KanjiEntry) => {
-      return request('addNote', {
-         note: {
-            deckName: deck,
-            modelName: model.modelName,
-            fields: {
-               Kanji: kanji,
-               Data: jsesc(JSON.stringify(data), { quotes: 'double', minimal: true }),
-            },
-            tags: [],
-         },
-      });
-   },
-   notes: async () => {
-      return request('notesInfo', {
-         notes: await request('findNotes', {
-            query: [...Array(modelVersion + 1).keys()].map((version) => `note:${modelName(version)}`).join(' or '),
-         }),
-      });
-   },
+		return notesCache;
+	},
+	async oldNotes(): Promise<readonly NotesInfoResult[]> {
+		const notes = await this.notes();
+		return notes.filter(({ fields }) => parseInt(fields['DB']?.value ?? '0') < dbRevision);
+	},
+	async update(id: number, data: KanjiEntry): Promise<void> {
+		await request('updateNoteFields', {
+			note: {
+				id,
+				modelName: model.modelName,
+				fields: {
+					/* eslint-disable @typescript-eslint/naming-convention */
+					DB: `${dbRevision}`,
+					Data: escapeEntry(data),
+					/* eslint-enable @typescript-eslint/naming-convention */
+				},
+			},
+		});
+	},
 };

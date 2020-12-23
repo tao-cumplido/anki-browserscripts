@@ -1,5 +1,5 @@
 {
-   "name": "@types/anki-persistence",
-   "version": "0.5.3",
-   "types": "index.d.ts"
+	"name": "@types/anki-persistence",
+	"version": "0.5.3",
+	"types": "index.d.ts"
 }

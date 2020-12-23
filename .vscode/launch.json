@@ -1,49 +1,47 @@
 {
-   // Use IntelliSense to learn about possible attributes.
-   // Hover to view descriptions of existing attributes.
-   // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-   "version": "0.2.0",
-   "configurations": [
-      {
-         "type": "node",
-         "request": "launch",
-         "name": "test:us-kanji",
-         "cwd": "${workspaceFolder}/packages/userscript-kanji",
-         "program": "${workspaceFolder}/node_modules/jest/bin/jest.js",
-         "args": ["--runInBand", "--watch"],
-         "console": "integratedTerminal",
-         "internalConsoleOptions": "neverOpen",
-         "disableOptimisticBPs": true
-      },
-      {
-         "type": "node",
-         "request": "launch",
-         "name": "webpack:us-kanji",
-         "cwd": "${workspaceFolder}/packages/userscript-kanji",
-         "program": "${workspaceFolder}/node_modules/webpack/bin/webpack.js",
-         "disableOptimisticBPs": true
-      },
-      {
-         "type": "node",
-         "request": "launch",
-         "name": "debug:current",
-         "skipFiles": ["<node_internals>/**"],
-         "args": ["${workspaceFolder}/${relativeFile}"],
-         "runtimeArgs": ["-r", "ts-node/register"],
-         "env": {
-            "TS_NODE_LOG_ERROR": "true"
-         }
-      },
-      {
-         "type": "chrome",
-         "request": "launch",
-         "name": "us-kanji:sanseido",
-         "url": "https://www.sanseido.biz/User/Dic/Index.aspx?TWords=%u7a7a+%u3080%u306a%u3057%u3044&st=0&DORDER=&DailyJJ=checkbox&DailyEJ=checkbox&DailyJE=checkbox",
-         "webRoot": "${workspaceFolder}/packages/userscript-kanji",
-         "userDataDir": "${workspaceFolder}/.dev",
-         "windows": {
-            "runtimeExecutable": "${env:USERPROFILE}/AppData/Local/Chromium/Application/chrome.exe"
-         }
-      }
-   ]
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "node",
+			"request": "launch",
+			"name": "test:us-kanji",
+			"cwd": "${workspaceFolder}/packages/userscript-kanji",
+			"program": "${workspaceFolder}/node_modules/jest/bin/jest.js",
+			"args": ["--runInBand", "--watch"],
+			"console": "integratedTerminal",
+			"internalConsoleOptions": "neverOpen",
+			"disableOptimisticBPs": true
+		},
+		{
+			"type": "node",
+			"request": "launch",
+			"name": "webpack:us-kanji",
+			"cwd": "${workspaceFolder}/packages/userscript-kanji",
+			"program": "${workspaceFolder}/node_modules/webpack/bin/webpack.js",
+			"disableOptimisticBPs": true
+		},
+		{
+			"type": "node",
+			"request": "launch",
+			"name": "debug:current",
+			"skipFiles": ["<node_internals>/**"],
+			"args": ["${workspaceFolder}/${relativeFile}"],
+			"runtimeArgs": ["-r", "ts-node/register"],
+			"env": {
+				"TS_NODE_LOG_ERROR": "true"
+			}
+		},
+		{
+			"type": "chrome",
+			"request": "launch",
+			"name": "us-kanji:jisho",
+			"url": "https://jisho.org/search/test",
+			"webRoot": "${workspaceFolder}/packages/userscript-kanji",
+			"userDataDir": "${workspaceFolder}/.dev/chrome",
+			"runtimeExecutable": "${env:CHROMIUM_EXECUTABLE}"
+		}
+	]
 }
