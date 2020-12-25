@@ -169,15 +169,7 @@ ensureDirSync(dataPath);
 
 kanjidic
 	.filter((entry): entry is Required<typeof entry> => 'reading_meaning' in entry)
-	.map((entry) => {
-		const meanings = [entry.reading_meaning.rmgroup.meaning].flat().filter(($): $ is string => typeof $ === 'string');
-		return {
-			entry,
-			meanings,
-		};
-	})
-	.filter(({ meanings }) => meanings.length > 0)
-	.forEach(({ entry, meanings }, index, { length }) => {
+	.forEach((entry, index, { length }) => {
 		const kanji = entry.literal;
 
 		printProgress(`processing entry for: ${kanji}`, index + 1, length);
@@ -204,6 +196,8 @@ kanjidic
 				rare: new Set<string>(),
 				okurigana: new Set<string>(),
 			});
+
+		const meanings = [entry.reading_meaning.rmgroup.meaning].flat().filter(($): $ is string => typeof $ === 'string');
 
 		let frequency;
 
@@ -234,6 +228,10 @@ kanjidic
 			frequency,
 			strokes: strokes[kanji],
 		};
+
+		if (!meanings.length || !keyword || !result.onyomi || !result.kunyomi || !frequency || !result.strokes) {
+			return;
+		}
 
 		writeJson(path.join(dataPath, `${kanji}.json`), result, { spaces: '\t' }).catch(console.error);
 	});
