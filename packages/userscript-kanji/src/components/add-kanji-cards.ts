@@ -1,21 +1,18 @@
 import type { NotesInfoResult } from 'anki-connect';
 import type { KanjiEntry } from 'kanji-db';
 import type { TemplateResult } from 'lit-element';
-import type { Object as Type } from 'parse';
 import { css, customElement, html, internalProperty, property, LitElement } from 'lit-element';
 import { nothing } from 'lit-html';
 import { classMap } from 'lit-html/directives/class-map';
 import 'misc-util/dom/inline-spinner';
-import { Query } from 'parse';
 
 import anki from '../anki';
 import { DeckSelect } from './deck-select';
 
-type ParseEntry = Type<KanjiEntry & { createdAt: string; updatedAt: string }>;
-
 interface KanjiOption {
 	kanji: string;
 	hint: TemplateResult | typeof nothing;
+	data?: KanjiEntry;
 	disabled?: boolean;
 	selected?: boolean;
 	onClick?: () => void;
@@ -24,6 +21,9 @@ interface KanjiOption {
 @customElement('kanji-select')
 export class AddKanjiCards extends LitElement {
 	private static readonly instances = new Set<AddKanjiCards>();
+
+	private static readonly data = new Map<string, KanjiEntry>();
+	private static readonly queries = new Map<string, Promise<void>>();
 
 	static readonly styles = css`
 		:host {
@@ -86,8 +86,6 @@ export class AddKanjiCards extends LitElement {
 	@internalProperty()
 	private options: KanjiOption[] = [];
 
-	private readonly parseQuery = new Query<ParseEntry>('Kanji');
-
 	@property({ attribute: false })
 	kanji: string[] = [];
 
@@ -96,18 +94,20 @@ export class AddKanjiCards extends LitElement {
 
 	private async updateOptions(notes: readonly NotesInfoResult[]) {
 		if (await anki.isOnline()) {
-			const offlineKanji = this.kanji.filter((字) => !notes.find(({ fields }) => fields['Kanji']?.value === 字));
+			const offlineKanji = this.kanji.filter((kanji) => !notes.find(({ fields }) => fields['Kanji']?.value === kanji));
 
-			this.options = this.kanji.map((字) => {
+			this.options = this.kanji.map((kanji) => {
 				this.preselected ??= this.kanji;
 
-				const isOffline = offlineKanji.includes(字);
+				const isOffline = offlineKanji.includes(kanji);
+				const data = AddKanjiCards.data.get(kanji);
 
 				const option: KanjiOption = {
-					kanji: 字,
-					hint: isOffline ? nothing : html`already in Anki`,
-					disabled: !isOffline,
-					selected: isOffline && this.preselected.includes(字),
+					kanji,
+					hint: isOffline ? (data ? nothing : html`no data`) : html`already in Anki`,
+					data,
+					disabled: !isOffline || !data,
+					selected: data && isOffline && this.preselected.includes(kanji),
 				};
 
 				option.onClick = () => {
@@ -118,9 +118,9 @@ export class AddKanjiCards extends LitElement {
 				return option;
 			});
 		} else {
-			this.options = this.kanji.map((字) => {
+			this.options = this.kanji.map((kanji) => {
 				return {
-					kanji: 字,
+					kanji,
 					hint: html`Anki is offline`,
 					disabled: true,
 				};
@@ -141,23 +141,17 @@ export class AddKanjiCards extends LitElement {
 					...option,
 					disabled: true,
 					selected: false,
-					hint: selectedKanji.includes(option.kanji) ? html`<inline-spinner></inline-spinner>adding to Anki` : nothing,
+					hint: selectedKanji.includes(option.kanji) ? html`<inline-spinner></inline-spinner> adding to Anki` : nothing,
 				};
 			});
 		}
-
-		const parseResult = await this.parseQuery.containedIn('kanji', selectedKanji).find();
-		const data = parseResult.map(({ attributes }) => {
-			const { createdAt, updatedAt, ...entry } = attributes;
-			return entry;
-		});
 
 		if (!DeckSelect.value) {
 			throw new Error('unexepected error: no deck selected');
 		}
 
 		for (const kanji of selectedKanji) {
-			const fetchedEntry = data.find((entry) => entry.kanji === kanji);
+			const fetchedEntry = AddKanjiCards.data.get(kanji);
 
 			if (!fetchedEntry) {
 				console.warn(`no data for kanji: ${kanji}`);
@@ -179,15 +173,53 @@ export class AddKanjiCards extends LitElement {
 
 		AddKanjiCards.instances.add(this);
 
-		this.options = this.kanji.map((字) => {
+		this.options = this.kanji.map((kanji) => {
 			return {
-				kanji: 字,
-				hint: html`<inline-spinner></inline-spinner>connecting to Anki`,
+				kanji,
+				hint: html`<inline-spinner></inline-spinner> connecting to Anki`,
 				disabled: true,
 			};
 		});
 
-		const notes = (await anki.isOnline()) ? await anki.notes() : [];
+		const ankiIsOnline = await anki.isOnline();
+
+		const notes = ankiIsOnline ? await anki.notes() : [];
+
+		if (ankiIsOnline) {
+			const queries: Array<Promise<void>> = [];
+
+			this.options = this.options.map((option) => {
+				let query = AddKanjiCards.queries.get(option.kanji);
+
+				if (!query) {
+					query = fetch(`${KANJI_DB_BASE}${option.kanji}.json`)
+						.then(async (response) => {
+							if (response.status !== 200) {
+								return;
+							}
+
+							return response.json() as Promise<KanjiEntry>;
+						})
+						.then((data) => {
+							if (data) {
+								AddKanjiCards.data.set(option.kanji, data);
+							}
+						})
+						.catch();
+
+					AddKanjiCards.queries.set(option.kanji, query);
+				}
+
+				queries.push(query);
+
+				return {
+					...option,
+					hint: html`<inline-spinner></inline-spinner> fetching data`,
+				};
+			});
+
+			await Promise.all(queries);
+		}
 
 		return this.updateOptions(notes);
 	}

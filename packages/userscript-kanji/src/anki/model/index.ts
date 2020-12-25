@@ -6,7 +6,7 @@ import writingFront from './writing.front.html';
 
 export const modelVersion = PRODUCTION ? 2 : 0;
 
-export const dbRevision = 1;
+export const dbRevision = 2;
 
 export function modelName(version: number): string {
 	return `jp:userscript:kanji:v${version}`;

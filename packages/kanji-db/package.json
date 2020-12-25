@@ -1,8 +1,11 @@
 {
 	"name": "kanji-db",
-	"version": "2.0.0-beta.1",
+	"version": "2.0.0-beta.2",
 	"author": "Tao Cumplido",
 	"private": true,
+	"volta": {
+		"extends": "../../package.json"
+	},
 	"scripts": {
 		"build": "ts-node build.ts"
 	},

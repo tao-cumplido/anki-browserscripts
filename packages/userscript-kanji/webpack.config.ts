@@ -20,18 +20,16 @@ const devtool = production ? false : 'eval-source-map';
 const tsConfig = 'tsconfig.app.json';
 
 const {
-	env: { PARSE_SERVER_URL, PARSE_APPLICATION_ID, PARSE_JAVASCRIPT_KEY },
+	env: { KANJI_DB_BASE },
 } = process;
 
-if ([PARSE_SERVER_URL, PARSE_APPLICATION_ID, PARSE_JAVASCRIPT_KEY].includes(undefined)) {
-	throw new Error('missing env variables for Parse server config');
+if (!KANJI_DB_BASE) {
+	throw new Error('missing env variable for remote kanji db');
 }
 
 const defineScript = new DefinePlugin({
 	PRODUCTION: production,
-	PARSE_SERVER_URL: JSON.stringify(PARSE_SERVER_URL),
-	PARSE_APPLICATION_ID: JSON.stringify(PARSE_APPLICATION_ID),
-	PARSE_JAVASCRIPT_KEY: JSON.stringify(PARSE_JAVASCRIPT_KEY),
+	KANJI_DB_BASE: JSON.stringify(KANJI_DB_BASE),
 });
 
 const defineModel = new DefinePlugin({
