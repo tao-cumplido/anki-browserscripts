@@ -8,5 +8,8 @@
 	"editor.codeActionsOnSave": {
 		"source.fixAll.eslint": true,
 		"source.fixAll.stylelint": true
+	},
+	"search.exclude": {
+		"packages/kanji-db/data": true
 	}
 }
