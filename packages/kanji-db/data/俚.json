@@ -1,16 +1,25 @@
 {
 	"kanji": "俚",
-	"meanings": ["rustic", "ill mannered"],
+	"meanings": [
+		"rustic",
+		"ill mannered"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リ"]
+		"rare": [
+			"リ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いや"],
-		"okurigana": ["いや.しい"]
+		"rare": [
+			"いや"
+		],
+		"okurigana": [
+			"いや.しい"
+		]
 	},
 	"frequency": {
 		"mean": 4026,

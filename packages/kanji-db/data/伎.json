@@ -1,16 +1,26 @@
 {
 	"kanji": "伎",
-	"meanings": ["deed", "skill"],
+	"meanings": [
+		"deed",
+		"skill"
+	],
 	"keyword": "performing artist",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
-		"rare": ["ギ"]
+		"rare": [
+			"ギ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わざ", "わざおぎ"],
+		"rare": [
+			"わざ",
+			"わざおぎ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

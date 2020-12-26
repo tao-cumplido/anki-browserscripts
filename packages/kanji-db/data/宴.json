@@ -1,16 +1,24 @@
 {
 	"kanji": "宴",
-	"meanings": ["banquet", "feast", "party"],
+	"meanings": [
+		"banquet",
+		"feast",
+		"party"
+	],
 	"keyword": "banquet",
 	"onyomi": {
-		"frequent": ["エン"],
+		"frequent": [
+			"エン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うたげ"],
+		"rare": [
+			"うたげ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

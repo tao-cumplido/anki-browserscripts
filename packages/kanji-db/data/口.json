@@ -1,14 +1,21 @@
 {
 	"kanji": "口",
-	"meanings": ["mouth"],
+	"meanings": [
+		"mouth"
+	],
 	"keyword": "mouth",
 	"onyomi": {
-		"frequent": ["コウ", "ク"],
+		"frequent": [
+			"コウ",
+			"ク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くち"],
+		"frequent": [
+			"くち"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

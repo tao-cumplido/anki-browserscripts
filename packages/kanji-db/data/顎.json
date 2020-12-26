@@ -1,16 +1,26 @@
 {
 	"kanji": "顎",
-	"meanings": ["jaw", "chin", "gill"],
+	"meanings": [
+		"jaw",
+		"chin",
+		"gill"
+	],
 	"keyword": "chin",
 	"onyomi": {
-		"frequent": ["ガク"],
+		"frequent": [
+			"ガク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あご"],
+		"frequent": [
+			"あご"
+		],
 		"common": [],
-		"rare": ["あぎと"],
+		"rare": [
+			"あぎと"
+		],
 		"okurigana": []
 	},
 	"frequency": {

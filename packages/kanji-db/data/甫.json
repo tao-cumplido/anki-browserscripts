@@ -1,17 +1,27 @@
 {
 	"kanji": "甫",
-	"meanings": ["for the first time", "not until"],
+	"meanings": [
+		"for the first time",
+		"not until"
+	],
 	"keyword": "offspring",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ホ", "フ"]
+		"rare": [
+			"ホ",
+			"フ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はじ"],
-		"okurigana": ["はじ.めて"]
+		"rare": [
+			"はじ"
+		],
+		"okurigana": [
+			"はじ.めて"
+		]
 	},
 	"frequency": {
 		"mean": 2568,

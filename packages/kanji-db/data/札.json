@@ -1,14 +1,24 @@
 {
 	"kanji": "札",
-	"meanings": ["tag", "paper money", "counter for bonds", "placard", "bid"],
+	"meanings": [
+		"tag",
+		"paper money",
+		"counter for bonds",
+		"placard",
+		"bid"
+	],
 	"keyword": "tag",
 	"onyomi": {
-		"frequent": ["サツ"],
+		"frequent": [
+			"サツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふだ"],
+		"frequent": [
+			"ふだ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

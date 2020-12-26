@@ -1,17 +1,28 @@
 {
 	"kanji": "圏",
-	"meanings": ["sphere", "circle", "radius", "range"],
+	"meanings": [
+		"sphere",
+		"circle",
+		"radius",
+		"range"
+	],
 	"keyword": "sphere",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かこ"],
-		"okurigana": ["かこ.い"]
+		"rare": [
+			"かこ"
+		],
+		"okurigana": [
+			"かこ.い"
+		]
 	},
 	"frequency": {
 		"mean": 925,

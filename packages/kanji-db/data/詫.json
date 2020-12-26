@@ -1,17 +1,29 @@
 {
 	"kanji": "詫",
-	"meanings": ["apologize"],
+	"meanings": [
+		"apologize"
+	],
 	"keyword": "beg another’s pardon",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["タ"]
+		"rare": [
+			"タ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わび", "かこつ", "わ"],
-		"okurigana": ["わび.しい", "わ.びる", "わび.る"]
+		"rare": [
+			"わび",
+			"かこつ",
+			"わ"
+		],
+		"okurigana": [
+			"わび.しい",
+			"わ.びる",
+			"わび.る"
+		]
 	},
 	"frequency": {
 		"mean": 2435,

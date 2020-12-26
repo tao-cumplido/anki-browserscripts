@@ -1,17 +1,27 @@
 {
 	"kanji": "挨",
-	"meanings": ["approach", "draw near", "push open"],
+	"meanings": [
+		"approach",
+		"draw near",
+		"push open"
+	],
 	"keyword": "shove",
 	"onyomi": {
-		"frequent": ["アイ"],
+		"frequent": [
+			"アイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひら"],
-		"okurigana": ["ひら.く"]
+		"rare": [
+			"ひら"
+		],
+		"okurigana": [
+			"ひら.く"
+		]
 	},
 	"frequency": {
 		"mean": 1982,

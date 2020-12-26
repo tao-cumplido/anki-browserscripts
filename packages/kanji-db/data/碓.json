@@ -1,17 +1,28 @@
 {
 	"kanji": "碓",
-	"meanings": ["pestle"],
+	"meanings": [
+		"pestle"
+	],
 	"keyword": "mill",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カク", "タイ"]
+		"rare": [
+			"カク",
+			"タイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たし", "かく"],
-		"okurigana": ["たし.か", "かく.たる"]
+		"rare": [
+			"たし",
+			"かく"
+		],
+		"okurigana": [
+			"たし.か",
+			"かく.たる"
+		]
 	},
 	"frequency": {
 		"mean": 2893,

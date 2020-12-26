@@ -1,17 +1,35 @@
 {
 	"kanji": "斉",
-	"meanings": ["adjusted", "alike", "equal", "similar variety of"],
+	"meanings": [
+		"adjusted",
+		"alike",
+		"equal",
+		"similar variety of"
+	],
 	"keyword": "adjusted",
 	"onyomi": {
-		"frequent": ["セイ"],
+		"frequent": [
+			"セイ"
+		],
 		"common": [],
-		"rare": ["サイ"]
+		"rare": [
+			"サイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["そろ", "ひと", "あたる", "はやい"],
-		"okurigana": ["そろ.う", "ひと.しい", "ひと.しく"]
+		"rare": [
+			"そろ",
+			"ひと",
+			"あたる",
+			"はやい"
+		],
+		"okurigana": [
+			"そろ.う",
+			"ひと.しい",
+			"ひと.しく"
+		]
 	},
 	"frequency": {
 		"mean": 1307,

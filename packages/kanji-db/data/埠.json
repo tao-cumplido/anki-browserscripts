@@ -1,16 +1,24 @@
 {
 	"kanji": "埠",
-	"meanings": ["wharf"],
+	"meanings": [
+		"wharf"
+	],
 	"keyword": "wharf",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フ", "ホ"]
+		"rare": [
+			"フ",
+			"ホ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つか", "はとば"],
+		"rare": [
+			"つか",
+			"はとば"
+		],
 		"okurigana": []
 	},
 	"frequency": {

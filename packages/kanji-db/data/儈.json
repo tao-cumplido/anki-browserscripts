@@ -1,14 +1,24 @@
 {
 	"kanji": "儈",
-	"meanings": ["go-between", "broker", "proxy", "middleman"],
+	"meanings": [
+		"go-between",
+		"broker",
+		"proxy",
+		"middleman"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["カイ", "ケ"],
+		"common": [
+			"カイ",
+			"ケ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["なかがい"],
+		"common": [
+			"なかがい"
+		],
 		"rare": [],
 		"okurigana": []
 	},

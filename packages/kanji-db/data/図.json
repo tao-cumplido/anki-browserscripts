@@ -1,17 +1,32 @@
 {
 	"kanji": "図",
-	"meanings": ["map", "drawing", "plan", "extraordinary", "audacious"],
+	"meanings": [
+		"map",
+		"drawing",
+		"plan",
+		"extraordinary",
+		"audacious"
+	],
 	"keyword": "map",
 	"onyomi": {
-		"frequent": ["ズ", "ト"],
+		"frequent": [
+			"ズ",
+			"ト"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はか"],
+		"frequent": [
+			"はか"
+		],
 		"common": [],
-		"rare": ["え"],
-		"okurigana": ["はか.る"]
+		"rare": [
+			"え"
+		],
+		"okurigana": [
+			"はか.る"
+		]
 	},
 	"frequency": {
 		"mean": 405,

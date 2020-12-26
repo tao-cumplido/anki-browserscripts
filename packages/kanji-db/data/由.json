@@ -1,17 +1,31 @@
 {
 	"kanji": "由",
-	"meanings": ["wherefore", "a reason"],
+	"meanings": [
+		"wherefore",
+		"a reason"
+	],
 	"keyword": "wherefore",
 	"onyomi": {
-		"frequent": ["ユ", "ユウ"],
-		"common": ["ユイ"],
+		"frequent": [
+			"ユ",
+			"ユウ"
+		],
+		"common": [
+			"ユイ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["よし"],
+		"frequent": [
+			"よし"
+		],
 		"common": [],
-		"rare": ["よ"],
-		"okurigana": ["よ.る"]
+		"rare": [
+			"よ"
+		],
+		"okurigana": [
+			"よ.る"
+		]
 	},
 	"frequency": {
 		"mean": 301,

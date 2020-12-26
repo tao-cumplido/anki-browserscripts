@@ -1,15 +1,27 @@
 {
 	"kanji": "神",
-	"meanings": ["gods", "mind", "soul"],
+	"meanings": [
+		"gods",
+		"mind",
+		"soul"
+	],
 	"keyword": "gods",
 	"onyomi": {
-		"frequent": ["シン", "ジン"],
+		"frequent": [
+			"シン",
+			"ジン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かみ"],
-		"common": ["かん", "こう"],
+		"frequent": [
+			"かみ"
+		],
+		"common": [
+			"かん",
+			"こう"
+		],
 		"rare": [],
 		"okurigana": []
 	},

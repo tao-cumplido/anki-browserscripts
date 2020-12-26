@@ -1,17 +1,29 @@
 {
 	"kanji": "霞",
-	"meanings": ["be hazy", "grow dim", "blurred"],
+	"meanings": [
+		"be hazy",
+		"grow dim",
+		"blurred"
+	],
 	"keyword": "haze",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カ", "ゲ"]
+		"rare": [
+			"カ",
+			"ゲ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かすみ", "かす"],
-		"okurigana": ["かす.む"]
+		"rare": [
+			"かすみ",
+			"かす"
+		],
+		"okurigana": [
+			"かす.む"
+		]
 	},
 	"frequency": {
 		"mean": 1843,

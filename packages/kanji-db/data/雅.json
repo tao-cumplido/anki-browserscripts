@@ -1,17 +1,28 @@
 {
 	"kanji": "雅",
-	"meanings": ["gracious", "elegant", "graceful", "refined"],
+	"meanings": [
+		"gracious",
+		"elegant",
+		"graceful",
+		"refined"
+	],
 	"keyword": "gracious",
 	"onyomi": {
-		"frequent": ["ガ"],
+		"frequent": [
+			"ガ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みや"],
-		"okurigana": ["みや.び"]
+		"rare": [
+			"みや"
+		],
+		"okurigana": [
+			"みや.び"
+		]
 	},
 	"frequency": {
 		"mean": 1041,

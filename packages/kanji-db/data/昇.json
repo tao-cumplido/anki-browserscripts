@@ -1,17 +1,25 @@
 {
 	"kanji": "昇",
-	"meanings": ["rise up"],
+	"meanings": [
+		"rise up"
+	],
 	"keyword": "rise up",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["のぼ"],
+		"frequent": [
+			"のぼ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["のぼ.る"]
+		"okurigana": [
+			"のぼ.る"
+		]
 	},
 	"frequency": {
 		"mean": 909,

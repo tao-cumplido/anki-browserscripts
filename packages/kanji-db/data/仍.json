@@ -1,16 +1,29 @@
 {
 	"kanji": "仍",
-	"meanings": ["therefore", "consequently"],
+	"meanings": [
+		"therefore",
+		"consequently"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジョウ", "ニョウ"]
+		"rare": [
+			"ジョウ",
+			"ニョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よ", "しきりに", "なお", "よる"],
-		"okurigana": ["よ.って"]
+		"rare": [
+			"よ",
+			"しきりに",
+			"なお",
+			"よる"
+		],
+		"okurigana": [
+			"よ.って"
+		]
 	},
 	"frequency": {
 		"mean": 3736,

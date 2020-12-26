@@ -1,17 +1,28 @@
 {
 	"kanji": "墾",
-	"meanings": ["ground-breaking", "open up farmland"],
+	"meanings": [
+		"ground-breaking",
+		"open up farmland"
+	],
 	"keyword": "groundbreaking",
 	"onyomi": {
-		"frequent": ["コン"],
+		"frequent": [
+			"コン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["は", "ひら"],
-		"okurigana": ["は.る", "ひら.く"]
+		"rare": [
+			"は",
+			"ひら"
+		],
+		"okurigana": [
+			"は.る",
+			"ひら.く"
+		]
 	},
 	"frequency": {
 		"mean": 2878,

@@ -1,15 +1,24 @@
 {
 	"kanji": "船",
-	"meanings": ["ship", "boat"],
+	"meanings": [
+		"ship",
+		"boat"
+	],
 	"keyword": "ship",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふね"],
-		"common": ["ふな"],
+		"frequent": [
+			"ふね"
+		],
+		"common": [
+			"ふな"
+		],
 		"rare": [],
 		"okurigana": []
 	},

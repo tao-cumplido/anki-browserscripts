@@ -1,17 +1,31 @@
 {
 	"kanji": "零",
-	"meanings": ["zero", "spill", "overflow", "nothing", "cipher"],
+	"meanings": [
+		"zero",
+		"spill",
+		"overflow",
+		"nothing",
+		"cipher"
+	],
 	"keyword": "zero",
 	"onyomi": {
-		"frequent": ["レイ"],
+		"frequent": [
+			"レイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ぜろ", "こぼ"],
-		"okurigana": ["こぼ.す", "こぼ.れる"]
+		"rare": [
+			"ぜろ",
+			"こぼ"
+		],
+		"okurigana": [
+			"こぼ.す",
+			"こぼ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1791,

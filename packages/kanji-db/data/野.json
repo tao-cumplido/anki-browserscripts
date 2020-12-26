@@ -1,14 +1,25 @@
 {
 	"kanji": "野",
-	"meanings": ["plains", "field", "rustic", "civilian life"],
+	"meanings": [
+		"plains",
+		"field",
+		"rustic",
+		"civilian life"
+	],
 	"keyword": "plains",
 	"onyomi": {
-		"frequent": ["ヤ"],
+		"frequent": [
+			"ヤ"
+		],
 		"common": [],
-		"rare": ["ショ"]
+		"rare": [
+			"ショ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["の"],
+		"frequent": [
+			"の"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

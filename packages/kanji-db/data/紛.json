@@ -1,17 +1,32 @@
 {
 	"kanji": "紛",
-	"meanings": ["distract", "be mistaken for", "go astray", "divert"],
+	"meanings": [
+		"distract",
+		"be mistaken for",
+		"go astray",
+		"divert"
+	],
 	"keyword": "distract",
 	"onyomi": {
-		"frequent": ["フン"],
+		"frequent": [
+			"フン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まぎ"],
+		"frequent": [
+			"まぎ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["まぎ.れる", "まぎ.れ", "まぎ.らす", "まぎ.らわす", "まぎ.らわしい"]
+		"okurigana": [
+			"まぎ.れる",
+			"まぎ.れ",
+			"まぎ.らす",
+			"まぎ.らわす",
+			"まぎ.らわしい"
+		]
 	},
 	"frequency": {
 		"mean": 1639,

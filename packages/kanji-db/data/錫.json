@@ -1,17 +1,28 @@
 {
 	"kanji": "錫",
-	"meanings": ["copper", "tin"],
+	"meanings": [
+		"copper",
+		"tin"
+	],
 	"keyword": "tin",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セキ", "シャク"]
+		"rare": [
+			"セキ",
+			"シャク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すず", "たま"],
-		"okurigana": ["たま.う"]
+		"rare": [
+			"すず",
+			"たま"
+		],
+		"okurigana": [
+			"たま.う"
+		]
 	},
 	"frequency": {
 		"mean": 2563,

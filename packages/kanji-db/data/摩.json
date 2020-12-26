@@ -1,17 +1,33 @@
 {
 	"kanji": "摩",
-	"meanings": ["chafe", "rub", "polish", "grind", "scrape"],
+	"meanings": [
+		"chafe",
+		"rub",
+		"polish",
+		"grind",
+		"scrape"
+	],
 	"keyword": "chafe",
 	"onyomi": {
-		"frequent": ["マ"],
+		"frequent": [
+			"マ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ま", "さす", "す"],
-		"okurigana": ["ま.する", "さす.る", "す.る"]
+		"rare": [
+			"ま",
+			"さす",
+			"す"
+		],
+		"okurigana": [
+			"ま.する",
+			"さす.る",
+			"す.る"
+		]
 	},
 	"frequency": {
 		"mean": 975,

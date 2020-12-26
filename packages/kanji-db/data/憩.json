@@ -1,17 +1,29 @@
 {
 	"kanji": "憩",
-	"meanings": ["recess", "rest", "relax", "repose"],
+	"meanings": [
+		"recess",
+		"rest",
+		"relax",
+		"repose"
+	],
 	"keyword": "recess",
 	"onyomi": {
-		"frequent": ["ケイ"],
+		"frequent": [
+			"ケイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いこ"],
+		"frequent": [
+			"いこ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["いこ.い", "いこ.う"]
+		"okurigana": [
+			"いこ.い",
+			"いこ.う"
+		]
 	},
 	"frequency": {
 		"mean": 2269,

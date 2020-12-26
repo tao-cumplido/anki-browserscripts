@@ -1,17 +1,26 @@
 {
 	"kanji": "剽",
-	"meanings": ["threat"],
+	"meanings": [
+		"threat"
+	],
 	"keyword": "menace",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒョウ"]
+		"rare": [
+			"ヒョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おびや", "さす"],
-		"okurigana": ["おびや.かす"]
+		"rare": [
+			"おびや",
+			"さす"
+		],
+		"okurigana": [
+			"おびや.かす"
+		]
 	},
 	"frequency": {
 		"mean": 3704,

@@ -1,14 +1,21 @@
 {
 	"kanji": "海",
-	"meanings": ["sea", "ocean"],
+	"meanings": [
+		"sea",
+		"ocean"
+	],
 	"keyword": "sea",
 	"onyomi": {
-		"frequent": ["カイ"],
+		"frequent": [
+			"カイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うみ"],
+		"frequent": [
+			"うみ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

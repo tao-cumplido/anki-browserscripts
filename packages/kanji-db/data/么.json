@@ -1,9 +1,15 @@
 {
 	"kanji": "么",
-	"meanings": ["interrogative particle", "repetition of a tune small", "tender"],
+	"meanings": [
+		"interrogative particle",
+		"repetition of a tune small",
+		"tender"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["エウ"],
+		"common": [
+			"エウ"
+		],
 		"rare": []
 	},
 	"frequency": {

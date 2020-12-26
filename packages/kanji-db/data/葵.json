@@ -1,16 +1,22 @@
 {
 	"kanji": "葵",
-	"meanings": ["hollyhock"],
+	"meanings": [
+		"hollyhock"
+	],
 	"keyword": "hollyhock",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キ"]
+		"rare": [
+			"キ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あおい"],
+		"rare": [
+			"あおい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

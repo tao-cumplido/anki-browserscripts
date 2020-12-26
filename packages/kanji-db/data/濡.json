@@ -1,17 +1,37 @@
 {
 	"kanji": "濡",
-	"meanings": ["get wet", "damp", "make love"],
+	"meanings": [
+		"get wet",
+		"damp",
+		"make love"
+	],
 	"keyword": "drench",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジュ", "ニュ"]
+		"rare": [
+			"ジュ",
+			"ニュ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ぬれ", "ぬら", "ぬ", "うるお"],
-		"okurigana": ["ぬれ.る", "ぬら.す", "ぬ.れる", "ぬ.らす", "うるお.い", "うるお.う", "うるお.す"]
+		"rare": [
+			"ぬれ",
+			"ぬら",
+			"ぬ",
+			"うるお"
+		],
+		"okurigana": [
+			"ぬれ.る",
+			"ぬら.す",
+			"ぬ.れる",
+			"ぬ.らす",
+			"うるお.い",
+			"うるお.う",
+			"うるお.す"
+		]
 	},
 	"frequency": {
 		"mean": 2185,

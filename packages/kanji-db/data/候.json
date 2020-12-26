@@ -1,14 +1,24 @@
 {
 	"kanji": "候",
-	"meanings": ["climate", "season", "weather", "wait for", "expect"],
+	"meanings": [
+		"climate",
+		"season",
+		"weather",
+		"wait for",
+		"expect"
+	],
 	"keyword": "climate",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["そうろう"],
+		"frequent": [
+			"そうろう"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

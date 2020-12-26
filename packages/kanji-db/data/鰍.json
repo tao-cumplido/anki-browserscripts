@@ -1,16 +1,25 @@
 {
 	"kanji": "鰍",
-	"meanings": ["bullhead"],
+	"meanings": [
+		"bullhead"
+	],
 	"keyword": "bullhead",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュウ", "シュ"]
+		"rare": [
+			"シュウ",
+			"シュ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かじか", "いなだ", "どじょう"],
+		"rare": [
+			"かじか",
+			"いなだ",
+			"どじょう"
+		],
 		"okurigana": []
 	},
 	"frequency": {

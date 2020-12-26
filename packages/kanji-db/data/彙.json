@@ -1,16 +1,26 @@
 {
 	"kanji": "彙",
-	"meanings": ["same kind", "collect", "classify", "category", "hedgehog"],
+	"meanings": [
+		"same kind",
+		"collect",
+		"classify",
+		"category",
+		"hedgehog"
+	],
 	"keyword": "glossary",
 	"onyomi": {
-		"frequent": ["イ"],
+		"frequent": [
+			"イ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はりねずみ"],
+		"rare": [
+			"はりねずみ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

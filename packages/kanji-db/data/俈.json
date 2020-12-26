@@ -1,9 +1,14 @@
 {
 	"kanji": "俈",
-	"meanings": ["to inform quickly", "an urgent communication"],
+	"meanings": [
+		"to inform quickly",
+		"an urgent communication"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["コク"],
+		"common": [
+			"コク"
+		],
 		"rare": []
 	},
 	"frequency": {

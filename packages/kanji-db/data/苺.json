@@ -1,16 +1,23 @@
 {
 	"kanji": "苺",
-	"meanings": ["strawberry"],
+	"meanings": [
+		"strawberry"
+	],
 	"keyword": "strawberry",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["バイ", "マイ"]
+		"rare": [
+			"バイ",
+			"マイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いちご"],
+		"rare": [
+			"いちご"
+		],
 		"okurigana": []
 	},
 	"frequency": {

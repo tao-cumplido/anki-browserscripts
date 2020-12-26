@@ -1,17 +1,35 @@
 {
 	"kanji": "会",
-	"meanings": ["meeting", "meet", "party", "association", "interview", "join"],
+	"meanings": [
+		"meeting",
+		"meet",
+		"party",
+		"association",
+		"interview",
+		"join"
+	],
 	"keyword": "meeting",
 	"onyomi": {
-		"frequent": ["カイ", "エ"],
+		"frequent": [
+			"カイ",
+			"エ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あ"],
+		"frequent": [
+			"あ"
+		],
 		"common": [],
-		"rare": ["あつ"],
-		"okurigana": ["あ.う", "あ.わせる", "あつ.まる"]
+		"rare": [
+			"あつ"
+		],
+		"okurigana": [
+			"あ.う",
+			"あ.わせる",
+			"あつ.まる"
+		]
 	},
 	"frequency": {
 		"mean": 12,

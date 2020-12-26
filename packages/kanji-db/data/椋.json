@@ -1,16 +1,23 @@
 {
 	"kanji": "椋",
-	"meanings": ["type of deciduous tree", "grey starling"],
+	"meanings": [
+		"type of deciduous tree",
+		"grey starling"
+	],
 	"keyword": "Oriental elm",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リョウ"]
+		"rare": [
+			"リョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["むく"],
+		"rare": [
+			"むく"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,0 +1,37 @@
+{
+	"kanji": "姍",
+	"meanings": [
+		"slander",
+		"ridicule",
+		"proceed slowly"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"サン",
+			"セン",
+			"ハン",
+			"サツ",
+			"サチ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"みめよ",
+			"そし",
+			"みにく"
+		],
+		"rare": [],
+		"okurigana": [
+			"みめよ.い",
+			"そし.る",
+			"みにく.い"
+		]
+	},
+	"frequency": {
+		"mean": 4526,
+		"wikipedia": 4217
+	}
+}

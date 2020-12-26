@@ -1,16 +1,29 @@
 {
 	"kanji": "汁",
-	"meanings": ["soup", "juice", "broth", "sap", "gravy", "pus"],
+	"meanings": [
+		"soup",
+		"juice",
+		"broth",
+		"sap",
+		"gravy",
+		"pus"
+	],
 	"keyword": "soup",
 	"onyomi": {
-		"frequent": ["ジュウ"],
+		"frequent": [
+			"ジュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["しる"],
+		"frequent": [
+			"しる"
+		],
 		"common": [],
-		"rare": ["つゆ"],
+		"rare": [
+			"つゆ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

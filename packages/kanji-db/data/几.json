@@ -1,15 +1,23 @@
 {
 	"kanji": "几",
-	"meanings": ["table", "table enclosure", "table or windy radical (no. 16)"],
+	"meanings": [
+		"table",
+		"table enclosure",
+		"table or windy radical (no. 16)"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キ"]
+		"rare": [
+			"キ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きにょう"],
+		"rare": [
+			"きにょう"
+		],
 		"okurigana": []
 	},
 	"frequency": {

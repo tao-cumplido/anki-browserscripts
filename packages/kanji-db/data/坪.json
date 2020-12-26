@@ -1,14 +1,21 @@
 {
 	"kanji": "坪",
-	"meanings": ["two-mat area", "approx. thirty-six sq ft"],
+	"meanings": [
+		"two-mat area",
+		"approx. thirty-six sq ft"
+	],
 	"keyword": "two-mat area",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヘイ"]
+		"rare": [
+			"ヘイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["つぼ"],
+		"frequent": [
+			"つぼ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

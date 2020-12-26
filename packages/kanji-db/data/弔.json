@@ -1,17 +1,30 @@
 {
 	"kanji": "弔",
-	"meanings": ["condolences", "mourning", "funeral"],
+	"meanings": [
+		"condolences",
+		"mourning",
+		"funeral"
+	],
 	"keyword": "condolences",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["とむら"],
+		"frequent": [
+			"とむら"
+		],
 		"common": [],
-		"rare": ["とぶら"],
-		"okurigana": ["とむら.う", "とぶら.う"]
+		"rare": [
+			"とぶら"
+		],
+		"okurigana": [
+			"とむら.う",
+			"とぶら.う"
+		]
 	},
 	"frequency": {
 		"mean": 2743,

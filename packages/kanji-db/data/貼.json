@@ -1,17 +1,32 @@
 {
 	"kanji": "貼",
-	"meanings": ["stick", "paste", "apply"],
+	"meanings": [
+		"stick",
+		"paste",
+		"apply"
+	],
 	"keyword": "post a bill",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
-		"rare": ["テン"]
+		"rare": [
+			"テン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["は"],
+		"frequent": [
+			"は"
+		],
 		"common": [],
-		"rare": ["つ"],
-		"okurigana": ["は.る", "つ.く"]
+		"rare": [
+			"つ"
+		],
+		"okurigana": [
+			"は.る",
+			"つ.く"
+		]
 	},
 	"frequency": {
 		"mean": 1543,

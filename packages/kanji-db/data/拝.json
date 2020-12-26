@@ -1,17 +1,30 @@
 {
 	"kanji": "拝",
-	"meanings": ["worship", "adore", "pray to"],
+	"meanings": [
+		"worship",
+		"adore",
+		"pray to"
+	],
 	"keyword": "worship",
 	"onyomi": {
-		"frequent": ["ハイ"],
+		"frequent": [
+			"ハイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おが"],
+		"frequent": [
+			"おが"
+		],
 		"common": [],
-		"rare": ["おろが"],
-		"okurigana": ["おが.む", "おろが.む"]
+		"rare": [
+			"おろが"
+		],
+		"okurigana": [
+			"おが.む",
+			"おろが.む"
+		]
 	},
 	"frequency": {
 		"mean": 1434,

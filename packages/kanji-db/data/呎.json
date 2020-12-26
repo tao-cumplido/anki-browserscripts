@@ -1,16 +1,22 @@
 {
 	"kanji": "呎",
-	"meanings": ["foot"],
+	"meanings": [
+		"foot"
+	],
 	"keyword": "foot",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シャク"]
+		"rare": [
+			"シャク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふいいと"],
+		"rare": [
+			"ふいいと"
+		],
 		"okurigana": []
 	},
 	"frequency": {

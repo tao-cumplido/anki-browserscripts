@@ -1,14 +1,23 @@
 {
 	"kanji": "石",
-	"meanings": ["stone"],
+	"meanings": [
+		"stone"
+	],
 	"keyword": "stone",
 	"onyomi": {
-		"frequent": ["セキ"],
-		"common": ["シャク", "コク"],
+		"frequent": [
+			"セキ"
+		],
+		"common": [
+			"シャク",
+			"コク"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いし"],
+		"frequent": [
+			"いし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,40 @@
 {
 	"kanji": "並",
-	"meanings": ["row", "and", "besides", "as well as", "line up", "rank with", "rival", "equal"],
+	"meanings": [
+		"row",
+		"and",
+		"besides",
+		"as well as",
+		"line up",
+		"rank with",
+		"rival",
+		"equal"
+	],
 	"keyword": "row",
 	"onyomi": {
-		"frequent": ["ヘイ"],
+		"frequent": [
+			"ヘイ"
+		],
 		"common": [],
-		"rare": ["ホウ"]
+		"rare": [
+			"ホウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["なみ", "なら"],
+		"frequent": [
+			"なみ",
+			"なら"
+		],
 		"common": [],
-		"rare": ["な"],
-		"okurigana": ["な.み", "なら.べる", "なら.ぶ", "なら.びに"]
+		"rare": [
+			"な"
+		],
+		"okurigana": [
+			"な.み",
+			"なら.べる",
+			"なら.ぶ",
+			"なら.びに"
+		]
 	},
 	"frequency": {
 		"mean": 870,

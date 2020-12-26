@@ -1,17 +1,35 @@
 {
 	"kanji": "誘",
-	"meanings": ["entice", "lead", "tempt", "invite", "ask", "call for", "seduce", "allure"],
+	"meanings": [
+		"entice",
+		"lead",
+		"tempt",
+		"invite",
+		"ask",
+		"call for",
+		"seduce",
+		"allure"
+	],
 	"keyword": "entice",
 	"onyomi": {
-		"frequent": ["ユウ"],
+		"frequent": [
+			"ユウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さそ"],
+		"frequent": [
+			"さそ"
+		],
 		"common": [],
-		"rare": ["いざな"],
-		"okurigana": ["さそ.う", "いざな.う"]
+		"rare": [
+			"いざな"
+		],
+		"okurigana": [
+			"さそ.う",
+			"いざな.う"
+		]
 	},
 	"frequency": {
 		"mean": 1145,

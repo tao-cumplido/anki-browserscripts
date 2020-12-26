@@ -1,17 +1,29 @@
 {
 	"kanji": "態",
-	"meanings": ["attitude", "condition", "figure", "appearance", "voice (of verbs)"],
+	"meanings": [
+		"attitude",
+		"condition",
+		"figure",
+		"appearance",
+		"voice (of verbs)"
+	],
 	"keyword": "attitude",
 	"onyomi": {
-		"frequent": ["タイ"],
+		"frequent": [
+			"タイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わざ"],
-		"okurigana": ["わざ.と"]
+		"rare": [
+			"わざ"
+		],
+		"okurigana": [
+			"わざ.と"
+		]
 	},
 	"frequency": {
 		"mean": 534,

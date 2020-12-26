@@ -1,16 +1,26 @@
 {
 	"kanji": "両",
-	"meanings": ["both", "old Japanese coin", "counter for carriages (e.g., in a train)", "two"],
+	"meanings": [
+		"both",
+		"old Japanese coin",
+		"counter for carriages (e.g., in a train)",
+		"two"
+	],
 	"keyword": "both",
 	"onyomi": {
-		"frequent": ["リョウ"],
+		"frequent": [
+			"リョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["てる", "ふたつ"],
+		"rare": [
+			"てる",
+			"ふたつ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

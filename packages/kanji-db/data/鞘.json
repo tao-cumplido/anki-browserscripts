@@ -1,16 +1,27 @@
 {
 	"kanji": "鞘",
-	"meanings": ["sheath", "case", "margin", "difference", "shells (of beans)"],
+	"meanings": [
+		"sheath",
+		"case",
+		"margin",
+		"difference",
+		"shells (of beans)"
+	],
 	"keyword": "saddle straps",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ", "ソウ"]
+		"rare": [
+			"ショウ",
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さや"],
+		"rare": [
+			"さや"
+		],
 		"okurigana": []
 	},
 	"frequency": {

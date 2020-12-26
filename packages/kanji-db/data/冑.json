@@ -1,15 +1,22 @@
 {
 	"kanji": "冑",
-	"meanings": ["helmet"],
+	"meanings": [
+		"helmet"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チュウ"]
+		"rare": [
+			"チュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かぶと", "よろい"],
+		"rare": [
+			"かぶと",
+			"よろい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

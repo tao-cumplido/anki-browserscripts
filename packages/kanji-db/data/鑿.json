@@ -1,17 +1,26 @@
 {
 	"kanji": "鑿",
-	"meanings": ["chisel"],
+	"meanings": [
+		"chisel"
+	],
 	"keyword": "bore",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サク"]
+		"rare": [
+			"サク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["のみ", "うが"],
-		"okurigana": ["うが.つ"]
+		"rare": [
+			"のみ",
+			"うが"
+		],
+		"okurigana": [
+			"うが.つ"
+		]
 	},
 	"frequency": {
 		"mean": 3457,

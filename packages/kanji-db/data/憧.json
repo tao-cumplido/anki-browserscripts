@@ -1,17 +1,32 @@
 {
 	"kanji": "憧",
-	"meanings": ["yearn after", "long for", "aspire to", "admire", "adore"],
+	"meanings": [
+		"yearn after",
+		"long for",
+		"aspire to",
+		"admire",
+		"adore"
+	],
 	"keyword": "yearn",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
-		"rare": ["トウ", "ドウ"]
+		"rare": [
+			"トウ",
+			"ドウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["あこが"],
+		"frequent": [
+			"あこが"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あこが.れる"]
+		"okurigana": [
+			"あこが.れる"
+		]
 	},
 	"frequency": {
 		"mean": 2018,

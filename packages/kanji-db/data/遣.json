@@ -1,17 +1,38 @@
 {
 	"kanji": "遣",
-	"meanings": ["dispatch", "despatch", "send", "give", "donate", "do", "undertake"],
+	"meanings": [
+		"dispatch",
+		"despatch",
+		"send",
+		"give",
+		"donate",
+		"do",
+		"undertake"
+	],
 	"keyword": "dispatch",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つか"],
+		"frequent": [
+			"つか"
+		],
 		"common": [],
-		"rare": ["づか", "や"],
-		"okurigana": ["つか.う", "つか.い", "づか.い", "つか.わす", "や.る"]
+		"rare": [
+			"づか",
+			"や"
+		],
+		"okurigana": [
+			"つか.う",
+			"つか.い",
+			"づか.い",
+			"つか.わす",
+			"や.る"
+		]
 	},
 	"frequency": {
 		"mean": 1184,

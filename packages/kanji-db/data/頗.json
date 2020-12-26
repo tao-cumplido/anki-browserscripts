@@ -1,17 +1,28 @@
 {
 	"kanji": "頗",
-	"meanings": ["prejudiced", "exceedingly"],
+	"meanings": [
+		"prejudiced",
+		"exceedingly"
+	],
 	"keyword": "exceedingly",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハ"]
+		"rare": [
+			"ハ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すこぶ", "かたよ"],
-		"okurigana": ["すこぶ.る", "かたよ.る"]
+		"rare": [
+			"すこぶ",
+			"かたよ"
+		],
+		"okurigana": [
+			"すこぶ.る",
+			"かたよ.る"
+		]
 	},
 	"frequency": {
 		"mean": 3057,

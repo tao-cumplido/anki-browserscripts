@@ -1,14 +1,22 @@
 {
 	"kanji": "月",
-	"meanings": ["month", "moon"],
+	"meanings": [
+		"month",
+		"moon"
+	],
 	"keyword": "month",
 	"onyomi": {
-		"frequent": ["ゲツ", "ガツ"],
+		"frequent": [
+			"ゲツ",
+			"ガツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つき"],
+		"frequent": [
+			"つき"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

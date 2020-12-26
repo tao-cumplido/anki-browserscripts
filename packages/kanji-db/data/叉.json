@@ -1,16 +1,25 @@
 {
 	"kanji": "叉",
-	"meanings": ["fork in road", "crotch"],
+	"meanings": [
+		"fork in road",
+		"crotch"
+	],
 	"keyword": "forked",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サ", "シャ", "サイ"]
+		"rare": [
+			"サ",
+			"シャ",
+			"サイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["また"],
+		"rare": [
+			"また"
+		],
 		"okurigana": []
 	},
 	"frequency": {

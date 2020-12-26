@@ -1,17 +1,37 @@
 {
 	"kanji": "応",
-	"meanings": ["apply", "answer", "yes", "OK", "reply", "accept"],
+	"meanings": [
+		"apply",
+		"answer",
+		"yes",
+		"OK",
+		"reply",
+		"accept"
+	],
 	"keyword": "apply",
 	"onyomi": {
-		"frequent": ["オウ"],
+		"frequent": [
+			"オウ"
+		],
 		"common": [],
-		"rare": ["ヨウ", "-ノウ"]
+		"rare": [
+			"ヨウ",
+			"-ノウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["こた"],
+		"frequent": [
+			"こた"
+		],
 		"common": [],
-		"rare": ["あた", "まさに"],
-		"okurigana": ["あた.る", "こた.える"]
+		"rare": [
+			"あた",
+			"まさに"
+		],
+		"okurigana": [
+			"あた.る",
+			"こた.える"
+		]
 	},
 	"frequency": {
 		"mean": 448,

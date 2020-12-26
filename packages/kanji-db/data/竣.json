@@ -1,17 +1,29 @@
 {
 	"kanji": "竣",
-	"meanings": ["end", "finish"],
+	"meanings": [
+		"end",
+		"finish"
+	],
 	"keyword": "complete a job",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ドウ", "シュン"]
+		"rare": [
+			"ドウ",
+			"シュン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わらわ", "わらべ", "おわ"],
-		"okurigana": ["おわ.る"]
+		"rare": [
+			"わらわ",
+			"わらべ",
+			"おわ"
+		],
+		"okurigana": [
+			"おわ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1529,

@@ -1,16 +1,29 @@
 {
 	"kanji": "此",
-	"meanings": ["this", "current", "next", "coming", "last", "past"],
+	"meanings": [
+		"this",
+		"current",
+		"next",
+		"coming",
+		"last",
+		"past"
+	],
 	"keyword": "this here",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["これ", "この", "ここ"],
+		"rare": [
+			"これ",
+			"この",
+			"ここ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

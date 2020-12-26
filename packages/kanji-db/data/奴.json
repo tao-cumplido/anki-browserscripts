@@ -1,16 +1,26 @@
 {
 	"kanji": "奴",
-	"meanings": ["guy", "slave", "manservant", "fellow"],
+	"meanings": [
+		"guy",
+		"slave",
+		"manservant",
+		"fellow"
+	],
 	"keyword": "guy",
 	"onyomi": {
-		"frequent": ["ド"],
+		"frequent": [
+			"ド"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["やつ", "やっこ"],
+		"rare": [
+			"やつ",
+			"やっこ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,31 @@
 {
 	"kanji": "愈",
-	"meanings": ["be superior", "heal", "more and more", "increasingly", "finally", "beyond doubt"],
+	"meanings": [
+		"be superior",
+		"heal",
+		"more and more",
+		"increasingly",
+		"finally",
+		"beyond doubt"
+	],
 	"keyword": "in the nick of time",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ユ"]
+		"rare": [
+			"ユ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いよいよ", "まさ"],
-		"okurigana": ["まさ.る"]
+		"rare": [
+			"いよいよ",
+			"まさ"
+		],
+		"okurigana": [
+			"まさ.る"
+		]
 	},
 	"frequency": {
 		"mean": 3126,

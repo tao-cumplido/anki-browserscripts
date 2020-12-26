@@ -1,17 +1,26 @@
 {
 	"kanji": "味",
-	"meanings": ["flavor", "taste"],
+	"meanings": [
+		"flavor",
+		"taste"
+	],
 	"keyword": "flavor",
 	"onyomi": {
-		"frequent": ["ミ"],
+		"frequent": [
+			"ミ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あじ"],
+		"frequent": [
+			"あじ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あじ.わう"]
+		"okurigana": [
+			"あじ.わう"
+		]
 	},
 	"frequency": {
 		"mean": 439,

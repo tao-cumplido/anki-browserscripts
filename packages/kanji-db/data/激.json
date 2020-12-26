@@ -1,17 +1,29 @@
 {
 	"kanji": "激",
-	"meanings": ["violent", "get excited", "enraged", "chafe", "incite"],
+	"meanings": [
+		"violent",
+		"get excited",
+		"enraged",
+		"chafe",
+		"incite"
+	],
 	"keyword": "violent",
 	"onyomi": {
-		"frequent": ["ゲキ"],
+		"frequent": [
+			"ゲキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はげ"],
+		"frequent": [
+			"はげ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["はげ.しい"]
+		"okurigana": [
+			"はげ.しい"
+		]
 	},
 	"frequency": {
 		"mean": 954,

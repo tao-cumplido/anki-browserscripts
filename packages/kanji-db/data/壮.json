@@ -1,16 +1,24 @@
 {
 	"kanji": "壮",
-	"meanings": ["robust", "manhood", "prosperity"],
+	"meanings": [
+		"robust",
+		"manhood",
+		"prosperity"
+	],
 	"keyword": "robust",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さかん"],
+		"rare": [
+			"さかん"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,30 @@
 {
 	"kanji": "滞",
-	"meanings": ["stagnate", "be delayed", "overdue", "arrears"],
+	"meanings": [
+		"stagnate",
+		"be delayed",
+		"overdue",
+		"arrears"
+	],
 	"keyword": "stagnate",
 	"onyomi": {
-		"frequent": ["タイ"],
+		"frequent": [
+			"タイ"
+		],
 		"common": [],
-		"rare": ["テイ"]
+		"rare": [
+			"テイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["とどこお"],
+		"frequent": [
+			"とどこお"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["とどこお.る"]
+		"okurigana": [
+			"とどこお.る"
+		]
 	},
 	"frequency": {
 		"mean": 1594,

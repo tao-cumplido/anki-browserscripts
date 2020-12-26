@@ -1,16 +1,25 @@
 {
 	"kanji": "酋",
-	"meanings": ["chieftain"],
+	"meanings": [
+		"chieftain"
+	],
 	"keyword": "chieftain",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュウ", "ジュ"]
+		"rare": [
+			"シュウ",
+			"ジュ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おさ", "ふるざけ", "さけのつかさ"],
+		"rare": [
+			"おさ",
+			"ふるざけ",
+			"さけのつかさ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

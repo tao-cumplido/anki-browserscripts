@@ -1,16 +1,26 @@
 {
 	"kanji": "凜",
-	"meanings": ["cold", "strict", "severe"],
+	"meanings": [
+		"cold",
+		"strict",
+		"severe"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リン"]
+		"rare": [
+			"リン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きびし"],
-		"okurigana": ["きびし.い"]
+		"rare": [
+			"きびし"
+		],
+		"okurigana": [
+			"きびし.い"
+		]
 	},
 	"frequency": {
 		"mean": 3161,

@@ -1,16 +1,31 @@
 {
 	"kanji": "凉",
-	"meanings": ["nice and cool"],
+	"meanings": [
+		"nice and cool"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リョウ"]
+		"rare": [
+			"リョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すず", "うす", "ひや", "まことに"],
-		"okurigana": ["すず.しい", "すず.む", "すず.やか", "うす.い", "ひや.す"]
+		"rare": [
+			"すず",
+			"うす",
+			"ひや",
+			"まことに"
+		],
+		"okurigana": [
+			"すず.しい",
+			"すず.む",
+			"すず.やか",
+			"うす.い",
+			"ひや.す"
+		]
 	},
 	"frequency": {
 		"mean": 3307,

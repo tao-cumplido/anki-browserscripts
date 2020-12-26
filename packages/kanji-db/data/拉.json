@@ -1,17 +1,34 @@
 {
 	"kanji": "拉",
-	"meanings": ["Latin", "kidnap", "crush"],
+	"meanings": [
+		"Latin",
+		"kidnap",
+		"crush"
+	],
 	"keyword": "yank",
 	"onyomi": {
-		"frequent": ["ラ"],
+		"frequent": [
+			"ラ"
+		],
 		"common": [],
-		"rare": ["ラツ", "ロウ"]
+		"rare": [
+			"ラツ",
+			"ロウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["らっ", "ひし", "くだ"],
-		"okurigana": ["らっ.する", "ひし.ぐ", "くだ.く"]
+		"rare": [
+			"らっ",
+			"ひし",
+			"くだ"
+		],
+		"okurigana": [
+			"らっ.する",
+			"ひし.ぐ",
+			"くだ.く"
+		]
 	},
 	"frequency": {
 		"mean": 2107,

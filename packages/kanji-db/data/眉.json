@@ -1,14 +1,22 @@
 {
 	"kanji": "眉",
-	"meanings": ["eyebrow"],
+	"meanings": [
+		"eyebrow"
+	],
 	"keyword": "eyebrow",
 	"onyomi": {
-		"frequent": ["ビ"],
-		"common": ["ミ"],
+		"frequent": [
+			"ビ"
+		],
+		"common": [
+			"ミ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まゆ"],
+		"frequent": [
+			"まゆ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

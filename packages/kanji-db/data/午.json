@@ -1,16 +1,25 @@
 {
 	"kanji": "午",
-	"meanings": ["noon", "sign of the horse", "11AM-1PM", "seventh sign of Chinese zodiac"],
+	"meanings": [
+		"noon",
+		"sign of the horse",
+		"11AM-1PM",
+		"seventh sign of Chinese zodiac"
+	],
 	"keyword": "noon",
 	"onyomi": {
-		"frequent": ["ゴ"],
+		"frequent": [
+			"ゴ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うま"],
+		"rare": [
+			"うま"
+		],
 		"okurigana": []
 	},
 	"frequency": {

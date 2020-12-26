@@ -1,17 +1,37 @@
 {
 	"kanji": "圧",
-	"meanings": ["pressure", "push", "overwhelm", "oppress", "dominate"],
+	"meanings": [
+		"pressure",
+		"push",
+		"overwhelm",
+		"oppress",
+		"dominate"
+	],
 	"keyword": "pressure",
 	"onyomi": {
-		"frequent": ["アツ"],
+		"frequent": [
+			"アツ"
+		],
 		"common": [],
-		"rare": ["エン", "オウ"]
+		"rare": [
+			"エン",
+			"オウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["お", "へ", "おさ"],
-		"okurigana": ["お.す", "へ.す", "おさ.える", "お.さえる"]
+		"rare": [
+			"お",
+			"へ",
+			"おさ"
+		],
+		"okurigana": [
+			"お.す",
+			"へ.す",
+			"おさ.える",
+			"お.さえる"
+		]
 	},
 	"frequency": {
 		"mean": 856,

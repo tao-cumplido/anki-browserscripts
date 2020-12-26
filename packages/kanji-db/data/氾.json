@@ -1,17 +1,26 @@
 {
 	"kanji": "氾",
-	"meanings": ["spread out", "wide"],
+	"meanings": [
+		"spread out",
+		"wide"
+	],
 	"keyword": "widespread",
 	"onyomi": {
-		"frequent": ["ハン"],
+		"frequent": [
+			"ハン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひろ"],
-		"okurigana": ["ひろ.がる"]
+		"rare": [
+			"ひろ"
+		],
+		"okurigana": [
+			"ひろ.がる"
+		]
 	},
 	"frequency": {
 		"mean": 2964,

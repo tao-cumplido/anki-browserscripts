@@ -1,14 +1,21 @@
 {
 	"kanji": "色",
-	"meanings": ["color"],
+	"meanings": [
+		"color"
+	],
 	"keyword": "color",
 	"onyomi": {
-		"frequent": ["ショク", "シキ"],
+		"frequent": [
+			"ショク",
+			"シキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いろ"],
+		"frequent": [
+			"いろ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

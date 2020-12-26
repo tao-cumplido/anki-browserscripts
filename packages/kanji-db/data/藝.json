@@ -1,17 +1,33 @@
 {
 	"kanji": "藝",
-	"meanings": ["art", "craft", "performance", "acting", "trick", "stunt"],
+	"meanings": [
+		"art",
+		"craft",
+		"performance",
+		"acting",
+		"trick",
+		"stunt"
+	],
 	"keyword": "technique (old)",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゲイ", "ウン"]
+		"rare": [
+			"ゲイ",
+			"ウン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["う", "のり", "わざ"],
-		"okurigana": ["う.える"]
+		"rare": [
+			"う",
+			"のり",
+			"わざ"
+		],
+		"okurigana": [
+			"う.える"
+		]
 	},
 	"frequency": {
 		"mean": 1662,

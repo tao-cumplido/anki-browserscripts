@@ -1,17 +1,30 @@
 {
 	"kanji": "省",
-	"meanings": ["focus", "government ministry", "conserve"],
+	"meanings": [
+		"focus",
+		"government ministry",
+		"conserve"
+	],
 	"keyword": "focus",
 	"onyomi": {
-		"frequent": ["セイ", "ショウ"],
+		"frequent": [
+			"セイ",
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かえり", "はぶ"],
+		"frequent": [
+			"かえり",
+			"はぶ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かえり.みる", "はぶ.く"]
+		"okurigana": [
+			"かえり.みる",
+			"はぶ.く"
+		]
 	},
 	"frequency": {
 		"mean": 495,

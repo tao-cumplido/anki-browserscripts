@@ -1,17 +1,29 @@
 {
 	"kanji": "敷",
-	"meanings": ["spread", "pave", "sit", "promulgate"],
+	"meanings": [
+		"spread",
+		"pave",
+		"sit",
+		"promulgate"
+	],
 	"keyword": "spread",
 	"onyomi": {
-		"frequent": ["フ"],
+		"frequent": [
+			"フ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["し"],
+		"frequent": [
+			"し"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["し.く", "し.き"]
+		"okurigana": [
+			"し.く",
+			"し.き"
+		]
 	},
 	"frequency": {
 		"mean": 910,

@@ -1,17 +1,27 @@
 {
 	"kanji": "婉",
-	"meanings": ["graceful"],
+	"meanings": [
+		"graceful"
+	],
 	"keyword": "well finished",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["エン"]
+		"rare": [
+			"エン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うつく", "したが"],
-		"okurigana": ["うつく.しい", "したが.う"]
+		"rare": [
+			"うつく",
+			"したが"
+		],
+		"okurigana": [
+			"うつく.しい",
+			"したが.う"
+		]
 	},
 	"frequency": {
 		"mean": 3594,

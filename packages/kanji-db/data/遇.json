@@ -1,17 +1,31 @@
 {
 	"kanji": "遇",
-	"meanings": ["meet", "encounter", "interview", "treat", "entertain", "receive", "deal with"],
+	"meanings": [
+		"meet",
+		"encounter",
+		"interview",
+		"treat",
+		"entertain",
+		"receive",
+		"deal with"
+	],
 	"keyword": "interview",
 	"onyomi": {
-		"frequent": ["グウ"],
+		"frequent": [
+			"グウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あ"],
-		"okurigana": ["あ.う"]
+		"rare": [
+			"あ"
+		],
+		"okurigana": [
+			"あ.う"
+		]
 	},
 	"frequency": {
 		"mean": 1605,

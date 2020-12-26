@@ -1,14 +1,23 @@
 {
 	"kanji": "町",
-	"meanings": ["town", "village", "block", "street"],
+	"meanings": [
+		"town",
+		"village",
+		"block",
+		"street"
+	],
 	"keyword": "village",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まち"],
+		"frequent": [
+			"まち"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

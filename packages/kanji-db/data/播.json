@@ -1,17 +1,28 @@
 {
 	"kanji": "播",
-	"meanings": ["plant", "sow"],
+	"meanings": [
+		"plant",
+		"sow"
+	],
 	"keyword": "disseminate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハ", "バン", "ハン"]
+		"rare": [
+			"ハ",
+			"バン",
+			"ハン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ま"],
-		"okurigana": ["ま.く"]
+		"rare": [
+			"ま"
+		],
+		"okurigana": [
+			"ま.く"
+		]
 	},
 	"frequency": {
 		"mean": 1781,

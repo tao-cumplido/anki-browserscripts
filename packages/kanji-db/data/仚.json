@@ -1,14 +1,20 @@
 {
 	"kanji": "仚",
-	"meanings": ["to fly"],
+	"meanings": [
+		"to fly"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ケン"],
+		"common": [
+			"ケン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["とぶ"],
+		"common": [
+			"とぶ"
+		],
 		"rare": [],
 		"okurigana": []
 	},

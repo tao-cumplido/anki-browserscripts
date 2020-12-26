@@ -1,17 +1,28 @@
 {
 	"kanji": "赴",
-	"meanings": ["proceed", "get", "become", "tend"],
+	"meanings": [
+		"proceed",
+		"get",
+		"become",
+		"tend"
+	],
 	"keyword": "proceed",
 	"onyomi": {
-		"frequent": ["フ"],
+		"frequent": [
+			"フ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おもむ"],
+		"frequent": [
+			"おもむ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おもむ.く"]
+		"okurigana": [
+			"おもむ.く"
+		]
 	},
 	"frequency": {
 		"mean": 1897,

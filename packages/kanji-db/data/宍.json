@@ -1,16 +1,24 @@
 {
 	"kanji": "宍",
-	"meanings": ["muscles", "meat"],
+	"meanings": [
+		"muscles",
+		"meat"
+	],
 	"keyword": "venison",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ニク", "ジク"]
+		"rare": [
+			"ニク",
+			"ジク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しし"],
+		"rare": [
+			"しし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,16 +1,26 @@
 {
 	"kanji": "侅",
-	"meanings": ["to give", "prepared for included in", "embraced in"],
+	"meanings": [
+		"to give",
+		"prepared for included in",
+		"embraced in"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["カイ"],
+		"common": [
+			"カイ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["むせ"],
+		"common": [
+			"むせ"
+		],
 		"rare": [],
-		"okurigana": ["むせ.ぶ"]
+		"okurigana": [
+			"むせ.ぶ"
+		]
 	},
 	"frequency": {
 		"mean": 4540,

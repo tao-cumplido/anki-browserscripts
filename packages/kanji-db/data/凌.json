@@ -1,17 +1,31 @@
 {
 	"kanji": "凌",
-	"meanings": ["endure", "keep (rain)out", "stave off", "tide over", "defy", "slight", "surpass"],
+	"meanings": [
+		"endure",
+		"keep (rain)out",
+		"stave off",
+		"tide over",
+		"defy",
+		"slight",
+		"surpass"
+	],
 	"keyword": "pull through",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リョウ"]
+		"rare": [
+			"リョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しの"],
-		"okurigana": ["しの.ぐ"]
+		"rare": [
+			"しの"
+		],
+		"okurigana": [
+			"しの.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 2171,

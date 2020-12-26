@@ -1,16 +1,22 @@
 {
 	"kanji": "瑶",
-	"meanings": ["beautiful as a jewel"],
+	"meanings": [
+		"beautiful as a jewel"
+	],
 	"keyword": "precious stone",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヨウ"]
+		"rare": [
+			"ヨウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たま"],
+		"rare": [
+			"たま"
+		],
 		"okurigana": []
 	},
 	"frequency": {

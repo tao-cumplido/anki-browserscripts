@@ -1,17 +1,34 @@
 {
 	"kanji": "占",
-	"meanings": ["fortune-telling", "divining", "forecasting", "occupy", "hold", "have", "get", "take"],
+	"meanings": [
+		"fortune-telling",
+		"divining",
+		"forecasting",
+		"occupy",
+		"hold",
+		"have",
+		"get",
+		"take"
+	],
 	"keyword": "fortune-telling",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["し", "うらな"],
+		"frequent": [
+			"し",
+			"うらな"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["し.める", "うらな.う"]
+		"okurigana": [
+			"し.める",
+			"うらな.う"
+		]
 	},
 	"frequency": {
 		"mean": 1043,

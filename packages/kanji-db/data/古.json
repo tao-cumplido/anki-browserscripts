@@ -1,17 +1,26 @@
 {
 	"kanji": "古",
-	"meanings": ["old"],
+	"meanings": [
+		"old"
+	],
 	"keyword": "old",
 	"onyomi": {
-		"frequent": ["コ"],
+		"frequent": [
+			"コ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふる"],
+		"frequent": [
+			"ふる"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ふる.い", "ふる.す"]
+		"okurigana": [
+			"ふる.い",
+			"ふる.す"
+		]
 	},
 	"frequency": {
 		"mean": 240,

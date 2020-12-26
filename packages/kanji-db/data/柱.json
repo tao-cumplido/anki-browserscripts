@@ -1,14 +1,23 @@
 {
 	"kanji": "柱",
-	"meanings": ["pillar", "post", "cylinder", "support"],
+	"meanings": [
+		"pillar",
+		"post",
+		"cylinder",
+		"support"
+	],
 	"keyword": "pillar",
 	"onyomi": {
-		"frequent": ["チュウ"],
+		"frequent": [
+			"チュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はしら"],
+		"frequent": [
+			"はしら"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

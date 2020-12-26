@@ -1,16 +1,28 @@
 {
 	"kanji": "冦",
-	"meanings": ["foe", "enemy", "revenge", "grudge", "feud"],
+	"meanings": [
+		"foe",
+		"enemy",
+		"revenge",
+		"grudge",
+		"feud"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あだ"],
-		"okurigana": ["あだ.する"]
+		"rare": [
+			"あだ"
+		],
+		"okurigana": [
+			"あだ.する"
+		]
 	},
 	"frequency": {
 		"mean": 4485,

@@ -1,14 +1,26 @@
 {
 	"kanji": "蛇",
-	"meanings": ["snake", "serpent", "hard drinker"],
+	"meanings": [
+		"snake",
+		"serpent",
+		"hard drinker"
+	],
 	"keyword": "snake",
 	"onyomi": {
-		"frequent": ["ジャ", "ダ"],
+		"frequent": [
+			"ジャ",
+			"ダ"
+		],
 		"common": [],
-		"rare": ["イ", "ヤ"]
+		"rare": [
+			"イ",
+			"ヤ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["へび"],
+		"frequent": [
+			"へび"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

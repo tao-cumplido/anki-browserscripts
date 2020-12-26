@@ -1,14 +1,22 @@
 {
 	"kanji": "宝",
-	"meanings": ["treasure", "wealth", "valuables"],
+	"meanings": [
+		"treasure",
+		"wealth",
+		"valuables"
+	],
 	"keyword": "treasure",
 	"onyomi": {
-		"frequent": ["ホウ"],
+		"frequent": [
+			"ホウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たから"],
+		"frequent": [
+			"たから"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

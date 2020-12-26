@@ -1,15 +1,24 @@
 {
 	"kanji": "乕",
-	"meanings": ["tiger", "brave", "fierce", "surname"],
+	"meanings": [
+		"tiger",
+		"brave",
+		"fierce",
+		"surname"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コ"]
+		"rare": [
+			"コ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とら"],
+		"rare": [
+			"とら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

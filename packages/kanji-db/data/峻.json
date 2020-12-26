@@ -1,17 +1,28 @@
 {
 	"kanji": "峻",
-	"meanings": ["high", "steep"],
+	"meanings": [
+		"high",
+		"steep"
+	],
 	"keyword": "steep",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュン"]
+		"rare": [
+			"シュン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["けわ", "たか"],
-		"okurigana": ["けわ.しい", "たか.い"]
+		"rare": [
+			"けわ",
+			"たか"
+		],
+		"okurigana": [
+			"けわ.しい",
+			"たか.い"
+		]
 	},
 	"frequency": {
 		"mean": 2615,

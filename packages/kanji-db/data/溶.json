@@ -1,17 +1,29 @@
 {
 	"kanji": "溶",
-	"meanings": ["melt", "dissolve", "thaw"],
+	"meanings": [
+		"melt",
+		"dissolve",
+		"thaw"
+	],
 	"keyword": "melt",
 	"onyomi": {
-		"frequent": ["ヨウ"],
+		"frequent": [
+			"ヨウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["と"],
+		"frequent": [
+			"と"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["と.ける", "と.かす", "と.く"]
+		"okurigana": [
+			"と.ける",
+			"と.かす",
+			"と.く"
+		]
 	},
 	"frequency": {
 		"mean": 1538,

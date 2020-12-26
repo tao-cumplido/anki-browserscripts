@@ -1,17 +1,37 @@
 {
 	"kanji": "而",
-	"meanings": ["and yet", "and then", "but", "however", "nevertheless"],
+	"meanings": [
+		"and yet",
+		"and then",
+		"but",
+		"however",
+		"nevertheless"
+	],
 	"keyword": "and then",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジ", "ニ"]
+		"rare": [
+			"ジ",
+			"ニ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しこ", "しか", "すなわち", "なんじ", "しかるに"],
-		"okurigana": ["しこ.うして", "しか.して", "しか.も", "しか.れども"]
+		"rare": [
+			"しこ",
+			"しか",
+			"すなわち",
+			"なんじ",
+			"しかるに"
+		],
+		"okurigana": [
+			"しこ.うして",
+			"しか.して",
+			"しか.も",
+			"しか.れども"
+		]
 	},
 	"frequency": {
 		"mean": 2111,

@@ -1,17 +1,26 @@
 {
 	"kanji": "烙",
-	"meanings": ["burn"],
+	"meanings": [
+		"burn"
+	],
 	"keyword": "branding",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ラク", "カク"]
+		"rare": [
+			"ラク",
+			"カク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["や"],
-		"okurigana": ["や.く"]
+		"rare": [
+			"や"
+		],
+		"okurigana": [
+			"や.く"
+		]
 	},
 	"frequency": {
 		"mean": 3447,

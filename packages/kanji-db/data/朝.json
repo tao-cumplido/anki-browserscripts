@@ -1,14 +1,25 @@
 {
 	"kanji": "朝",
-	"meanings": ["morning", "dynasty", "regime", "epoch", "period", "(North) Korea"],
+	"meanings": [
+		"morning",
+		"dynasty",
+		"regime",
+		"epoch",
+		"period",
+		"(North) Korea"
+	],
 	"keyword": "morning",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あさ"],
+		"frequent": [
+			"あさ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

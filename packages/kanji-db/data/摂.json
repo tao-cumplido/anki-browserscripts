@@ -1,17 +1,35 @@
 {
 	"kanji": "摂",
-	"meanings": ["vicarious", "surrogate", "act in addition to", "take in", "absorb"],
+	"meanings": [
+		"vicarious",
+		"surrogate",
+		"act in addition to",
+		"take in",
+		"absorb"
+	],
 	"keyword": "vicarious",
 	"onyomi": {
-		"frequent": ["セツ"],
+		"frequent": [
+			"セツ"
+		],
 		"common": [],
-		"rare": ["ショウ"]
+		"rare": [
+			"ショウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おさ", "かね", "と"],
-		"okurigana": ["おさ.める", "かね.る", "と.る"]
+		"rare": [
+			"おさ",
+			"かね",
+			"と"
+		],
+		"okurigana": [
+			"おさ.める",
+			"かね.る",
+			"と.る"
+		]
 	},
 	"frequency": {
 		"mean": 1559,

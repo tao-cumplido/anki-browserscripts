@@ -1,17 +1,31 @@
 {
 	"kanji": "遭",
-	"meanings": ["encounter", "meet", "party", "association", "interview", "join"],
+	"meanings": [
+		"encounter",
+		"meet",
+		"party",
+		"association",
+		"interview",
+		"join"
+	],
 	"keyword": "encounter",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あ"],
+		"frequent": [
+			"あ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あ.う", "あ.わせる"]
+		"okurigana": [
+			"あ.う",
+			"あ.わせる"
+		]
 	},
 	"frequency": {
 		"mean": 1655,

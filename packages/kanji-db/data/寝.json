@@ -1,17 +1,36 @@
 {
 	"kanji": "寝",
-	"meanings": ["lie down", "sleep", "rest", "bed", "remain unsold"],
+	"meanings": [
+		"lie down",
+		"sleep",
+		"rest",
+		"bed",
+		"remain unsold"
+	],
 	"keyword": "lie down",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ね"],
+		"frequent": [
+			"ね"
+		],
 		"common": [],
-		"rare": ["い", "みたまや", "や"],
-		"okurigana": ["ね.る", "ね.かす", "い.ぬ", "や.める"]
+		"rare": [
+			"い",
+			"みたまや",
+			"や"
+		],
+		"okurigana": [
+			"ね.る",
+			"ね.かす",
+			"い.ぬ",
+			"や.める"
+		]
 	},
 	"frequency": {
 		"mean": 1081,

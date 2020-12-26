@@ -1,16 +1,28 @@
 {
 	"kanji": "况",
-	"meanings": ["still more", "still less"],
+	"meanings": [
+		"still more",
+		"still less"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ"]
+		"rare": [
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まし", "いわ", "おもむき"],
-		"okurigana": ["まし.て", "いわ.んや"]
+		"rare": [
+			"まし",
+			"いわ",
+			"おもむき"
+		],
+		"okurigana": [
+			"まし.て",
+			"いわ.んや"
+		]
 	},
 	"frequency": {
 		"mean": 4298,

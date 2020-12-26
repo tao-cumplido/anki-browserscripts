@@ -1,16 +1,22 @@
 {
 	"kanji": "楊",
-	"meanings": ["willow"],
+	"meanings": [
+		"willow"
+	],
 	"keyword": "purple willow",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヨウ"]
+		"rare": [
+			"ヨウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["やなぎ"],
+		"rare": [
+			"やなぎ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

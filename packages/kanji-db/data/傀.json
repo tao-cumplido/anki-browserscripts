@@ -1,16 +1,24 @@
 {
 	"kanji": "傀",
-	"meanings": ["large"],
+	"meanings": [
+		"large"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カイ"]
+		"rare": [
+			"カイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おおき"],
-		"okurigana": ["おおき.い"]
+		"rare": [
+			"おおき"
+		],
+		"okurigana": [
+			"おおき.い"
+		]
 	},
 	"frequency": {
 		"mean": 2838,

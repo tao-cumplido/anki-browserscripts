@@ -1,14 +1,21 @@
 {
 	"kanji": "網",
-	"meanings": ["netting", "network"],
+	"meanings": [
+		"netting",
+		"network"
+	],
 	"keyword": "netting",
 	"onyomi": {
-		"frequent": ["モウ"],
+		"frequent": [
+			"モウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あみ"],
+		"frequent": [
+			"あみ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

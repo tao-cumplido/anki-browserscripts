@@ -1,16 +1,24 @@
 {
 	"kanji": "只",
-	"meanings": ["only", "free", "in addition"],
+	"meanings": [
+		"only",
+		"free",
+		"in addition"
+	],
 	"keyword": "only",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ただ"],
+		"rare": [
+			"ただ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,29 @@
 {
 	"kanji": "免",
-	"meanings": ["excuse", "dismissal"],
+	"meanings": [
+		"excuse",
+		"dismissal"
+	],
 	"keyword": "excuse",
 	"onyomi": {
-		"frequent": ["メン"],
+		"frequent": [
+			"メン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まぬか"],
+		"frequent": [
+			"まぬか"
+		],
 		"common": [],
-		"rare": ["まぬが"],
-		"okurigana": ["まぬか.れる", "まぬが.れる"]
+		"rare": [
+			"まぬが"
+		],
+		"okurigana": [
+			"まぬか.れる",
+			"まぬが.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1115,

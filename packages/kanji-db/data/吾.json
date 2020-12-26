@@ -1,16 +1,27 @@
 {
 	"kanji": "吾",
-	"meanings": ["I", "my", "our", "one's own"],
+	"meanings": [
+		"I",
+		"my",
+		"our",
+		"one's own"
+	],
 	"keyword": "I",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゴ"]
+		"rare": [
+			"ゴ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["われ", "わが", "あ"],
+		"rare": [
+			"われ",
+			"わが",
+			"あ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

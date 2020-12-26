@@ -1,16 +1,25 @@
 {
 	"kanji": "夙",
-	"meanings": ["bright and early", "long ago", "early in life"],
+	"meanings": [
+		"bright and early",
+		"long ago",
+		"early in life"
+	],
 	"keyword": "earlybird",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュク"]
+		"rare": [
+			"シュク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つとに", "はやい"],
+		"rare": [
+			"つとに",
+			"はやい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

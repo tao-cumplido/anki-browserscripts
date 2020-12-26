@@ -1,17 +1,25 @@
 {
 	"kanji": "嬌",
-	"meanings": ["attractive"],
+	"meanings": [
+		"attractive"
+	],
 	"keyword": "attractive",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ"]
+		"rare": [
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なまめか"],
-		"okurigana": ["なまめか.しい"]
+		"rare": [
+			"なまめか"
+		],
+		"okurigana": [
+			"なまめか.しい"
+		]
 	},
 	"frequency": {
 		"mean": 3084,

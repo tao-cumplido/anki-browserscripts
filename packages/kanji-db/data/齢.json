@@ -1,16 +1,23 @@
 {
 	"kanji": "齢",
-	"meanings": ["age"],
+	"meanings": [
+		"age"
+	],
 	"keyword": "age",
 	"onyomi": {
-		"frequent": ["レイ"],
+		"frequent": [
+			"レイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よわい", "とし"],
+		"rare": [
+			"よわい",
+			"とし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

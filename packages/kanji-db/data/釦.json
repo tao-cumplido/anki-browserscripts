@@ -1,16 +1,23 @@
 {
 	"kanji": "釦",
-	"meanings": ["button"],
+	"meanings": [
+		"button"
+	],
 	"keyword": "button",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ", "ク"]
+		"rare": [
+			"コウ",
+			"ク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ぼたん"],
+		"rare": [
+			"ぼたん"
+		],
 		"okurigana": []
 	},
 	"frequency": {

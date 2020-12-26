@@ -1,16 +1,26 @@
 {
 	"kanji": "冢",
-	"meanings": ["mound", "hillock"],
+	"meanings": [
+		"mound",
+		"hillock"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョウ"]
+		"rare": [
+			"チョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つか", "おお"],
-		"okurigana": ["おお.う"]
+		"rare": [
+			"つか",
+			"おお"
+		],
+		"okurigana": [
+			"おお.う"
+		]
 	},
 	"frequency": {
 		"mean": 4204,

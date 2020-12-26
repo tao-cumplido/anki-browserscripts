@@ -1,14 +1,23 @@
 {
 	"kanji": "俵",
-	"meanings": ["bag", "bale", "sack", "counter for bags"],
+	"meanings": [
+		"bag",
+		"bale",
+		"sack",
+		"counter for bags"
+	],
 	"keyword": "bag",
 	"onyomi": {
-		"frequent": ["ヒョウ"],
+		"frequent": [
+			"ヒョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たわら"],
+		"frequent": [
+			"たわら"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

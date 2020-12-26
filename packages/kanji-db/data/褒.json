@@ -1,17 +1,26 @@
 {
 	"kanji": "褒",
-	"meanings": ["praise", "extol"],
+	"meanings": [
+		"praise",
+		"extol"
+	],
 	"keyword": "praise",
 	"onyomi": {
-		"frequent": ["ホウ"],
+		"frequent": [
+			"ホウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほ"],
+		"frequent": [
+			"ほ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ほ.める"]
+		"okurigana": [
+			"ほ.める"
+		]
 	},
 	"frequency": {
 		"mean": 2081,

@@ -1,14 +1,23 @@
 {
 	"kanji": "襟",
-	"meanings": ["collar", "neck", "lapel", "one's inner feelings"],
+	"meanings": [
+		"collar",
+		"neck",
+		"lapel",
+		"one's inner feelings"
+	],
 	"keyword": "collar",
 	"onyomi": {
-		"frequent": ["キン"],
+		"frequent": [
+			"キン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["えり"],
+		"frequent": [
+			"えり"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

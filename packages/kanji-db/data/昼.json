@@ -1,14 +1,21 @@
 {
 	"kanji": "昼",
-	"meanings": ["daytime", "noon"],
+	"meanings": [
+		"daytime",
+		"noon"
+	],
 	"keyword": "daytime",
 	"onyomi": {
-		"frequent": ["チュウ"],
+		"frequent": [
+			"チュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひる"],
+		"frequent": [
+			"ひる"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

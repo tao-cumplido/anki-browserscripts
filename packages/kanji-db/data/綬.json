@@ -1,16 +1,22 @@
 {
 	"kanji": "綬",
-	"meanings": ["ribbon"],
+	"meanings": [
+		"ribbon"
+	],
 	"keyword": "gimp",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジュ"]
+		"rare": [
+			"ジュ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひも"],
+		"rare": [
+			"ひも"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,34 @@
 {
 	"kanji": "哀",
-	"meanings": ["pathetic", "grief", "sorrow", "pathos", "pity", "sympathize"],
+	"meanings": [
+		"pathetic",
+		"grief",
+		"sorrow",
+		"pathos",
+		"pity",
+		"sympathize"
+	],
 	"keyword": "pathetic",
 	"onyomi": {
-		"frequent": ["アイ"],
+		"frequent": [
+			"アイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あわ"],
+		"frequent": [
+			"あわ"
+		],
 		"common": [],
-		"rare": ["かな"],
-		"okurigana": ["あわ.れ", "あわ.れむ", "かな.しい"]
+		"rare": [
+			"かな"
+		],
+		"okurigana": [
+			"あわ.れ",
+			"あわ.れむ",
+			"かな.しい"
+		]
 	},
 	"frequency": {
 		"mean": 1726,

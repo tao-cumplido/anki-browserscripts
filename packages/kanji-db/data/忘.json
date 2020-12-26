@@ -1,17 +1,25 @@
 {
 	"kanji": "忘",
-	"meanings": ["forget"],
+	"meanings": [
+		"forget"
+	],
 	"keyword": "forget",
 	"onyomi": {
-		"frequent": ["ボウ"],
+		"frequent": [
+			"ボウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["わす"],
+		"frequent": [
+			"わす"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["わす.れる"]
+		"okurigana": [
+			"わす.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1315,

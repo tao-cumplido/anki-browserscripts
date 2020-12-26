@@ -1,17 +1,31 @@
 {
 	"kanji": "僻",
-	"meanings": ["prejudice", "bias", "rural area"],
+	"meanings": [
+		"prejudice",
+		"bias",
+		"rural area"
+	],
 	"keyword": "biased",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヘキ", "ヒ", "ヘイ"]
+		"rare": [
+			"ヘキ",
+			"ヒ",
+			"ヘイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["へき", "ひが"],
-		"okurigana": ["へき.する", "ひが.む"]
+		"rare": [
+			"へき",
+			"ひが"
+		],
+		"okurigana": [
+			"へき.する",
+			"ひが.む"
+		]
 	},
 	"frequency": {
 		"mean": 3442,

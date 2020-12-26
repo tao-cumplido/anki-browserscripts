@@ -1,16 +1,23 @@
 {
 	"kanji": "勲",
-	"meanings": ["meritorious deed", "merit"],
+	"meanings": [
+		"meritorious deed",
+		"merit"
+	],
 	"keyword": "meritorious deed",
 	"onyomi": {
-		"frequent": ["クン"],
+		"frequent": [
+			"クン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いさお"],
+		"rare": [
+			"いさお"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,30 @@
 {
 	"kanji": "照",
-	"meanings": ["illuminate", "shine", "compare", "bashful"],
+	"meanings": [
+		"illuminate",
+		"shine",
+		"compare",
+		"bashful"
+	],
 	"keyword": "illuminate",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["て"],
+		"frequent": [
+			"て"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["て.る", "て.らす", "て.れる"]
+		"okurigana": [
+			"て.る",
+			"て.らす",
+			"て.れる"
+		]
 	},
 	"frequency": {
 		"mean": 568,

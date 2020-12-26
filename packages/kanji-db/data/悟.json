@@ -1,17 +1,29 @@
 {
 	"kanji": "悟",
-	"meanings": ["enlightenment", "perceive", "discern", "realize", "understand"],
+	"meanings": [
+		"enlightenment",
+		"perceive",
+		"discern",
+		"realize",
+		"understand"
+	],
 	"keyword": "enlightenment",
 	"onyomi": {
-		"frequent": ["ゴ"],
+		"frequent": [
+			"ゴ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さと"],
+		"frequent": [
+			"さと"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["さと.る"]
+		"okurigana": [
+			"さと.る"
+		]
 	},
 	"frequency": {
 		"mean": 1435,

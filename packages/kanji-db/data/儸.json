@@ -1,16 +1,25 @@
 {
 	"kanji": "儸",
-	"meanings": ["bandit", "dare-devil"],
+	"meanings": [
+		"bandit",
+		"dare-devil"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ラ"],
+		"common": [
+			"ラ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["さば"],
+		"common": [
+			"さば"
+		],
 		"rare": [],
-		"okurigana": ["さば.く"]
+		"okurigana": [
+			"さば.く"
+		]
 	},
 	"frequency": {
 		"mean": 4536,

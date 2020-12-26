@@ -1,17 +1,30 @@
 {
 	"kanji": "蕩",
-	"meanings": ["melt", "be charmed", "captivated"],
+	"meanings": [
+		"melt",
+		"be charmed",
+		"captivated"
+	],
 	"keyword": "prodigal",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["トウ"]
+		"rare": [
+			"トウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とろ", "うご"],
-		"okurigana": ["とろ.かす", "とろ.ける", "うご.く"]
+		"rare": [
+			"とろ",
+			"うご"
+		],
+		"okurigana": [
+			"とろ.かす",
+			"とろ.ける",
+			"うご.く"
+		]
 	},
 	"frequency": {
 		"mean": 2976,

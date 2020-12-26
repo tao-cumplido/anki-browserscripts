@@ -1,11 +1,18 @@
 {
 	"kanji": "什",
-	"meanings": ["utensil", "thing", "ten"],
+	"meanings": [
+		"utensil",
+		"thing",
+		"ten"
+	],
 	"keyword": "X",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジュウ", "シュウ"]
+		"rare": [
+			"ジュウ",
+			"シュウ"
+		]
 	},
 	"frequency": {
 		"mean": 3241,

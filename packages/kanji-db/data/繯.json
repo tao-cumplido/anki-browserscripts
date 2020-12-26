@@ -1,0 +1,31 @@
+{
+	"kanji": "繯",
+	"meanings": [
+		"noose",
+		"hang death",
+		"tie",
+		"bind"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ケン",
+			"カン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"から"
+		],
+		"rare": [],
+		"okurigana": [
+			"から.む"
+		]
+	},
+	"frequency": {
+		"mean": 4534,
+		"wikipedia": 4225
+	}
+}

@@ -1,17 +1,30 @@
 {
 	"kanji": "約",
-	"meanings": ["promise", "approximately", "shrink"],
+	"meanings": [
+		"promise",
+		"approximately",
+		"shrink"
+	],
 	"keyword": "promise",
 	"onyomi": {
-		"frequent": ["ヤク"],
+		"frequent": [
+			"ヤク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つづ", "つづま"],
-		"okurigana": ["つづ.まる", "つづ.める", "つづま.やか"]
+		"rare": [
+			"つづ",
+			"つづま"
+		],
+		"okurigana": [
+			"つづ.まる",
+			"つづ.める",
+			"つづま.やか"
+		]
 	},
 	"frequency": {
 		"mean": 326,

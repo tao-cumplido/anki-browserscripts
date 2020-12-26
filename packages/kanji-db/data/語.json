@@ -1,17 +1,28 @@
 {
 	"kanji": "語",
-	"meanings": ["word", "speech", "language"],
+	"meanings": [
+		"word",
+		"speech",
+		"language"
+	],
 	"keyword": "word",
 	"onyomi": {
-		"frequent": ["ゴ"],
+		"frequent": [
+			"ゴ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かた"],
+		"frequent": [
+			"かた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かた.る", "かた.らう"]
+		"okurigana": [
+			"かた.る",
+			"かた.らう"
+		]
 	},
 	"frequency": {
 		"mean": 97,

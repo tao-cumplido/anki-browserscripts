@@ -1,16 +1,25 @@
 {
 	"kanji": "躯",
-	"meanings": ["body", "corpse", "tree with rotten core"],
+	"meanings": [
+		"body",
+		"corpse",
+		"tree with rotten core"
+	],
 	"keyword": "body (old)",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ク"]
+		"rare": [
+			"ク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["むくろ", "からだ"],
+		"rare": [
+			"むくろ",
+			"からだ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

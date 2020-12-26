@@ -1,17 +1,34 @@
 {
 	"kanji": "関",
-	"meanings": ["connection", "barrier", "gateway", "involve", "concerning"],
+	"meanings": [
+		"connection",
+		"barrier",
+		"gateway",
+		"involve",
+		"concerning"
+	],
 	"keyword": "connection",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["せき", "かか"],
+		"frequent": [
+			"せき",
+			"かか"
+		],
 		"common": [],
-		"rare": ["ぜき", "からくり", "かんぬき"],
-		"okurigana": ["かか.わる"]
+		"rare": [
+			"ぜき",
+			"からくり",
+			"かんぬき"
+		],
+		"okurigana": [
+			"かか.わる"
+		]
 	},
 	"frequency": {
 		"mean": 55,

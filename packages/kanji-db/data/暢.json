@@ -1,17 +1,25 @@
 {
 	"kanji": "暢",
-	"meanings": ["stretch"],
+	"meanings": [
+		"stretch"
+	],
 	"keyword": "carefree",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョウ"]
+		"rare": [
+			"チョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["のび"],
-		"okurigana": ["のび.る"]
+		"rare": [
+			"のび"
+		],
+		"okurigana": [
+			"のび.る"
+		]
 	},
 	"frequency": {
 		"mean": 2559,

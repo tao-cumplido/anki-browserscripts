@@ -1,17 +1,37 @@
 {
 	"kanji": "籠",
-	"meanings": ["basket", "devote oneself", "seclude oneself", "cage", "coop", "implied"],
+	"meanings": [
+		"basket",
+		"devote oneself",
+		"seclude oneself",
+		"cage",
+		"coop",
+		"implied"
+	],
 	"keyword": "cage (Joyo version)",
 	"onyomi": {
-		"frequent": ["ロウ"],
+		"frequent": [
+			"ロウ"
+		],
 		"common": [],
-		"rare": ["ル"]
+		"rare": [
+			"ル"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["かご", "こ"],
+		"frequent": [
+			"かご",
+			"こ"
+		],
 		"common": [],
-		"rare": ["こも"],
-		"okurigana": ["こ.める", "こも.る", "こ.む"]
+		"rare": [
+			"こも"
+		],
+		"okurigana": [
+			"こ.める",
+			"こも.る",
+			"こ.む"
+		]
 	},
 	"frequency": {
 		"mean": 1646,

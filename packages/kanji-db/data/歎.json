@@ -1,17 +1,27 @@
 {
 	"kanji": "歎",
-	"meanings": ["grief", "lamentation"],
+	"meanings": [
+		"grief",
+		"lamentation"
+	],
 	"keyword": "bemoan",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["タン"]
+		"rare": [
+			"タン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なげ"],
-		"okurigana": ["なげ.く", "なげ.き"]
+		"rare": [
+			"なげ"
+		],
+		"okurigana": [
+			"なげ.く",
+			"なげ.き"
+		]
 	},
 	"frequency": {
 		"mean": 2869,

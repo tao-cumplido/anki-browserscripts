@@ -1,16 +1,24 @@
 {
 	"kanji": "俄",
-	"meanings": ["sudden", "abrupt", "improvised"],
+	"meanings": [
+		"sudden",
+		"abrupt",
+		"improvised"
+	],
 	"keyword": "abrupt",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ガ"]
+		"rare": [
+			"ガ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["にわか"],
+		"rare": [
+			"にわか"
+		],
 		"okurigana": []
 	},
 	"frequency": {

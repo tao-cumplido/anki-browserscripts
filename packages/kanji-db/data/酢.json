@@ -1,14 +1,23 @@
 {
 	"kanji": "酢",
-	"meanings": ["vinegar", "sour", "acid", "tart"],
+	"meanings": [
+		"vinegar",
+		"sour",
+		"acid",
+		"tart"
+	],
 	"keyword": "vinegar",
 	"onyomi": {
-		"frequent": ["サク"],
+		"frequent": [
+			"サク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["す"],
+		"frequent": [
+			"す"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

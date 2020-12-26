@@ -1,17 +1,29 @@
 {
 	"kanji": "低",
-	"meanings": ["lower", "short", "humble"],
+	"meanings": [
+		"lower",
+		"short",
+		"humble"
+	],
 	"keyword": "lower",
 	"onyomi": {
-		"frequent": ["テイ"],
+		"frequent": [
+			"テイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひく"],
+		"frequent": [
+			"ひく"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ひく.い", "ひく.める", "ひく.まる"]
+		"okurigana": [
+			"ひく.い",
+			"ひく.める",
+			"ひく.まる"
+		]
 	},
 	"frequency": {
 		"mean": 740,

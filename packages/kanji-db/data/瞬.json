@@ -1,17 +1,30 @@
 {
 	"kanji": "瞬",
-	"meanings": ["wink", "blink", "twinkle"],
+	"meanings": [
+		"wink",
+		"blink",
+		"twinkle"
+	],
 	"keyword": "wink",
 	"onyomi": {
-		"frequent": ["シュン"],
+		"frequent": [
+			"シュン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["またた"],
+		"frequent": [
+			"またた"
+		],
 		"common": [],
-		"rare": ["まじろ"],
-		"okurigana": ["またた.く", "まじろ.ぐ"]
+		"rare": [
+			"まじろ"
+		],
+		"okurigana": [
+			"またた.く",
+			"まじろ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 1501,

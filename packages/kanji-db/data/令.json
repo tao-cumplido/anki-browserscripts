@@ -1,9 +1,17 @@
 {
 	"kanji": "令",
-	"meanings": ["orders", "laws", "command", "decree", "good"],
+	"meanings": [
+		"orders",
+		"laws",
+		"command",
+		"decree",
+		"good"
+	],
 	"keyword": "orders",
 	"onyomi": {
-		"frequent": ["レイ"],
+		"frequent": [
+			"レイ"
+		],
 		"common": [],
 		"rare": []
 	},

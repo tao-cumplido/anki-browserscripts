@@ -1,17 +1,46 @@
 {
 	"kanji": "行",
-	"meanings": ["going", "journey", "carry out", "conduct", "act", "line", "row", "bank"],
+	"meanings": [
+		"going",
+		"journey",
+		"carry out",
+		"conduct",
+		"act",
+		"line",
+		"row",
+		"bank"
+	],
 	"keyword": "going",
 	"onyomi": {
-		"frequent": ["コウ", "ギョウ"],
-		"common": ["アン"],
+		"frequent": [
+			"コウ",
+			"ギョウ"
+		],
+		"common": [
+			"アン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["い", "ゆ", "おこな"],
+		"frequent": [
+			"い",
+			"ゆ",
+			"おこな"
+		],
 		"common": [],
-		"rare": ["ゆき", "いき", "おこ"],
-		"okurigana": ["い.く", "ゆ.く", "ゆ.き", "い.き", "おこな.う", "おこ.なう"]
+		"rare": [
+			"ゆき",
+			"いき",
+			"おこ"
+		],
+		"okurigana": [
+			"い.く",
+			"ゆ.く",
+			"ゆ.き",
+			"い.き",
+			"おこな.う",
+			"おこ.なう"
+		]
 	},
 	"frequency": {
 		"mean": 18,

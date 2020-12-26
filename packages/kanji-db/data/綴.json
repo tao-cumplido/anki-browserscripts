@@ -1,17 +1,36 @@
 {
 	"kanji": "綴",
-	"meanings": ["compose", "spell", "write", "bind (books)"],
+	"meanings": [
+		"compose",
+		"spell",
+		"write",
+		"bind (books)"
+	],
 	"keyword": "mend",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テイ", "テツ", "テチ", "ゲツ"]
+		"rare": [
+			"テイ",
+			"テツ",
+			"テチ",
+			"ゲツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["と", "つづ", "つづり", "すみ"],
-		"okurigana": ["と.じる", "つづ.る", "すみ.やか"]
+		"rare": [
+			"と",
+			"つづ",
+			"つづり",
+			"すみ"
+		],
+		"okurigana": [
+			"と.じる",
+			"つづ.る",
+			"すみ.やか"
+		]
 	},
 	"frequency": {
 		"mean": 2070,

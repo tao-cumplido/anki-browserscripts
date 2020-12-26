@@ -1,17 +1,25 @@
 {
 	"kanji": "勁",
-	"meanings": ["strong"],
+	"meanings": [
+		"strong"
+	],
 	"keyword": "formidable",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケイ"]
+		"rare": [
+			"ケイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つよ"],
-		"okurigana": ["つよ.い"]
+		"rare": [
+			"つよ"
+		],
+		"okurigana": [
+			"つよ.い"
+		]
 	},
 	"frequency": {
 		"mean": 2664,

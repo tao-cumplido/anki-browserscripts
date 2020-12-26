@@ -1,16 +1,26 @@
 {
 	"kanji": "稿",
-	"meanings": ["draft", "copy", "manuscript", "straw"],
+	"meanings": [
+		"draft",
+		"copy",
+		"manuscript",
+		"straw"
+	],
 	"keyword": "draft",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わら", "したがき"],
+		"rare": [
+			"わら",
+			"したがき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

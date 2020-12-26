@@ -1,16 +1,22 @@
 {
 	"kanji": "訃",
-	"meanings": ["obituary"],
+	"meanings": [
+		"obituary"
+	],
 	"keyword": "obituary",
 	"onyomi": {
-		"frequent": ["フ"],
+		"frequent": [
+			"フ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しらせ"],
+		"rare": [
+			"しらせ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

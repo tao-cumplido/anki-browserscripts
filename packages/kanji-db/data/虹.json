@@ -1,14 +1,20 @@
 {
 	"kanji": "虹",
-	"meanings": ["rainbow"],
+	"meanings": [
+		"rainbow"
+	],
 	"keyword": "rainbow",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["にじ"],
+		"frequent": [
+			"にじ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

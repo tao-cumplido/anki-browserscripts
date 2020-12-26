@@ -1,14 +1,20 @@
 {
 	"kanji": "桃",
-	"meanings": ["peach"],
+	"meanings": [
+		"peach"
+	],
 	"keyword": "peach tree",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["もも"],
+		"frequent": [
+			"もも"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

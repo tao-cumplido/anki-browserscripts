@@ -1,16 +1,26 @@
 {
 	"kanji": "方",
-	"meanings": ["direction", "person", "alternative"],
+	"meanings": [
+		"direction",
+		"person",
+		"alternative"
+	],
 	"keyword": "direction",
 	"onyomi": {
-		"frequent": ["ホウ"],
+		"frequent": [
+			"ホウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かた"],
+		"frequent": [
+			"かた"
+		],
 		"common": [],
-		"rare": ["がた"],
+		"rare": [
+			"がた"
+		],
 		"okurigana": []
 	},
 	"frequency": {

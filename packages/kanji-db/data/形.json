@@ -1,16 +1,29 @@
 {
 	"kanji": "形",
-	"meanings": ["shape", "form", "style"],
+	"meanings": [
+		"shape",
+		"form",
+		"style"
+	],
 	"keyword": "shape",
 	"onyomi": {
-		"frequent": ["ケイ", "ギョウ"],
+		"frequent": [
+			"ケイ",
+			"ギョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かた", "かたち"],
+		"frequent": [
+			"かた",
+			"かたち"
+		],
 		"common": [],
-		"rare": ["がた", "なり"],
+		"rare": [
+			"がた",
+			"なり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

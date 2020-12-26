@@ -1,16 +1,27 @@
 {
 	"kanji": "鋒",
-	"meanings": ["dagger", "sword's point", "festival car", "float"],
+	"meanings": [
+		"dagger",
+		"sword's point",
+		"festival car",
+		"float"
+	],
 	"keyword": "sword’s point",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ホウ"]
+		"rare": [
+			"ホウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きっさき", "とかり", "ほこさき"],
+		"rare": [
+			"きっさき",
+			"とかり",
+			"ほこさき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

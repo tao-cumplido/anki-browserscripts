@@ -1,14 +1,22 @@
 {
 	"kanji": "浜",
-	"meanings": ["seacoast", "beach", "seashore"],
+	"meanings": [
+		"seacoast",
+		"beach",
+		"seashore"
+	],
 	"keyword": "seacoast",
 	"onyomi": {
-		"frequent": ["ヒン"],
+		"frequent": [
+			"ヒン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はま"],
+		"frequent": [
+			"はま"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

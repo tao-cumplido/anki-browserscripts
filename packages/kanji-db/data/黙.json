@@ -1,17 +1,33 @@
 {
 	"kanji": "黙",
-	"meanings": ["silence", "become silent", "stop speaking", "leave as is"],
+	"meanings": [
+		"silence",
+		"become silent",
+		"stop speaking",
+		"leave as is"
+	],
 	"keyword": "silence",
 	"onyomi": {
-		"frequent": ["モク"],
+		"frequent": [
+			"モク"
+		],
 		"common": [],
-		"rare": ["ボク"]
+		"rare": [
+			"ボク"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["だま"],
+		"frequent": [
+			"だま"
+		],
 		"common": [],
-		"rare": ["もだ"],
-		"okurigana": ["だま.る", "もだ.す"]
+		"rare": [
+			"もだ"
+		],
+		"okurigana": [
+			"だま.る",
+			"もだ.す"
+		]
 	},
 	"frequency": {
 		"mean": 1520,

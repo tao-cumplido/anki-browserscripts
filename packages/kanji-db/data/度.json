@@ -1,17 +1,35 @@
 {
 	"kanji": "度",
-	"meanings": ["degrees", "occurrence", "time", "counter for occurrences", "consider", "attitude"],
+	"meanings": [
+		"degrees",
+		"occurrence",
+		"time",
+		"counter for occurrences",
+		"consider",
+		"attitude"
+	],
 	"keyword": "degrees",
 	"onyomi": {
-		"frequent": ["ド"],
-		"common": ["ト", "タク"],
+		"frequent": [
+			"ド"
+		],
+		"common": [
+			"ト",
+			"タク"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たび"],
+		"frequent": [
+			"たび"
+		],
 		"common": [],
-		"rare": ["た"],
-		"okurigana": ["た.い"]
+		"rare": [
+			"た"
+		],
+		"okurigana": [
+			"た.い"
+		]
 	},
 	"frequency": {
 		"mean": 98,

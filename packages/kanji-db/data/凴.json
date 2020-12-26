@@ -1,9 +1,16 @@
 {
 	"kanji": "凴",
-	"meanings": ["to rely on", "depend on", "evidence", "proof"],
+	"meanings": [
+		"to rely on",
+		"depend on",
+		"evidence",
+		"proof"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ヒョウ"],
+		"common": [
+			"ヒョウ"
+		],
 		"rare": []
 	},
 	"frequency": {

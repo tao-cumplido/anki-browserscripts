@@ -1,17 +1,36 @@
 {
 	"kanji": "更",
-	"meanings": ["grow late", "night watch", "sit up late", "of course", "renew", "renovate", "again", "more and more", "further"],
+	"meanings": [
+		"grow late",
+		"night watch",
+		"sit up late",
+		"of course",
+		"renew",
+		"renovate",
+		"again",
+		"more and more",
+		"further"
+	],
 	"keyword": "grow late",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さら", "ふ"],
+		"frequent": [
+			"さら",
+			"ふ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["さら.に", "ふ.ける", "ふ.かす"]
+		"okurigana": [
+			"さら.に",
+			"ふ.ける",
+			"ふ.かす"
+		]
 	},
 	"frequency": {
 		"mean": 427,

@@ -1,17 +1,36 @@
 {
 	"kanji": "厳",
-	"meanings": ["stern", "strictness", "severity", "rigidity"],
+	"meanings": [
+		"stern",
+		"strictness",
+		"severity",
+		"rigidity"
+	],
 	"keyword": "stern",
 	"onyomi": {
-		"frequent": ["ゲン"],
-		"common": ["ゴン"],
+		"frequent": [
+			"ゲン"
+		],
+		"common": [
+			"ゴン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おごそ", "きび"],
+		"frequent": [
+			"おごそ",
+			"きび"
+		],
 		"common": [],
-		"rare": ["いか", "いつくし"],
-		"okurigana": ["おごそ.か", "きび.しい", "いか.めしい"]
+		"rare": [
+			"いか",
+			"いつくし"
+		],
+		"okurigana": [
+			"おごそ.か",
+			"きび.しい",
+			"いか.めしい"
+		]
 	},
 	"frequency": {
 		"mean": 1156,

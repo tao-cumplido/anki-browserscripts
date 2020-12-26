@@ -1,17 +1,29 @@
 {
 	"kanji": "粥",
-	"meanings": ["rice gruel"],
+	"meanings": [
+		"rice gruel"
+	],
 	"keyword": "rice gruel",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["イク", "シュク", "ジュク"]
+		"rare": [
+			"イク",
+			"シュク",
+			"ジュク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かゆ", "かい", "ひさ"],
-		"okurigana": ["ひさ.ぐ"]
+		"rare": [
+			"かゆ",
+			"かい",
+			"ひさ"
+		],
+		"okurigana": [
+			"ひさ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 2984,

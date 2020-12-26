@@ -1,17 +1,33 @@
 {
 	"kanji": "給",
-	"meanings": ["salary", "wage", "gift", "allow", "grant", "bestow on"],
+	"meanings": [
+		"salary",
+		"wage",
+		"gift",
+		"allow",
+		"grant",
+		"bestow on"
+	],
 	"keyword": "salary",
 	"onyomi": {
-		"frequent": ["キュウ"],
+		"frequent": [
+			"キュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たま", "たも"],
-		"okurigana": ["たま.う", "たも.う", "たま.え"]
+		"rare": [
+			"たま",
+			"たも"
+		],
+		"okurigana": [
+			"たま.う",
+			"たも.う",
+			"たま.え"
+		]
 	},
 	"frequency": {
 		"mean": 817,

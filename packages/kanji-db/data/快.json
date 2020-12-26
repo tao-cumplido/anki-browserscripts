@@ -1,17 +1,28 @@
 {
 	"kanji": "快",
-	"meanings": ["cheerful", "pleasant", "agreeable", "comfortable"],
+	"meanings": [
+		"cheerful",
+		"pleasant",
+		"agreeable",
+		"comfortable"
+	],
 	"keyword": "cheerful",
 	"onyomi": {
-		"frequent": ["カイ"],
+		"frequent": [
+			"カイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こころよ"],
+		"frequent": [
+			"こころよ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["こころよ.い"]
+		"okurigana": [
+			"こころよ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1076,

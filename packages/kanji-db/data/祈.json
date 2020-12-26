@@ -1,17 +1,26 @@
 {
 	"kanji": "祈",
-	"meanings": ["pray", "wish"],
+	"meanings": [
+		"pray",
+		"wish"
+	],
 	"keyword": "pray",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いの"],
+		"frequent": [
+			"いの"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["いの.る"]
+		"okurigana": [
+			"いの.る"
+		]
 	},
 	"frequency": {
 		"mean": 1663,

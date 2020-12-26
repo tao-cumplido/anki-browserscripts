@@ -1,17 +1,30 @@
 {
 	"kanji": "緊",
-	"meanings": ["tense", "solid", "hard", "reliable", "tight"],
+	"meanings": [
+		"tense",
+		"solid",
+		"hard",
+		"reliable",
+		"tight"
+	],
 	"keyword": "tense",
 	"onyomi": {
-		"frequent": ["キン"],
+		"frequent": [
+			"キン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["し"],
-		"okurigana": ["し.める", "し.まる"]
+		"rare": [
+			"し"
+		],
+		"okurigana": [
+			"し.める",
+			"し.まる"
+		]
 	},
 	"frequency": {
 		"mean": 1267,

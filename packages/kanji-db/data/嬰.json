@@ -1,17 +1,28 @@
 {
 	"kanji": "嬰",
-	"meanings": ["sharp (music)", "baby"],
+	"meanings": [
+		"sharp (music)",
+		"baby"
+	],
 	"keyword": "suckling infant",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["エイ"]
+		"rare": [
+			"エイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふ", "みどりご", "あかご"],
-		"okurigana": ["ふ.れる"]
+		"rare": [
+			"ふ",
+			"みどりご",
+			"あかご"
+		],
+		"okurigana": [
+			"ふ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 2844,

@@ -1,16 +1,25 @@
 {
 	"kanji": "帝",
-	"meanings": ["sovereign", "the emperor", "god", "creator"],
+	"meanings": [
+		"sovereign",
+		"the emperor",
+		"god",
+		"creator"
+	],
 	"keyword": "sovereign",
 	"onyomi": {
-		"frequent": ["テイ"],
+		"frequent": [
+			"テイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みかど"],
+		"rare": [
+			"みかど"
+		],
 		"okurigana": []
 	},
 	"frequency": {

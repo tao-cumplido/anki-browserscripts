@@ -1,17 +1,34 @@
 {
 	"kanji": "守",
-	"meanings": ["guard", "protect", "defend", "obey"],
+	"meanings": [
+		"guard",
+		"protect",
+		"defend",
+		"obey"
+	],
 	"keyword": "guard",
 	"onyomi": {
-		"frequent": ["シュ"],
-		"common": ["ス"],
+		"frequent": [
+			"シュ"
+		],
+		"common": [
+			"ス"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まも", "もり"],
+		"frequent": [
+			"まも",
+			"もり"
+		],
 		"common": [],
-		"rare": ["かみ"],
-		"okurigana": ["まも.る", "まも.り"]
+		"rare": [
+			"かみ"
+		],
+		"okurigana": [
+			"まも.る",
+			"まも.り"
+		]
 	},
 	"frequency": {
 		"mean": 539,

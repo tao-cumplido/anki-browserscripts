@@ -1,17 +1,34 @@
 {
 	"kanji": "振",
-	"meanings": ["shake", "wave", "wag", "swing"],
+	"meanings": [
+		"shake",
+		"wave",
+		"wag",
+		"swing"
+	],
 	"keyword": "shake",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふ"],
+		"frequent": [
+			"ふ"
+		],
 		"common": [],
-		"rare": ["ぶ"],
-		"okurigana": ["ふ.る", "ぶ.る", "ふ.り", "ぶ.り", "ふ.るう"]
+		"rare": [
+			"ぶ"
+		],
+		"okurigana": [
+			"ふ.る",
+			"ぶ.る",
+			"ふ.り",
+			"ぶ.り",
+			"ふ.るう"
+		]
 	},
 	"frequency": {
 		"mean": 721,

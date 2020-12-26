@@ -1,16 +1,28 @@
 {
 	"kanji": "兗",
-	"meanings": ["establish", "one of nine empire divisions"],
+	"meanings": [
+		"establish",
+		"one of nine empire divisions"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["エン"],
+		"common": [
+			"エン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["くく", "ただ", "まこと"],
+		"common": [
+			"くく",
+			"ただ",
+			"まこと"
+		],
 		"rare": [],
-		"okurigana": ["くく.る", "ただ.しい"]
+		"okurigana": [
+			"くく.る",
+			"ただ.しい"
+		]
 	},
 	"frequency": {
 		"mean": 3789,

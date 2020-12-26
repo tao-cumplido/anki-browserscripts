@@ -1,17 +1,26 @@
 {
 	"kanji": "紬",
-	"meanings": ["pongee (a knotted silk cloth)"],
+	"meanings": [
+		"pongee (a knotted silk cloth)"
+	],
 	"keyword": "pongee",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チュウ"]
+		"rare": [
+			"チュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つむぎ", "つむ"],
-		"okurigana": ["つむ.ぐ"]
+		"rare": [
+			"つむぎ",
+			"つむ"
+		],
+		"okurigana": [
+			"つむ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 3494,

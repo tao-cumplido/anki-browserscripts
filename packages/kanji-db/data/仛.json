@@ -1,16 +1,28 @@
 {
 	"kanji": "仛",
-	"meanings": ["young girl", "strange", "different"],
+	"meanings": [
+		"young girl",
+		"strange",
+		"different"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["タ", "タク"],
+		"common": [
+			"タ",
+			"タク"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["おとめ", "よ"],
+		"common": [
+			"おとめ",
+			"よ"
+		],
 		"rare": [],
-		"okurigana": ["よ.る"]
+		"okurigana": [
+			"よ.る"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

@@ -1,0 +1,32 @@
+{
+	"kanji": "卹",
+	"meanings": [
+		"sympathy",
+		"pity",
+		"comfort"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"シュツ",
+			"シュチ",
+			"ソツ",
+			"ソチ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"うれ"
+		],
+		"rare": [],
+		"okurigana": [
+			"うれ.える"
+		]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

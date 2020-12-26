@@ -1,16 +1,24 @@
 {
 	"kanji": "嶺",
-	"meanings": ["peak", "summit"],
+	"meanings": [
+		"peak",
+		"summit"
+	],
 	"keyword": "mountaintop",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["レイ", "リョウ"]
+		"rare": [
+			"レイ",
+			"リョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みね"],
+		"rare": [
+			"みね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,16 +1,23 @@
 {
 	"kanji": "鷲",
-	"meanings": ["eagle"],
+	"meanings": [
+		"eagle"
+	],
 	"keyword": "eagle",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュウ", "ジュ"]
+		"rare": [
+			"シュウ",
+			"ジュ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わし"],
+		"rare": [
+			"わし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

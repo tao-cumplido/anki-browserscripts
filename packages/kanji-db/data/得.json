@@ -1,17 +1,37 @@
 {
 	"kanji": "得",
-	"meanings": ["gain", "get", "find", "earn", "acquire", "can", "may", "able to", "profit", "advantage", "benefit"],
+	"meanings": [
+		"gain",
+		"get",
+		"find",
+		"earn",
+		"acquire",
+		"can",
+		"may",
+		"able to",
+		"profit",
+		"advantage",
+		"benefit"
+	],
 	"keyword": "gain",
 	"onyomi": {
-		"frequent": ["トク"],
+		"frequent": [
+			"トク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["え", "う"],
+		"frequent": [
+			"え",
+			"う"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["え.る", "う.る"]
+		"okurigana": [
+			"え.る",
+			"う.る"
+		]
 	},
 	"frequency": {
 		"mean": 272,

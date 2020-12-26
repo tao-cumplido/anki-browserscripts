@@ -1,16 +1,25 @@
 {
 	"kanji": "坤",
-	"meanings": ["divination sign", "land", "earth"],
+	"meanings": [
+		"divination sign",
+		"land",
+		"earth"
+	],
 	"keyword": "authochthonous",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コン"]
+		"rare": [
+			"コン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つち", "ひつじさる"],
+		"rare": [
+			"つち",
+			"ひつじさる"
+		],
 		"okurigana": []
 	},
 	"frequency": {

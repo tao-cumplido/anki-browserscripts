@@ -1,17 +1,30 @@
 {
 	"kanji": "屑",
-	"meanings": ["rubbish", "junk", "trash", "waste", "scraps"],
+	"meanings": [
+		"rubbish",
+		"junk",
+		"trash",
+		"waste",
+		"scraps"
+	],
 	"keyword": "rubbish",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セツ"]
+		"rare": [
+			"セツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くず", "いさぎよ"],
-		"okurigana": ["いさぎよ.い"]
+		"rare": [
+			"くず",
+			"いさぎよ"
+		],
+		"okurigana": [
+			"いさぎよ.い"
+		]
 	},
 	"frequency": {
 		"mean": 2692,

@@ -1,14 +1,24 @@
 {
 	"kanji": "穴",
-	"meanings": ["hole", "aperture", "slit", "cave", "den"],
+	"meanings": [
+		"hole",
+		"aperture",
+		"slit",
+		"cave",
+		"den"
+	],
 	"keyword": "hole",
 	"onyomi": {
-		"frequent": ["ケツ"],
+		"frequent": [
+			"ケツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あな"],
+		"frequent": [
+			"あな"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

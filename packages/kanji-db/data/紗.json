@@ -1,16 +1,24 @@
 {
 	"kanji": "紗",
-	"meanings": ["gauze", "gossamer"],
+	"meanings": [
+		"gauze",
+		"gossamer"
+	],
 	"keyword": "gossamer",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サ", "シャ"]
+		"rare": [
+			"サ",
+			"シャ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うすぎぬ"],
+		"rare": [
+			"うすぎぬ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,28 @@
 {
 	"kanji": "究",
-	"meanings": ["research", "study"],
+	"meanings": [
+		"research",
+		"study"
+	],
 	"keyword": "research",
 	"onyomi": {
-		"frequent": ["キュウ"],
+		"frequent": [
+			"キュウ"
+		],
 		"common": [],
-		"rare": ["ク"]
+		"rare": [
+			"ク"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["きわ"],
+		"frequent": [
+			"きわ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["きわ.める"]
+		"okurigana": [
+			"きわ.める"
+		]
 	},
 	"frequency": {
 		"mean": 331,

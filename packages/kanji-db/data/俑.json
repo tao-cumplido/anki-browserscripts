@@ -1,10 +1,16 @@
 {
 	"kanji": "俑",
-	"meanings": ["effigy"],
+	"meanings": [
+		"effigy"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヨウ", "トウ", "ユウ"]
+		"rare": [
+			"ヨウ",
+			"トウ",
+			"ユウ"
+		]
 	},
 	"frequency": {
 		"mean": 4230,

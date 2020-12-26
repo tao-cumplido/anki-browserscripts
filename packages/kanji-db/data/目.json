@@ -1,15 +1,31 @@
 {
 	"kanji": "目",
-	"meanings": ["eye", "class", "look", "insight", "experience", "care", "favor"],
+	"meanings": [
+		"eye",
+		"class",
+		"look",
+		"insight",
+		"experience",
+		"care",
+		"favor"
+	],
 	"keyword": "eye",
 	"onyomi": {
-		"frequent": ["モク"],
-		"common": ["ボク"],
+		"frequent": [
+			"モク"
+		],
+		"common": [
+			"ボク"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["め"],
-		"common": ["ま"],
+		"frequent": [
+			"め"
+		],
+		"common": [
+			"ま"
+		],
 		"rare": [],
 		"okurigana": []
 	},

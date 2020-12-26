@@ -1,17 +1,29 @@
 {
 	"kanji": "啓",
-	"meanings": ["disclose", "open", "say"],
+	"meanings": [
+		"disclose",
+		"open",
+		"say"
+	],
 	"keyword": "disclose",
 	"onyomi": {
-		"frequent": ["ケイ"],
+		"frequent": [
+			"ケイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひら", "さと"],
-		"okurigana": ["ひら.く", "さと.す"]
+		"rare": [
+			"ひら",
+			"さと"
+		],
+		"okurigana": [
+			"ひら.く",
+			"さと.す"
+		]
 	},
 	"frequency": {
 		"mean": 1382,

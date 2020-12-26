@@ -1,17 +1,28 @@
 {
 	"kanji": "美",
-	"meanings": ["beauty", "beautiful"],
+	"meanings": [
+		"beauty",
+		"beautiful"
+	],
 	"keyword": "beauty",
 	"onyomi": {
-		"frequent": ["ビ"],
+		"frequent": [
+			"ビ"
+		],
 		"common": [],
-		"rare": ["ミ"]
+		"rare": [
+			"ミ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["うつく"],
+		"frequent": [
+			"うつく"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["うつく.しい"]
+		"okurigana": [
+			"うつく.しい"
+		]
 	},
 	"frequency": {
 		"mean": 181,

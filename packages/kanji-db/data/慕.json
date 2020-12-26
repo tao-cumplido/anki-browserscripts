@@ -1,17 +1,28 @@
 {
 	"kanji": "慕",
-	"meanings": ["pining", "yearn for", "love dearly", "adore"],
+	"meanings": [
+		"pining",
+		"yearn for",
+		"love dearly",
+		"adore"
+	],
 	"keyword": "pining",
 	"onyomi": {
-		"frequent": ["ボ"],
+		"frequent": [
+			"ボ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["した"],
+		"frequent": [
+			"した"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["した.う"]
+		"okurigana": [
+			"した.う"
+		]
 	},
 	"frequency": {
 		"mean": 1947,

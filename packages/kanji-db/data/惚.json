@@ -1,17 +1,31 @@
 {
 	"kanji": "惚",
-	"meanings": ["fall in love with", "admire", "grow senile"],
+	"meanings": [
+		"fall in love with",
+		"admire",
+		"grow senile"
+	],
 	"keyword": "infatuation",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コツ"]
+		"rare": [
+			"コツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほけ", "ぼ", "ほ"],
-		"okurigana": ["ほけ.る", "ぼ.ける", "ほ.れる"]
+		"rare": [
+			"ほけ",
+			"ぼ",
+			"ほ"
+		],
+		"okurigana": [
+			"ほけ.る",
+			"ぼ.ける",
+			"ほ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 2101,

@@ -1,14 +1,23 @@
 {
 	"kanji": "琴",
-	"meanings": ["harp", "koto"],
+	"meanings": [
+		"harp",
+		"koto"
+	],
 	"keyword": "harp",
 	"onyomi": {
-		"frequent": ["キン"],
+		"frequent": [
+			"キン"
+		],
 		"common": [],
-		"rare": ["ゴン"]
+		"rare": [
+			"ゴン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["こと"],
+		"frequent": [
+			"こと"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

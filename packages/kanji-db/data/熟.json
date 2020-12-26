@@ -1,17 +1,28 @@
 {
 	"kanji": "熟",
-	"meanings": ["mellow", "ripen", "mature", "acquire skill"],
+	"meanings": [
+		"mellow",
+		"ripen",
+		"mature",
+		"acquire skill"
+	],
 	"keyword": "mellow",
 	"onyomi": {
-		"frequent": ["ジュク"],
+		"frequent": [
+			"ジュク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["う"],
+		"frequent": [
+			"う"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["う.れる"]
+		"okurigana": [
+			"う.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1565,

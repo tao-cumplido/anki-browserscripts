@@ -1,0 +1,29 @@
+{
+	"kanji": "蜮",
+	"meanings": [
+		"fabulous creature like a turtle",
+		"toad"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ヨク",
+			"イキ",
+			"コク",
+			"ワク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"いさごむし"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

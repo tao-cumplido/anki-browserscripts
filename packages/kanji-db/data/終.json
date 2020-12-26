@@ -1,17 +1,32 @@
 {
 	"kanji": "終",
-	"meanings": ["end", "finish"],
+	"meanings": [
+		"end",
+		"finish"
+	],
 	"keyword": "end",
 	"onyomi": {
-		"frequent": ["シュウ"],
+		"frequent": [
+			"シュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["お"],
+		"frequent": [
+			"お"
+		],
 		"common": [],
-		"rare": ["おわ", "つい"],
-		"okurigana": ["お.わる", "おわ.る", "お.える", "つい.に"]
+		"rare": [
+			"おわ",
+			"つい"
+		],
+		"okurigana": [
+			"お.わる",
+			"おわ.る",
+			"お.える",
+			"つい.に"
+		]
 	},
 	"frequency": {
 		"mean": 262,

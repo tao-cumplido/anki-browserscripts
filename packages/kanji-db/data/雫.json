@@ -1,16 +1,25 @@
 {
 	"kanji": "雫",
-	"meanings": ["drop", "trickle", "dripping", "(kokuji)"],
+	"meanings": [
+		"drop",
+		"trickle",
+		"dripping",
+		"(kokuji)"
+	],
 	"keyword": "trickle",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ダ"]
+		"rare": [
+			"ダ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しずく"],
+		"rare": [
+			"しずく"
+		],
 		"okurigana": []
 	},
 	"frequency": {

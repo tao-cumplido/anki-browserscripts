@@ -1,17 +1,31 @@
 {
 	"kanji": "象",
-	"meanings": ["elephant", "pattern after", "imitate", "image", "shape", "sign (of the times)"],
+	"meanings": [
+		"elephant",
+		"pattern after",
+		"imitate",
+		"image",
+		"shape",
+		"sign (of the times)"
+	],
 	"keyword": "elephant",
 	"onyomi": {
-		"frequent": ["ショウ", "ゾウ"],
+		"frequent": [
+			"ショウ",
+			"ゾウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かたど"],
-		"okurigana": ["かたど.る"]
+		"rare": [
+			"かたど"
+		],
+		"okurigana": [
+			"かたど.る"
+		]
 	},
 	"frequency": {
 		"mean": 575,

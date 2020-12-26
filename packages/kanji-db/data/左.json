@@ -1,14 +1,22 @@
 {
 	"kanji": "左",
-	"meanings": ["left"],
+	"meanings": [
+		"left"
+	],
 	"keyword": "left",
 	"onyomi": {
-		"frequent": ["サ"],
+		"frequent": [
+			"サ"
+		],
 		"common": [],
-		"rare": ["シャ"]
+		"rare": [
+			"シャ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ひだり"],
+		"frequent": [
+			"ひだり"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

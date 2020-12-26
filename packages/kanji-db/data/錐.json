@@ -1,16 +1,26 @@
 {
 	"kanji": "錐",
-	"meanings": ["auger", "drill", "awl", "pyramid", "cone"],
+	"meanings": [
+		"auger",
+		"drill",
+		"awl",
+		"pyramid",
+		"cone"
+	],
 	"keyword": "awl",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["スイ"]
+		"rare": [
+			"スイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きり"],
+		"rare": [
+			"きり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,16 +1,24 @@
 {
 	"kanji": "楯",
-	"meanings": ["shield", "buckler", "pretext"],
+	"meanings": [
+		"shield",
+		"buckler",
+		"pretext"
+	],
 	"keyword": "escutcheon",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジュン"]
+		"rare": [
+			"ジュン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たて"],
+		"rare": [
+			"たて"
+		],
 		"okurigana": []
 	},
 	"frequency": {

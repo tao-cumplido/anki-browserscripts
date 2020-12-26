@@ -1,16 +1,24 @@
 {
 	"kanji": "凱",
-	"meanings": ["victory song"],
+	"meanings": [
+		"victory song"
+	],
 	"keyword": "triumph",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ガイ", "カイ"]
+		"rare": [
+			"ガイ",
+			"カイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かちどき", "やわらぐ"],
+		"rare": [
+			"かちどき",
+			"やわらぐ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

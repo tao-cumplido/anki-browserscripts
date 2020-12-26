@@ -1,17 +1,32 @@
 {
 	"kanji": "磨",
-	"meanings": ["grind", "polish", "scour", "improve", "brush (teeth)"],
+	"meanings": [
+		"grind",
+		"polish",
+		"scour",
+		"improve",
+		"brush (teeth)"
+	],
 	"keyword": "grind",
 	"onyomi": {
-		"frequent": ["マ"],
+		"frequent": [
+			"マ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みが"],
+		"frequent": [
+			"みが"
+		],
 		"common": [],
-		"rare": ["す"],
-		"okurigana": ["みが.く", "す.る"]
+		"rare": [
+			"す"
+		],
+		"okurigana": [
+			"みが.く",
+			"す.る"
+		]
 	},
 	"frequency": {
 		"mean": 1414,

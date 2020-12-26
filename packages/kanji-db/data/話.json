@@ -1,17 +1,27 @@
 {
 	"kanji": "話",
-	"meanings": ["tale", "talk"],
+	"meanings": [
+		"tale",
+		"talk"
+	],
 	"keyword": "tale",
 	"onyomi": {
-		"frequent": ["ワ"],
+		"frequent": [
+			"ワ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はな", "はなし"],
+		"frequent": [
+			"はな",
+			"はなし"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["はな.す"]
+		"okurigana": [
+			"はな.す"
+		]
 	},
 	"frequency": {
 		"mean": 123,

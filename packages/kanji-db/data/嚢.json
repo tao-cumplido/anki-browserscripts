@@ -1,16 +1,25 @@
 {
 	"kanji": "嚢",
-	"meanings": ["pouch", "purse", "bag"],
+	"meanings": [
+		"pouch",
+		"purse",
+		"bag"
+	],
 	"keyword": "cyst",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ノウ", "ドウ"]
+		"rare": [
+			"ノウ",
+			"ドウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふくろ"],
+		"rare": [
+			"ふくろ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

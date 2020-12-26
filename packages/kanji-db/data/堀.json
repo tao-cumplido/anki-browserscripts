@@ -1,14 +1,22 @@
 {
 	"kanji": "堀",
-	"meanings": ["ditch", "moat", "canal"],
+	"meanings": [
+		"ditch",
+		"moat",
+		"canal"
+	],
 	"keyword": "ditch",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["クツ"]
+		"rare": [
+			"クツ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ほり"],
+		"frequent": [
+			"ほり"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

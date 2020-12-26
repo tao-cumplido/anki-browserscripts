@@ -1,14 +1,21 @@
 {
 	"kanji": "藻",
-	"meanings": ["seaweed", "duckweed"],
+	"meanings": [
+		"seaweed",
+		"duckweed"
+	],
 	"keyword": "seaweed",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["も"],
+		"frequent": [
+			"も"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

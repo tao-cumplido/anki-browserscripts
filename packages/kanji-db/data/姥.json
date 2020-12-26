@@ -1,16 +1,23 @@
 {
 	"kanji": "姥",
-	"meanings": ["old woman"],
+	"meanings": [
+		"old woman"
+	],
 	"keyword": "aged woman",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ボ", "モ"]
+		"rare": [
+			"ボ",
+			"モ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うば"],
+		"rare": [
+			"うば"
+		],
 		"okurigana": []
 	},
 	"frequency": {

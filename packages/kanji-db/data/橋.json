@@ -1,14 +1,20 @@
 {
 	"kanji": "橋",
-	"meanings": ["bridge"],
+	"meanings": [
+		"bridge"
+	],
 	"keyword": "bridge",
 	"onyomi": {
-		"frequent": ["キョウ"],
+		"frequent": [
+			"キョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はし"],
+		"frequent": [
+			"はし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

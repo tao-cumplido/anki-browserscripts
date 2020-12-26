@@ -1,16 +1,28 @@
 {
 	"kanji": "儋",
-	"meanings": ["small jar", "to bear a burden", "load of two"],
+	"meanings": [
+		"small jar",
+		"to bear a burden",
+		"load of two"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["タン", "セン"],
+		"common": [
+			"タン",
+			"セン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["にな", "こがめ"],
+		"common": [
+			"にな",
+			"こがめ"
+		],
 		"rare": [],
-		"okurigana": ["にな.う"]
+		"okurigana": [
+			"にな.う"
+		]
 	},
 	"frequency": {
 		"mean": 4426,

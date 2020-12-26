@@ -1,16 +1,25 @@
 {
 	"kanji": "幡",
-	"meanings": ["flag"],
+	"meanings": [
+		"flag"
+	],
 	"keyword": "banner",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["マン", "ハン", "バン", "ホン"]
+		"rare": [
+			"マン",
+			"ハン",
+			"バン",
+			"ホン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はた"],
+		"rare": [
+			"はた"
+		],
 		"okurigana": []
 	},
 	"frequency": {

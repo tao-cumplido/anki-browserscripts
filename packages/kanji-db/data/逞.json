@@ -1,17 +1,27 @@
 {
 	"kanji": "逞",
-	"meanings": ["sturdy", "brawny", "bold"],
+	"meanings": [
+		"sturdy",
+		"brawny",
+		"bold"
+	],
 	"keyword": "tough",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テイ"]
+		"rare": [
+			"テイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たくま"],
-		"okurigana": ["たくま.しい"]
+		"rare": [
+			"たくま"
+		],
+		"okurigana": [
+			"たくま.しい"
+		]
 	},
 	"frequency": {
 		"mean": 3078,

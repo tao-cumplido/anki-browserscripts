@@ -1,16 +1,25 @@
 {
 	"kanji": "牡",
-	"meanings": ["male"],
+	"meanings": [
+		"male"
+	],
 	"keyword": "male animal",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ボ", "ボウ"]
+		"rare": [
+			"ボ",
+			"ボウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おす", "お", "おん"],
+		"rare": [
+			"おす",
+			"お",
+			"おん"
+		],
 		"okurigana": []
 	},
 	"frequency": {

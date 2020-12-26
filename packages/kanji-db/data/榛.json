@@ -1,16 +1,25 @@
 {
 	"kanji": "榛",
-	"meanings": ["hazelnut", "filbert"],
+	"meanings": [
+		"hazelnut",
+		"filbert"
+	],
 	"keyword": "hazel",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シン", "ハン"]
+		"rare": [
+			"シン",
+			"ハン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はしばみ", "はり"],
+		"rare": [
+			"はしばみ",
+			"はり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

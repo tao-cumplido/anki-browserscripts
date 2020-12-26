@@ -1,17 +1,31 @@
 {
 	"kanji": "麗",
-	"meanings": ["lovely", "beautiful", "graceful", "resplendent"],
+	"meanings": [
+		"lovely",
+		"beautiful",
+		"graceful",
+		"resplendent"
+	],
 	"keyword": "lovely",
 	"onyomi": {
-		"frequent": ["レイ"],
+		"frequent": [
+			"レイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うるわ"],
+		"frequent": [
+			"うるわ"
+		],
 		"common": [],
-		"rare": ["うら"],
-		"okurigana": ["うるわ.しい", "うら.らか"]
+		"rare": [
+			"うら"
+		],
+		"okurigana": [
+			"うるわ.しい",
+			"うら.らか"
+		]
 	},
 	"frequency": {
 		"mean": 1297,

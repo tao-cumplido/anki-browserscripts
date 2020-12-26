@@ -1,14 +1,26 @@
 {
 	"kanji": "額",
-	"meanings": ["forehead", "tablet", "plaque", "framed picture", "sum", "amount", "volume"],
+	"meanings": [
+		"forehead",
+		"tablet",
+		"plaque",
+		"framed picture",
+		"sum",
+		"amount",
+		"volume"
+	],
 	"keyword": "forehead",
 	"onyomi": {
-		"frequent": ["ガク"],
+		"frequent": [
+			"ガク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひたい"],
+		"frequent": [
+			"ひたい"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

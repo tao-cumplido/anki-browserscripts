@@ -1,17 +1,26 @@
 {
 	"kanji": "倣",
-	"meanings": ["emulate", "imitate"],
+	"meanings": [
+		"emulate",
+		"imitate"
+	],
 	"keyword": "emulate",
 	"onyomi": {
-		"frequent": ["ホウ"],
+		"frequent": [
+			"ホウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["なら"],
+		"frequent": [
+			"なら"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["なら.う"]
+		"okurigana": [
+			"なら.う"
+		]
 	},
 	"frequency": {
 		"mean": 2263,

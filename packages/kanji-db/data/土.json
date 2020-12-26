@@ -1,14 +1,24 @@
 {
 	"kanji": "土",
-	"meanings": ["soil", "earth", "ground", "Turkey"],
+	"meanings": [
+		"soil",
+		"earth",
+		"ground",
+		"Turkey"
+	],
 	"keyword": "soil",
 	"onyomi": {
-		"frequent": ["ド", "ト"],
+		"frequent": [
+			"ド",
+			"ト"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つち"],
+		"frequent": [
+			"つち"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

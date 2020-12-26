@@ -1,16 +1,23 @@
 {
 	"kanji": "磯",
-	"meanings": ["seashore", "beach"],
+	"meanings": [
+		"seashore",
+		"beach"
+	],
 	"keyword": "rocky beach",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キ"]
+		"rare": [
+			"キ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いそ"],
+		"rare": [
+			"いそ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

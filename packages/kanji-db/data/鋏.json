@@ -1,17 +1,27 @@
 {
 	"kanji": "鋏",
-	"meanings": ["scissors"],
+	"meanings": [
+		"scissors"
+	],
 	"keyword": "scissors",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ"]
+		"rare": [
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はさみ", "はさ", "つるぎ"],
-		"okurigana": ["はさ.む"]
+		"rare": [
+			"はさみ",
+			"はさ",
+			"つるぎ"
+		],
+		"okurigana": [
+			"はさ.む"
+		]
 	},
 	"frequency": {
 		"mean": 3089,

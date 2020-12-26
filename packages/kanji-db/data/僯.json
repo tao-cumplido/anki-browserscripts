@@ -1,16 +1,24 @@
 {
 	"kanji": "僯",
-	"meanings": ["ashamed"],
+	"meanings": [
+		"ashamed"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["リン"],
+		"common": [
+			"リン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["はじ"],
+		"common": [
+			"はじ"
+		],
 		"rare": [],
-		"okurigana": ["はじ.る"]
+		"okurigana": [
+			"はじ.る"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

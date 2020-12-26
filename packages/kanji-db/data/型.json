@@ -1,16 +1,26 @@
 {
 	"kanji": "型",
-	"meanings": ["mould", "type", "model"],
+	"meanings": [
+		"mould",
+		"type",
+		"model"
+	],
 	"keyword": "mould",
 	"onyomi": {
-		"frequent": ["ケイ"],
+		"frequent": [
+			"ケイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かた"],
+		"frequent": [
+			"かた"
+		],
 		"common": [],
-		"rare": ["がた"],
+		"rare": [
+			"がた"
+		],
 		"okurigana": []
 	},
 	"frequency": {

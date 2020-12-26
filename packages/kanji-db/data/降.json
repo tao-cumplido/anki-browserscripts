@@ -1,17 +1,38 @@
 {
 	"kanji": "降",
-	"meanings": ["descend", "precipitate", "fall", "surrender"],
+	"meanings": [
+		"descend",
+		"precipitate",
+		"fall",
+		"surrender"
+	],
 	"keyword": "descend",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
-		"rare": ["ゴ"]
+		"rare": [
+			"ゴ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["お", "ふ"],
+		"frequent": [
+			"お",
+			"ふ"
+		],
 		"common": [],
-		"rare": ["くだ"],
-		"okurigana": ["お.りる", "お.ろす", "ふ.る", "ふ.り", "くだ.る", "くだ.す"]
+		"rare": [
+			"くだ"
+		],
+		"okurigana": [
+			"お.りる",
+			"お.ろす",
+			"ふ.る",
+			"ふ.り",
+			"くだ.る",
+			"くだ.す"
+		]
 	},
 	"frequency": {
 		"mean": 401,

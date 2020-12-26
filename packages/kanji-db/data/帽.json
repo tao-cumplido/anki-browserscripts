@@ -1,17 +1,29 @@
 {
 	"kanji": "帽",
-	"meanings": ["cap", "headgear"],
+	"meanings": [
+		"cap",
+		"headgear"
+	],
 	"keyword": "cap",
 	"onyomi": {
-		"frequent": ["ボウ"],
+		"frequent": [
+			"ボウ"
+		],
 		"common": [],
-		"rare": ["モウ"]
+		"rare": [
+			"モウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ずきん", "おお"],
-		"okurigana": ["おお.う"]
+		"rare": [
+			"ずきん",
+			"おお"
+		],
+		"okurigana": [
+			"おお.う"
+		]
 	},
 	"frequency": {
 		"mean": 1706,

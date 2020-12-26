@@ -1,17 +1,27 @@
 {
 	"kanji": "欧",
-	"meanings": ["Europe"],
+	"meanings": [
+		"Europe"
+	],
 	"keyword": "Europe",
 	"onyomi": {
-		"frequent": ["オウ"],
+		"frequent": [
+			"オウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うた", "は"],
-		"okurigana": ["うた.う", "は.く"]
+		"rare": [
+			"うた",
+			"は"
+		],
+		"okurigana": [
+			"うた.う",
+			"は.く"
+		]
 	},
 	"frequency": {
 		"mean": 1024,

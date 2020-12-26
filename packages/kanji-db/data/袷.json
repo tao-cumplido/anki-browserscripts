@@ -1,16 +1,23 @@
 {
 	"kanji": "袷",
-	"meanings": ["lined (kimono)"],
+	"meanings": [
+		"lined (kimono)"
+	],
 	"keyword": "lined kimono",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ", "キョウ"]
+		"rare": [
+			"コウ",
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あわせ"],
+		"rare": [
+			"あわせ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

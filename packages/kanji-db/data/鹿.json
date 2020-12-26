@@ -1,15 +1,23 @@
 {
 	"kanji": "鹿",
-	"meanings": ["deer"],
+	"meanings": [
+		"deer"
+	],
 	"keyword": "deer",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ロク"]
+		"rare": [
+			"ロク"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["しか"],
-		"common": ["か"],
+		"frequent": [
+			"しか"
+		],
+		"common": [
+			"か"
+		],
 		"rare": [],
 		"okurigana": []
 	},

@@ -1,17 +1,29 @@
 {
 	"kanji": "諒",
-	"meanings": ["fact", "reality", "understand", "appreciate"],
+	"meanings": [
+		"fact",
+		"reality",
+		"understand",
+		"appreciate"
+	],
 	"keyword": "verify",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リョウ"]
+		"rare": [
+			"リョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あきら", "まことに"],
-		"okurigana": ["あきら.か"]
+		"rare": [
+			"あきら",
+			"まことに"
+		],
+		"okurigana": [
+			"あきら.か"
+		]
 	},
 	"frequency": {
 		"mean": 2083,

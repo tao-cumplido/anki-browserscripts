@@ -1,14 +1,22 @@
 {
 	"kanji": "藤",
-	"meanings": ["wisteria"],
+	"meanings": [
+		"wisteria"
+	],
 	"keyword": "wisteria",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
-		"rare": ["ドウ"]
+		"rare": [
+			"ドウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ふじ"],
+		"frequent": [
+			"ふじ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

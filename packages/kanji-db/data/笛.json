@@ -1,14 +1,25 @@
 {
 	"kanji": "笛",
-	"meanings": ["flute", "clarinet", "pipe", "whistle", "bagpipe", "piccolo"],
+	"meanings": [
+		"flute",
+		"clarinet",
+		"pipe",
+		"whistle",
+		"bagpipe",
+		"piccolo"
+	],
 	"keyword": "flute",
 	"onyomi": {
-		"frequent": ["テキ"],
+		"frequent": [
+			"テキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふえ"],
+		"frequent": [
+			"ふえ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

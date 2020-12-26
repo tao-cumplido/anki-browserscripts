@@ -1,16 +1,35 @@
 {
 	"kanji": "來",
-	"meanings": ["come", "due", "next", "cause", "become"],
+	"meanings": [
+		"come",
+		"due",
+		"next",
+		"cause",
+		"become"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ライ", "タイ"]
+		"rare": [
+			"ライ",
+			"タイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["く", "きた", "き"],
-		"okurigana": ["く.る", "きた.る", "きた.す", "き.たす", "き.たる"]
+		"rare": [
+			"く",
+			"きた",
+			"き"
+		],
+		"okurigana": [
+			"く.る",
+			"きた.る",
+			"きた.す",
+			"き.たす",
+			"き.たる"
+		]
 	},
 	"frequency": {
 		"mean": 1548,

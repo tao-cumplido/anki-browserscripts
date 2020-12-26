@@ -1,16 +1,23 @@
 {
 	"kanji": "鴬",
-	"meanings": ["nightingale", "bush warbler"],
+	"meanings": [
+		"nightingale",
+		"bush warbler"
+	],
 	"keyword": "nightingale",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["オウ"]
+		"rare": [
+			"オウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うぐいす"],
+		"rare": [
+			"うぐいす"
+		],
 		"okurigana": []
 	},
 	"frequency": {

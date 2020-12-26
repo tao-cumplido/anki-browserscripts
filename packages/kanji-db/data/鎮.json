@@ -1,17 +1,29 @@
 {
 	"kanji": "鎮",
-	"meanings": ["tranquilize", "ancient peace-preservation centers"],
+	"meanings": [
+		"tranquilize",
+		"ancient peace-preservation centers"
+	],
 	"keyword": "tranquillize",
 	"onyomi": {
-		"frequent": ["チン"],
+		"frequent": [
+			"チン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["しず"],
+		"frequent": [
+			"しず"
+		],
 		"common": [],
-		"rare": ["おさえ"],
-		"okurigana": ["しず.める", "しず.まる"]
+		"rare": [
+			"おさえ"
+		],
+		"okurigana": [
+			"しず.める",
+			"しず.まる"
+		]
 	},
 	"frequency": {
 		"mean": 1202,

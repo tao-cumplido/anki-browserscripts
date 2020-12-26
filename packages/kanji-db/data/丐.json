@@ -1,16 +1,26 @@
 {
 	"kanji": "丐",
-	"meanings": ["beggar", "beg", "give"],
+	"meanings": [
+		"beggar",
+		"beg",
+		"give"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カイ"]
+		"rare": [
+			"カイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こ"],
-		"okurigana": ["こ.う"]
+		"rare": [
+			"こ"
+		],
+		"okurigana": [
+			"こ.う"
+		]
 	},
 	"frequency": {
 		"mean": 4389,

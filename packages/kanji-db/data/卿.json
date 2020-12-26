@@ -1,16 +1,26 @@
 {
 	"kanji": "卿",
-	"meanings": ["you", "lord", "secretary", "state minister"],
+	"meanings": [
+		"you",
+		"lord",
+		"secretary",
+		"state minister"
+	],
 	"keyword": "magistrate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケイ", "キョウ"]
+		"rare": [
+			"ケイ",
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きみ"],
+		"rare": [
+			"きみ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

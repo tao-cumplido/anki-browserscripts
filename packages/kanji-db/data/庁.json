@@ -1,16 +1,24 @@
 {
 	"kanji": "庁",
-	"meanings": ["government office"],
+	"meanings": [
+		"government office"
+	],
 	"keyword": "government office",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
-		"rare": ["テイ"]
+		"rare": [
+			"テイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["やくしょ"],
+		"rare": [
+			"やくしょ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

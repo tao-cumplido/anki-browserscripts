@@ -1,17 +1,30 @@
 {
 	"kanji": "酔",
-	"meanings": ["drunk", "feel sick", "poisoned", "elated", "spellbound"],
+	"meanings": [
+		"drunk",
+		"feel sick",
+		"poisoned",
+		"elated",
+		"spellbound"
+	],
 	"keyword": "drunk",
 	"onyomi": {
-		"frequent": ["スイ"],
+		"frequent": [
+			"スイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["よ"],
+		"frequent": [
+			"よ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["よ.う", "よ.い"]
+		"okurigana": [
+			"よ.う",
+			"よ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1634,

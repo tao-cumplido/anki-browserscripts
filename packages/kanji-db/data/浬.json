@@ -1,16 +1,24 @@
 {
 	"kanji": "浬",
-	"meanings": ["knot", "nautical mile"],
+	"meanings": [
+		"knot",
+		"nautical mile"
+	],
 	"keyword": "nautical mile",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リ"]
+		"rare": [
+			"リ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かいり", "のっと"],
+		"rare": [
+			"かいり",
+			"のっと"
+		],
 		"okurigana": []
 	},
 	"frequency": {

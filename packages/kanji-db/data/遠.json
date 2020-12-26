@@ -1,17 +1,28 @@
 {
 	"kanji": "遠",
-	"meanings": ["distant", "far"],
+	"meanings": [
+		"distant",
+		"far"
+	],
 	"keyword": "distant",
 	"onyomi": {
-		"frequent": ["エン"],
-		"common": ["オン"],
+		"frequent": [
+			"エン"
+		],
+		"common": [
+			"オン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["とお"],
+		"frequent": [
+			"とお"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["とお.い"]
+		"okurigana": [
+			"とお.い"
+		]
 	},
 	"frequency": {
 		"mean": 683,

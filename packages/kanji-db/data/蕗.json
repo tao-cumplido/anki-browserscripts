@@ -1,16 +1,24 @@
 {
 	"kanji": "蕗",
-	"meanings": ["butterbur", "bog rhubarb"],
+	"meanings": [
+		"butterbur",
+		"bog rhubarb"
+	],
 	"keyword": "butterbur",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ロ", "ル"]
+		"rare": [
+			"ロ",
+			"ル"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふき"],
+		"rare": [
+			"ふき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

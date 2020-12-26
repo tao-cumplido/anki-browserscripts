@@ -1,14 +1,23 @@
 {
 	"kanji": "丫",
-	"meanings": ["bifurcation", "fork"],
+	"meanings": [
+		"bifurcation",
+		"fork"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ア", "ヤ"],
+		"common": [
+			"ア",
+			"ヤ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["ふたまた", "あげまき"],
+		"common": [
+			"ふたまた",
+			"あげまき"
+		],
 		"rare": [],
 		"okurigana": []
 	},

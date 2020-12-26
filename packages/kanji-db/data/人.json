@@ -1,16 +1,26 @@
 {
 	"kanji": "人",
-	"meanings": ["person"],
+	"meanings": [
+		"person"
+	],
 	"keyword": "person",
 	"onyomi": {
-		"frequent": ["ジン", "ニン"],
+		"frequent": [
+			"ジン",
+			"ニン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひと"],
+		"frequent": [
+			"ひと"
+		],
 		"common": [],
-		"rare": ["り", "と"],
+		"rare": [
+			"り",
+			"と"
+		],
 		"okurigana": []
 	},
 	"frequency": {

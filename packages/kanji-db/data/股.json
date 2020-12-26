@@ -1,16 +1,25 @@
 {
 	"kanji": "股",
-	"meanings": ["thigh", "crotch"],
+	"meanings": [
+		"thigh",
+		"crotch"
+	],
 	"keyword": "thigh",
 	"onyomi": {
-		"frequent": ["コ"],
+		"frequent": [
+			"コ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["また"],
+		"frequent": [
+			"また"
+		],
 		"common": [],
-		"rare": ["もも"],
+		"rare": [
+			"もも"
+		],
 		"okurigana": []
 	},
 	"frequency": {

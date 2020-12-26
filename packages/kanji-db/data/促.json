@@ -1,17 +1,29 @@
 {
 	"kanji": "促",
-	"meanings": ["stimulate", "urge", "press", "demand", "incite"],
+	"meanings": [
+		"stimulate",
+		"urge",
+		"press",
+		"demand",
+		"incite"
+	],
 	"keyword": "stimulate",
 	"onyomi": {
-		"frequent": ["ソク"],
+		"frequent": [
+			"ソク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うなが"],
+		"frequent": [
+			"うなが"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["うなが.す"]
+		"okurigana": [
+			"うなが.す"
+		]
 	},
 	"frequency": {
 		"mean": 1613,

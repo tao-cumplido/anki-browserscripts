@@ -1,16 +1,22 @@
 {
 	"kanji": "蛮",
-	"meanings": ["barbarian"],
+	"meanings": [
+		"barbarian"
+	],
 	"keyword": "barbarian",
 	"onyomi": {
-		"frequent": ["バン"],
+		"frequent": [
+			"バン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["えびす"],
+		"rare": [
+			"えびす"
+		],
 		"okurigana": []
 	},
 	"frequency": {

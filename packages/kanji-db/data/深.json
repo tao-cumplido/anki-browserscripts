@@ -1,17 +1,34 @@
 {
 	"kanji": "深",
-	"meanings": ["deep", "heighten", "intensify", "strengthen"],
+	"meanings": [
+		"deep",
+		"heighten",
+		"intensify",
+		"strengthen"
+	],
 	"keyword": "deep",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふか"],
+		"frequent": [
+			"ふか"
+		],
 		"common": [],
-		"rare": ["ぶか", "み"],
-		"okurigana": ["ふか.い", "ぶか.い", "ふか.まる", "ふか.める"]
+		"rare": [
+			"ぶか",
+			"み"
+		],
+		"okurigana": [
+			"ふか.い",
+			"ぶか.い",
+			"ふか.まる",
+			"ふか.める"
+		]
 	},
 	"frequency": {
 		"mean": 652,

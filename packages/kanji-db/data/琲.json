@@ -1,16 +1,22 @@
 {
 	"kanji": "琲",
-	"meanings": ["string of many pearls"],
+	"meanings": [
+		"string of many pearls"
+	],
 	"keyword": "beaded hairpin",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハイ"]
+		"rare": [
+			"ハイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つらぬく"],
+		"rare": [
+			"つらぬく"
+		],
 		"okurigana": []
 	},
 	"frequency": {

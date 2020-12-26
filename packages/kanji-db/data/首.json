@@ -1,14 +1,21 @@
 {
 	"kanji": "首",
-	"meanings": ["neck", "counter for songs and poems"],
+	"meanings": [
+		"neck",
+		"counter for songs and poems"
+	],
 	"keyword": "neck",
 	"onyomi": {
-		"frequent": ["シュ"],
+		"frequent": [
+			"シュ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くび"],
+		"frequent": [
+			"くび"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,30 @@
 {
 	"kanji": "擬",
-	"meanings": ["mimic", "aim (a gun) at", "nominate", "imitate"],
+	"meanings": [
+		"mimic",
+		"aim (a gun) at",
+		"nominate",
+		"imitate"
+	],
 	"keyword": "mimic",
 	"onyomi": {
-		"frequent": ["ギ"],
+		"frequent": [
+			"ギ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まが", "もど"],
-		"okurigana": ["まが.い", "もど.き"]
+		"rare": [
+			"まが",
+			"もど"
+		],
+		"okurigana": [
+			"まが.い",
+			"もど.き"
+		]
 	},
 	"frequency": {
 		"mean": 1969,

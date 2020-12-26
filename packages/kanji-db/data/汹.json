@@ -1,0 +1,29 @@
+{
+	"kanji": "汹",
+	"meanings": [
+		"turbulent",
+		"noisy",
+		"restless"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"キョウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"わ"
+		],
+		"rare": [],
+		"okurigana": [
+			"わ.く"
+		]
+	},
+	"frequency": {
+		"mean": 4537,
+		"wikipedia": 4228
+	}
+}

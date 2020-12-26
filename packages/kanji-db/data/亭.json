@@ -1,11 +1,24 @@
 {
 	"kanji": "亭",
-	"meanings": ["pavilion", "restaurant", "mansion", "arbor", "cottage", "vaudeville", "music hall", "stage name"],
+	"meanings": [
+		"pavilion",
+		"restaurant",
+		"mansion",
+		"arbor",
+		"cottage",
+		"vaudeville",
+		"music hall",
+		"stage name"
+	],
 	"keyword": "pavilion",
 	"onyomi": {
-		"frequent": ["テイ"],
+		"frequent": [
+			"テイ"
+		],
 		"common": [],
-		"rare": ["チン"]
+		"rare": [
+			"チン"
+		]
 	},
 	"frequency": {
 		"mean": 1352,

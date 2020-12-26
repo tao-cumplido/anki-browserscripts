@@ -1,16 +1,25 @@
 {
 	"kanji": "衿",
-	"meanings": ["neck", "collar", "lapel"],
+	"meanings": [
+		"neck",
+		"collar",
+		"lapel"
+	],
 	"keyword": "lapel",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キン", "コン"]
+		"rare": [
+			"キン",
+			"コン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["えり"],
+		"rare": [
+			"えり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

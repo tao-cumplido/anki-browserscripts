@@ -1,10 +1,15 @@
 {
 	"kanji": "凵",
-	"meanings": ["open box enclosure", "open box radical (no. 17)"],
+	"meanings": [
+		"open box enclosure",
+		"open box radical (no. 17)"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カン"]
+		"rare": [
+			"カン"
+		]
 	},
 	"frequency": {
 		"mean": 4468,

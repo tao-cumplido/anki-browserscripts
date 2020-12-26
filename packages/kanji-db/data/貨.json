@@ -1,16 +1,24 @@
 {
 	"kanji": "貨",
-	"meanings": ["freight", "goods", "property"],
+	"meanings": [
+		"freight",
+		"goods",
+		"property"
+	],
 	"keyword": "freight",
 	"onyomi": {
-		"frequent": ["カ"],
+		"frequent": [
+			"カ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たから"],
+		"rare": [
+			"たから"
+		],
 		"okurigana": []
 	},
 	"frequency": {

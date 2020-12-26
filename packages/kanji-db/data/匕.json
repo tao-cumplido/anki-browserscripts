@@ -1,16 +1,23 @@
 {
 	"kanji": "匕",
-	"meanings": ["spoon", "spoon or katakana hi radical (no. 21)"],
+	"meanings": [
+		"spoon",
+		"spoon or katakana hi radical (no. 21)"
+	],
 	"keyword": "spoon",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒ"]
+		"rare": [
+			"ヒ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さじ"],
+		"rare": [
+			"さじ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

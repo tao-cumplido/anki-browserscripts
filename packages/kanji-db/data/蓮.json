@@ -1,16 +1,23 @@
 {
 	"kanji": "蓮",
-	"meanings": ["lotus"],
+	"meanings": [
+		"lotus"
+	],
 	"keyword": "lotus",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["レン"]
+		"rare": [
+			"レン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はす", "はちす"],
+		"rare": [
+			"はす",
+			"はちす"
+		],
 		"okurigana": []
 	},
 	"frequency": {

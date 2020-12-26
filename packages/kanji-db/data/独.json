@@ -1,17 +1,30 @@
 {
 	"kanji": "独",
-	"meanings": ["single", "alone", "spontaneously", "Germany"],
+	"meanings": [
+		"single",
+		"alone",
+		"spontaneously",
+		"Germany"
+	],
 	"keyword": "single",
 	"onyomi": {
-		"frequent": ["ドク"],
+		"frequent": [
+			"ドク"
+		],
 		"common": [],
-		"rare": ["トク"]
+		"rare": [
+			"トク"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ひと"],
+		"frequent": [
+			"ひと"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ひと.り"]
+		"okurigana": [
+			"ひと.り"
+		]
 	},
 	"frequency": {
 		"mean": 482,

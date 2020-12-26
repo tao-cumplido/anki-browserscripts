@@ -1,10 +1,14 @@
 {
 	"kanji": "倻",
-	"meanings": ["phonetic used in Korean place names"],
+	"meanings": [
+		"phonetic used in Korean place names"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヤ"]
+		"rare": [
+			"ヤ"
+		]
 	},
 	"frequency": {
 		"mean": 4270,

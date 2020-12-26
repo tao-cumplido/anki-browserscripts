@@ -1,16 +1,26 @@
 {
 	"kanji": "踪",
-	"meanings": ["remains", "clue", "footprint"],
+	"meanings": [
+		"remains",
+		"clue",
+		"footprint"
+	],
 	"keyword": "trail",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
-		"rare": ["ショウ"]
+		"rare": [
+			"ショウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あと"],
+		"rare": [
+			"あと"
+		],
 		"okurigana": []
 	},
 	"frequency": {

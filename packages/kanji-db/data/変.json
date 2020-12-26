@@ -1,17 +1,29 @@
 {
 	"kanji": "変",
-	"meanings": ["unusual", "change", "strange"],
+	"meanings": [
+		"unusual",
+		"change",
+		"strange"
+	],
 	"keyword": "unusual",
 	"onyomi": {
-		"frequent": ["ヘン"],
+		"frequent": [
+			"ヘン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["か"],
+		"frequent": [
+			"か"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["か.わる", "か.わり", "か.える"]
+		"okurigana": [
+			"か.わる",
+			"か.わり",
+			"か.える"
+		]
 	},
 	"frequency": {
 		"mean": 210,

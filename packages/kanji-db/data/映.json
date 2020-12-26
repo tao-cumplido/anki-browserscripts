@@ -1,17 +1,33 @@
 {
 	"kanji": "映",
-	"meanings": ["reflect", "reflection", "projection"],
+	"meanings": [
+		"reflect",
+		"reflection",
+		"projection"
+	],
 	"keyword": "reflect",
 	"onyomi": {
-		"frequent": ["エイ"],
+		"frequent": [
+			"エイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うつ", "は"],
+		"frequent": [
+			"うつ",
+			"は"
+		],
 		"common": [],
-		"rare": ["ば"],
-		"okurigana": ["うつ.る", "うつ.す", "は.える", "ば.え"]
+		"rare": [
+			"ば"
+		],
+		"okurigana": [
+			"うつ.る",
+			"うつ.す",
+			"は.える",
+			"ば.え"
+		]
 	},
 	"frequency": {
 		"mean": 170,

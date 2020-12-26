@@ -1,17 +1,30 @@
 {
 	"kanji": "推",
-	"meanings": ["conjecture", "infer", "guess", "suppose", "support", "push (for)"],
+	"meanings": [
+		"conjecture",
+		"infer",
+		"guess",
+		"suppose",
+		"support",
+		"push (for)"
+	],
 	"keyword": "conjecture",
 	"onyomi": {
-		"frequent": ["スイ"],
+		"frequent": [
+			"スイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["お"],
+		"frequent": [
+			"お"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["お.す"]
+		"okurigana": [
+			"お.す"
+		]
 	},
 	"frequency": {
 		"mean": 704,

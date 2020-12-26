@@ -1,16 +1,22 @@
 {
 	"kanji": "舅",
-	"meanings": ["father-in-law"],
+	"meanings": [
+		"father-in-law"
+	],
 	"keyword": "father-in-law",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キュウ"]
+		"rare": [
+			"キュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しゅうと"],
+		"rare": [
+			"しゅうと"
+		],
 		"okurigana": []
 	},
 	"frequency": {

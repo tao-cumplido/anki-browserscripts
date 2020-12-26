@@ -1,17 +1,36 @@
 {
 	"kanji": "越",
-	"meanings": ["surpass", "cross over", "move to", "exceed", "Vietnam"],
+	"meanings": [
+		"surpass",
+		"cross over",
+		"move to",
+		"exceed",
+		"Vietnam"
+	],
 	"keyword": "surpass",
 	"onyomi": {
-		"frequent": ["エツ"],
+		"frequent": [
+			"エツ"
+		],
 		"common": [],
-		"rare": ["オツ"]
+		"rare": [
+			"オツ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["こ"],
+		"frequent": [
+			"こ"
+		],
 		"common": [],
-		"rare": ["ご"],
-		"okurigana": ["こ.す", "ご.し", "こ.える", "ご.え"]
+		"rare": [
+			"ご"
+		],
+		"okurigana": [
+			"こ.す",
+			"ご.し",
+			"こ.える",
+			"ご.え"
+		]
 	},
 	"frequency": {
 		"mean": 604,

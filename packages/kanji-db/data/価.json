@@ -1,14 +1,23 @@
 {
 	"kanji": "価",
-	"meanings": ["value", "price"],
+	"meanings": [
+		"value",
+		"price"
+	],
 	"keyword": "value",
 	"onyomi": {
-		"frequent": ["カ"],
+		"frequent": [
+			"カ"
+		],
 		"common": [],
-		"rare": ["ケ"]
+		"rare": [
+			"ケ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["あたい"],
+		"frequent": [
+			"あたい"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

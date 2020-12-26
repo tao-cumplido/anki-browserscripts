@@ -1,14 +1,22 @@
 {
 	"kanji": "宵",
-	"meanings": ["wee hours", "evening", "early night"],
+	"meanings": [
+		"wee hours",
+		"evening",
+		"early night"
+	],
 	"keyword": "wee hours",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["よい"],
+		"frequent": [
+			"よい"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

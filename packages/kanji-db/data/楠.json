@@ -1,16 +1,26 @@
 {
 	"kanji": "楠",
-	"meanings": ["camphor tree"],
+	"meanings": [
+		"camphor tree"
+	],
 	"keyword": "camphor tree",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ナン", "ダン", "ゼン", "ネン"]
+		"rare": [
+			"ナン",
+			"ダン",
+			"ゼン",
+			"ネン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くす", "くすのき"],
+		"rare": [
+			"くす",
+			"くすのき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

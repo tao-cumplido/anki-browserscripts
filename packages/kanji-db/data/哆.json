@@ -1,0 +1,34 @@
+{
+	"kanji": "哆",
+	"meanings": [
+		"tremble",
+		"shiver",
+		"shudder",
+		"quiver"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"シ",
+			"タ",
+			"シャ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"おお",
+			"おおくち"
+		],
+		"rare": [],
+		"okurigana": [
+			"おお.きい"
+		]
+	},
+	"frequency": {
+		"mean": 4482,
+		"twitter": 1727,
+		"wikipedia": 4174
+	}
+}

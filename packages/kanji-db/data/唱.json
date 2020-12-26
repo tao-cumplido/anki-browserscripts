@@ -1,17 +1,28 @@
 {
 	"kanji": "唱",
-	"meanings": ["chant", "recite", "call upon", "yell"],
+	"meanings": [
+		"chant",
+		"recite",
+		"call upon",
+		"yell"
+	],
 	"keyword": "chant",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["とな"],
+		"frequent": [
+			"とな"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["とな.える"]
+		"okurigana": [
+			"とな.える"
+		]
 	},
 	"frequency": {
 		"mean": 1120,

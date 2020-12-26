@@ -1,17 +1,25 @@
 {
 	"kanji": "疾",
-	"meanings": ["rapidly"],
+	"meanings": [
+		"rapidly"
+	],
 	"keyword": "rapidly",
 	"onyomi": {
-		"frequent": ["シツ"],
+		"frequent": [
+			"シツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はや"],
-		"okurigana": ["はや.い"]
+		"rare": [
+			"はや"
+		],
+		"okurigana": [
+			"はや.い"
+		]
 	},
 	"frequency": {
 		"mean": 1629,

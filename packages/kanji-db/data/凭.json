@@ -1,16 +1,29 @@
 {
 	"kanji": "凭",
-	"meanings": ["lean on", "recline on", "lie heavy"],
+	"meanings": [
+		"lean on",
+		"recline on",
+		"lie heavy"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒョウ", "ヘイ"]
+		"rare": [
+			"ヒョウ",
+			"ヘイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["もた", "よ"],
-		"okurigana": ["もた.れる", "よ.る"]
+		"rare": [
+			"もた",
+			"よ"
+		],
+		"okurigana": [
+			"もた.れる",
+			"よ.る"
+		]
 	},
 	"frequency": {
 		"mean": 3504,

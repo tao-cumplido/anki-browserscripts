@@ -1,16 +1,23 @@
 {
 	"kanji": "梶",
-	"meanings": ["sculling oar"],
+	"meanings": [
+		"sculling oar"
+	],
 	"keyword": "oar",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ビ"]
+		"rare": [
+			"ビ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かじ", "こずえ"],
+		"rare": [
+			"かじ",
+			"こずえ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

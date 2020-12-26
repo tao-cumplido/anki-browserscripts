@@ -1,16 +1,29 @@
 {
 	"kanji": "塁",
-	"meanings": ["bases", "fort", "rampart", "walls", "base(ball)"],
+	"meanings": [
+		"bases",
+		"fort",
+		"rampart",
+		"walls",
+		"base(ball)"
+	],
 	"keyword": "bases",
 	"onyomi": {
-		"frequent": ["ルイ"],
+		"frequent": [
+			"ルイ"
+		],
 		"common": [],
-		"rare": ["ライ", "スイ"]
+		"rare": [
+			"ライ",
+			"スイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とりで"],
+		"rare": [
+			"とりで"
+		],
 		"okurigana": []
 	},
 	"frequency": {

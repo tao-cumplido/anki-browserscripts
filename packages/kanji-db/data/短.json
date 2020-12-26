@@ -1,17 +1,29 @@
 {
 	"kanji": "短",
-	"meanings": ["short", "brevity", "fault", "defect", "weak point"],
+	"meanings": [
+		"short",
+		"brevity",
+		"fault",
+		"defect",
+		"weak point"
+	],
 	"keyword": "short",
 	"onyomi": {
-		"frequent": ["タン"],
+		"frequent": [
+			"タン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みじか"],
+		"frequent": [
+			"みじか"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["みじか.い"]
+		"okurigana": [
+			"みじか.い"
+		]
 	},
 	"frequency": {
 		"mean": 675,

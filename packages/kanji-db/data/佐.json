@@ -1,9 +1,14 @@
 {
 	"kanji": "佐",
-	"meanings": ["assistant", "help"],
+	"meanings": [
+		"assistant",
+		"help"
+	],
 	"keyword": "assistant",
 	"onyomi": {
-		"frequent": ["サ"],
+		"frequent": [
+			"サ"
+		],
 		"common": [],
 		"rare": []
 	},

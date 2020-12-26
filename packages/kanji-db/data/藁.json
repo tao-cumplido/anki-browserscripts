@@ -1,16 +1,22 @@
 {
 	"kanji": "藁",
-	"meanings": ["straw"],
+	"meanings": [
+		"straw"
+	],
 	"keyword": "straw",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わら"],
+		"rare": [
+			"わら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

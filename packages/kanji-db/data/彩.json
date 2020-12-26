@@ -1,17 +1,27 @@
 {
 	"kanji": "彩",
-	"meanings": ["coloring", "paint", "makeup"],
+	"meanings": [
+		"coloring",
+		"paint",
+		"makeup"
+	],
 	"keyword": "coloring",
 	"onyomi": {
-		"frequent": ["サイ"],
+		"frequent": [
+			"サイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いろど"],
+		"frequent": [
+			"いろど"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["いろど.る"]
+		"okurigana": [
+			"いろど.る"
+		]
 	},
 	"frequency": {
 		"mean": 1163,

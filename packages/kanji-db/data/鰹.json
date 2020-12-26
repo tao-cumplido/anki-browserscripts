@@ -1,16 +1,22 @@
 {
 	"kanji": "鰹",
-	"meanings": ["bonito"],
+	"meanings": [
+		"bonito"
+	],
 	"keyword": "bonito",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケン"]
+		"rare": [
+			"ケン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かつお"],
+		"rare": [
+			"かつお"
+		],
 		"okurigana": []
 	},
 	"frequency": {

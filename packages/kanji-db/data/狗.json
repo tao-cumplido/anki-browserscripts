@@ -1,16 +1,24 @@
 {
 	"kanji": "狗",
-	"meanings": ["puppy", "dog"],
+	"meanings": [
+		"puppy",
+		"dog"
+	],
 	"keyword": "pup",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ク", "コウ"]
+		"rare": [
+			"ク",
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いぬ"],
+		"rare": [
+			"いぬ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

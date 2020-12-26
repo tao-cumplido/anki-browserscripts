@@ -1,17 +1,27 @@
 {
 	"kanji": "努",
-	"meanings": ["toil", "diligent", "as much as possible"],
+	"meanings": [
+		"toil",
+		"diligent",
+		"as much as possible"
+	],
 	"keyword": "toil",
 	"onyomi": {
-		"frequent": ["ド"],
+		"frequent": [
+			"ド"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つと"],
+		"frequent": [
+			"つと"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["つと.める"]
+		"okurigana": [
+			"つと.める"
+		]
 	},
 	"frequency": {
 		"mean": 1587,

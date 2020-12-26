@@ -1,16 +1,27 @@
 {
 	"kanji": "奈",
-	"meanings": ["Nara", "what?"],
+	"meanings": [
+		"Nara",
+		"what?"
+	],
 	"keyword": "Nara",
 	"onyomi": {
-		"frequent": ["ナ"],
+		"frequent": [
+			"ナ"
+		],
 		"common": [],
-		"rare": ["ナイ", "ダイ"]
+		"rare": [
+			"ナイ",
+			"ダイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いかん", "からなし"],
+		"rare": [
+			"いかん",
+			"からなし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

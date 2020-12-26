@@ -1,16 +1,22 @@
 {
 	"kanji": "醤",
-	"meanings": ["a kind of miso"],
+	"meanings": [
+		"a kind of miso"
+	],
 	"keyword": "soy sauce",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ"]
+		"rare": [
+			"ショウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひしお"],
+		"rare": [
+			"ひしお"
+		],
 		"okurigana": []
 	},
 	"frequency": {

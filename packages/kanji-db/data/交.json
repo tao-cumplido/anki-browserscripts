@@ -1,17 +1,41 @@
 {
 	"kanji": "交",
-	"meanings": ["mingle", "mixing", "association", "coming &amp; going"],
+	"meanings": [
+		"mingle",
+		"mixing",
+		"association",
+		"coming &amp; going"
+	],
 	"keyword": "mingle",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まじ", "ま", "か"],
+		"frequent": [
+			"まじ",
+			"ま",
+			"か"
+		],
 		"common": [],
-		"rare": ["かわ", "こもごも"],
-		"okurigana": ["まじ.わる", "まじ.える", "ま.じる", "まじ.る", "ま.ざる", "ま.ぜる", "か.う", "か.わす", "かわ.す"]
+		"rare": [
+			"かわ",
+			"こもごも"
+		],
+		"okurigana": [
+			"まじ.わる",
+			"まじ.える",
+			"ま.じる",
+			"まじ.る",
+			"ま.ざる",
+			"ま.ぜる",
+			"か.う",
+			"か.わす",
+			"かわ.す"
+		]
 	},
 	"frequency": {
 		"mean": 238,

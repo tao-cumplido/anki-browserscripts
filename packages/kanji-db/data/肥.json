@@ -1,17 +1,35 @@
 {
 	"kanji": "肥",
-	"meanings": ["fertilizer", "get fat", "fertile", "manure", "pamper"],
+	"meanings": [
+		"fertilizer",
+		"get fat",
+		"fertile",
+		"manure",
+		"pamper"
+	],
 	"keyword": "fertilizer",
 	"onyomi": {
-		"frequent": ["ヒ"],
+		"frequent": [
+			"ヒ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こ", "こえ"],
+		"frequent": [
+			"こ",
+			"こえ"
+		],
 		"common": [],
-		"rare": ["ふと"],
-		"okurigana": ["こ.える", "こ.やす", "こ.やし", "ふと.る"]
+		"rare": [
+			"ふと"
+		],
+		"okurigana": [
+			"こ.える",
+			"こ.やす",
+			"こ.やし",
+			"ふと.る"
+		]
 	},
 	"frequency": {
 		"mean": 1479,

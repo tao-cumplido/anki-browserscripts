@@ -1,16 +1,25 @@
 {
 	"kanji": "性",
-	"meanings": ["sex", "gender", "nature"],
+	"meanings": [
+		"sex",
+		"gender",
+		"nature"
+	],
 	"keyword": "sex",
 	"onyomi": {
-		"frequent": ["セイ", "ショウ"],
+		"frequent": [
+			"セイ",
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さが"],
+		"rare": [
+			"さが"
+		],
 		"okurigana": []
 	},
 	"frequency": {

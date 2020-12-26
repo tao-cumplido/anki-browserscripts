@@ -1,15 +1,21 @@
 {
 	"kanji": "亢",
-	"meanings": ["high spirits"],
+	"meanings": [
+		"high spirits"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たかぶる"],
+		"rare": [
+			"たかぶる"
+		],
 		"okurigana": []
 	},
 	"frequency": {

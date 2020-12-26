@@ -1,17 +1,26 @@
 {
 	"kanji": "祐",
-	"meanings": ["help"],
+	"meanings": [
+		"help"
+	],
 	"keyword": "ancestral tablet",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ユウ", "ウ"]
+		"rare": [
+			"ユウ",
+			"ウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たす"],
-		"okurigana": ["たす.ける"]
+		"rare": [
+			"たす"
+		],
+		"okurigana": [
+			"たす.ける"
+		]
 	},
 	"frequency": {
 		"mean": 1242,

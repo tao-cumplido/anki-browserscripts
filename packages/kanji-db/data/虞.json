@@ -1,17 +1,44 @@
 {
 	"kanji": "虞",
-	"meanings": ["fear", "uneasiness", "anxiety", "concern", "expectation", "consideration"],
+	"meanings": [
+		"fear",
+		"uneasiness",
+		"anxiety",
+		"concern",
+		"expectation",
+		"consideration"
+	],
 	"keyword": "uneasiness",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["グ"]
+		"rare": [
+			"グ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["おそれ"],
+		"frequent": [
+			"おそれ"
+		],
 		"common": [],
-		"rare": ["おもんぱか", "はか", "うれ", "あざむ", "あやま", "のぞ", "たの"],
-		"okurigana": ["おもんぱか.る", "はか.る", "うれ.える", "あざむ.く", "あやま.る", "のぞ.む", "たの.しむ"]
+		"rare": [
+			"おもんぱか",
+			"はか",
+			"うれ",
+			"あざむ",
+			"あやま",
+			"のぞ",
+			"たの"
+		],
+		"okurigana": [
+			"おもんぱか.る",
+			"はか.る",
+			"うれ.える",
+			"あざむ.く",
+			"あやま.る",
+			"のぞ.む",
+			"たの.しむ"
+		]
 	},
 	"frequency": {
 		"mean": 2366,

@@ -1,14 +1,21 @@
 {
 	"kanji": "弓",
-	"meanings": ["bow", "bow (archery, violin)"],
+	"meanings": [
+		"bow",
+		"bow (archery, violin)"
+	],
 	"keyword": "bow",
 	"onyomi": {
-		"frequent": ["キュウ"],
+		"frequent": [
+			"キュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ゆみ"],
+		"frequent": [
+			"ゆみ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

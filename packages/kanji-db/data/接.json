@@ -1,17 +1,30 @@
 {
 	"kanji": "接",
-	"meanings": ["touch", "contact", "adjoin", "piece together"],
+	"meanings": [
+		"touch",
+		"contact",
+		"adjoin",
+		"piece together"
+	],
 	"keyword": "touch",
 	"onyomi": {
-		"frequent": ["セツ"],
+		"frequent": [
+			"セツ"
+		],
 		"common": [],
-		"rare": ["ショウ"]
+		"rare": [
+			"ショウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["つ"],
+		"frequent": [
+			"つ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["つ.ぐ"]
+		"okurigana": [
+			"つ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 533,

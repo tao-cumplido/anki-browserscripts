@@ -1,17 +1,29 @@
 {
 	"kanji": "輝",
-	"meanings": ["radiance", "shine", "sparkle", "gleam", "twinkle"],
+	"meanings": [
+		"radiance",
+		"shine",
+		"sparkle",
+		"gleam",
+		"twinkle"
+	],
 	"keyword": "radiance",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かがや"],
+		"frequent": [
+			"かがや"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かがや.く"]
+		"okurigana": [
+			"かがや.く"
+		]
 	},
 	"frequency": {
 		"mean": 1148,

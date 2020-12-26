@@ -1,17 +1,34 @@
 {
 	"kanji": "志",
-	"meanings": ["intention", "plan", "resolve", "aspire", "motive", "hopes", "shilling"],
+	"meanings": [
+		"intention",
+		"plan",
+		"resolve",
+		"aspire",
+		"motive",
+		"hopes",
+		"shilling"
+	],
 	"keyword": "intention",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こころざ", "こころざし"],
+		"frequent": [
+			"こころざ",
+			"こころざし"
+		],
 		"common": [],
-		"rare": ["シリング"],
-		"okurigana": ["こころざ.す"]
+		"rare": [
+			"シリング"
+		],
+		"okurigana": [
+			"こころざ.す"
+		]
 	},
 	"frequency": {
 		"mean": 549,

@@ -1,16 +1,25 @@
 {
 	"kanji": "仳",
-	"meanings": ["separate", "part company"],
+	"meanings": [
+		"separate",
+		"part company"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ヒ"],
+		"common": [
+			"ヒ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["わか"],
+		"common": [
+			"わか"
+		],
 		"rare": [],
-		"okurigana": ["わか.れる"]
+		"okurigana": [
+			"わか.れる"
+		]
 	},
 	"frequency": {
 		"mean": 4541,

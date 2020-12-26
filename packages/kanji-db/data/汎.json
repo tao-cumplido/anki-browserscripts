@@ -1,17 +1,32 @@
 {
 	"kanji": "汎",
-	"meanings": ["pan-"],
+	"meanings": [
+		"pan-"
+	],
 	"keyword": "pan-",
 	"onyomi": {
-		"frequent": ["ハン"],
+		"frequent": [
+			"ハン"
+		],
 		"common": [],
-		"rare": ["ブ", "フウ", "ホウ", "ホン"]
+		"rare": [
+			"ブ",
+			"フウ",
+			"ホウ",
+			"ホン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ただよ", "ひろ"],
-		"okurigana": ["ただよ.う", "ひろ.い"]
+		"rare": [
+			"ただよ",
+			"ひろ"
+		],
+		"okurigana": [
+			"ただよ.う",
+			"ひろ.い"
+		]
 	},
 	"frequency": {
 		"mean": 2115,

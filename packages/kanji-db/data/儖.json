@@ -1,10 +1,14 @@
 {
 	"kanji": "儖",
-	"meanings": ["ugly"],
+	"meanings": [
+		"ugly"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ラン"]
+		"rare": [
+			"ラン"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

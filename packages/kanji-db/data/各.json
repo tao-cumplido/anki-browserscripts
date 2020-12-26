@@ -1,14 +1,22 @@
 {
 	"kanji": "各",
-	"meanings": ["each", "every", "either"],
+	"meanings": [
+		"each",
+		"every",
+		"either"
+	],
 	"keyword": "each",
 	"onyomi": {
-		"frequent": ["カク"],
+		"frequent": [
+			"カク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おのおの"],
+		"frequent": [
+			"おのおの"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

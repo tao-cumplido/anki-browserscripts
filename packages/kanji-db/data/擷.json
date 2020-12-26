@@ -1,0 +1,31 @@
+{
+	"kanji": "擷",
+	"meanings": [
+		"pick up",
+		"gather up",
+		"hold in lap"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ケツ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"つまばさ",
+			"はさ"
+		],
+		"rare": [],
+		"okurigana": [
+			"つまばさ.む",
+			"はさ.む"
+		]
+	},
+	"frequency": {
+		"mean": 4536,
+		"wikipedia": 4227
+	}
+}

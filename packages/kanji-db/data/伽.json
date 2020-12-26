@@ -1,16 +1,27 @@
 {
 	"kanji": "伽",
-	"meanings": ["nursing", "attending", "entertainer"],
+	"meanings": [
+		"nursing",
+		"attending",
+		"entertainer"
+	],
 	"keyword": "look after",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カ", "ガ", "キャ", "ギャ"]
+		"rare": [
+			"カ",
+			"ガ",
+			"キャ",
+			"ギャ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とぎ"],
+		"rare": [
+			"とぎ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,27 @@
 {
 	"kanji": "淀",
-	"meanings": ["pool", "eddy"],
+	"meanings": [
+		"pool",
+		"eddy"
+	],
 	"keyword": "eddy",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テン", "デン"]
+		"rare": [
+			"テン",
+			"デン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よど"],
-		"okurigana": ["よど.む"]
+		"rare": [
+			"よど"
+		],
+		"okurigana": [
+			"よど.む"
+		]
 	},
 	"frequency": {
 		"mean": 1808,

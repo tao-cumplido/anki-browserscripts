@@ -1,15 +1,25 @@
 {
 	"kanji": "僮",
-	"meanings": ["child", "servant", "foolishness"],
+	"meanings": [
+		"child",
+		"servant",
+		"foolishness"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["トウ", "ドウ"]
+		"rare": [
+			"トウ",
+			"ドウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しもべ", "わらべ"],
+		"rare": [
+			"しもべ",
+			"わらべ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,16 +1,26 @@
 {
 	"kanji": "帖",
-	"meanings": ["quire (of paper)", "bundle of seaweed", "counter for screens", "notebook"],
+	"meanings": [
+		"quire (of paper)",
+		"bundle of seaweed",
+		"counter for screens",
+		"notebook"
+	],
 	"keyword": "quire",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョウ", "ジョウ"]
+		"rare": [
+			"チョウ",
+			"ジョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かきもの"],
+		"rare": [
+			"かきもの"
+		],
 		"okurigana": []
 	},
 	"frequency": {

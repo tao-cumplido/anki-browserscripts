@@ -1,14 +1,26 @@
 {
 	"kanji": "程",
-	"meanings": ["extent", "degree", "law", "formula", "distance", "limits", "amount"],
+	"meanings": [
+		"extent",
+		"degree",
+		"law",
+		"formula",
+		"distance",
+		"limits",
+		"amount"
+	],
 	"keyword": "extent",
 	"onyomi": {
-		"frequent": ["テイ"],
+		"frequent": [
+			"テイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほど"],
+		"frequent": [
+			"ほど"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

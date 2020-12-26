@@ -1,16 +1,25 @@
 {
 	"kanji": "炉",
-	"meanings": ["hearth", "furnace", "kiln", "reactor"],
+	"meanings": [
+		"hearth",
+		"furnace",
+		"kiln",
+		"reactor"
+	],
 	"keyword": "hearth",
 	"onyomi": {
-		"frequent": ["ロ"],
+		"frequent": [
+			"ロ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いろり"],
+		"rare": [
+			"いろり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

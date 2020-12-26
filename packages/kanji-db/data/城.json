@@ -1,14 +1,22 @@
 {
 	"kanji": "城",
-	"meanings": ["castle"],
+	"meanings": [
+		"castle"
+	],
 	"keyword": "castle",
 	"onyomi": {
-		"frequent": ["ジョウ"],
+		"frequent": [
+			"ジョウ"
+		],
 		"common": [],
-		"rare": ["セイ"]
+		"rare": [
+			"セイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["しろ"],
+		"frequent": [
+			"しろ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,16 +1,25 @@
 {
 	"kanji": "厨",
-	"meanings": ["kitchen"],
+	"meanings": [
+		"kitchen"
+	],
 	"keyword": "kitchen",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュウ", "ズ", "チュ", "チュウ"]
+		"rare": [
+			"シュウ",
+			"ズ",
+			"チュ",
+			"チュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くりや"],
+		"rare": [
+			"くりや"
+		],
 		"okurigana": []
 	},
 	"frequency": {

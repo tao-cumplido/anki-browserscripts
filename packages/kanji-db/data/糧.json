@@ -1,14 +1,24 @@
 {
 	"kanji": "糧",
-	"meanings": ["provisions", "food", "bread"],
+	"meanings": [
+		"provisions",
+		"food",
+		"bread"
+	],
 	"keyword": "provisions",
 	"onyomi": {
-		"frequent": ["リョウ"],
-		"common": ["ロウ"],
+		"frequent": [
+			"リョウ"
+		],
+		"common": [
+			"ロウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かて"],
+		"frequent": [
+			"かて"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

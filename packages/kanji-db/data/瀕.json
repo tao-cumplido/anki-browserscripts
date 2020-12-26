@@ -1,16 +1,24 @@
 {
 	"kanji": "瀕",
-	"meanings": ["shore", "brink", "verge"],
+	"meanings": [
+		"shore",
+		"brink",
+		"verge"
+	],
 	"keyword": "on the verge of",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒン"]
+		"rare": [
+			"ヒン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほとり"],
+		"rare": [
+			"ほとり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,27 @@
 {
 	"kanji": "既",
-	"meanings": ["previously", "already", "long ago"],
+	"meanings": [
+		"previously",
+		"already",
+		"long ago"
+	],
 	"keyword": "previously",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["すで"],
+		"frequent": [
+			"すで"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["すで.に"]
+		"okurigana": [
+			"すで.に"
+		]
 	},
 	"frequency": {
 		"mean": 1123,

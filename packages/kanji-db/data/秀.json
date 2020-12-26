@@ -1,17 +1,28 @@
 {
 	"kanji": "秀",
-	"meanings": ["excel", "excellence", "beauty", "surpass"],
+	"meanings": [
+		"excel",
+		"excellence",
+		"beauty",
+		"surpass"
+	],
 	"keyword": "excel",
 	"onyomi": {
-		"frequent": ["シュウ"],
+		"frequent": [
+			"シュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひい"],
+		"frequent": [
+			"ひい"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ひい.でる"]
+		"okurigana": [
+			"ひい.でる"
+		]
 	},
 	"frequency": {
 		"mean": 644,

@@ -1,17 +1,27 @@
 {
 	"kanji": "卸",
-	"meanings": ["wholesale"],
+	"meanings": [
+		"wholesale"
+	],
 	"keyword": "wholesale",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シャ"]
+		"rare": [
+			"シャ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["おろ", "おろし"],
+		"frequent": [
+			"おろ",
+			"おろし"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おろ.す", "おろ.し"]
+		"okurigana": [
+			"おろ.す",
+			"おろ.し"
+		]
 	},
 	"frequency": {
 		"mean": 2139,

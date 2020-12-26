@@ -1,16 +1,27 @@
 {
 	"kanji": "棘",
-	"meanings": ["thorn", "splinter", "spine", "biting words", "briers"],
+	"meanings": [
+		"thorn",
+		"splinter",
+		"spine",
+		"biting words",
+		"briers"
+	],
 	"keyword": "thornbush",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョク"]
+		"rare": [
+			"キョク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いばら", "とげ"],
+		"rare": [
+			"いばら",
+			"とげ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,29 @@
 {
 	"kanji": "敦",
-	"meanings": ["industry", "kindliness"],
+	"meanings": [
+		"industry",
+		"kindliness"
+	],
 	"keyword": "empathetic",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["トン", "タイ", "ダン", "チョウ"]
+		"rare": [
+			"トン",
+			"タイ",
+			"ダン",
+			"チョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あつ"],
-		"okurigana": ["あつ.い"]
+		"rare": [
+			"あつ"
+		],
+		"okurigana": [
+			"あつ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1561,

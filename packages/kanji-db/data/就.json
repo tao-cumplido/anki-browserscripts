@@ -1,17 +1,33 @@
 {
 	"kanji": "就",
-	"meanings": ["concerning", "settle", "take position", "depart", "study", "per"],
+	"meanings": [
+		"concerning",
+		"settle",
+		"take position",
+		"depart",
+		"study",
+		"per"
+	],
 	"keyword": "concerning",
 	"onyomi": {
-		"frequent": ["シュウ"],
-		"common": ["ジュ"],
+		"frequent": [
+			"シュウ"
+		],
+		"common": [
+			"ジュ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つ"],
+		"frequent": [
+			"つ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["つ.く", "つ.ける"]
+		"okurigana": [
+			"つ.く",
+			"つ.ける"
+		]
 	},
 	"frequency": {
 		"mean": 710,

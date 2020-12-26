@@ -1,16 +1,22 @@
 {
 	"kanji": "瞭",
-	"meanings": ["clear"],
+	"meanings": [
+		"clear"
+	],
 	"keyword": "obvious",
 	"onyomi": {
-		"frequent": ["リョウ"],
+		"frequent": [
+			"リョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あきらか"],
+		"rare": [
+			"あきらか"
+		],
 		"okurigana": []
 	},
 	"frequency": {

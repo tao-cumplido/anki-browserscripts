@@ -1,14 +1,20 @@
 {
 	"kanji": "猿",
-	"meanings": ["monkey"],
+	"meanings": [
+		"monkey"
+	],
 	"keyword": "monkey",
 	"onyomi": {
-		"frequent": ["エン"],
+		"frequent": [
+			"エン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さる"],
+		"frequent": [
+			"さる"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

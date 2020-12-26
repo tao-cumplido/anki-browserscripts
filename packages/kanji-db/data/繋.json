@@ -1,17 +1,33 @@
 {
 	"kanji": "繋",
-	"meanings": ["tie", "fasten", "chain", "tether", "connect"],
+	"meanings": [
+		"tie",
+		"fasten",
+		"chain",
+		"tether",
+		"connect"
+	],
 	"keyword": "link up",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケイ"]
+		"rare": [
+			"ケイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つな", "かか", "か"],
-		"okurigana": ["つな.ぐ", "かか.る", "か.ける"]
+		"rare": [
+			"つな",
+			"かか",
+			"か"
+		],
+		"okurigana": [
+			"つな.ぐ",
+			"かか.る",
+			"か.ける"
+		]
 	},
 	"frequency": {
 		"mean": 1608,

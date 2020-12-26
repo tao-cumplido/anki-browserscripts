@@ -1,17 +1,26 @@
 {
 	"kanji": "醸",
-	"meanings": ["brew", "cause"],
+	"meanings": [
+		"brew",
+		"cause"
+	],
 	"keyword": "brew",
 	"onyomi": {
-		"frequent": ["ジョウ"],
+		"frequent": [
+			"ジョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かも"],
+		"frequent": [
+			"かも"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かも.す"]
+		"okurigana": [
+			"かも.す"
+		]
 	},
 	"frequency": {
 		"mean": 2190,

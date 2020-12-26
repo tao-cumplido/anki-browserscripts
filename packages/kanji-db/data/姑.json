@@ -1,16 +1,25 @@
 {
 	"kanji": "姑",
-	"meanings": ["mother-in-law"],
+	"meanings": [
+		"mother-in-law"
+	],
 	"keyword": "mother-in-law",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コ"]
+		"rare": [
+			"コ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しゅうとめ", "しゅうと", "おば", "しばらく"],
+		"rare": [
+			"しゅうとめ",
+			"しゅうと",
+			"おば",
+			"しばらく"
+		],
 		"okurigana": []
 	},
 	"frequency": {

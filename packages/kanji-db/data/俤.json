@@ -1,10 +1,19 @@
 {
 	"kanji": "俤",
-	"meanings": ["visage", "face", "trace", "shadow", "memory", "(kokuji)"],
+	"meanings": [
+		"visage",
+		"face",
+		"trace",
+		"shadow",
+		"memory",
+		"(kokuji)"
+	],
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おもかげ"],
+		"rare": [
+			"おもかげ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

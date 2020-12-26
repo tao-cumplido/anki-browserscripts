@@ -1,16 +1,24 @@
 {
 	"kanji": "茜",
-	"meanings": ["madder", "red dye", "Turkey red"],
+	"meanings": [
+		"madder",
+		"red dye",
+		"Turkey red"
+	],
 	"keyword": "madder red",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セン"]
+		"rare": [
+			"セン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あかね"],
+		"rare": [
+			"あかね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

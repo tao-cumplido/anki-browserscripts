@@ -1,16 +1,23 @@
 {
 	"kanji": "銚",
-	"meanings": ["sake bottle"],
+	"meanings": [
+		"sake bottle"
+	],
 	"keyword": "keg",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョウ", "ヨウ"]
+		"rare": [
+			"チョウ",
+			"ヨウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なべ"],
+		"rare": [
+			"なべ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,16 +1,25 @@
 {
 	"kanji": "械",
-	"meanings": ["contraption", "fetter", "machine", "instrument"],
+	"meanings": [
+		"contraption",
+		"fetter",
+		"machine",
+		"instrument"
+	],
 	"keyword": "contraption",
 	"onyomi": {
-		"frequent": ["カイ"],
+		"frequent": [
+			"カイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かせ"],
+		"rare": [
+			"かせ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

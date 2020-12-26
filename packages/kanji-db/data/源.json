@@ -1,14 +1,21 @@
 {
 	"kanji": "源",
-	"meanings": ["source", "origin"],
+	"meanings": [
+		"source",
+		"origin"
+	],
 	"keyword": "source",
 	"onyomi": {
-		"frequent": ["ゲン"],
+		"frequent": [
+			"ゲン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みなもと"],
+		"frequent": [
+			"みなもと"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

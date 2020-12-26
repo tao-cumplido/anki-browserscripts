@@ -1,16 +1,30 @@
 {
 	"kanji": "鴻",
-	"meanings": ["large bird", "wild goose", "large", "great", "powerful", "prosperous"],
+	"meanings": [
+		"large bird",
+		"wild goose",
+		"large",
+		"great",
+		"powerful",
+		"prosperous"
+	],
 	"keyword": "large goose",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ", "ゴウ"]
+		"rare": [
+			"コウ",
+			"ゴウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おおとり", "ひしくい", "おおがり"],
+		"rare": [
+			"おおとり",
+			"ひしくい",
+			"おおがり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,15 +1,22 @@
 {
 	"kanji": "儺",
-	"meanings": ["exorcism"],
+	"meanings": [
+		"exorcism"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ナ", "ダ"]
+		"rare": [
+			"ナ",
+			"ダ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おにやらい"],
+		"rare": [
+			"おにやらい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

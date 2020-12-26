@@ -1,17 +1,28 @@
 {
 	"kanji": "徐",
-	"meanings": ["gradually", "slowly", "deliberately", "gently"],
+	"meanings": [
+		"gradually",
+		"slowly",
+		"deliberately",
+		"gently"
+	],
 	"keyword": "gradually",
 	"onyomi": {
-		"frequent": ["ジョ"],
+		"frequent": [
+			"ジョ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おもむ"],
-		"okurigana": ["おもむ.ろに"]
+		"rare": [
+			"おもむ"
+		],
+		"okurigana": [
+			"おもむ.ろに"
+		]
 	},
 	"frequency": {
 		"mean": 1614,

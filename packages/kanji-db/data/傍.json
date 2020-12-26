@@ -1,17 +1,35 @@
 {
 	"kanji": "傍",
-	"meanings": ["bystander", "side", "besides", "while", "nearby", "third person"],
+	"meanings": [
+		"bystander",
+		"side",
+		"besides",
+		"while",
+		"nearby",
+		"third person"
+	],
 	"keyword": "bystander",
 	"onyomi": {
-		"frequent": ["ボウ"],
+		"frequent": [
+			"ボウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かたわ"],
+		"frequent": [
+			"かたわ"
+		],
 		"common": [],
-		"rare": ["わき", "おか", "はた", "そば"],
-		"okurigana": ["かたわ.ら"]
+		"rare": [
+			"わき",
+			"おか",
+			"はた",
+			"そば"
+		],
+		"okurigana": [
+			"かたわ.ら"
+		]
 	},
 	"frequency": {
 		"mean": 1472,

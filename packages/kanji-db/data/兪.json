@@ -1,15 +1,23 @@
 {
 	"kanji": "兪",
-	"meanings": ["affirmative response", "relaxed", "at ease"],
+	"meanings": [
+		"affirmative response",
+		"relaxed",
+		"at ease"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ユ"]
+		"rare": [
+			"ユ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しかり"],
+		"rare": [
+			"しかり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

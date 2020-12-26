@@ -1,16 +1,24 @@
 {
 	"kanji": "秋",
-	"meanings": ["autumn"],
+	"meanings": [
+		"autumn"
+	],
 	"keyword": "autumn",
 	"onyomi": {
-		"frequent": ["シュウ"],
+		"frequent": [
+			"シュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あき"],
+		"frequent": [
+			"あき"
+		],
 		"common": [],
-		"rare": ["とき"],
+		"rare": [
+			"とき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,27 @@
 {
 	"kanji": "娃",
-	"meanings": ["beautiful"],
+	"meanings": [
+		"beautiful"
+	],
 	"keyword": "fair",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ア", "アイ", "ワ"]
+		"rare": [
+			"ア",
+			"アイ",
+			"ワ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うつく"],
-		"okurigana": ["うつく.しい"]
+		"rare": [
+			"うつく"
+		],
+		"okurigana": [
+			"うつく.しい"
+		]
 	},
 	"frequency": {
 		"mean": 3630,

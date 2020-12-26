@@ -1,14 +1,23 @@
 {
 	"kanji": "骨",
-	"meanings": ["skeleton", "bone", "remains", "frame"],
+	"meanings": [
+		"skeleton",
+		"bone",
+		"remains",
+		"frame"
+	],
 	"keyword": "skeleton",
 	"onyomi": {
-		"frequent": ["コツ"],
+		"frequent": [
+			"コツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほね"],
+		"frequent": [
+			"ほね"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

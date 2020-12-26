@@ -1,16 +1,22 @@
 {
 	"kanji": "肴",
-	"meanings": ["accompaniment for drinks"],
+	"meanings": [
+		"accompaniment for drinks"
+	],
 	"keyword": "entreat",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さかな"],
+		"rare": [
+			"さかな"
+		],
 		"okurigana": []
 	},
 	"frequency": {

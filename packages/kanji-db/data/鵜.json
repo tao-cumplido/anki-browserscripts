@@ -1,16 +1,23 @@
 {
 	"kanji": "鵜",
-	"meanings": ["cormorant"],
+	"meanings": [
+		"cormorant"
+	],
 	"keyword": "cormorant",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テイ", "ダイ"]
+		"rare": [
+			"テイ",
+			"ダイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["う"],
+		"rare": [
+			"う"
+		],
 		"okurigana": []
 	},
 	"frequency": {

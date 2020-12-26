@@ -1,14 +1,24 @@
 {
 	"kanji": "亀",
-	"meanings": ["tortoise", "turtle"],
+	"meanings": [
+		"tortoise",
+		"turtle"
+	],
 	"keyword": "tortoise",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
-		"rare": ["キュウ", "キン"]
+		"rare": [
+			"キュウ",
+			"キン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["かめ"],
+		"frequent": [
+			"かめ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

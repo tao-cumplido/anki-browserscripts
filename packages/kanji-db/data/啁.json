@@ -1,0 +1,32 @@
+{
+	"kanji": "啁",
+	"meanings": [
+		"chirp",
+		"twitter",
+		"twittering"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"トウ",
+			"チョウ",
+			"チュウ",
+			"シュウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"たわむ"
+		],
+		"rare": [],
+		"okurigana": [
+			"たわむ.れる"
+		]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

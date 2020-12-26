@@ -1,16 +1,24 @@
 {
 	"kanji": "壱",
-	"meanings": ["one (in documents)"],
+	"meanings": [
+		"one (in documents)"
+	],
 	"keyword": "I (one)",
 	"onyomi": {
-		"frequent": ["イチ"],
+		"frequent": [
+			"イチ"
+		],
 		"common": [],
-		"rare": ["イツ"]
+		"rare": [
+			"イツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひとつ"],
+		"rare": [
+			"ひとつ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

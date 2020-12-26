@@ -1,16 +1,23 @@
 {
 	"kanji": "雉",
-	"meanings": ["pheasant"],
+	"meanings": [
+		"pheasant"
+	],
 	"keyword": "pheasant",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジ", "チ"]
+		"rare": [
+			"ジ",
+			"チ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きじ"],
+		"rare": [
+			"きじ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

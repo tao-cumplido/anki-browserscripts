@@ -1,17 +1,34 @@
 {
 	"kanji": "曰",
-	"meanings": ["say", "reason", "pretext", "history", "past", "flat sun radical (no. 73)"],
+	"meanings": [
+		"say",
+		"reason",
+		"pretext",
+		"history",
+		"past",
+		"flat sun radical (no. 73)"
+	],
 	"keyword": "sayeth",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["エツ"]
+		"rare": [
+			"エツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いわ", "のたま", "ここに"],
-		"okurigana": ["いわ.く", "のたま.う", "のたま.わく"]
+		"rare": [
+			"いわ",
+			"のたま",
+			"ここに"
+		],
+		"okurigana": [
+			"いわ.く",
+			"のたま.う",
+			"のたま.わく"
+		]
 	},
 	"frequency": {
 		"mean": 1727,

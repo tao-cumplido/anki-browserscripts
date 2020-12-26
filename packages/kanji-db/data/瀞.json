@@ -1,17 +1,30 @@
 {
 	"kanji": "瀞",
-	"meanings": ["pure water", "clear water", "pool in a river"],
+	"meanings": [
+		"pure water",
+		"clear water",
+		"pool in a river"
+	],
 	"keyword": "river pool",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セイ", "ショウ", "ジュウ"]
+		"rare": [
+			"セイ",
+			"ショウ",
+			"ジュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とろ", "きよ"],
-		"okurigana": ["きよ.い"]
+		"rare": [
+			"とろ",
+			"きよ"
+		],
+		"okurigana": [
+			"きよ.い"
+		]
 	},
 	"frequency": {
 		"mean": 3120,

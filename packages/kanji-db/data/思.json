@@ -1,17 +1,30 @@
 {
 	"kanji": "思",
-	"meanings": ["think"],
+	"meanings": [
+		"think"
+	],
 	"keyword": "think",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おも"],
+		"frequent": [
+			"おも"
+		],
 		"common": [],
-		"rare": ["おもえら", "おぼ"],
-		"okurigana": ["おも.う", "おもえら.く", "おぼ.す"]
+		"rare": [
+			"おもえら",
+			"おぼ"
+		],
+		"okurigana": [
+			"おも.う",
+			"おもえら.く",
+			"おぼ.す"
+		]
 	},
 	"frequency": {
 		"mean": 218,

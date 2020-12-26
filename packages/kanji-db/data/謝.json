@@ -1,17 +1,27 @@
 {
 	"kanji": "謝",
-	"meanings": ["apologize", "thank", "refuse"],
+	"meanings": [
+		"apologize",
+		"thank",
+		"refuse"
+	],
 	"keyword": "apologize",
 	"onyomi": {
-		"frequent": ["シャ"],
+		"frequent": [
+			"シャ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あやま"],
+		"frequent": [
+			"あやま"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あやま.る"]
+		"okurigana": [
+			"あやま.る"
+		]
 	},
 	"frequency": {
 		"mean": 1296,

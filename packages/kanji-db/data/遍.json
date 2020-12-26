@@ -1,17 +1,28 @@
 {
 	"kanji": "遍",
-	"meanings": ["everywhere", "times", "widely", "generally"],
+	"meanings": [
+		"everywhere",
+		"times",
+		"widely",
+		"generally"
+	],
 	"keyword": "everywhere",
 	"onyomi": {
-		"frequent": ["ヘン"],
+		"frequent": [
+			"ヘン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あまね"],
-		"okurigana": ["あまね.く"]
+		"rare": [
+			"あまね"
+		],
+		"okurigana": [
+			"あまね.く"
+		]
 	},
 	"frequency": {
 		"mean": 2064,

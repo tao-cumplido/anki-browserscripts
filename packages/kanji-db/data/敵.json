@@ -1,17 +1,30 @@
 {
 	"kanji": "敵",
-	"meanings": ["enemy", "foe", "opponent"],
+	"meanings": [
+		"enemy",
+		"foe",
+		"opponent"
+	],
 	"keyword": "enemy",
 	"onyomi": {
-		"frequent": ["テキ"],
+		"frequent": [
+			"テキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かたき"],
+		"frequent": [
+			"かたき"
+		],
 		"common": [],
-		"rare": ["あだ", "かな"],
-		"okurigana": ["かな.う"]
+		"rare": [
+			"あだ",
+			"かな"
+		],
+		"okurigana": [
+			"かな.う"
+		]
 	},
 	"frequency": {
 		"mean": 840,

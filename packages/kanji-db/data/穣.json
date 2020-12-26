@@ -1,16 +1,25 @@
 {
 	"kanji": "穣",
-	"meanings": ["good crops", "prosperity", "10**28"],
+	"meanings": [
+		"good crops",
+		"prosperity",
+		"10**28"
+	],
 	"keyword": "bumper crop",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジョウ"]
+		"rare": [
+			"ジョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わら", "ゆたか"],
+		"rare": [
+			"わら",
+			"ゆたか"
+		],
 		"okurigana": []
 	},
 	"frequency": {

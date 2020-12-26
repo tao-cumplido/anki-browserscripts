@@ -1,14 +1,20 @@
 {
 	"kanji": "竹",
-	"meanings": ["bamboo"],
+	"meanings": [
+		"bamboo"
+	],
 	"keyword": "bamboo",
 	"onyomi": {
-		"frequent": ["チク"],
+		"frequent": [
+			"チク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たけ"],
+		"frequent": [
+			"たけ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

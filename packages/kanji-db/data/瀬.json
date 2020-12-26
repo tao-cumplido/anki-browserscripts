@@ -1,14 +1,24 @@
 {
 	"kanji": "瀬",
-	"meanings": ["rapids", "current", "torrent", "shallows", "shoal"],
+	"meanings": [
+		"rapids",
+		"current",
+		"torrent",
+		"shallows",
+		"shoal"
+	],
 	"keyword": "rapids",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ライ"]
+		"rare": [
+			"ライ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["せ"],
+		"frequent": [
+			"せ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

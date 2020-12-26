@@ -1,14 +1,22 @@
 {
 	"kanji": "氏",
-	"meanings": ["family name", "surname", "clan"],
+	"meanings": [
+		"family name",
+		"surname",
+		"clan"
+	],
 	"keyword": "family name",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うじ"],
+		"frequent": [
+			"うじ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

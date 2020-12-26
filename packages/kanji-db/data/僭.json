@@ -1,16 +1,27 @@
 {
 	"kanji": "僭",
-	"meanings": ["boastfully usurp"],
+	"meanings": [
+		"boastfully usurp"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シン", "セン"]
+		"rare": [
+			"シン",
+			"セン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["せん", "おご"],
-		"okurigana": ["せん.する", "おご.る"]
+		"rare": [
+			"せん",
+			"おご"
+		],
+		"okurigana": [
+			"せん.する",
+			"おご.る"
+		]
 	},
 	"frequency": {
 		"mean": 3245,

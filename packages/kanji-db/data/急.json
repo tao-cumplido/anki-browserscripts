@@ -1,17 +1,32 @@
 {
 	"kanji": "急",
-	"meanings": ["hurry", "emergency", "sudden", "steep"],
+	"meanings": [
+		"hurry",
+		"emergency",
+		"sudden",
+		"steep"
+	],
 	"keyword": "hurry",
 	"onyomi": {
-		"frequent": ["キュウ"],
+		"frequent": [
+			"キュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いそ"],
+		"frequent": [
+			"いそ"
+		],
 		"common": [],
-		"rare": ["せ"],
-		"okurigana": ["いそ.ぐ", "いそ.ぎ", "せ.く"]
+		"rare": [
+			"せ"
+		],
+		"okurigana": [
+			"いそ.ぐ",
+			"いそ.ぎ",
+			"せ.く"
+		]
 	},
 	"frequency": {
 		"mean": 442,

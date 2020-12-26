@@ -1,17 +1,26 @@
 {
 	"kanji": "耐",
-	"meanings": ["-proof", "enduring"],
+	"meanings": [
+		"-proof",
+		"enduring"
+	],
 	"keyword": "-proof",
 	"onyomi": {
-		"frequent": ["タイ"],
+		"frequent": [
+			"タイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["た"],
+		"frequent": [
+			"た"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["た.える"]
+		"okurigana": [
+			"た.える"
+		]
 	},
 	"frequency": {
 		"mean": 1460,

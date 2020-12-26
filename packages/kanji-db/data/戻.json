@@ -1,17 +1,31 @@
 {
 	"kanji": "戻",
-	"meanings": ["re-", "return", "revert", "resume", "restore", "go backwards"],
+	"meanings": [
+		"re-",
+		"return",
+		"revert",
+		"resume",
+		"restore",
+		"go backwards"
+	],
 	"keyword": "re-",
 	"onyomi": {
-		"frequent": ["レイ"],
+		"frequent": [
+			"レイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["もど"],
+		"frequent": [
+			"もど"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["もど.す", "もど.る"]
+		"okurigana": [
+			"もど.す",
+			"もど.る"
+		]
 	},
 	"frequency": {
 		"mean": 884,

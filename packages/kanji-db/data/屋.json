@@ -1,14 +1,24 @@
 {
 	"kanji": "屋",
-	"meanings": ["roof", "house", "shop", "dealer", "seller"],
+	"meanings": [
+		"roof",
+		"house",
+		"shop",
+		"dealer",
+		"seller"
+	],
 	"keyword": "roof",
 	"onyomi": {
-		"frequent": ["オク"],
+		"frequent": [
+			"オク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["や"],
+		"frequent": [
+			"や"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

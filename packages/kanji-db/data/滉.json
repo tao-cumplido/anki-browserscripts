@@ -1,17 +1,25 @@
 {
 	"kanji": "滉",
-	"meanings": ["deep and broad"],
+	"meanings": [
+		"deep and broad"
+	],
 	"keyword": "bounding main",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひろ"],
-		"okurigana": ["ひろ.い"]
+		"rare": [
+			"ひろ"
+		],
+		"okurigana": [
+			"ひろ.い"
+		]
 	},
 	"frequency": {
 		"mean": 3520,

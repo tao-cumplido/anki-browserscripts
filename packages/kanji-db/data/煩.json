@@ -1,17 +1,39 @@
 {
 	"kanji": "煩",
-	"meanings": ["anxiety", "trouble", "worry", "pain", "ill", "annoy", "nuisance", "irksome"],
+	"meanings": [
+		"anxiety",
+		"trouble",
+		"worry",
+		"pain",
+		"ill",
+		"annoy",
+		"nuisance",
+		"irksome"
+	],
 	"keyword": "anxiety",
 	"onyomi": {
-		"frequent": ["ハン"],
-		"common": ["ボン"],
+		"frequent": [
+			"ハン"
+		],
+		"common": [
+			"ボン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["わずら"],
+		"frequent": [
+			"わずら"
+		],
 		"common": [],
-		"rare": ["うるさ"],
-		"okurigana": ["わずら.う", "わずら.わす", "うるさ.がる", "うるさ.い"]
+		"rare": [
+			"うるさ"
+		],
+		"okurigana": [
+			"わずら.う",
+			"わずら.わす",
+			"うるさ.がる",
+			"うるさ.い"
+		]
 	},
 	"frequency": {
 		"mean": 2437,

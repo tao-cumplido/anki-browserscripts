@@ -1,17 +1,33 @@
 {
 	"kanji": "厚",
-	"meanings": ["thick", "heavy", "rich", "kind", "cordial", "brazen", "shameless"],
+	"meanings": [
+		"thick",
+		"heavy",
+		"rich",
+		"kind",
+		"cordial",
+		"brazen",
+		"shameless"
+	],
 	"keyword": "thick",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あつ"],
+		"frequent": [
+			"あつ"
+		],
 		"common": [],
-		"rare": ["あか"],
-		"okurigana": ["あつ.い"]
+		"rare": [
+			"あか"
+		],
+		"okurigana": [
+			"あつ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1083,

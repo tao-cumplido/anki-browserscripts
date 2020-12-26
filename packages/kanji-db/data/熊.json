@@ -1,14 +1,20 @@
 {
 	"kanji": "熊",
-	"meanings": ["bear"],
+	"meanings": [
+		"bear"
+	],
 	"keyword": "bear",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ユウ"]
+		"rare": [
+			"ユウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["くま"],
+		"frequent": [
+			"くま"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

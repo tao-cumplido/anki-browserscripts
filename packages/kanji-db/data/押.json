@@ -1,17 +1,41 @@
 {
 	"kanji": "押",
-	"meanings": ["push", "stop", "check", "subdue", "attach", "seize", "weight", "shove", "press", "seal", "do in spite of"],
+	"meanings": [
+		"push",
+		"stop",
+		"check",
+		"subdue",
+		"attach",
+		"seize",
+		"weight",
+		"shove",
+		"press",
+		"seal",
+		"do in spite of"
+	],
 	"keyword": "push",
 	"onyomi": {
-		"frequent": ["オウ"],
+		"frequent": [
+			"オウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["お"],
+		"frequent": [
+			"お"
+		],
 		"common": [],
-		"rare": ["おさ"],
-		"okurigana": ["お.す", "お.し", "お.っ", "お.さえる", "おさ.える"]
+		"rare": [
+			"おさ"
+		],
+		"okurigana": [
+			"お.す",
+			"お.し",
+			"お.っ",
+			"お.さえる",
+			"おさ.える"
+		]
 	},
 	"frequency": {
 		"mean": 1053,

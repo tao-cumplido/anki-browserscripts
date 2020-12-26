@@ -1,16 +1,24 @@
 {
 	"kanji": "潟",
-	"meanings": ["lagoon"],
+	"meanings": [
+		"lagoon"
+	],
 	"keyword": "lagoon",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セキ"]
+		"rare": [
+			"セキ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["かた"],
+		"frequent": [
+			"かた"
+		],
 		"common": [],
-		"rare": ["がた"],
+		"rare": [
+			"がた"
+		],
 		"okurigana": []
 	},
 	"frequency": {

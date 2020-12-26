@@ -1,17 +1,28 @@
 {
 	"kanji": "讃",
-	"meanings": ["praise", "title on a picture"],
+	"meanings": [
+		"praise",
+		"title on a picture"
+	],
 	"keyword": "compliment",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サン"]
+		"rare": [
+			"サン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほ", "たた"],
-		"okurigana": ["ほ.める", "たた.える"]
+		"rare": [
+			"ほ",
+			"たた"
+		],
+		"okurigana": [
+			"ほ.める",
+			"たた.える"
+		]
 	},
 	"frequency": {
 		"mean": 1759,

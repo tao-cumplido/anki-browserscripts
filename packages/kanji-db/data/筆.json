@@ -1,14 +1,23 @@
 {
 	"kanji": "筆",
-	"meanings": ["writing brush", "writing", "painting brush", "handwriting"],
+	"meanings": [
+		"writing brush",
+		"writing",
+		"painting brush",
+		"handwriting"
+	],
 	"keyword": "writing brush",
 	"onyomi": {
-		"frequent": ["ヒツ"],
+		"frequent": [
+			"ヒツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふで"],
+		"frequent": [
+			"ふで"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,16 +1,23 @@
 {
 	"kanji": "塑",
-	"meanings": ["model", "molding"],
+	"meanings": [
+		"model",
+		"molding"
+	],
 	"keyword": "model",
 	"onyomi": {
-		"frequent": ["ソ"],
+		"frequent": [
+			"ソ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["でく"],
+		"rare": [
+			"でく"
+		],
 		"okurigana": []
 	},
 	"frequency": {

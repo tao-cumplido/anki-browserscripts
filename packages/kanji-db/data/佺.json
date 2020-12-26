@@ -1,9 +1,13 @@
 {
 	"kanji": "佺",
-	"meanings": ["fairy"],
+	"meanings": [
+		"fairy"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["セン"],
+		"common": [
+			"セン"
+		],
 		"rare": []
 	},
 	"frequency": {

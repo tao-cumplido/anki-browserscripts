@@ -1,15 +1,24 @@
 {
 	"kanji": "俾",
-	"meanings": ["tutor"],
+	"meanings": [
+		"tutor"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フ", "ヒ", "ヘイ"]
+		"rare": [
+			"フ",
+			"ヒ",
+			"ヘイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かしずく", "しむ"],
+		"rare": [
+			"かしずく",
+			"しむ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,14 +1,23 @@
 {
 	"kanji": "暦",
-	"meanings": ["calendar", "almanac"],
+	"meanings": [
+		"calendar",
+		"almanac"
+	],
 	"keyword": "calendar",
 	"onyomi": {
-		"frequent": ["レキ"],
+		"frequent": [
+			"レキ"
+		],
 		"common": [],
-		"rare": ["リャク"]
+		"rare": [
+			"リャク"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["こよみ"],
+		"frequent": [
+			"こよみ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

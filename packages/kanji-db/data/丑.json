@@ -1,16 +1,24 @@
 {
 	"kanji": "丑",
-	"meanings": ["sign of the ox or cow", "1-3AM", "second sign of Chinese zodiac"],
+	"meanings": [
+		"sign of the ox or cow",
+		"1-3AM",
+		"second sign of Chinese zodiac"
+	],
 	"keyword": "sign of the cow",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チュウ"]
+		"rare": [
+			"チュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うし"],
+		"rare": [
+			"うし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

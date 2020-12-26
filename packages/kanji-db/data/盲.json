@@ -1,16 +1,24 @@
 {
 	"kanji": "盲",
-	"meanings": ["blind", "blind man", "ignoramus"],
+	"meanings": [
+		"blind",
+		"blind man",
+		"ignoramus"
+	],
 	"keyword": "blind",
 	"onyomi": {
-		"frequent": ["モウ"],
+		"frequent": [
+			"モウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["めくら"],
+		"rare": [
+			"めくら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

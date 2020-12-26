@@ -1,16 +1,26 @@
 {
 	"kanji": "素",
-	"meanings": ["elementary", "principle", "naked", "uncovered"],
+	"meanings": [
+		"elementary",
+		"principle",
+		"naked",
+		"uncovered"
+	],
 	"keyword": "elementary",
 	"onyomi": {
-		"frequent": ["ソ", "ス"],
+		"frequent": [
+			"ソ",
+			"ス"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["もと"],
+		"rare": [
+			"もと"
+		],
 		"okurigana": []
 	},
 	"frequency": {

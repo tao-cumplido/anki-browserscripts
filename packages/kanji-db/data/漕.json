@@ -1,17 +1,29 @@
 {
 	"kanji": "漕",
-	"meanings": ["rowing", "scull", "paddle"],
+	"meanings": [
+		"rowing",
+		"scull",
+		"paddle"
+	],
 	"keyword": "rowing",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ"]
+		"rare": [
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こ", "はこ"],
-		"okurigana": ["こ.ぐ", "はこ.ぶ"]
+		"rare": [
+			"こ",
+			"はこ"
+		],
+		"okurigana": [
+			"こ.ぐ",
+			"はこ.ぶ"
+		]
 	},
 	"frequency": {
 		"mean": 2675,

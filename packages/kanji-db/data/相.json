@@ -1,14 +1,29 @@
 {
 	"kanji": "相",
-	"meanings": ["inter-", "mutual", "together", "each other", "minister of state", "councillor", "aspect", "phase", "physiognomy"],
+	"meanings": [
+		"inter-",
+		"mutual",
+		"together",
+		"each other",
+		"minister of state",
+		"councillor",
+		"aspect",
+		"phase",
+		"physiognomy"
+	],
 	"keyword": "inter-",
 	"onyomi": {
-		"frequent": ["ソウ", "ショウ"],
+		"frequent": [
+			"ソウ",
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あい"],
+		"frequent": [
+			"あい"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,29 @@
 {
 	"kanji": "飾",
-	"meanings": ["decorate", "ornament", "adorn", "embellish"],
+	"meanings": [
+		"decorate",
+		"ornament",
+		"adorn",
+		"embellish"
+	],
 	"keyword": "decorate",
 	"onyomi": {
-		"frequent": ["ショク"],
+		"frequent": [
+			"ショク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かざ"],
+		"frequent": [
+			"かざ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かざ.る", "かざ.り"]
+		"okurigana": [
+			"かざ.る",
+			"かざ.り"
+		]
 	},
 	"frequency": {
 		"mean": 1183,

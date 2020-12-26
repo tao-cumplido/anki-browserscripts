@@ -1,17 +1,30 @@
 {
 	"kanji": "啄",
-	"meanings": ["peck", "pick up"],
+	"meanings": [
+		"peck",
+		"pick up"
+	],
 	"keyword": "peck at",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["タク", "ツク", "トク"]
+		"rare": [
+			"タク",
+			"ツク",
+			"トク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ついば", "つつ"],
-		"okurigana": ["ついば.む", "つつ.く"]
+		"rare": [
+			"ついば",
+			"つつ"
+		],
+		"okurigana": [
+			"ついば.む",
+			"つつ.く"
+		]
 	},
 	"frequency": {
 		"mean": 3223,

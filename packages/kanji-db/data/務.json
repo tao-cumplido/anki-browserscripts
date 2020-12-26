@@ -1,17 +1,26 @@
 {
 	"kanji": "務",
-	"meanings": ["task", "duties"],
+	"meanings": [
+		"task",
+		"duties"
+	],
 	"keyword": "task",
 	"onyomi": {
-		"frequent": ["ム"],
+		"frequent": [
+			"ム"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つと"],
+		"frequent": [
+			"つと"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["つと.める"]
+		"okurigana": [
+			"つと.める"
+		]
 	},
 	"frequency": {
 		"mean": 220,

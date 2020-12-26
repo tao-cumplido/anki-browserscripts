@@ -1,17 +1,32 @@
 {
 	"kanji": "淫",
-	"meanings": ["lewdness", "licentiousness"],
+	"meanings": [
+		"lewdness",
+		"licentiousness"
+	],
 	"keyword": "lewd",
 	"onyomi": {
-		"frequent": ["イン"],
+		"frequent": [
+			"イン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みだ"],
+		"frequent": [
+			"みだ"
+		],
 		"common": [],
-		"rare": ["ひた", "ほしいまま", "みだり"],
-		"okurigana": ["ひた.す", "みだ.ら", "みだ.れる"]
+		"rare": [
+			"ひた",
+			"ほしいまま",
+			"みだり"
+		],
+		"okurigana": [
+			"ひた.す",
+			"みだ.ら",
+			"みだ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 2169,

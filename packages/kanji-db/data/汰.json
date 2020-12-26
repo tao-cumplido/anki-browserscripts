@@ -1,17 +1,35 @@
 {
 	"kanji": "汰",
-	"meanings": ["washing", "sieving", "filtering", "weeding out", "luxury"],
+	"meanings": [
+		"washing",
+		"sieving",
+		"filtering",
+		"weeding out",
+		"luxury"
+	],
 	"keyword": "cleanse",
 	"onyomi": {
-		"frequent": ["タ"],
+		"frequent": [
+			"タ"
+		],
 		"common": [],
-		"rare": ["タイ"]
+		"rare": [
+			"タイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おご", "にご", "よな"],
-		"okurigana": ["おご.る", "にご.る", "よな.げる"]
+		"rare": [
+			"おご",
+			"にご",
+			"よな"
+		],
+		"okurigana": [
+			"おご.る",
+			"にご.る",
+			"よな.げる"
+		]
 	},
 	"frequency": {
 		"mean": 2266,

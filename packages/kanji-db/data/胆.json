@@ -1,16 +1,25 @@
 {
 	"kanji": "胆",
-	"meanings": ["gall bladder", "courage", "pluck", "nerve"],
+	"meanings": [
+		"gall bladder",
+		"courage",
+		"pluck",
+		"nerve"
+	],
 	"keyword": "gall bladder",
 	"onyomi": {
-		"frequent": ["タン"],
+		"frequent": [
+			"タン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きも"],
+		"rare": [
+			"きも"
+		],
 		"okurigana": []
 	},
 	"frequency": {

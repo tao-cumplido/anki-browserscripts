@@ -1,14 +1,23 @@
 {
 	"kanji": "茎",
-	"meanings": ["stalk", "stem"],
+	"meanings": [
+		"stalk",
+		"stem"
+	],
 	"keyword": "stalk",
 	"onyomi": {
-		"frequent": ["ケイ"],
+		"frequent": [
+			"ケイ"
+		],
 		"common": [],
-		"rare": ["キョウ"]
+		"rare": [
+			"キョウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["くき"],
+		"frequent": [
+			"くき"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

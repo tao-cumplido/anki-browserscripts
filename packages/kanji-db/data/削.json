@@ -1,17 +1,34 @@
 {
 	"kanji": "削",
-	"meanings": ["plane", "sharpen", "whittle", "pare", "shave"],
+	"meanings": [
+		"plane",
+		"sharpen",
+		"whittle",
+		"pare",
+		"shave"
+	],
 	"keyword": "plane",
 	"onyomi": {
-		"frequent": ["サク"],
+		"frequent": [
+			"サク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["けず"],
+		"frequent": [
+			"けず"
+		],
 		"common": [],
-		"rare": ["はつ", "そ"],
-		"okurigana": ["けず.る", "はつ.る", "そ.ぐ"]
+		"rare": [
+			"はつ",
+			"そ"
+		],
+		"okurigana": [
+			"けず.る",
+			"はつ.る",
+			"そ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 112,

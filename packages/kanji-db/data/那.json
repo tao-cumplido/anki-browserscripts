@@ -1,16 +1,26 @@
 {
 	"kanji": "那",
-	"meanings": ["what?"],
+	"meanings": [
+		"what?"
+	],
 	"keyword": "interrogative",
 	"onyomi": {
-		"frequent": ["ナ"],
+		"frequent": [
+			"ナ"
+		],
 		"common": [],
-		"rare": ["ダ"]
+		"rare": [
+			"ダ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なに", "なんぞ", "いかん"],
+		"rare": [
+			"なに",
+			"なんぞ",
+			"いかん"
+		],
 		"okurigana": []
 	},
 	"frequency": {

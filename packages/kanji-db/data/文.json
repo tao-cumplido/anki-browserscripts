@@ -1,16 +1,32 @@
 {
 	"kanji": "文",
-	"meanings": ["sentence", "literature", "style", "art", "decoration", "figures", "plan", "literary radical (no. 67)"],
+	"meanings": [
+		"sentence",
+		"literature",
+		"style",
+		"art",
+		"decoration",
+		"figures",
+		"plan",
+		"literary radical (no. 67)"
+	],
 	"keyword": "sentence",
 	"onyomi": {
-		"frequent": ["ブン", "モン"],
+		"frequent": [
+			"ブン",
+			"モン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふみ"],
+		"frequent": [
+			"ふみ"
+		],
 		"common": [],
-		"rare": ["あや"],
+		"rare": [
+			"あや"
+		],
 		"okurigana": []
 	},
 	"frequency": {

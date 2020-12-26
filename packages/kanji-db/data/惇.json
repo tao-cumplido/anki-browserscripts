@@ -1,17 +1,29 @@
 {
 	"kanji": "惇",
-	"meanings": ["sincere", "kind", "considerate"],
+	"meanings": [
+		"sincere",
+		"kind",
+		"considerate"
+	],
 	"keyword": "considerate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュン", "ジュン", "トン"]
+		"rare": [
+			"シュン",
+			"ジュン",
+			"トン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あつ"],
-		"okurigana": ["あつ.い"]
+		"rare": [
+			"あつ"
+		],
+		"okurigana": [
+			"あつ.い"
+		]
 	},
 	"frequency": {
 		"mean": 3006,

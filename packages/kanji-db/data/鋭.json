@@ -1,17 +1,30 @@
 {
 	"kanji": "鋭",
-	"meanings": ["pointed", "sharpness", "edge", "weapon", "sharp", "violent"],
+	"meanings": [
+		"pointed",
+		"sharpness",
+		"edge",
+		"weapon",
+		"sharp",
+		"violent"
+	],
 	"keyword": "pointed",
 	"onyomi": {
-		"frequent": ["エイ"],
+		"frequent": [
+			"エイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["するど"],
+		"frequent": [
+			"するど"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["するど.い"]
+		"okurigana": [
+			"するど.い"
+		]
 	},
 	"frequency": {
 		"mean": 1740,

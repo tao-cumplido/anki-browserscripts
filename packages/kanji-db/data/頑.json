@@ -1,16 +1,24 @@
 {
 	"kanji": "頑",
-	"meanings": ["stubborn", "foolish", "firmly"],
+	"meanings": [
+		"stubborn",
+		"foolish",
+		"firmly"
+	],
 	"keyword": "stubborn",
 	"onyomi": {
-		"frequent": ["ガン"],
+		"frequent": [
+			"ガン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かたく"],
+		"rare": [
+			"かたく"
+		],
 		"okurigana": []
 	},
 	"frequency": {

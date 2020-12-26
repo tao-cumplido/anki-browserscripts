@@ -1,17 +1,35 @@
 {
 	"kanji": "合",
-	"meanings": ["fit", "suit", "join"],
+	"meanings": [
+		"fit",
+		"suit",
+		"join"
+	],
 	"keyword": "fit",
 	"onyomi": {
-		"frequent": ["ゴウ", "ガッ"],
-		"common": ["カッ"],
+		"frequent": [
+			"ゴウ",
+			"ガッ"
+		],
+		"common": [
+			"カッ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あ"],
+		"frequent": [
+			"あ"
+		],
 		"common": [],
-		"rare": ["あい"],
-		"okurigana": ["あ.う", "あ.い", "あ.わす", "あ.わせる"]
+		"rare": [
+			"あい"
+		],
+		"okurigana": [
+			"あ.う",
+			"あ.い",
+			"あ.わす",
+			"あ.わせる"
+		]
 	},
 	"frequency": {
 		"mean": 25,

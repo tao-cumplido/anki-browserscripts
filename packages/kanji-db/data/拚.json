@@ -1,0 +1,30 @@
+{
+	"kanji": "拚",
+	"meanings": [
+		"risk",
+		"disregard",
+		"go all out for"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ヘン",
+			"フン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"てをう"
+		],
+		"rare": [],
+		"okurigana": [
+			"てをう.つ"
+		]
+	},
+	"frequency": {
+		"mean": 4532,
+		"wikipedia": 4223
+	}
+}

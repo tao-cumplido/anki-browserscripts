@@ -1,16 +1,25 @@
 {
 	"kanji": "孟",
-	"meanings": ["chief", "beginning"],
+	"meanings": [
+		"chief",
+		"beginning"
+	],
 	"keyword": "start",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["モウ", "ボウ", "ミョウ"]
+		"rare": [
+			"モウ",
+			"ボウ",
+			"ミョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かしら"],
+		"rare": [
+			"かしら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

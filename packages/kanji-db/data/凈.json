@@ -1,14 +1,23 @@
 {
 	"kanji": "凈",
-	"meanings": ["clean", "pure", "cleanse"],
+	"meanings": [
+		"clean",
+		"pure",
+		"cleanse"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ソウ", "ショウ"],
+		"common": [
+			"ソウ",
+			"ショウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["ひややか"],
+		"common": [
+			"ひややか"
+		],
 		"rare": [],
 		"okurigana": []
 	},

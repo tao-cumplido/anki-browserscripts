@@ -1,17 +1,28 @@
 {
 	"kanji": "導",
-	"meanings": ["guidance", "leading", "conduct", "usher"],
+	"meanings": [
+		"guidance",
+		"leading",
+		"conduct",
+		"usher"
+	],
 	"keyword": "guidance",
 	"onyomi": {
-		"frequent": ["ドウ"],
+		"frequent": [
+			"ドウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みちび"],
+		"frequent": [
+			"みちび"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["みちび.く"]
+		"okurigana": [
+			"みちび.く"
+		]
 	},
 	"frequency": {
 		"mean": 605,

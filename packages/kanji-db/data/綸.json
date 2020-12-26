@@ -1,16 +1,24 @@
 {
 	"kanji": "綸",
-	"meanings": ["thread", "silk cloth"],
+	"meanings": [
+		"thread",
+		"silk cloth"
+	],
 	"keyword": "twine",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リン", "カン"]
+		"rare": [
+			"リン",
+			"カン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いと"],
+		"rare": [
+			"いと"
+		],
 		"okurigana": []
 	},
 	"frequency": {

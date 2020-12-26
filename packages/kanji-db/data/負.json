@@ -1,17 +1,34 @@
 {
 	"kanji": "負",
-	"meanings": ["defeat", "negative", "-", "minus", "bear", "owe", "assume a responsibility"],
+	"meanings": [
+		"defeat",
+		"negative",
+		"-",
+		"minus",
+		"bear",
+		"owe",
+		"assume a responsibility"
+	],
 	"keyword": "defeat",
 	"onyomi": {
-		"frequent": ["フ"],
+		"frequent": [
+			"フ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ま", "お"],
+		"frequent": [
+			"ま",
+			"お"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ま.ける", "ま.かす", "お.う"]
+		"okurigana": [
+			"ま.ける",
+			"ま.かす",
+			"お.う"
+		]
 	},
 	"frequency": {
 		"mean": 744,

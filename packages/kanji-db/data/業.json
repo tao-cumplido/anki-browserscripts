@@ -1,14 +1,24 @@
 {
 	"kanji": "業",
-	"meanings": ["business", "vocation", "arts", "performance"],
+	"meanings": [
+		"business",
+		"vocation",
+		"arts",
+		"performance"
+	],
 	"keyword": "profession",
 	"onyomi": {
-		"frequent": ["ギョウ", "ゴウ"],
+		"frequent": [
+			"ギョウ",
+			"ゴウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["わざ"],
+		"frequent": [
+			"わざ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,27 @@
 {
 	"kanji": "辱",
-	"meanings": ["embarrass", "humiliate", "shame"],
+	"meanings": [
+		"embarrass",
+		"humiliate",
+		"shame"
+	],
 	"keyword": "embarrass",
 	"onyomi": {
-		"frequent": ["ジョク"],
+		"frequent": [
+			"ジョク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はずかし"],
+		"frequent": [
+			"はずかし"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["はずかし.める"]
+		"okurigana": [
+			"はずかし.める"
+		]
 	},
 	"frequency": {
 		"mean": 2025,

@@ -1,16 +1,25 @@
 {
 	"kanji": "席",
-	"meanings": ["seat", "mat", "occasion", "place"],
+	"meanings": [
+		"seat",
+		"mat",
+		"occasion",
+		"place"
+	],
 	"keyword": "seat",
 	"onyomi": {
-		"frequent": ["セキ"],
+		"frequent": [
+			"セキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["むしろ"],
+		"rare": [
+			"むしろ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

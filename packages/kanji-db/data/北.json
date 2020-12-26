@@ -1,14 +1,20 @@
 {
 	"kanji": "北",
-	"meanings": ["north"],
+	"meanings": [
+		"north"
+	],
 	"keyword": "north",
 	"onyomi": {
-		"frequent": ["ホク"],
+		"frequent": [
+			"ホク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["きた"],
+		"frequent": [
+			"きた"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

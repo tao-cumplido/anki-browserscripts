@@ -1,17 +1,27 @@
 {
 	"kanji": "設",
-	"meanings": ["establishment", "provision", "prepare"],
+	"meanings": [
+		"establishment",
+		"provision",
+		"prepare"
+	],
 	"keyword": "establishment",
 	"onyomi": {
-		"frequent": ["セツ"],
+		"frequent": [
+			"セツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["もう"],
+		"frequent": [
+			"もう"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["もう.ける"]
+		"okurigana": [
+			"もう.ける"
+		]
 	},
 	"frequency": {
 		"mean": 117,

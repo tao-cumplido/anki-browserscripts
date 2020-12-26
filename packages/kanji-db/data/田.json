@@ -1,14 +1,21 @@
 {
 	"kanji": "田",
-	"meanings": ["rice field", "rice paddy"],
+	"meanings": [
+		"rice field",
+		"rice paddy"
+	],
 	"keyword": "rice field",
 	"onyomi": {
-		"frequent": ["デン"],
+		"frequent": [
+			"デン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["た"],
+		"frequent": [
+			"た"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

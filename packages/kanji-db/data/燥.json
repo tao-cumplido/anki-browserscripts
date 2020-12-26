@@ -1,17 +1,26 @@
 {
 	"kanji": "燥",
-	"meanings": ["parch", "dry up"],
+	"meanings": [
+		"parch",
+		"dry up"
+	],
 	"keyword": "parch",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はしゃ"],
-		"okurigana": ["はしゃ.ぐ"]
+		"rare": [
+			"はしゃ"
+		],
+		"okurigana": [
+			"はしゃ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 2031,

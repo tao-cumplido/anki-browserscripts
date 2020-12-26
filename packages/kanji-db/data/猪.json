@@ -1,16 +1,23 @@
 {
 	"kanji": "猪",
-	"meanings": ["boar"],
+	"meanings": [
+		"boar"
+	],
 	"keyword": "boar",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョ"]
+		"rare": [
+			"チョ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["い", "いのしし"],
+		"rare": [
+			"い",
+			"いのしし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

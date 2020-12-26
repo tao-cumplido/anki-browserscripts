@@ -1,17 +1,32 @@
 {
 	"kanji": "正",
-	"meanings": ["correct", "justice", "righteous", "10**40"],
+	"meanings": [
+		"correct",
+		"justice",
+		"righteous",
+		"10**40"
+	],
 	"keyword": "correct",
 	"onyomi": {
-		"frequent": ["セイ", "ショウ"],
+		"frequent": [
+			"セイ",
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ただ", "まさ"],
+		"frequent": [
+			"ただ",
+			"まさ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ただ.しい", "ただ.す", "まさ.に"]
+		"okurigana": [
+			"ただ.しい",
+			"ただ.す",
+			"まさ.に"
+		]
 	},
 	"frequency": {
 		"mean": 147,

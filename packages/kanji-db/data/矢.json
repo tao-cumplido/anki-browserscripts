@@ -1,14 +1,21 @@
 {
 	"kanji": "矢",
-	"meanings": ["dart", "arrow"],
+	"meanings": [
+		"dart",
+		"arrow"
+	],
 	"keyword": "dart",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["や"],
+		"frequent": [
+			"や"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

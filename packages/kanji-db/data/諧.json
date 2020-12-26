@@ -1,17 +1,27 @@
 {
 	"kanji": "諧",
-	"meanings": ["harmony"],
+	"meanings": [
+		"harmony"
+	],
 	"keyword": "orderliness",
 	"onyomi": {
-		"frequent": ["カイ"],
+		"frequent": [
+			"カイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かな", "やわ"],
-		"okurigana": ["かな.う", "やわ.らぐ"]
+		"rare": [
+			"かな",
+			"やわ"
+		],
+		"okurigana": [
+			"かな.う",
+			"やわ.らぐ"
+		]
 	},
 	"frequency": {
 		"mean": 2882,

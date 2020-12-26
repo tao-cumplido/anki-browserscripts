@@ -1,16 +1,26 @@
 {
 	"kanji": "猶",
-	"meanings": ["furthermore", "still", "yet"],
+	"meanings": [
+		"furthermore",
+		"still",
+		"yet"
+	],
 	"keyword": "waver",
 	"onyomi": {
-		"frequent": ["ユウ"],
+		"frequent": [
+			"ユウ"
+		],
 		"common": [],
-		"rare": ["ユ"]
+		"rare": [
+			"ユ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なお"],
+		"rare": [
+			"なお"
+		],
 		"okurigana": []
 	},
 	"frequency": {

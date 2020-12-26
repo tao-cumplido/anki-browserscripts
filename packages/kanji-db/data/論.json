@@ -1,17 +1,26 @@
 {
 	"kanji": "論",
-	"meanings": ["argument", "discourse"],
+	"meanings": [
+		"argument",
+		"discourse"
+	],
 	"keyword": "argument",
 	"onyomi": {
-		"frequent": ["ロン"],
+		"frequent": [
+			"ロン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あげつら"],
-		"okurigana": ["あげつら.う"]
+		"rare": [
+			"あげつら"
+		],
+		"okurigana": [
+			"あげつら.う"
+		]
 	},
 	"frequency": {
 		"mean": 183,

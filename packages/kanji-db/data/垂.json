@@ -1,17 +1,33 @@
 {
 	"kanji": "垂",
-	"meanings": ["droop", "suspend", "hang", "slouch"],
+	"meanings": [
+		"droop",
+		"suspend",
+		"hang",
+		"slouch"
+	],
 	"keyword": "droop",
 	"onyomi": {
-		"frequent": ["スイ"],
+		"frequent": [
+			"スイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["た"],
+		"frequent": [
+			"た"
+		],
 		"common": [],
-		"rare": ["なんなんと"],
-		"okurigana": ["た.れる", "た.らす", "た.れ", "なんなんと.す"]
+		"rare": [
+			"なんなんと"
+		],
+		"okurigana": [
+			"た.れる",
+			"た.らす",
+			"た.れ",
+			"なんなんと.す"
+		]
 	},
 	"frequency": {
 		"mean": 1550,

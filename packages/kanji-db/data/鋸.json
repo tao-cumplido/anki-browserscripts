@@ -1,16 +1,24 @@
 {
 	"kanji": "鋸",
-	"meanings": ["saw (cuts wood)"],
+	"meanings": [
+		"saw (cuts wood)"
+	],
 	"keyword": "hand saw",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョ", "コ"]
+		"rare": [
+			"キョ",
+			"コ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["のこ", "のこぎり"],
+		"rare": [
+			"のこ",
+			"のこぎり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

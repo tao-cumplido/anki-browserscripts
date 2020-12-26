@@ -1,17 +1,29 @@
 {
 	"kanji": "遺",
-	"meanings": ["bequeath", "leave behind", "reserve"],
+	"meanings": [
+		"bequeath",
+		"leave behind",
+		"reserve"
+	],
 	"keyword": "bequeath",
 	"onyomi": {
-		"frequent": ["イ"],
-		"common": ["ユイ"],
+		"frequent": [
+			"イ"
+		],
+		"common": [
+			"ユイ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["のこ"],
-		"okurigana": ["のこ.す"]
+		"rare": [
+			"のこ"
+		],
+		"okurigana": [
+			"のこ.す"
+		]
 	},
 	"frequency": {
 		"mean": 727,

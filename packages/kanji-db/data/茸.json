@@ -1,17 +1,28 @@
 {
 	"kanji": "茸",
-	"meanings": ["mushroom"],
+	"meanings": [
+		"mushroom"
+	],
 	"keyword": "mushroom",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジョウ", "ニュ"]
+		"rare": [
+			"ジョウ",
+			"ニュ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きのこ", "たけ", "しげ"],
-		"okurigana": ["しげ.る"]
+		"rare": [
+			"きのこ",
+			"たけ",
+			"しげ"
+		],
+		"okurigana": [
+			"しげ.る"
+		]
 	},
 	"frequency": {
 		"mean": 2343,

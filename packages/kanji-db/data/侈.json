@@ -1,16 +1,25 @@
 {
 	"kanji": "侈",
-	"meanings": ["luxury", "pride"],
+	"meanings": [
+		"luxury",
+		"pride"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おご"],
-		"okurigana": ["おご.る"]
+		"rare": [
+			"おご"
+		],
+		"okurigana": [
+			"おご.る"
+		]
 	},
 	"frequency": {
 		"mean": 3883,

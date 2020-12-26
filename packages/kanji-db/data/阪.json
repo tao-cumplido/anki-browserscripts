@@ -1,14 +1,21 @@
 {
 	"kanji": "阪",
-	"meanings": ["heights", "slope"],
+	"meanings": [
+		"heights",
+		"slope"
+	],
 	"keyword": "Heights",
 	"onyomi": {
-		"frequent": ["ハン"],
+		"frequent": [
+			"ハン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さか"],
+		"frequent": [
+			"さか"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

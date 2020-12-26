@@ -1,17 +1,29 @@
 {
 	"kanji": "施",
-	"meanings": ["give", "bestow", "perform", "alms"],
+	"meanings": [
+		"give",
+		"bestow",
+		"perform",
+		"alms"
+	],
 	"keyword": "alms",
 	"onyomi": {
-		"frequent": ["シ", "セ"],
+		"frequent": [
+			"シ",
+			"セ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほどこ"],
+		"frequent": [
+			"ほどこ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ほどこ.す"]
+		"okurigana": [
+			"ほどこ.す"
+		]
 	},
 	"frequency": {
 		"mean": 400,

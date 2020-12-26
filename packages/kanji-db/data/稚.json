@@ -1,16 +1,28 @@
 {
 	"kanji": "稚",
-	"meanings": ["immature", "young"],
+	"meanings": [
+		"immature",
+		"young"
+	],
 	"keyword": "immature",
 	"onyomi": {
-		"frequent": ["チ"],
+		"frequent": [
+			"チ"
+		],
 		"common": [],
-		"rare": ["ジ"]
+		"rare": [
+			"ジ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いとけない", "おさない", "おくて", "おでる"],
+		"rare": [
+			"いとけない",
+			"おさない",
+			"おくて",
+			"おでる"
+		],
 		"okurigana": []
 	},
 	"frequency": {

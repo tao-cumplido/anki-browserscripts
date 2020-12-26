@@ -1,17 +1,26 @@
 {
 	"kanji": "覧",
-	"meanings": ["perusal", "see"],
+	"meanings": [
+		"perusal",
+		"see"
+	],
 	"keyword": "perusal",
 	"onyomi": {
-		"frequent": ["ラン"],
+		"frequent": [
+			"ラン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["み"],
-		"okurigana": ["み.る"]
+		"rare": [
+			"み"
+		],
+		"okurigana": [
+			"み.る"
+		]
 	},
 	"frequency": {
 		"mean": 304,

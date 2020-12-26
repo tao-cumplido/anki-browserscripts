@@ -1,16 +1,32 @@
 {
 	"kanji": "偪",
-	"meanings": ["compel", "pressure", "force", "bother"],
+	"meanings": [
+		"compel",
+		"pressure",
+		"force",
+		"bother"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["フク", "ヒツ", "ヒョク", "ヒキ"],
+		"common": [
+			"フク",
+			"ヒツ",
+			"ヒョク",
+			"ヒキ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["せま", "むかばき"],
+		"common": [
+			"せま",
+			"むかばき"
+		],
 		"rare": [],
-		"okurigana": ["せま.い", "せま.る"]
+		"okurigana": [
+			"せま.い",
+			"せま.る"
+		]
 	},
 	"frequency": {
 		"mean": 4542,

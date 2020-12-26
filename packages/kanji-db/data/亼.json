@@ -1,14 +1,21 @@
 {
 	"kanji": "亼",
-	"meanings": ["to assemble. to gather together"],
+	"meanings": [
+		"to assemble. to gather together"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["シュウ", "ジュウ"],
+		"common": [
+			"シュウ",
+			"ジュウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["あつまる"],
+		"common": [
+			"あつまる"
+		],
 		"rare": [],
 		"okurigana": []
 	},

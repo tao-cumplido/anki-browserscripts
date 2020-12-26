@@ -1,17 +1,32 @@
 {
 	"kanji": "似",
-	"meanings": ["becoming", "resemble", "counterfeit", "imitate", "suitable"],
+	"meanings": [
+		"becoming",
+		"resemble",
+		"counterfeit",
+		"imitate",
+		"suitable"
+	],
 	"keyword": "similar",
 	"onyomi": {
-		"frequent": ["ジ"],
+		"frequent": [
+			"ジ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["に"],
+		"frequent": [
+			"に"
+		],
 		"common": [],
-		"rare": ["ひ"],
-		"okurigana": ["に.る", "ひ.る"]
+		"rare": [
+			"ひ"
+		],
+		"okurigana": [
+			"に.る",
+			"ひ.る"
+		]
 	},
 	"frequency": {
 		"mean": 907,

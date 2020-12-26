@@ -1,16 +1,22 @@
 {
 	"kanji": "黛",
-	"meanings": ["blackened eyebrows"],
+	"meanings": [
+		"blackened eyebrows"
+	],
 	"keyword": "blue-black",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["タイ"]
+		"rare": [
+			"タイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まゆずみ"],
+		"rare": [
+			"まゆずみ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

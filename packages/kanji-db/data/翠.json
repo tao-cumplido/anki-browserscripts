@@ -1,16 +1,24 @@
 {
 	"kanji": "翠",
-	"meanings": ["green", "kingfisher"],
+	"meanings": [
+		"green",
+		"kingfisher"
+	],
 	"keyword": "jade green",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["スイ"]
+		"rare": [
+			"スイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かわせみ", "みどり"],
+		"rare": [
+			"かわせみ",
+			"みどり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

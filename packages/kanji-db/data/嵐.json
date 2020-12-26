@@ -1,14 +1,21 @@
 {
 	"kanji": "嵐",
-	"meanings": ["storm", "tempest"],
+	"meanings": [
+		"storm",
+		"tempest"
+	],
 	"keyword": "storm",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ラン"]
+		"rare": [
+			"ラン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["あらし"],
+		"frequent": [
+			"あらし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,28 @@
 {
 	"kanji": "侃",
-	"meanings": ["strong", "just", "righteous", "peace-loving"],
+	"meanings": [
+		"strong",
+		"just",
+		"righteous",
+		"peace-loving"
+	],
 	"keyword": "forthright",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カン"]
+		"rare": [
+			"カン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つよ"],
-		"okurigana": ["つよ.い"]
+		"rare": [
+			"つよ"
+		],
+		"okurigana": [
+			"つよ.い"
+		]
 	},
 	"frequency": {
 		"mean": 3684,

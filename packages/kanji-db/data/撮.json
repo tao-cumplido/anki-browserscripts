@@ -1,17 +1,31 @@
 {
 	"kanji": "撮",
-	"meanings": ["snapshot", "take pictures"],
+	"meanings": [
+		"snapshot",
+		"take pictures"
+	],
 	"keyword": "snapshot",
 	"onyomi": {
-		"frequent": ["サツ"],
+		"frequent": [
+			"サツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["と"],
+		"frequent": [
+			"と"
+		],
 		"common": [],
-		"rare": ["つま", "ど"],
-		"okurigana": ["と.る", "つま.む", "ど.り"]
+		"rare": [
+			"つま",
+			"ど"
+		],
+		"okurigana": [
+			"と.る",
+			"つま.む",
+			"ど.り"
+		]
 	},
 	"frequency": {
 		"mean": 601,

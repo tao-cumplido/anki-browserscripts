@@ -1,17 +1,35 @@
 {
 	"kanji": "戦",
-	"meanings": ["war", "battle", "match"],
+	"meanings": [
+		"war",
+		"battle",
+		"match"
+	],
 	"keyword": "war",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いくさ", "たたか"],
+		"frequent": [
+			"いくさ",
+			"たたか"
+		],
 		"common": [],
-		"rare": ["おのの", "そよ", "わなな"],
-		"okurigana": ["たたか.う", "おのの.く", "そよ.ぐ", "わなな.く"]
+		"rare": [
+			"おのの",
+			"そよ",
+			"わなな"
+		],
+		"okurigana": [
+			"たたか.う",
+			"おのの.く",
+			"そよ.ぐ",
+			"わなな.く"
+		]
 	},
 	"frequency": {
 		"mean": 43,

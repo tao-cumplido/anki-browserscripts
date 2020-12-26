@@ -1,17 +1,37 @@
 {
 	"kanji": "憑",
-	"meanings": ["depend", "rely", "evidence", "proof", "according to", "possess", "haunt"],
+	"meanings": [
+		"depend",
+		"rely",
+		"evidence",
+		"proof",
+		"according to",
+		"possess",
+		"haunt"
+	],
 	"keyword": "possessed",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒョウ"]
+		"rare": [
+			"ヒョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つ", "つか", "よ", "たの"],
-		"okurigana": ["つ.く", "つか.れる", "よ.る", "たの.む"]
+		"rare": [
+			"つ",
+			"つか",
+			"よ",
+			"たの"
+		],
+		"okurigana": [
+			"つ.く",
+			"つか.れる",
+			"よ.る",
+			"たの.む"
+		]
 	},
 	"frequency": {
 		"mean": 2174,

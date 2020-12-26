@@ -1,17 +1,28 @@
 {
 	"kanji": "巡",
-	"meanings": ["patrol", "go around", "circumference"],
+	"meanings": [
+		"patrol",
+		"go around",
+		"circumference"
+	],
 	"keyword": "patrol",
 	"onyomi": {
-		"frequent": ["ジュン"],
+		"frequent": [
+			"ジュン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["めぐ"],
+		"frequent": [
+			"めぐ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["めぐ.る", "めぐ.り"]
+		"okurigana": [
+			"めぐ.る",
+			"めぐ.り"
+		]
 	},
 	"frequency": {
 		"mean": 964,

@@ -1,17 +1,37 @@
 {
 	"kanji": "供",
-	"meanings": ["submit", "offer", "present", "serve (meal)", "accompany"],
+	"meanings": [
+		"submit",
+		"offer",
+		"present",
+		"serve (meal)",
+		"accompany"
+	],
 	"keyword": "submit",
 	"onyomi": {
-		"frequent": ["キョウ"],
-		"common": ["ク"],
-		"rare": ["クウ", "グ"]
+		"frequent": [
+			"キョウ"
+		],
+		"common": [
+			"ク"
+		],
+		"rare": [
+			"クウ",
+			"グ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["そな", "とも"],
+		"frequent": [
+			"そな",
+			"とも"
+		],
 		"common": [],
-		"rare": ["ども"],
-		"okurigana": ["そな.える"]
+		"rare": [
+			"ども"
+		],
+		"okurigana": [
+			"そな.える"
+		]
 	},
 	"frequency": {
 		"mean": 535,

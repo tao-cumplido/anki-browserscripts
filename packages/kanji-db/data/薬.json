@@ -1,14 +1,24 @@
 {
 	"kanji": "薬",
-	"meanings": ["medicine", "chemical", "enamel", "gunpowder", "benefit"],
+	"meanings": [
+		"medicine",
+		"chemical",
+		"enamel",
+		"gunpowder",
+		"benefit"
+	],
 	"keyword": "medicine",
 	"onyomi": {
-		"frequent": ["ヤク"],
+		"frequent": [
+			"ヤク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くすり"],
+		"frequent": [
+			"くすり"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

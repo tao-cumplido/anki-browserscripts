@@ -1,16 +1,23 @@
 {
 	"kanji": "瓜",
-	"meanings": ["melon"],
+	"meanings": [
+		"melon"
+	],
 	"keyword": "melon",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カ", "ケ"]
+		"rare": [
+			"カ",
+			"ケ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うり"],
+		"rare": [
+			"うり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

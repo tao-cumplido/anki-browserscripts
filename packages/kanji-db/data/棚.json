@@ -1,16 +1,29 @@
 {
 	"kanji": "棚",
-	"meanings": ["shelf", "ledge", "rack", "mount", "mantle", "trellis"],
+	"meanings": [
+		"shelf",
+		"ledge",
+		"rack",
+		"mount",
+		"mantle",
+		"trellis"
+	],
 	"keyword": "shelf",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ホウ"]
+		"rare": [
+			"ホウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["たな"],
+		"frequent": [
+			"たな"
+		],
 		"common": [],
-		"rare": ["だな"],
+		"rare": [
+			"だな"
+		],
 		"okurigana": []
 	},
 	"frequency": {

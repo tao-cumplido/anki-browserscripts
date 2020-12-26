@@ -1,16 +1,23 @@
 {
 	"kanji": "線",
-	"meanings": ["line", "track"],
+	"meanings": [
+		"line",
+		"track"
+	],
 	"keyword": "line",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すじ"],
+		"rare": [
+			"すじ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

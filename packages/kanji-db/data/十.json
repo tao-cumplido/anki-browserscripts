@@ -1,16 +1,28 @@
 {
 	"kanji": "十",
-	"meanings": ["ten"],
+	"meanings": [
+		"ten"
+	],
 	"keyword": "ten",
 	"onyomi": {
-		"frequent": ["ジュウ", "ジッ"],
+		"frequent": [
+			"ジュウ",
+			"ジッ"
+		],
 		"common": [],
-		"rare": ["ジュッ"]
+		"rare": [
+			"ジュッ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["とお", "と"],
+		"frequent": [
+			"とお",
+			"と"
+		],
 		"common": [],
-		"rare": ["そ"],
+		"rare": [
+			"そ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

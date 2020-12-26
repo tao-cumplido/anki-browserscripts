@@ -1,16 +1,22 @@
 {
 	"kanji": "苫",
-	"meanings": ["rush matting"],
+	"meanings": [
+		"rush matting"
+	],
 	"keyword": "thatching",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セン"]
+		"rare": [
+			"セン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とま"],
+		"rare": [
+			"とま"
+		],
 		"okurigana": []
 	},
 	"frequency": {

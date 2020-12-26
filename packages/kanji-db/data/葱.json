@@ -1,16 +1,23 @@
 {
 	"kanji": "葱",
-	"meanings": ["stone leek", "Welsh onion"],
+	"meanings": [
+		"stone leek",
+		"Welsh onion"
+	],
 	"keyword": "onion",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ"]
+		"rare": [
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ねぎ"],
+		"rare": [
+			"ねぎ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

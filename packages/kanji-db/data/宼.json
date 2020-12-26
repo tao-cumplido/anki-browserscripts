@@ -1,0 +1,33 @@
+{
+	"kanji": "宼",
+	"meanings": [
+		"tyrannical",
+		"cruel",
+		"to rob",
+		"to plunder",
+		"bandits",
+		"thieves",
+		"highwaymen"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"コウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"あだ"
+		],
+		"rare": [],
+		"okurigana": [
+			"あだ.する"
+		]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

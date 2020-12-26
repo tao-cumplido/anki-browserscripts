@@ -1,17 +1,35 @@
 {
 	"kanji": "卒",
-	"meanings": ["graduate", "soldier", "private", "die"],
+	"meanings": [
+		"graduate",
+		"soldier",
+		"private",
+		"die"
+	],
 	"keyword": "graduate",
 	"onyomi": {
-		"frequent": ["ソツ"],
+		"frequent": [
+			"ソツ"
+		],
 		"common": [],
-		"rare": ["シュツ"]
+		"rare": [
+			"シュツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["そっ", "お", "ついに", "にわか"],
-		"okurigana": ["そっ.する", "お.える", "お.わる"]
+		"rare": [
+			"そっ",
+			"お",
+			"ついに",
+			"にわか"
+		],
+		"okurigana": [
+			"そっ.する",
+			"お.える",
+			"お.わる"
+		]
 	},
 	"frequency": {
 		"mean": 750,

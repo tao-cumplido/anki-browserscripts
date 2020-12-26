@@ -1,17 +1,35 @@
 {
 	"kanji": "祥",
-	"meanings": ["auspicious", "happiness", "blessedness", "good omen", "good fortune"],
+	"meanings": [
+		"auspicious",
+		"happiness",
+		"blessedness",
+		"good omen",
+		"good fortune"
+	],
 	"keyword": "auspicious",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さいわ", "きざ", "よ", "つまび"],
-		"okurigana": ["さいわ.い", "きざ.し", "よ.い", "つまび.らか"]
+		"rare": [
+			"さいわ",
+			"きざ",
+			"よ",
+			"つまび"
+		],
+		"okurigana": [
+			"さいわ.い",
+			"きざ.し",
+			"よ.い",
+			"つまび.らか"
+		]
 	},
 	"frequency": {
 		"mean": 1409,

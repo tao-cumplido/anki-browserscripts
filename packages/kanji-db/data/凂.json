@@ -1,9 +1,14 @@
 {
 	"kanji": "凂",
-	"meanings": ["to request", "to ask a favour of"],
+	"meanings": [
+		"to request",
+		"to ask a favour of"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["バイ"],
+		"common": [
+			"バイ"
+		],
 		"rare": []
 	},
 	"frequency": {

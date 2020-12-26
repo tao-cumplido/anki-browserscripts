@@ -1,17 +1,37 @@
 {
 	"kanji": "擦",
-	"meanings": ["grate", "rub", "scratch", "scrape", "chafe", "scour"],
+	"meanings": [
+		"grate",
+		"rub",
+		"scratch",
+		"scrape",
+		"chafe",
+		"scour"
+	],
 	"keyword": "grate",
 	"onyomi": {
-		"frequent": ["サツ"],
+		"frequent": [
+			"サツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["す"],
+		"frequent": [
+			"す"
+		],
 		"common": [],
-		"rare": ["ず", "こす"],
-		"okurigana": ["す.る", "す.れる", "ず.れ", "こす.る", "こす.れる"]
+		"rare": [
+			"ず",
+			"こす"
+		],
+		"okurigana": [
+			"す.る",
+			"す.れる",
+			"ず.れ",
+			"こす.る",
+			"こす.れる"
+		]
 	},
 	"frequency": {
 		"mean": 2208,

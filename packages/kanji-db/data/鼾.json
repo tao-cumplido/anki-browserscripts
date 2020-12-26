@@ -1,16 +1,22 @@
 {
 	"kanji": "鼾",
-	"meanings": ["snoring"],
+	"meanings": [
+		"snoring"
+	],
 	"keyword": "snore",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カン"]
+		"rare": [
+			"カン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いびき"],
+		"rare": [
+			"いびき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

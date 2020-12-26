@@ -1,16 +1,25 @@
 {
 	"kanji": "冓",
-	"meanings": ["put together", "inner palace"],
+	"meanings": [
+		"put together",
+		"inner palace"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かま"],
-		"okurigana": ["かま.える"]
+		"rare": [
+			"かま"
+		],
+		"okurigana": [
+			"かま.える"
+		]
 	},
 	"frequency": {
 		"mean": 4541,

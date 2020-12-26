@@ -1,17 +1,27 @@
 {
 	"kanji": "宣",
-	"meanings": ["proclaim", "say", "announce"],
+	"meanings": [
+		"proclaim",
+		"say",
+		"announce"
+	],
 	"keyword": "proclaim",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["のたま"],
-		"okurigana": ["のたま.う"]
+		"rare": [
+			"のたま"
+		],
+		"okurigana": [
+			"のたま.う"
+		]
 	},
 	"frequency": {
 		"mean": 857,

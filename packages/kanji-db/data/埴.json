@@ -1,16 +1,23 @@
 {
 	"kanji": "埴",
-	"meanings": ["clay"],
+	"meanings": [
+		"clay"
+	],
 	"keyword": "clay",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショク"]
+		"rare": [
+			"ショク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はに", "へな"],
+		"rare": [
+			"はに",
+			"へな"
+		],
 		"okurigana": []
 	},
 	"frequency": {

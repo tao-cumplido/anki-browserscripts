@@ -1,16 +1,22 @@
 {
 	"kanji": "椰",
-	"meanings": ["coconut tree"],
+	"meanings": [
+		"coconut tree"
+	],
 	"keyword": "coconut tree",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヤ"]
+		"rare": [
+			"ヤ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["やし"],
+		"rare": [
+			"やし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,26 @@
 {
 	"kanji": "幼",
-	"meanings": ["infancy", "childhood"],
+	"meanings": [
+		"infancy",
+		"childhood"
+	],
 	"keyword": "infancy",
 	"onyomi": {
-		"frequent": ["ヨウ"],
+		"frequent": [
+			"ヨウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おさな"],
+		"frequent": [
+			"おさな"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おさな.い"]
+		"okurigana": [
+			"おさな.い"
+		]
 	},
 	"frequency": {
 		"mean": 899,

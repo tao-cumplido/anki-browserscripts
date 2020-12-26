@@ -1,17 +1,26 @@
 {
 	"kanji": "摯",
-	"meanings": ["gift", "seriousness"],
+	"meanings": [
+		"gift",
+		"seriousness"
+	],
 	"keyword": "clasp",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いた"],
-		"okurigana": ["いた.る"]
+		"rare": [
+			"いた"
+		],
+		"okurigana": [
+			"いた.る"
+		]
 	},
 	"frequency": {
 		"mean": 3154,

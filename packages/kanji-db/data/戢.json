@@ -1,0 +1,29 @@
+{
+	"kanji": "戢",
+	"meanings": [
+		"to put away",
+		"to cease",
+		"store up"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"シュウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"おさ"
+		],
+		"rare": [],
+		"okurigana": [
+			"おさ.める"
+		]
+	},
+	"frequency": {
+		"mean": 4500,
+		"wikipedia": 4191
+	}
+}

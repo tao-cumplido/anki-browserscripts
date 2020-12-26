@@ -1,16 +1,26 @@
 {
 	"kanji": "洲",
-	"meanings": ["continent", "sandbar", "island", "country"],
+	"meanings": [
+		"continent",
+		"sandbar",
+		"island",
+		"country"
+	],
 	"keyword": "continent",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュウ", "ス"]
+		"rare": [
+			"シュウ",
+			"ス"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しま"],
+		"rare": [
+			"しま"
+		],
 		"okurigana": []
 	},
 	"frequency": {

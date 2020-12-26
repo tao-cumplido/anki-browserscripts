@@ -1,16 +1,25 @@
 {
 	"kanji": "僵",
-	"meanings": ["fall down", "collapse"],
+	"meanings": [
+		"fall down",
+		"collapse"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ"]
+		"rare": [
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たお"],
-		"okurigana": ["たお.れる"]
+		"rare": [
+			"たお"
+		],
+		"okurigana": [
+			"たお.れる"
+		]
 	},
 	"frequency": {
 		"mean": 4349,

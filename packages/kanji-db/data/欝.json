@@ -1,17 +1,32 @@
 {
 	"kanji": "欝",
-	"meanings": ["gloom", "depression", "melancholy"],
+	"meanings": [
+		"gloom",
+		"depression",
+		"melancholy"
+	],
 	"keyword": "depressed",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ウツ", "ウン"]
+		"rare": [
+			"ウツ",
+			"ウン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うっ", "ふさ", "しげ"],
-		"okurigana": ["うっ.する", "ふさ.ぐ", "しげ.る"]
+		"rare": [
+			"うっ",
+			"ふさ",
+			"しげ"
+		],
+		"okurigana": [
+			"うっ.する",
+			"ふさ.ぐ",
+			"しげ.る"
+		]
 	},
 	"frequency": {
 		"mean": 3503,

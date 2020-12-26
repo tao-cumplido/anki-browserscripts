@@ -1,16 +1,41 @@
 {
 	"kanji": "丅",
-	"meanings": ["under", "underneath", "below", "down", "inferior", "bring down"],
+	"meanings": [
+		"under",
+		"underneath",
+		"below",
+		"down",
+		"inferior",
+		"bring down"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["カ", "ゲ"],
+		"common": [
+			"カ",
+			"ゲ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["した", "しも", "もと", "さ", "くだ", "お"],
+		"common": [
+			"した",
+			"しも",
+			"もと",
+			"さ",
+			"くだ",
+			"お"
+		],
 		"rare": [],
-		"okurigana": ["さ.げる", "さ.がる", "くだ.る", "くだ.す", "くだ.さる", "お.ろす", "お.りる"]
+		"okurigana": [
+			"さ.げる",
+			"さ.がる",
+			"くだ.る",
+			"くだ.す",
+			"くだ.さる",
+			"お.ろす",
+			"お.りる"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

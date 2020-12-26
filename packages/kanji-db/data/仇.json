@@ -1,16 +1,30 @@
 {
 	"kanji": "仇",
-	"meanings": ["foe", "enemy", "revenge", "grudge", "feud"],
+	"meanings": [
+		"foe",
+		"enemy",
+		"revenge",
+		"grudge",
+		"feud"
+	],
 	"keyword": "foe",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キュウ", "グ"]
+		"rare": [
+			"キュウ",
+			"グ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あだ", "あた", "かたき", "つれあい"],
+		"rare": [
+			"あだ",
+			"あた",
+			"かたき",
+			"つれあい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

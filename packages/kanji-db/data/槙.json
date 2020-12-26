@@ -1,16 +1,25 @@
 {
 	"kanji": "槙",
-	"meanings": ["twig", "ornamental evergreen"],
+	"meanings": [
+		"twig",
+		"ornamental evergreen"
+	],
 	"keyword": "black pine",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テン", "シン"]
+		"rare": [
+			"テン",
+			"シン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まき", "こずえ"],
+		"rare": [
+			"まき",
+			"こずえ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,33 @@
 {
 	"kanji": "懸",
-	"meanings": ["state of suspension", "hang", "depend", "consult", "distant", "far apart"],
+	"meanings": [
+		"state of suspension",
+		"hang",
+		"depend",
+		"consult",
+		"distant",
+		"far apart"
+	],
 	"keyword": "suspend",
 	"onyomi": {
-		"frequent": ["ケン"],
-		"common": ["ケ"],
+		"frequent": [
+			"ケン"
+		],
+		"common": [
+			"ケ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["か"],
+		"frequent": [
+			"か"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["か.ける", "か.かる"]
+		"okurigana": [
+			"か.ける",
+			"か.かる"
+		]
 	},
 	"frequency": {
 		"mean": 1542,

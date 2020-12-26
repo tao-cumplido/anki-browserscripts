@@ -1,17 +1,33 @@
 {
 	"kanji": "苛",
-	"meanings": ["torment", "scold", "chastise"],
+	"meanings": [
+		"torment",
+		"scold",
+		"chastise"
+	],
 	"keyword": "bullying",
 	"onyomi": {
-		"frequent": ["カ"],
+		"frequent": [
+			"カ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いじ", "さいな", "いらだ", "からい", "こまかい"],
-		"okurigana": ["いじ.める", "さいな.む", "いらだ.つ"]
+		"rare": [
+			"いじ",
+			"さいな",
+			"いらだ",
+			"からい",
+			"こまかい"
+		],
+		"okurigana": [
+			"いじ.める",
+			"さいな.む",
+			"いらだ.つ"
+		]
 	},
 	"frequency": {
 		"mean": 2497,

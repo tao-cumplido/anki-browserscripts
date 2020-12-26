@@ -1,14 +1,22 @@
 {
 	"kanji": "姿",
-	"meanings": ["figure", "form", "shape"],
+	"meanings": [
+		"figure",
+		"form",
+		"shape"
+	],
 	"keyword": "figure",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["すがた"],
+		"frequent": [
+			"すがた"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

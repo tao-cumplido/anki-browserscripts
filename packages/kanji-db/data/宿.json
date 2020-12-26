@@ -1,17 +1,33 @@
 {
 	"kanji": "宿",
-	"meanings": ["inn", "lodging", "relay station", "dwell", "lodge", "be pregnant", "home", "dwelling"],
+	"meanings": [
+		"inn",
+		"lodging",
+		"relay station",
+		"dwell",
+		"lodge",
+		"be pregnant",
+		"home",
+		"dwelling"
+	],
 	"keyword": "inn",
 	"onyomi": {
-		"frequent": ["シュク"],
+		"frequent": [
+			"シュク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["やど"],
+		"frequent": [
+			"やど"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["やど.る", "やど.す"]
+		"okurigana": [
+			"やど.る",
+			"やど.す"
+		]
 	},
 	"frequency": {
 		"mean": 729,

@@ -1,16 +1,23 @@
 {
 	"kanji": "韓",
-	"meanings": ["Korea"],
+	"meanings": [
+		"Korea"
+	],
 	"keyword": "Korea",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["から", "いげた"],
+		"rare": [
+			"から",
+			"いげた"
+		],
 		"okurigana": []
 	},
 	"frequency": {

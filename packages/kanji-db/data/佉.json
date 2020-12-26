@@ -1,9 +1,18 @@
 {
 	"kanji": "佉",
-	"meanings": ["surname", "name of a divine being", "(transliteration of Sanskrit \"kh\")"],
+	"meanings": [
+		"surname",
+		"name of a divine being",
+		"(transliteration of Sanskrit \"kh\")"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["キョ", "コ", "キャ", "カ"],
+		"common": [
+			"キョ",
+			"コ",
+			"キャ",
+			"カ"
+		],
 		"rare": []
 	},
 	"frequency": {

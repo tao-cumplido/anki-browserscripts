@@ -1,17 +1,29 @@
 {
 	"kanji": "追",
-	"meanings": ["chase", "drive away", "follow", "pursue", "meanwhile"],
+	"meanings": [
+		"chase",
+		"drive away",
+		"follow",
+		"pursue",
+		"meanwhile"
+	],
 	"keyword": "chase",
 	"onyomi": {
-		"frequent": ["ツイ"],
+		"frequent": [
+			"ツイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["お"],
+		"frequent": [
+			"お"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["お.う"]
+		"okurigana": [
+			"お.う"
+		]
 	},
 	"frequency": {
 		"mean": 480,

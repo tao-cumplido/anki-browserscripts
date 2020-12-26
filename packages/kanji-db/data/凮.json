@@ -1,15 +1,23 @@
 {
 	"kanji": "凮",
-	"meanings": ["wind"],
+	"meanings": [
+		"wind"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フウ", "フ"]
+		"rare": [
+			"フウ",
+			"フ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かぜ", "かざ"],
+		"rare": [
+			"かぜ",
+			"かざ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,41 @@
 {
 	"kanji": "尽",
-	"meanings": ["exhaust", "use up", "run out of", "deplete", "befriend", "serve"],
+	"meanings": [
+		"exhaust",
+		"use up",
+		"run out of",
+		"deplete",
+		"befriend",
+		"serve"
+	],
 	"keyword": "exhaust",
 	"onyomi": {
-		"frequent": ["ジン"],
+		"frequent": [
+			"ジン"
+		],
 		"common": [],
-		"rare": ["サン"]
+		"rare": [
+			"サン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["つ"],
+		"frequent": [
+			"つ"
+		],
 		"common": [],
-		"rare": ["づ", "ず", "ことごと"],
-		"okurigana": ["つ.きる", "つ.くす", "つ.かす", "づ.く", "ず.く", "ことごと.く"]
+		"rare": [
+			"づ",
+			"ず",
+			"ことごと"
+		],
+		"okurigana": [
+			"つ.きる",
+			"つ.くす",
+			"つ.かす",
+			"づ.く",
+			"ず.く",
+			"ことごと.く"
+		]
 	},
 	"frequency": {
 		"mean": 1528,

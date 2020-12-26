@@ -1,16 +1,24 @@
 {
 	"kanji": "吻",
-	"meanings": ["proboscis"],
+	"meanings": [
+		"proboscis"
+	],
 	"keyword": "sides of the mouth",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フン", "ブン"]
+		"rare": [
+			"フン",
+			"ブン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くちわき", "くちさき"],
+		"rare": [
+			"くちわき",
+			"くちさき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

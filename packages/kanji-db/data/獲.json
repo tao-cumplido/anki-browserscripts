@@ -1,17 +1,32 @@
 {
 	"kanji": "獲",
-	"meanings": ["seize", "get", "find", "earn", "acquire", "can", "may", "able to"],
+	"meanings": [
+		"seize",
+		"get",
+		"find",
+		"earn",
+		"acquire",
+		"can",
+		"may",
+		"able to"
+	],
 	"keyword": "seize",
 	"onyomi": {
-		"frequent": ["カク"],
+		"frequent": [
+			"カク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["え"],
+		"frequent": [
+			"え"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["え.る"]
+		"okurigana": [
+			"え.る"
+		]
 	},
 	"frequency": {
 		"mean": 838,

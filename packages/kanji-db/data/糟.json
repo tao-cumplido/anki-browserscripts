@@ -1,16 +1,25 @@
 {
 	"kanji": "糟",
-	"meanings": ["dregs", "sediment", "grounds"],
+	"meanings": [
+		"dregs",
+		"sediment",
+		"grounds"
+	],
 	"keyword": "lees",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ", "ソウ"]
+		"rare": [
+			"コウ",
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ぬか"],
+		"rare": [
+			"ぬか"
+		],
 		"okurigana": []
 	},
 	"frequency": {

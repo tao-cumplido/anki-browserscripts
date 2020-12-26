@@ -1,16 +1,26 @@
 {
 	"kanji": "鼠",
-	"meanings": ["rat", "mouse", "dark gray"],
+	"meanings": [
+		"rat",
+		"mouse",
+		"dark gray"
+	],
 	"keyword": "mouse",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソ", "ショ"]
+		"rare": [
+			"ソ",
+			"ショ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ねずみ", "ねず"],
+		"rare": [
+			"ねずみ",
+			"ねず"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,14 +1,23 @@
 {
 	"kanji": "腰",
-	"meanings": ["loins", "hips", "waist", "low wainscoting"],
+	"meanings": [
+		"loins",
+		"hips",
+		"waist",
+		"low wainscoting"
+	],
 	"keyword": "loins",
 	"onyomi": {
-		"frequent": ["ヨウ"],
+		"frequent": [
+			"ヨウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こし"],
+		"frequent": [
+			"こし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

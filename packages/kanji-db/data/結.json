@@ -1,17 +1,36 @@
 {
 	"kanji": "結",
-	"meanings": ["tie", "bind", "contract", "join", "organize", "do up hair", "fasten"],
+	"meanings": [
+		"tie",
+		"bind",
+		"contract",
+		"join",
+		"organize",
+		"do up hair",
+		"fasten"
+	],
 	"keyword": "tie",
 	"onyomi": {
-		"frequent": ["ケツ"],
+		"frequent": [
+			"ケツ"
+		],
 		"common": [],
-		"rare": ["ケチ"]
+		"rare": [
+			"ケチ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["むす", "ゆ"],
+		"frequent": [
+			"むす",
+			"ゆ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["むす.ぶ", "ゆ.う", "ゆ.わえる"]
+		"okurigana": [
+			"むす.ぶ",
+			"ゆ.う",
+			"ゆ.わえる"
+		]
 	},
 	"frequency": {
 		"mean": 207,

@@ -1,17 +1,32 @@
 {
 	"kanji": "指",
-	"meanings": ["finger", "point to", "indicate", "put into", "play (chess)", "measure (ruler)"],
+	"meanings": [
+		"finger",
+		"point to",
+		"indicate",
+		"put into",
+		"play (chess)",
+		"measure (ruler)"
+	],
 	"keyword": "finger",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ゆび", "さ"],
+		"frequent": [
+			"ゆび",
+			"さ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["さ.す", "さ.し"]
+		"okurigana": [
+			"さ.す",
+			"さ.し"
+		]
 	},
 	"frequency": {
 		"mean": 228,

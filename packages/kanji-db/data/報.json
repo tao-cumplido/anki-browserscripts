@@ -1,17 +1,28 @@
 {
 	"kanji": "報",
-	"meanings": ["report", "news", "reward", "retribution"],
+	"meanings": [
+		"report",
+		"news",
+		"reward",
+		"retribution"
+	],
 	"keyword": "report",
 	"onyomi": {
-		"frequent": ["ホウ"],
+		"frequent": [
+			"ホウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["むく"],
+		"frequent": [
+			"むく"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["むく.いる"]
+		"okurigana": [
+			"むく.いる"
+		]
 	},
 	"frequency": {
 		"mean": 198,

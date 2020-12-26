@@ -1,17 +1,27 @@
 {
 	"kanji": "套",
-	"meanings": ["accumulate", "big and long", "hackneyed"],
+	"meanings": [
+		"accumulate",
+		"big and long",
+		"hackneyed"
+	],
 	"keyword": "hackneyed",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["トウ"]
+		"rare": [
+			"トウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かさ"],
-		"okurigana": ["かさ.ねる"]
+		"rare": [
+			"かさ"
+		],
+		"okurigana": [
+			"かさ.ねる"
+		]
 	},
 	"frequency": {
 		"mean": 2731,

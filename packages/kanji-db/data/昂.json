@@ -1,17 +1,29 @@
 {
 	"kanji": "昂",
-	"meanings": ["rise"],
+	"meanings": [
+		"rise"
+	],
 	"keyword": "elevate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ", "ゴウ"]
+		"rare": [
+			"コウ",
+			"ゴウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あ", "たか"],
-		"okurigana": ["あ.がる", "たか.い", "たか.ぶる"]
+		"rare": [
+			"あ",
+			"たか"
+		],
+		"okurigana": [
+			"あ.がる",
+			"たか.い",
+			"たか.ぶる"
+		]
 	},
 	"frequency": {
 		"mean": 2488,

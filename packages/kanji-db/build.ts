@@ -163,6 +163,8 @@ const mapReadingSets = (readings: MappedRecord<Readings, Set<string>>) => {
 
 const generateFrequencyInfo = (source: Partial<Record<string, number>>, kanji: string) => source[kanji];
 
+const noInfo = new Set<string>();
+
 const dataPath = path.resolve(__dirname, 'data');
 
 ensureDirSync(dataPath);
@@ -229,9 +231,14 @@ kanjidic
 			strokes: strokes[kanji],
 		};
 
-		if (!meanings.length || !keyword || !result.onyomi || !result.kunyomi || !frequency || !result.strokes) {
-			return;
+		if (meanings.length || keyword || result.onyomi || result.kunyomi || frequency || result.strokes) {
+			writeJson(path.join(dataPath, `${kanji}.json`), result, { spaces: '\t' }).catch(console.error);
+		} else {
+			noInfo.add(kanji);
 		}
-
-		writeJson(path.join(dataPath, `${kanji}.json`), result, { spaces: '\t' }).catch(console.error);
 	});
+
+if (noInfo.size) {
+	console.log(`skipped ${noInfo.size} kanji without information`);
+	console.log([...noInfo].join(''));
+}

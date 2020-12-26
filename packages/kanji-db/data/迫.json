@@ -1,17 +1,28 @@
 {
 	"kanji": "迫",
-	"meanings": ["urge", "force", "imminent", "spur on"],
+	"meanings": [
+		"urge",
+		"force",
+		"imminent",
+		"spur on"
+	],
 	"keyword": "urge",
 	"onyomi": {
-		"frequent": ["ハク"],
+		"frequent": [
+			"ハク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["せま"],
+		"frequent": [
+			"せま"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["せま.る"]
+		"okurigana": [
+			"せま.る"
+		]
 	},
 	"frequency": {
 		"mean": 1295,

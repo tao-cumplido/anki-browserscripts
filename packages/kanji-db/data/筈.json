@@ -1,16 +1,27 @@
 {
 	"kanji": "筈",
-	"meanings": ["notch of an arrow", "ought", "must", "should be", "expected"],
+	"meanings": [
+		"notch of an arrow",
+		"ought",
+		"must",
+		"should be",
+		"expected"
+	],
 	"keyword": "should",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カツ"]
+		"rare": [
+			"カツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はず", "やはず"],
+		"rare": [
+			"はず",
+			"やはず"
+		],
 		"okurigana": []
 	},
 	"frequency": {

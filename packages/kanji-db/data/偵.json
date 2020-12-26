@@ -1,9 +1,13 @@
 {
 	"kanji": "偵",
-	"meanings": ["spy"],
+	"meanings": [
+		"spy"
+	],
 	"keyword": "spy",
 	"onyomi": {
-		"frequent": ["テイ"],
+		"frequent": [
+			"テイ"
+		],
 		"common": [],
 		"rare": []
 	},

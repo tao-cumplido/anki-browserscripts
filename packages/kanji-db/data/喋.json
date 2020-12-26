@@ -1,17 +1,30 @@
 {
 	"kanji": "喋",
-	"meanings": ["talk", "chat", "chatter"],
+	"meanings": [
+		"talk",
+		"chat",
+		"chatter"
+	],
 	"keyword": "chatter",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョウ", "トウ"]
+		"rare": [
+			"チョウ",
+			"トウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しゃべ", "ついば"],
-		"okurigana": ["しゃべ.る", "ついば.む"]
+		"rare": [
+			"しゃべ",
+			"ついば"
+		],
+		"okurigana": [
+			"しゃべ.る",
+			"ついば.む"
+		]
 	},
 	"frequency": {
 		"mean": 2097,

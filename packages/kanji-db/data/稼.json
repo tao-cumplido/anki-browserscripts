@@ -1,17 +1,27 @@
 {
 	"kanji": "稼",
-	"meanings": ["earnings", "work", "earn money"],
+	"meanings": [
+		"earnings",
+		"work",
+		"earn money"
+	],
 	"keyword": "earnings",
 	"onyomi": {
-		"frequent": ["カ"],
+		"frequent": [
+			"カ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かせ"],
+		"frequent": [
+			"かせ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かせ.ぐ"]
+		"okurigana": [
+			"かせ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 1635,

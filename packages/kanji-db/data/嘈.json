@@ -1,0 +1,28 @@
+{
+	"kanji": "嘈",
+	"meanings": [
+		"noisy"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ソウ",
+			"ショウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"かまびす"
+		],
+		"rare": [],
+		"okurigana": [
+			"かまびす.しい"
+		]
+	},
+	"frequency": {
+		"mean": 4538,
+		"wikipedia": 4229
+	}
+}

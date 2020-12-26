@@ -1,17 +1,37 @@
 {
 	"kanji": "過",
-	"meanings": ["overdo", "exceed", "go beyond", "error"],
+	"meanings": [
+		"overdo",
+		"exceed",
+		"go beyond",
+		"error"
+	],
 	"keyword": "overdo",
 	"onyomi": {
-		"frequent": ["カ"],
+		"frequent": [
+			"カ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["す", "あやま"],
+		"frequent": [
+			"す",
+			"あやま"
+		],
 		"common": [],
-		"rare": ["よぎ", "よ"],
-		"okurigana": ["す.ぎる", "す.ごす", "あやま.ち", "あやま.つ", "よぎ.る", "よ.ぎる"]
+		"rare": [
+			"よぎ",
+			"よ"
+		],
+		"okurigana": [
+			"す.ぎる",
+			"す.ごす",
+			"あやま.ち",
+			"あやま.つ",
+			"よぎ.る",
+			"よ.ぎる"
+		]
 	},
 	"frequency": {
 		"mean": 362,

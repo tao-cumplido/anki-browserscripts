@@ -1,16 +1,29 @@
 {
 	"kanji": "甲",
-	"meanings": ["armor", "high (voice)", "A grade", "first class", "former", "instep", "carapace"],
+	"meanings": [
+		"armor",
+		"high (voice)",
+		"A grade",
+		"first class",
+		"former",
+		"instep",
+		"carapace"
+	],
 	"keyword": "armor",
 	"onyomi": {
-		"frequent": ["コウ", "カン"],
+		"frequent": [
+			"コウ",
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きのえ"],
+		"rare": [
+			"きのえ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

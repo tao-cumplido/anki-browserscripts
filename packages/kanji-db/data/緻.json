@@ -1,17 +1,25 @@
 {
 	"kanji": "緻",
-	"meanings": ["fine (i.e. not coarse)"],
+	"meanings": [
+		"fine (i.e. not coarse)"
+	],
 	"keyword": "fine",
 	"onyomi": {
-		"frequent": ["チ"],
+		"frequent": [
+			"チ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こまか"],
-		"okurigana": ["こまか.い"]
+		"rare": [
+			"こまか"
+		],
+		"okurigana": [
+			"こまか.い"
+		]
 	},
 	"frequency": {
 		"mean": 2974,

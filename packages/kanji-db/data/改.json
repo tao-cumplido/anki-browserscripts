@@ -1,17 +1,33 @@
 {
 	"kanji": "改",
-	"meanings": ["reformation", "change", "modify", "mend", "renew", "examine", "inspect", "search"],
+	"meanings": [
+		"reformation",
+		"change",
+		"modify",
+		"mend",
+		"renew",
+		"examine",
+		"inspect",
+		"search"
+	],
 	"keyword": "reformation",
 	"onyomi": {
-		"frequent": ["カイ"],
+		"frequent": [
+			"カイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あらた"],
+		"frequent": [
+			"あらた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あらた.める", "あらた.まる"]
+		"okurigana": [
+			"あらた.める",
+			"あらた.まる"
+		]
 	},
 	"frequency": {
 		"mean": 286,

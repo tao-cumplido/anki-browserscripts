@@ -1,17 +1,34 @@
 {
 	"kanji": "起",
-	"meanings": ["rouse", "wake up", "get up"],
+	"meanings": [
+		"rouse",
+		"wake up",
+		"get up"
+	],
 	"keyword": "rouse",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["お"],
+		"frequent": [
+			"お"
+		],
 		"common": [],
-		"rare": ["おこ", "た"],
-		"okurigana": ["お.きる", "お.こる", "お.こす", "おこ.す", "た.つ"]
+		"rare": [
+			"おこ",
+			"た"
+		],
+		"okurigana": [
+			"お.きる",
+			"お.こる",
+			"お.こす",
+			"おこ.す",
+			"た.つ"
+		]
 	},
 	"frequency": {
 		"mean": 403,

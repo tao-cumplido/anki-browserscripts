@@ -1,17 +1,27 @@
 {
 	"kanji": "詢",
-	"meanings": ["consult with"],
+	"meanings": [
+		"consult with"
+	],
 	"keyword": "counsel",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジュン", "シュン"]
+		"rare": [
+			"ジュン",
+			"シュン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はか", "まこと"],
-		"okurigana": ["はか.る"]
+		"rare": [
+			"はか",
+			"まこと"
+		],
+		"okurigana": [
+			"はか.る"
+		]
 	},
 	"frequency": {
 		"mean": 3557,

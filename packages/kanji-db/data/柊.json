@@ -1,16 +1,23 @@
 {
 	"kanji": "柊",
-	"meanings": ["holly"],
+	"meanings": [
+		"holly"
+	],
 	"keyword": "holly",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュ", "シュウ"]
+		"rare": [
+			"シュ",
+			"シュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひいらぎ"],
+		"rare": [
+			"ひいらぎ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

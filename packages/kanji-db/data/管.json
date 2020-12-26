@@ -1,14 +1,25 @@
 {
 	"kanji": "管",
-	"meanings": ["pipe", "tube", "wind instrument", "drunken talk", "control", "jurisdiction"],
+	"meanings": [
+		"pipe",
+		"tube",
+		"wind instrument",
+		"drunken talk",
+		"control",
+		"jurisdiction"
+	],
 	"keyword": "pipe",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くだ"],
+		"frequent": [
+			"くだ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

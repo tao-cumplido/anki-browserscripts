@@ -1,17 +1,28 @@
 {
 	"kanji": "飼",
-	"meanings": ["domesticate", "raise", "keep", "feed"],
+	"meanings": [
+		"domesticate",
+		"raise",
+		"keep",
+		"feed"
+	],
 	"keyword": "domesticate",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["か"],
+		"frequent": [
+			"か"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["か.う"]
+		"okurigana": [
+			"か.う"
+		]
 	},
 	"frequency": {
 		"mean": 1436,

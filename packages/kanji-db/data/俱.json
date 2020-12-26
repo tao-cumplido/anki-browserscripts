@@ -1,15 +1,23 @@
 {
 	"kanji": "俱",
-	"meanings": ["all", "together", "accompany"],
+	"meanings": [
+		"all",
+		"together",
+		"accompany"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ク"]
+		"rare": [
+			"ク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ともに"],
+		"rare": [
+			"ともに"
+		],
 		"okurigana": []
 	},
 	"frequency": {

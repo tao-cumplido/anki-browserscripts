@@ -1,16 +1,24 @@
 {
 	"kanji": "蒜",
-	"meanings": ["garlic"],
+	"meanings": [
+		"garlic"
+	],
 	"keyword": "garlic",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サン"]
+		"rare": [
+			"サン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["にんにく", "ひる", "のびる"],
+		"rare": [
+			"にんにく",
+			"ひる",
+			"のびる"
+		],
 		"okurigana": []
 	},
 	"frequency": {

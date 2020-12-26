@@ -1,17 +1,29 @@
 {
 	"kanji": "猟",
-	"meanings": ["game-hunting", "shooting", "game", "bag"],
+	"meanings": [
+		"game-hunting",
+		"shooting",
+		"game",
+		"bag"
+	],
 	"keyword": "game hunting",
 	"onyomi": {
-		"frequent": ["リョウ"],
+		"frequent": [
+			"リョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かり", "か"],
-		"okurigana": ["か.る"]
+		"rare": [
+			"かり",
+			"か"
+		],
+		"okurigana": [
+			"か.る"
+		]
 	},
 	"frequency": {
 		"mean": 1883,

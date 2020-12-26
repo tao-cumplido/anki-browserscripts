@@ -1,16 +1,24 @@
 {
 	"kanji": "杏",
-	"meanings": ["apricot"],
+	"meanings": [
+		"apricot"
+	],
 	"keyword": "apricot",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ", "アン", "コウ"]
+		"rare": [
+			"キョウ",
+			"アン",
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あんず"],
+		"rare": [
+			"あんず"
+		],
 		"okurigana": []
 	},
 	"frequency": {

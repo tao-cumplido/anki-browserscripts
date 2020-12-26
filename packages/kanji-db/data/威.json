@@ -1,17 +1,31 @@
 {
 	"kanji": "威",
-	"meanings": ["intimidate", "dignity", "majesty", "menace", "threaten"],
+	"meanings": [
+		"intimidate",
+		"dignity",
+		"majesty",
+		"menace",
+		"threaten"
+	],
 	"keyword": "intimidate",
 	"onyomi": {
-		"frequent": ["イ"],
+		"frequent": [
+			"イ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おど"],
-		"okurigana": ["おど.す", "おど.し", "おど.かす"]
+		"rare": [
+			"おど"
+		],
+		"okurigana": [
+			"おど.す",
+			"おど.し",
+			"おど.かす"
+		]
 	},
 	"frequency": {
 		"mean": 1284,

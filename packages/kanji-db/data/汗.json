@@ -1,14 +1,21 @@
 {
 	"kanji": "汗",
-	"meanings": ["sweat", "perspire"],
+	"meanings": [
+		"sweat",
+		"perspire"
+	],
 	"keyword": "sweat",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あせ"],
+		"frequent": [
+			"あせ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

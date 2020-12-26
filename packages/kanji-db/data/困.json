@@ -1,17 +1,27 @@
 {
 	"kanji": "困",
-	"meanings": ["quandary", "become distressed", "annoyed"],
+	"meanings": [
+		"quandary",
+		"become distressed",
+		"annoyed"
+	],
 	"keyword": "quandary",
 	"onyomi": {
-		"frequent": ["コン"],
+		"frequent": [
+			"コン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こま"],
+		"frequent": [
+			"こま"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["こま.る"]
+		"okurigana": [
+			"こま.る"
+		]
 	},
 	"frequency": {
 		"mean": 1174,

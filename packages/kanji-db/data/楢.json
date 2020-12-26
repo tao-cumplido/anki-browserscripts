@@ -1,16 +1,23 @@
 {
 	"kanji": "楢",
-	"meanings": ["oak"],
+	"meanings": [
+		"oak"
+	],
 	"keyword": "Japanese oak",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュウ", "ユウ"]
+		"rare": [
+			"シュウ",
+			"ユウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なら"],
+		"rare": [
+			"なら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

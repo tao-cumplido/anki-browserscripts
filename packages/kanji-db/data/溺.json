@@ -1,17 +1,31 @@
 {
 	"kanji": "溺",
-	"meanings": ["drown", "indulge"],
+	"meanings": [
+		"drown",
+		"indulge"
+	],
 	"keyword": "drowning",
 	"onyomi": {
-		"frequent": ["デキ"],
+		"frequent": [
+			"デキ"
+		],
 		"common": [],
-		"rare": ["ジョウ", "ニョウ"]
+		"rare": [
+			"ジョウ",
+			"ニョウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["おぼ"],
+		"frequent": [
+			"おぼ"
+		],
 		"common": [],
-		"rare": ["いばり"],
-		"okurigana": ["おぼ.れる"]
+		"rare": [
+			"いばり"
+		],
+		"okurigana": [
+			"おぼ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 2387,

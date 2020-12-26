@@ -1,17 +1,26 @@
 {
 	"kanji": "苅",
-	"meanings": ["cutting (grass)"],
+	"meanings": [
+		"cutting (grass)"
+	],
 	"keyword": "mow",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ガイ", "カイ"]
+		"rare": [
+			"ガイ",
+			"カイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["か"],
-		"okurigana": ["か.る"]
+		"rare": [
+			"か"
+		],
+		"okurigana": [
+			"か.る"
+		]
 	},
 	"frequency": {
 		"mean": 2643,

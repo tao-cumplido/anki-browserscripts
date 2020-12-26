@@ -1,16 +1,32 @@
 {
 	"kanji": "佚",
-	"meanings": ["lost", "hide", "peace", "mistake", "beautiful", "in turn"],
+	"meanings": [
+		"lost",
+		"hide",
+		"peace",
+		"mistake",
+		"beautiful",
+		"in turn"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["イツ", "テツ"]
+		"rare": [
+			"イツ",
+			"テツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たのし", "のが"],
-		"okurigana": ["たのし.む", "のが.れる"]
+		"rare": [
+			"たのし",
+			"のが"
+		],
+		"okurigana": [
+			"たのし.む",
+			"のが.れる"
+		]
 	},
 	"frequency": {
 		"mean": 4078,

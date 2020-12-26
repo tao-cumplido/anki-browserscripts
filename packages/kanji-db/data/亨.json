@@ -1,17 +1,28 @@
 {
 	"kanji": "亨",
-	"meanings": ["pass through", "go smoothly"],
+	"meanings": [
+		"pass through",
+		"go smoothly"
+	],
 	"keyword": "go smoothly",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ", "キョウ", "ホウ"]
+		"rare": [
+			"コウ",
+			"キョウ",
+			"ホウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とお"],
-		"okurigana": ["とお.る"]
+		"rare": [
+			"とお"
+		],
+		"okurigana": [
+			"とお.る"
+		]
 	},
 	"frequency": {
 		"mean": 2297,

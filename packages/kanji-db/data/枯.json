@@ -1,17 +1,29 @@
 {
 	"kanji": "枯",
-	"meanings": ["wither", "die", "dry up", "be seasoned"],
+	"meanings": [
+		"wither",
+		"die",
+		"dry up",
+		"be seasoned"
+	],
 	"keyword": "wither",
 	"onyomi": {
-		"frequent": ["コ"],
+		"frequent": [
+			"コ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["か"],
+		"frequent": [
+			"か"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["か.れる", "か.らす"]
+		"okurigana": [
+			"か.れる",
+			"か.らす"
+		]
 	},
 	"frequency": {
 		"mean": 2034,

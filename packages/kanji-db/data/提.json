@@ -1,17 +1,30 @@
 {
 	"kanji": "提",
-	"meanings": ["propose", "take along", "carry in hand"],
+	"meanings": [
+		"propose",
+		"take along",
+		"carry in hand"
+	],
 	"keyword": "propose",
 	"onyomi": {
-		"frequent": ["テイ"],
+		"frequent": [
+			"テイ"
+		],
 		"common": [],
-		"rare": ["チョウ", "ダイ"]
+		"rare": [
+			"チョウ",
+			"ダイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["さ"],
+		"frequent": [
+			"さ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["さ.げる"]
+		"okurigana": [
+			"さ.げる"
+		]
 	},
 	"frequency": {
 		"mean": 440,

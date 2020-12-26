@@ -1,10 +1,18 @@
 {
 	"kanji": "丱",
-	"meanings": ["saguaro-like kanji", "horn-shaped locks of hair", "young", "tender"],
+	"meanings": [
+		"saguaro-like kanji",
+		"horn-shaped locks of hair",
+		"young",
+		"tender"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カン", "ケン"]
+		"rare": [
+			"カン",
+			"ケン"
+		]
 	},
 	"frequency": {
 		"mean": 4538,

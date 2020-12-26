@@ -1,0 +1,30 @@
+{
+	"kanji": "暱",
+	"meanings": [
+		"intimate",
+		"close",
+		"approach"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ジツ",
+			"ニチ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ちかづ"
+		],
+		"rare": [],
+		"okurigana": [
+			"ちかづ.く"
+		]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

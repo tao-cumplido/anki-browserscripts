@@ -1,0 +1,31 @@
+{
+	"kanji": "摟",
+	"meanings": [
+		"hug",
+		"embrace",
+		"drag",
+		"pull"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ロウ",
+			"ル"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ひ"
+		],
+		"rare": [],
+		"okurigana": [
+			"ひ.く"
+		]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

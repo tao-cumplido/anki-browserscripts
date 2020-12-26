@@ -1,16 +1,23 @@
 {
 	"kanji": "蕊",
-	"meanings": ["pistil", "stamen"],
+	"meanings": [
+		"pistil",
+		"stamen"
+	],
 	"keyword": "stamen",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ズイ"]
+		"rare": [
+			"ズイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しべ"],
+		"rare": [
+			"しべ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,32 @@
 {
 	"kanji": "去",
-	"meanings": ["gone", "past", "quit", "leave", "elapse", "eliminate", "divorce"],
+	"meanings": [
+		"gone",
+		"past",
+		"quit",
+		"leave",
+		"elapse",
+		"eliminate",
+		"divorce"
+	],
 	"keyword": "gone",
 	"onyomi": {
-		"frequent": ["キョ", "コ"],
+		"frequent": [
+			"キョ",
+			"コ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さ"],
+		"frequent": [
+			"さ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["さ.る"]
+		"okurigana": [
+			"さ.る"
+		]
 	},
 	"frequency": {
 		"mean": 414,

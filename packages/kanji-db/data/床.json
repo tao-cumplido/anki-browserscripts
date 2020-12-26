@@ -1,14 +1,25 @@
 {
 	"kanji": "床",
-	"meanings": ["bed", "counter for beds", "floor", "padding", "tatami"],
+	"meanings": [
+		"bed",
+		"counter for beds",
+		"floor",
+		"padding",
+		"tatami"
+	],
 	"keyword": "bed",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["とこ", "ゆか"],
+		"frequent": [
+			"とこ",
+			"ゆか"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,16 +1,25 @@
 {
 	"kanji": "抽",
-	"meanings": ["pluck", "pull", "extract", "excel"],
+	"meanings": [
+		"pluck",
+		"pull",
+		"extract",
+		"excel"
+	],
 	"keyword": "pluck",
 	"onyomi": {
-		"frequent": ["チュウ"],
+		"frequent": [
+			"チュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひき"],
+		"rare": [
+			"ひき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

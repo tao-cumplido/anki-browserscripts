@@ -1,14 +1,22 @@
 {
 	"kanji": "駒",
-	"meanings": ["pony", "horse", "colt"],
+	"meanings": [
+		"pony",
+		"horse",
+		"colt"
+	],
 	"keyword": "pony",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ク"]
+		"rare": [
+			"ク"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["こま"],
+		"frequent": [
+			"こま"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

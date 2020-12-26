@@ -1,17 +1,28 @@
 {
 	"kanji": "陳",
-	"meanings": ["exhibit", "state", "relate", "explain"],
+	"meanings": [
+		"exhibit",
+		"state",
+		"relate",
+		"explain"
+	],
 	"keyword": "line up",
 	"onyomi": {
-		"frequent": ["チン"],
+		"frequent": [
+			"チン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひ"],
-		"okurigana": ["ひ.ねる"]
+		"rare": [
+			"ひ"
+		],
+		"okurigana": [
+			"ひ.ねる"
+		]
 	},
 	"frequency": {
 		"mean": 1592,

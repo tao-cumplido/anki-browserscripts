@@ -1,17 +1,30 @@
 {
 	"kanji": "勾",
-	"meanings": ["be bent", "slope", "capture"],
+	"meanings": [
+		"be bent",
+		"slope",
+		"capture"
+	],
 	"keyword": "hooked",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
-		"rare": ["ク"]
+		"rare": [
+			"ク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かぎ", "ま"],
-		"okurigana": ["ま.がる"]
+		"rare": [
+			"かぎ",
+			"ま"
+		],
+		"okurigana": [
+			"ま.がる"
+		]
 	},
 	"frequency": {
 		"mean": 2188,

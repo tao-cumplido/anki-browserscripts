@@ -1,17 +1,28 @@
 {
 	"kanji": "医",
-	"meanings": ["doctor", "medicine"],
+	"meanings": [
+		"doctor",
+		"medicine"
+	],
 	"keyword": "doctor",
 	"onyomi": {
-		"frequent": ["イ"],
+		"frequent": [
+			"イ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["い", "くすし"],
-		"okurigana": ["い.やす", "い.する"]
+		"rare": [
+			"い",
+			"くすし"
+		],
+		"okurigana": [
+			"い.やす",
+			"い.する"
+		]
 	},
 	"frequency": {
 		"mean": 522,

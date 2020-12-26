@@ -1,14 +1,26 @@
 {
 	"kanji": "品",
-	"meanings": ["goods", "refinement", "dignity", "article", "counter for meal courses"],
+	"meanings": [
+		"goods",
+		"refinement",
+		"dignity",
+		"article",
+		"counter for meal courses"
+	],
 	"keyword": "goods",
 	"onyomi": {
-		"frequent": ["ヒン"],
+		"frequent": [
+			"ヒン"
+		],
 		"common": [],
-		"rare": ["ホン"]
+		"rare": [
+			"ホン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["しな"],
+		"frequent": [
+			"しな"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,27 @@
 {
 	"kanji": "洗",
-	"meanings": ["wash", "inquire into", "probe"],
+	"meanings": [
+		"wash",
+		"inquire into",
+		"probe"
+	],
 	"keyword": "wash",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あら"],
+		"frequent": [
+			"あら"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あら.う"]
+		"okurigana": [
+			"あら.う"
+		]
 	},
 	"frequency": {
 		"mean": 1348,

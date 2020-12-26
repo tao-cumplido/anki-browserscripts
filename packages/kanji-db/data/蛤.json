@@ -1,16 +1,22 @@
 {
 	"kanji": "蛤",
-	"meanings": ["clam"],
+	"meanings": [
+		"clam"
+	],
 	"keyword": "clam",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はまぐり"],
+		"rare": [
+			"はまぐり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

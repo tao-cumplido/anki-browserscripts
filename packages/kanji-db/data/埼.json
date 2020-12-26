@@ -1,16 +1,27 @@
 {
 	"kanji": "埼",
-	"meanings": ["cape", "spit", "promontory"],
+	"meanings": [
+		"cape",
+		"spit",
+		"promontory"
+	],
 	"keyword": "cape",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キ"]
+		"rare": [
+			"キ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["さい"],
+		"frequent": [
+			"さい"
+		],
 		"common": [],
-		"rare": ["さき", "みさき"],
+		"rare": [
+			"さき",
+			"みさき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

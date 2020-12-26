@@ -1,16 +1,22 @@
 {
 	"kanji": "橘",
-	"meanings": ["mandarin orange"],
+	"meanings": [
+		"mandarin orange"
+	],
 	"keyword": "mandarin orange",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キツ"]
+		"rare": [
+			"キツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たちばな"],
+		"rare": [
+			"たちばな"
+		],
 		"okurigana": []
 	},
 	"frequency": {

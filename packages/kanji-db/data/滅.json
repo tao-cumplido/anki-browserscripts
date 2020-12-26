@@ -1,17 +1,30 @@
 {
 	"kanji": "滅",
-	"meanings": ["destroy", "ruin", "overthrow", "perish"],
+	"meanings": [
+		"destroy",
+		"ruin",
+		"overthrow",
+		"perish"
+	],
 	"keyword": "destroy",
 	"onyomi": {
-		"frequent": ["メツ"],
+		"frequent": [
+			"メツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほろ"],
+		"frequent": [
+			"ほろ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ほろ.びる", "ほろ.ぶ", "ほろ.ぼす"]
+		"okurigana": [
+			"ほろ.びる",
+			"ほろ.ぶ",
+			"ほろ.ぼす"
+		]
 	},
 	"frequency": {
 		"mean": 900,

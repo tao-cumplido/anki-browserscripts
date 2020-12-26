@@ -3,14 +3,21 @@
 	"meanings": [],
 	"onyomi": {
 		"frequent": [],
-		"common": ["チョウ"],
+		"common": [
+			"チョウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["なが", "おさ"],
+		"common": [
+			"なが",
+			"おさ"
+		],
 		"rare": [],
-		"okurigana": ["なが.い"]
+		"okurigana": [
+			"なが.い"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

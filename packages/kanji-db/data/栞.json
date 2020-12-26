@@ -1,16 +1,23 @@
 {
 	"kanji": "栞",
-	"meanings": ["bookmark", "guidebook"],
+	"meanings": [
+		"bookmark",
+		"guidebook"
+	],
 	"keyword": "bookmark",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カン"]
+		"rare": [
+			"カン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しおり"],
+		"rare": [
+			"しおり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

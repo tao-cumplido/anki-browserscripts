@@ -1,16 +1,27 @@
 {
 	"kanji": "陽",
-	"meanings": ["sunshine", "yang principle", "positive", "male", "heaven", "daytime"],
+	"meanings": [
+		"sunshine",
+		"yang principle",
+		"positive",
+		"male",
+		"heaven",
+		"daytime"
+	],
 	"keyword": "sunshine",
 	"onyomi": {
-		"frequent": ["ヨウ"],
+		"frequent": [
+			"ヨウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひ"],
+		"rare": [
+			"ひ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

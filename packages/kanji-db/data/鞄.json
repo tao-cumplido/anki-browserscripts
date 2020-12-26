@@ -1,16 +1,26 @@
 {
 	"kanji": "鞄",
-	"meanings": ["suitcase", "bag", "briefcase"],
+	"meanings": [
+		"suitcase",
+		"bag",
+		"briefcase"
+	],
 	"keyword": "briefcase",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハク", "ホウ", "ビョウ"]
+		"rare": [
+			"ハク",
+			"ホウ",
+			"ビョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かばん"],
+		"rare": [
+			"かばん"
+		],
 		"okurigana": []
 	},
 	"frequency": {

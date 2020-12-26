@@ -1,17 +1,28 @@
 {
 	"kanji": "濃",
-	"meanings": ["concentrated", "thick", "dark", "undiluted"],
+	"meanings": [
+		"concentrated",
+		"thick",
+		"dark",
+		"undiluted"
+	],
 	"keyword": "concentrated",
 	"onyomi": {
-		"frequent": ["ノウ"],
+		"frequent": [
+			"ノウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こ"],
+		"frequent": [
+			"こ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["こ.い"]
+		"okurigana": [
+			"こ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1113,

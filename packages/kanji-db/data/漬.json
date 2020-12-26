@@ -1,17 +1,33 @@
 {
 	"kanji": "漬",
-	"meanings": ["pickling", "soak", "moisten", "steep"],
+	"meanings": [
+		"pickling",
+		"soak",
+		"moisten",
+		"steep"
+	],
 	"keyword": "pickling",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["つ"],
+		"frequent": [
+			"つ"
+		],
 		"common": [],
-		"rare": ["づ", "づけ"],
-		"okurigana": ["つ.ける", "つ.かる", "づ.け"]
+		"rare": [
+			"づ",
+			"づけ"
+		],
+		"okurigana": [
+			"つ.ける",
+			"つ.かる",
+			"づ.け"
+		]
 	},
 	"frequency": {
 		"mean": 2210,

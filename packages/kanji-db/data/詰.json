@@ -1,17 +1,38 @@
 {
 	"kanji": "詰",
-	"meanings": ["packed", "close", "pressed", "reprove", "rebuke", "blame"],
+	"meanings": [
+		"packed",
+		"close",
+		"pressed",
+		"reprove",
+		"rebuke",
+		"blame"
+	],
 	"keyword": "packed",
 	"onyomi": {
-		"frequent": ["キツ"],
+		"frequent": [
+			"キツ"
+		],
 		"common": [],
-		"rare": ["キチ"]
+		"rare": [
+			"キチ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["つ"],
+		"frequent": [
+			"つ"
+		],
 		"common": [],
-		"rare": ["づ"],
-		"okurigana": ["つ.める", "つ.め", "づ.め", "つ.まる", "つ.む"]
+		"rare": [
+			"づ"
+		],
+		"okurigana": [
+			"つ.める",
+			"つ.め",
+			"づ.め",
+			"つ.まる",
+			"つ.む"
+		]
 	},
 	"frequency": {
 		"mean": 1391,

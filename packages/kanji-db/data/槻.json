@@ -1,16 +1,22 @@
 {
 	"kanji": "槻",
-	"meanings": ["Zelkova tree"],
+	"meanings": [
+		"Zelkova tree"
+	],
 	"keyword": "zelkova",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キ"]
+		"rare": [
+			"キ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つき"],
+		"rare": [
+			"つき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

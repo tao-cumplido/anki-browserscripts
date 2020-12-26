@@ -1,9 +1,14 @@
 {
 	"kanji": "㶚",
-	"meanings": ["name of a river in Shanxi"],
+	"meanings": [
+		"name of a river in Shanxi"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ハ", "バ"],
+		"common": [
+			"ハ",
+			"バ"
+		],
 		"rare": []
 	}
 }

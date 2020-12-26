@@ -1,17 +1,30 @@
 {
 	"kanji": "摘",
-	"meanings": ["pinch", "pick", "pluck", "trim", "clip", "summarize"],
+	"meanings": [
+		"pinch",
+		"pick",
+		"pluck",
+		"trim",
+		"clip",
+		"summarize"
+	],
 	"keyword": "pinch",
 	"onyomi": {
-		"frequent": ["テキ"],
+		"frequent": [
+			"テキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つ"],
+		"frequent": [
+			"つ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["つ.む"]
+		"okurigana": [
+			"つ.む"
+		]
 	},
 	"frequency": {
 		"mean": 1166,

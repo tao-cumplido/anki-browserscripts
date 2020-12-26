@@ -1,16 +1,26 @@
 {
 	"kanji": "凑",
-	"meanings": ["piece together", "assemble"],
+	"meanings": [
+		"piece together",
+		"assemble"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ソウ"],
+		"common": [
+			"ソウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["みなと", "あつ"],
+		"common": [
+			"みなと",
+			"あつ"
+		],
 		"rare": [],
-		"okurigana": ["あつ.まる"]
+		"okurigana": [
+			"あつ.まる"
+		]
 	},
 	"frequency": {
 		"mean": 4536,

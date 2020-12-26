@@ -1,16 +1,24 @@
 {
 	"kanji": "凸",
-	"meanings": ["convex", "beetle brow", "uneven"],
+	"meanings": [
+		"convex",
+		"beetle brow",
+		"uneven"
+	],
 	"keyword": "convex",
 	"onyomi": {
-		"frequent": ["トツ"],
+		"frequent": [
+			"トツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["でこ"],
+		"rare": [
+			"でこ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

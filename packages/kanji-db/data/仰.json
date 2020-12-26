@@ -1,17 +1,41 @@
 {
 	"kanji": "仰",
-	"meanings": ["face-up", "look up", "depend", "seek", "respect", "rever", "drink", "take"],
+	"meanings": [
+		"face-up",
+		"look up",
+		"depend",
+		"seek",
+		"respect",
+		"rever",
+		"drink",
+		"take"
+	],
 	"keyword": "faceup",
 	"onyomi": {
-		"frequent": ["ギョウ"],
-		"common": ["コウ"],
+		"frequent": [
+			"ギョウ"
+		],
+		"common": [
+			"コウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あお", "おお"],
+		"frequent": [
+			"あお",
+			"おお"
+		],
 		"common": [],
-		"rare": ["お", "おっしゃ"],
-		"okurigana": ["あお.ぐ", "おお.せ", "お.っしゃる", "おっしゃ.る"]
+		"rare": [
+			"お",
+			"おっしゃ"
+		],
+		"okurigana": [
+			"あお.ぐ",
+			"おお.せ",
+			"お.っしゃる",
+			"おっしゃ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1327,

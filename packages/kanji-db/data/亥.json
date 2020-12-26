@@ -1,16 +1,25 @@
 {
 	"kanji": "亥",
-	"meanings": ["sign of the hog", "9-11PM", "twelfth sign of the Chinese zodiac"],
+	"meanings": [
+		"sign of the hog",
+		"9-11PM",
+		"twelfth sign of the Chinese zodiac"
+	],
 	"keyword": "sign of the hog",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ガイ", "カイ"]
+		"rare": [
+			"ガイ",
+			"カイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["い"],
+		"rare": [
+			"い"
+		],
 		"okurigana": []
 	},
 	"frequency": {

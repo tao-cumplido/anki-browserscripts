@@ -1,16 +1,23 @@
 {
 	"kanji": "媒",
-	"meanings": ["mediator", "go-between"],
+	"meanings": [
+		"mediator",
+		"go-between"
+	],
 	"keyword": "mediator",
 	"onyomi": {
-		"frequent": ["バイ"],
+		"frequent": [
+			"バイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なこうど"],
+		"rare": [
+			"なこうど"
+		],
 		"okurigana": []
 	},
 	"frequency": {

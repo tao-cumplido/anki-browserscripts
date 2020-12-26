@@ -1,17 +1,30 @@
 {
 	"kanji": "嘆",
-	"meanings": ["sigh", "lament", "moan", "grieve", "sigh of admiration"],
+	"meanings": [
+		"sigh",
+		"lament",
+		"moan",
+		"grieve",
+		"sigh of admiration"
+	],
 	"keyword": "sigh",
 	"onyomi": {
-		"frequent": ["タン"],
+		"frequent": [
+			"タン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["なげ"],
+		"frequent": [
+			"なげ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["なげ.く", "なげ.かわしい"]
+		"okurigana": [
+			"なげ.く",
+			"なげ.かわしい"
+		]
 	},
 	"frequency": {
 		"mean": 2029,

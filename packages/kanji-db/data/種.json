@@ -1,16 +1,28 @@
 {
 	"kanji": "種",
-	"meanings": ["species", "kind", "class", "variety", "seed"],
+	"meanings": [
+		"species",
+		"kind",
+		"class",
+		"variety",
+		"seed"
+	],
 	"keyword": "species",
 	"onyomi": {
-		"frequent": ["シュ"],
+		"frequent": [
+			"シュ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たね"],
+		"frequent": [
+			"たね"
+		],
 		"common": [],
-		"rare": ["ぐさ"],
+		"rare": [
+			"ぐさ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

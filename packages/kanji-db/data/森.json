@@ -1,14 +1,21 @@
 {
 	"kanji": "森",
-	"meanings": ["forest", "woods"],
+	"meanings": [
+		"forest",
+		"woods"
+	],
 	"keyword": "forest",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["もり"],
+		"frequent": [
+			"もり"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

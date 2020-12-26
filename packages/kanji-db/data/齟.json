@@ -1,16 +1,26 @@
 {
 	"kanji": "齟",
-	"meanings": ["uneven", "bite", "disagree"],
+	"meanings": [
+		"uneven",
+		"bite",
+		"disagree"
+	],
 	"keyword": "disagree",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソ", "サ", "ショ"]
+		"rare": [
+			"ソ",
+			"サ",
+			"ショ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かむ"],
+		"rare": [
+			"かむ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

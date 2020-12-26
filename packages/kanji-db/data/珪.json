@@ -1,16 +1,22 @@
 {
 	"kanji": "珪",
-	"meanings": ["jade scepter or tablet (authority symbol)"],
+	"meanings": [
+		"jade scepter or tablet (authority symbol)"
+	],
 	"keyword": "silicon",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケイ"]
+		"rare": [
+			"ケイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たま"],
+		"rare": [
+			"たま"
+		],
 		"okurigana": []
 	},
 	"frequency": {

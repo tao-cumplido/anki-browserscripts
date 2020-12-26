@@ -1,16 +1,25 @@
 {
 	"kanji": "檀",
-	"meanings": ["cedar", "sandlewood", "spindle tree"],
+	"meanings": [
+		"cedar",
+		"sandlewood",
+		"spindle tree"
+	],
 	"keyword": "sandalwood",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ダン", "タン"]
+		"rare": [
+			"ダン",
+			"タン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まゆみ"],
+		"rare": [
+			"まゆみ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,14 +1,22 @@
 {
 	"kanji": "皿",
-	"meanings": ["dish", "a helping", "plate"],
+	"meanings": [
+		"dish",
+		"a helping",
+		"plate"
+	],
 	"keyword": "dish",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ベイ"]
+		"rare": [
+			"ベイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["さら"],
+		"frequent": [
+			"さら"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

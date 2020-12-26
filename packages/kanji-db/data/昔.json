@@ -1,14 +1,24 @@
 {
 	"kanji": "昔",
-	"meanings": ["once upon a time", "antiquity", "old times"],
+	"meanings": [
+		"once upon a time",
+		"antiquity",
+		"old times"
+	],
 	"keyword": "once upon a time",
 	"onyomi": {
-		"frequent": ["セキ"],
-		"common": ["シャク"],
+		"frequent": [
+			"セキ"
+		],
+		"common": [
+			"シャク"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["むかし"],
+		"frequent": [
+			"むかし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

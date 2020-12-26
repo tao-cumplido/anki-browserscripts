@@ -1,17 +1,33 @@
 {
 	"kanji": "弛",
-	"meanings": ["slacken", "relax"],
+	"meanings": [
+		"slacken",
+		"relax"
+	],
 	"keyword": "loosen",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チ", "シ"]
+		"rare": [
+			"チ",
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たる", "たゆ", "ゆる"],
-		"okurigana": ["たる.む", "たる.める", "たゆ.む", "ゆる.む", "ゆる.み"]
+		"rare": [
+			"たる",
+			"たゆ",
+			"ゆる"
+		],
+		"okurigana": [
+			"たる.む",
+			"たる.める",
+			"たゆ.む",
+			"ゆる.む",
+			"ゆる.み"
+		]
 	},
 	"frequency": {
 		"mean": 3185,

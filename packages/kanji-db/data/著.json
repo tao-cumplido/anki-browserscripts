@@ -16,15 +16,25 @@
 	],
 	"keyword": "renowned",
 	"onyomi": {
-		"frequent": ["チョ"],
+		"frequent": [
+			"チョ"
+		],
 		"common": [],
-		"rare": ["チャク"]
+		"rare": [
+			"チャク"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["あらわ", "いちじる"],
+		"frequent": [
+			"あらわ",
+			"いちじる"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あらわ.す", "いちじる.しい"]
+		"okurigana": [
+			"あらわ.す",
+			"いちじる.しい"
+		]
 	},
 	"frequency": {
 		"mean": 419,

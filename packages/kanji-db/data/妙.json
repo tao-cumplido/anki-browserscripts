@@ -1,16 +1,31 @@
 {
 	"kanji": "妙",
-	"meanings": ["exquisite", "strange", "queer", "mystery", "miracle", "excellent", "delicate", "charming"],
+	"meanings": [
+		"exquisite",
+		"strange",
+		"queer",
+		"mystery",
+		"miracle",
+		"excellent",
+		"delicate",
+		"charming"
+	],
 	"keyword": "exquisite",
 	"onyomi": {
-		"frequent": ["ミョウ"],
+		"frequent": [
+			"ミョウ"
+		],
 		"common": [],
-		"rare": ["ビョウ"]
+		"rare": [
+			"ビョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たえ"],
+		"rare": [
+			"たえ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

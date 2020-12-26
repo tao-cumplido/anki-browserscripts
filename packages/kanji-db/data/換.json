@@ -1,17 +1,31 @@
 {
 	"kanji": "換",
-	"meanings": ["interchange", "period", "change", "convert", "replace", "renew"],
+	"meanings": [
+		"interchange",
+		"period",
+		"change",
+		"convert",
+		"replace",
+		"renew"
+	],
 	"keyword": "interchange",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["か"],
+		"frequent": [
+			"か"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["か.える", "か.わる"]
+		"okurigana": [
+			"か.える",
+			"か.わる"
+		]
 	},
 	"frequency": {
 		"mean": 609,

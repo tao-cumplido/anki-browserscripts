@@ -1,16 +1,25 @@
 {
 	"kanji": "士",
-	"meanings": ["gentleman", "scholar", "samurai", "samurai radical (no. 33)"],
+	"meanings": [
+		"gentleman",
+		"scholar",
+		"samurai",
+		"samurai radical (no. 33)"
+	],
 	"keyword": "gentleman",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さむらい"],
+		"rare": [
+			"さむらい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

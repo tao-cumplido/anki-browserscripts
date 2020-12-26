@@ -1,16 +1,26 @@
 {
 	"kanji": "杓",
-	"meanings": ["ladle", "scoop"],
+	"meanings": [
+		"ladle",
+		"scoop"
+	],
 	"keyword": "wooden ladle",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シャク", "チョウ", "テキ", "ヒョウ"]
+		"rare": [
+			"シャク",
+			"チョウ",
+			"テキ",
+			"ヒョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひしゃく"],
+		"rare": [
+			"ひしゃく"
+		],
 		"okurigana": []
 	},
 	"frequency": {

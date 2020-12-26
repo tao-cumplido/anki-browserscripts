@@ -1,14 +1,24 @@
 {
 	"kanji": "名",
-	"meanings": ["name", "noted", "distinguished", "reputation"],
+	"meanings": [
+		"name",
+		"noted",
+		"distinguished",
+		"reputation"
+	],
 	"keyword": "name",
 	"onyomi": {
-		"frequent": ["メイ", "ミョウ"],
+		"frequent": [
+			"メイ",
+			"ミョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["な"],
+		"frequent": [
+			"な"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

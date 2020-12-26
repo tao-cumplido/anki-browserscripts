@@ -1,14 +1,24 @@
 {
 	"kanji": "都",
-	"meanings": ["metropolis", "capital", "all", "everything"],
+	"meanings": [
+		"metropolis",
+		"capital",
+		"all",
+		"everything"
+	],
 	"keyword": "metropolis",
 	"onyomi": {
-		"frequent": ["ト", "ツ"],
+		"frequent": [
+			"ト",
+			"ツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みやこ"],
+		"frequent": [
+			"みやこ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

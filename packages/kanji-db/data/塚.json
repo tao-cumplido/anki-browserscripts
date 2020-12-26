@@ -1,16 +1,25 @@
 {
 	"kanji": "塚",
-	"meanings": ["hillock", "mound"],
+	"meanings": [
+		"hillock",
+		"mound"
+	],
 	"keyword": "hillock",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョウ"]
+		"rare": [
+			"チョウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["つか"],
+		"frequent": [
+			"つか"
+		],
 		"common": [],
-		"rare": ["づか"],
+		"rare": [
+			"づか"
+		],
 		"okurigana": []
 	},
 	"frequency": {

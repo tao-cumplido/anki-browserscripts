@@ -1,17 +1,27 @@
 {
 	"kanji": "挺",
-	"meanings": ["counter for guns, inksticks, palanquins, rickshaws", "bravely volunteer"],
+	"meanings": [
+		"counter for guns, inksticks, palanquins, rickshaws",
+		"bravely volunteer"
+	],
 	"keyword": "counter for tools",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョウ", "テイ"]
+		"rare": [
+			"チョウ",
+			"テイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ぬ"],
-		"okurigana": ["ぬ.く"]
+		"rare": [
+			"ぬ"
+		],
+		"okurigana": [
+			"ぬ.く"
+		]
 	},
 	"frequency": {
 		"mean": 2222,

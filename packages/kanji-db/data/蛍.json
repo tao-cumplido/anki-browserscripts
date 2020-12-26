@@ -1,14 +1,21 @@
 {
 	"kanji": "蛍",
-	"meanings": ["lightning-bug", "firefly"],
+	"meanings": [
+		"lightning-bug",
+		"firefly"
+	],
 	"keyword": "lightning bug",
 	"onyomi": {
-		"frequent": ["ケイ"],
+		"frequent": [
+			"ケイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほたる"],
+		"frequent": [
+			"ほたる"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,14 +1,22 @@
 {
 	"kanji": "盾",
-	"meanings": ["shield", "escutcheon", "pretext"],
+	"meanings": [
+		"shield",
+		"escutcheon",
+		"pretext"
+	],
 	"keyword": "shield",
 	"onyomi": {
-		"frequent": ["ジュン"],
+		"frequent": [
+			"ジュン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たて"],
+		"frequent": [
+			"たて"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

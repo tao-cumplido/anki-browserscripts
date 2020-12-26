@@ -1,16 +1,29 @@
 {
 	"kanji": "冲",
-	"meanings": ["offing", "open sea", "rise high into sky"],
+	"meanings": [
+		"offing",
+		"open sea",
+		"rise high into sky"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チュウ"]
+		"rare": [
+			"チュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おき", "おきつ", "ちゅう", "わく"],
-		"okurigana": ["ちゅう.する"]
+		"rare": [
+			"おき",
+			"おきつ",
+			"ちゅう",
+			"わく"
+		],
+		"okurigana": [
+			"ちゅう.する"
+		]
 	},
 	"frequency": {
 		"mean": 3204,

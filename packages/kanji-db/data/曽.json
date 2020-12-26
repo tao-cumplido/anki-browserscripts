@@ -1,16 +1,32 @@
 {
 	"kanji": "曽",
-	"meanings": ["formerly", "once", "before", "ever", "never", "ex-"],
+	"meanings": [
+		"formerly",
+		"once",
+		"before",
+		"ever",
+		"never",
+		"ex-"
+	],
 	"keyword": "formerly",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
-		"rare": ["ソ", "ゾウ"]
+		"rare": [
+			"ソ",
+			"ゾウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かつ", "かつて", "すなわち"],
+		"rare": [
+			"かつ",
+			"かつて",
+			"すなわち"
+		],
 		"okurigana": []
 	},
 	"frequency": {

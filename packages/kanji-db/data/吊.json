@@ -1,17 +1,29 @@
 {
 	"kanji": "吊",
-	"meanings": ["suspend", "hang", "wear (sword)"],
+	"meanings": [
+		"suspend",
+		"hang",
+		"wear (sword)"
+	],
 	"keyword": "dangle",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョウ"]
+		"rare": [
+			"チョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つ", "つる"],
-		"okurigana": ["つ.る", "つる.す"]
+		"rare": [
+			"つ",
+			"つる"
+		],
+		"okurigana": [
+			"つ.る",
+			"つる.す"
+		]
 	},
 	"frequency": {
 		"mean": 2082,

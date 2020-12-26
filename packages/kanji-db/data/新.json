@@ -1,17 +1,28 @@
 {
 	"kanji": "新",
-	"meanings": ["new"],
+	"meanings": [
+		"new"
+	],
 	"keyword": "new",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あたら", "あら", "にい"],
+		"frequent": [
+			"あたら",
+			"あら",
+			"にい"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あたら.しい", "あら.た"]
+		"okurigana": [
+			"あたら.しい",
+			"あら.た"
+		]
 	},
 	"frequency": {
 		"mean": 39,

@@ -1,17 +1,35 @@
 {
 	"kanji": "忙",
-	"meanings": ["busy", "occupied", "restless"],
+	"meanings": [
+		"busy",
+		"occupied",
+		"restless"
+	],
 	"keyword": "busy",
 	"onyomi": {
-		"frequent": ["ボウ"],
+		"frequent": [
+			"ボウ"
+		],
 		"common": [],
-		"rare": ["モウ"]
+		"rare": [
+			"モウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["いそが"],
+		"frequent": [
+			"いそが"
+		],
 		"common": [],
-		"rare": ["せわ", "おそ", "うれえるさま"],
-		"okurigana": ["いそが.しい", "せわ.しい", "おそ.れる"]
+		"rare": [
+			"せわ",
+			"おそ",
+			"うれえるさま"
+		],
+		"okurigana": [
+			"いそが.しい",
+			"せわ.しい",
+			"おそ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 2102,

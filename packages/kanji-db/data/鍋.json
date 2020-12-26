@@ -1,14 +1,22 @@
 {
 	"kanji": "鍋",
-	"meanings": ["pot", "pan", "kettle"],
+	"meanings": [
+		"pot",
+		"pan",
+		"kettle"
+	],
 	"keyword": "pot",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カ"]
+		"rare": [
+			"カ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["なべ"],
+		"frequent": [
+			"なべ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,29 @@
 {
 	"kanji": "讐",
-	"meanings": ["enemy", "revenge"],
+	"meanings": [
+		"enemy",
+		"revenge"
+	],
 	"keyword": "vendetta",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュウ"]
+		"rare": [
+			"シュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あだ", "むく", "あ"],
-		"okurigana": ["むく.いる", "あ.たる"]
+		"rare": [
+			"あだ",
+			"むく",
+			"あ"
+		],
+		"okurigana": [
+			"むく.いる",
+			"あ.たる"
+		]
 	},
 	"frequency": {
 		"mean": 1957,

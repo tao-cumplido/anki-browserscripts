@@ -1,17 +1,26 @@
 {
 	"kanji": "輔",
-	"meanings": ["help"],
+	"meanings": [
+		"help"
+	],
 	"keyword": "reinforce",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ホ", "フ"]
+		"rare": [
+			"ホ",
+			"フ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たす"],
-		"okurigana": ["たす.ける"]
+		"rare": [
+			"たす"
+		],
+		"okurigana": [
+			"たす.ける"
+		]
 	},
 	"frequency": {
 		"mean": 1248,

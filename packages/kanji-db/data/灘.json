@@ -1,16 +1,24 @@
 {
 	"kanji": "灘",
-	"meanings": ["open sea"],
+	"meanings": [
+		"open sea"
+	],
 	"keyword": "rough seas",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["タン", "ダン"]
+		"rare": [
+			"タン",
+			"ダン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なだ", "せ"],
+		"rare": [
+			"なだ",
+			"せ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

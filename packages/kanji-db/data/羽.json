@@ -1,16 +1,26 @@
 {
 	"kanji": "羽",
-	"meanings": ["feathers", "counter for birds, rabbits"],
+	"meanings": [
+		"feathers",
+		"counter for birds, rabbits"
+	],
 	"keyword": "feathers",
 	"onyomi": {
-		"frequent": ["ウ"],
+		"frequent": [
+			"ウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["は", "はね"],
+		"frequent": [
+			"は",
+			"はね"
+		],
 		"common": [],
-		"rare": ["わ"],
+		"rare": [
+			"わ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

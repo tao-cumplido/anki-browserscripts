@@ -1,17 +1,39 @@
 {
 	"kanji": "直",
-	"meanings": ["straightaway", "honesty", "frankness", "fix", "repair"],
+	"meanings": [
+		"straightaway",
+		"honesty",
+		"frankness",
+		"fix",
+		"repair"
+	],
 	"keyword": "straightaway",
 	"onyomi": {
-		"frequent": ["チョク", "ジキ"],
+		"frequent": [
+			"チョク",
+			"ジキ"
+		],
 		"common": [],
-		"rare": ["ジカ"]
+		"rare": [
+			"ジカ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ただ", "なお"],
+		"frequent": [
+			"ただ",
+			"なお"
+		],
 		"common": [],
-		"rare": ["す"],
-		"okurigana": ["ただ.ちに", "なお.す", "なお.る", "なお.き", "す.ぐ"]
+		"rare": [
+			"す"
+		],
+		"okurigana": [
+			"ただ.ちに",
+			"なお.す",
+			"なお.る",
+			"なお.き",
+			"す.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 317,

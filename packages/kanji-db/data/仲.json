@@ -1,14 +1,21 @@
 {
 	"kanji": "仲",
-	"meanings": ["go-between", "relationship"],
+	"meanings": [
+		"go-between",
+		"relationship"
+	],
 	"keyword": "go-between",
 	"onyomi": {
-		"frequent": ["チュウ"],
+		"frequent": [
+			"チュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["なか"],
+		"frequent": [
+			"なか"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

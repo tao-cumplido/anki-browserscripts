@@ -1,16 +1,29 @@
 {
 	"kanji": "局",
-	"meanings": ["bureau", "board", "office", "affair", "conclusion", "court lady", "lady-in-waiting", "her apartment"],
+	"meanings": [
+		"bureau",
+		"board",
+		"office",
+		"affair",
+		"conclusion",
+		"court lady",
+		"lady-in-waiting",
+		"her apartment"
+	],
 	"keyword": "bureau",
 	"onyomi": {
-		"frequent": ["キョク"],
+		"frequent": [
+			"キョク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つぼね"],
+		"rare": [
+			"つぼね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

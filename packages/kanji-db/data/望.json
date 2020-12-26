@@ -1,17 +1,33 @@
 {
 	"kanji": "望",
-	"meanings": ["ambition", "full moon", "hope", "desire", "aspire to", "expect"],
+	"meanings": [
+		"ambition",
+		"full moon",
+		"hope",
+		"desire",
+		"aspire to",
+		"expect"
+	],
 	"keyword": "ambition",
 	"onyomi": {
-		"frequent": ["ボウ", "モウ"],
+		"frequent": [
+			"ボウ",
+			"モウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["のぞ"],
+		"frequent": [
+			"のぞ"
+		],
 		"common": [],
-		"rare": ["もち"],
-		"okurigana": ["のぞ.む"]
+		"rare": [
+			"もち"
+		],
+		"okurigana": [
+			"のぞ.む"
+		]
 	},
 	"frequency": {
 		"mean": 707,

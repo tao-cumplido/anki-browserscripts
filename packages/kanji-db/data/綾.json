@@ -1,16 +1,24 @@
 {
 	"kanji": "綾",
-	"meanings": ["design", "figured cloth", "twill"],
+	"meanings": [
+		"design",
+		"figured cloth",
+		"twill"
+	],
 	"keyword": "damask",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リン"]
+		"rare": [
+			"リン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あや"],
+		"rare": [
+			"あや"
+		],
 		"okurigana": []
 	},
 	"frequency": {

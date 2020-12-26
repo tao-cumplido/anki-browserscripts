@@ -1,16 +1,23 @@
 {
 	"kanji": "蝿",
-	"meanings": ["fly"],
+	"meanings": [
+		"fly"
+	],
 	"keyword": "housefly",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヨウ"]
+		"rare": [
+			"ヨウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はえ", "はい"],
+		"rare": [
+			"はえ",
+			"はい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

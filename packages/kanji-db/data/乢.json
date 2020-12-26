@@ -1,15 +1,22 @@
 {
 	"kanji": "乢",
-	"meanings": ["mountain saddle"],
+	"meanings": [
+		"mountain saddle"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ガイ"]
+		"rare": [
+			"ガイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たわ", "たお"],
+		"rare": [
+			"たわ",
+			"たお"
+		],
 		"okurigana": []
 	},
 	"frequency": {

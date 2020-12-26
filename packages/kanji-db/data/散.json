@@ -1,17 +1,35 @@
 {
 	"kanji": "散",
-	"meanings": ["scatter", "disperse", "spend", "squander"],
+	"meanings": [
+		"scatter",
+		"disperse",
+		"spend",
+		"squander"
+	],
 	"keyword": "scatter",
 	"onyomi": {
-		"frequent": ["サン"],
+		"frequent": [
+			"サン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ち"],
+		"frequent": [
+			"ち"
+		],
 		"common": [],
-		"rare": ["ばら"],
-		"okurigana": ["ち.る", "ち.らす", "ち.らかす", "ち.らかる", "ち.らばる", "ばら.ける"]
+		"rare": [
+			"ばら"
+		],
+		"okurigana": [
+			"ち.る",
+			"ち.らす",
+			"ち.らかす",
+			"ち.らかる",
+			"ち.らばる",
+			"ばら.ける"
+		]
 	},
 	"frequency": {
 		"mean": 883,

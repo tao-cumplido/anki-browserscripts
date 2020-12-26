@@ -1,16 +1,28 @@
 {
 	"kanji": "窓",
-	"meanings": ["window", "pane"],
+	"meanings": [
+		"window",
+		"pane"
+	],
 	"keyword": "window",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
-		"rare": ["ス"]
+		"rare": [
+			"ス"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["まど"],
+		"frequent": [
+			"まど"
+		],
 		"common": [],
-		"rare": ["てんまど", "けむだし"],
+		"rare": [
+			"てんまど",
+			"けむだし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

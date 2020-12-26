@@ -1,17 +1,41 @@
 {
 	"kanji": "掛",
-	"meanings": ["hang", "suspend", "depend", "arrive at", "tax", "pour"],
+	"meanings": [
+		"hang",
+		"suspend",
+		"depend",
+		"arrive at",
+		"tax",
+		"pour"
+	],
 	"keyword": "hang",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カイ", "ケイ"]
+		"rare": [
+			"カイ",
+			"ケイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["か", "かかり"],
+		"frequent": [
+			"か",
+			"かかり"
+		],
 		"common": [],
-		"rare": ["が", "がかり"],
-		"okurigana": ["か.ける", "か.け", "が.け", "か.かる", "が.かる", "か.かり", "が.かり"]
+		"rare": [
+			"が",
+			"がかり"
+		],
+		"okurigana": [
+			"か.ける",
+			"か.け",
+			"が.け",
+			"か.かる",
+			"が.かる",
+			"か.かり",
+			"が.かり"
+		]
 	},
 	"frequency": {
 		"mean": 942,

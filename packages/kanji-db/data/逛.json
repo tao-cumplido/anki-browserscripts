@@ -1,0 +1,31 @@
+{
+	"kanji": "逛",
+	"meanings": [
+		"ramble",
+		"stroll",
+		"roam",
+		"wander"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"キョウ",
+			"コウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"はし"
+		],
+		"rare": [],
+		"okurigana": [
+			"はし.る"
+		]
+	},
+	"frequency": {
+		"mean": 4537,
+		"wikipedia": 4228
+	}
+}

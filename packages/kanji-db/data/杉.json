@@ -1,14 +1,21 @@
 {
 	"kanji": "杉",
-	"meanings": ["cedar", "cryptomeria"],
+	"meanings": [
+		"cedar",
+		"cryptomeria"
+	],
 	"keyword": "cedar",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サン"]
+		"rare": [
+			"サン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["すぎ"],
+		"frequent": [
+			"すぎ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

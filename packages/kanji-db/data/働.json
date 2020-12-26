@@ -1,17 +1,26 @@
 {
 	"kanji": "働",
-	"meanings": ["work", "(kokuji)"],
+	"meanings": [
+		"work",
+		"(kokuji)"
+	],
 	"keyword": "work",
 	"onyomi": {
-		"frequent": ["ドウ"],
+		"frequent": [
+			"ドウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はたら"],
+		"frequent": [
+			"はたら"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["はたら.く"]
+		"okurigana": [
+			"はたら.く"
+		]
 	},
 	"frequency": {
 		"mean": 756,

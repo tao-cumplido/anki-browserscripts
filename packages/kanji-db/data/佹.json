@@ -1,16 +1,33 @@
 {
 	"kanji": "佹",
-	"meanings": ["depend upon", "support", "go against", "(variant deceive)"],
+	"meanings": [
+		"depend upon",
+		"support",
+		"go against",
+		"(variant deceive)"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["キ"],
+		"common": [
+			"キ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["かさ", "よ", "もと", "ささ"],
+		"common": [
+			"かさ",
+			"よ",
+			"もと",
+			"ささ"
+		],
 		"rare": [],
-		"okurigana": ["かさ.なる", "よ.る", "もと.る", "ささ.える"]
+		"okurigana": [
+			"かさ.なる",
+			"よ.る",
+			"もと.る",
+			"ささ.える"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

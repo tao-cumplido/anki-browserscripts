@@ -1,9 +1,15 @@
 {
 	"kanji": "債",
-	"meanings": ["bond", "loan", "debt"],
+	"meanings": [
+		"bond",
+		"loan",
+		"debt"
+	],
 	"keyword": "bond",
 	"onyomi": {
-		"frequent": ["サイ"],
+		"frequent": [
+			"サイ"
+		],
 		"common": [],
 		"rare": []
 	},

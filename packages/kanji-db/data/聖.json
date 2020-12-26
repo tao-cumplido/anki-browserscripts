@@ -1,16 +1,28 @@
 {
 	"kanji": "聖",
-	"meanings": ["holy", "saint", "sage", "master", "priest"],
+	"meanings": [
+		"holy",
+		"saint",
+		"sage",
+		"master",
+		"priest"
+	],
 	"keyword": "holy",
 	"onyomi": {
-		"frequent": ["セイ"],
+		"frequent": [
+			"セイ"
+		],
 		"common": [],
-		"rare": ["ショウ"]
+		"rare": [
+			"ショウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひじり"],
+		"rare": [
+			"ひじり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

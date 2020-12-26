@@ -1,6 +1,11 @@
 {
 	"kanji": "养",
-	"meanings": ["raise", "rear", "bring up", "support"],
+	"meanings": [
+		"raise",
+		"rear",
+		"bring up",
+		"support"
+	],
 	"frequency": {
 		"mean": 4516,
 		"twitter": 1727,

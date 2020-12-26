@@ -1,16 +1,29 @@
 {
 	"kanji": "佗",
-	"meanings": ["proud", "lonely"],
+	"meanings": [
+		"proud",
+		"lonely"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["タ", "イ"]
+		"rare": [
+			"タ",
+			"イ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わび", "ほか", "わ"],
-		"okurigana": ["わび.しい", "わ.びる"]
+		"rare": [
+			"わび",
+			"ほか",
+			"わ"
+		],
+		"okurigana": [
+			"わび.しい",
+			"わ.びる"
+		]
 	},
 	"frequency": {
 		"mean": 3769,

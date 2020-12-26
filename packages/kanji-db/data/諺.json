@@ -1,16 +1,22 @@
 {
 	"kanji": "諺",
-	"meanings": ["proverb"],
+	"meanings": [
+		"proverb"
+	],
 	"keyword": "proverb",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゲン"]
+		"rare": [
+			"ゲン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ことわざ"],
+		"rare": [
+			"ことわざ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

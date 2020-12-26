@@ -1,16 +1,28 @@
 {
 	"kanji": "傺",
-	"meanings": ["to hinder", "to detain"],
+	"meanings": [
+		"to hinder",
+		"to detain"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["テイ", "タイ"],
+		"common": [
+			"テイ",
+			"タイ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["と", "とど"],
+		"common": [
+			"と",
+			"とど"
+		],
 		"rare": [],
-		"okurigana": ["と.まる", "とど.まる"]
+		"okurigana": [
+			"と.まる",
+			"とど.まる"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

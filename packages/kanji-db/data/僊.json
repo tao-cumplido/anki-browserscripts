@@ -1,10 +1,14 @@
 {
 	"kanji": "僊",
-	"meanings": ["hermit"],
+	"meanings": [
+		"hermit"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セン"]
+		"rare": [
+			"セン"
+		]
 	},
 	"frequency": {
 		"mean": 3996,

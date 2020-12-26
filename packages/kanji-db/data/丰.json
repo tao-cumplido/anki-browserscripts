@@ -1,16 +1,33 @@
 {
 	"kanji": "丰",
-	"meanings": ["abundant", "lush", "bountiful", "plenty", "fat face", "luxurious growth of grass"],
+	"meanings": [
+		"abundant",
+		"lush",
+		"bountiful",
+		"plenty",
+		"fat face",
+		"luxurious growth of grass"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ホウ", "フ", "フウ"],
+		"common": [
+			"ホウ",
+			"フ",
+			"フウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["みめよ", "しげ"],
+		"common": [
+			"みめよ",
+			"しげ"
+		],
 		"rare": [],
-		"okurigana": ["みめよ.い", "しげ.る"]
+		"okurigana": [
+			"みめよ.い",
+			"しげ.る"
+		]
 	},
 	"frequency": {
 		"mean": 4386,

@@ -1,0 +1,32 @@
+{
+	"kanji": "繳",
+	"meanings": [
+		"deliver",
+		"submit",
+		"hand over"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"シャク",
+			"キョウ",
+			"カク",
+			"ギャク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"かえ"
+		],
+		"rare": [],
+		"okurigana": [
+			"かえ.す"
+		]
+	},
+	"frequency": {
+		"mean": 4539,
+		"wikipedia": 4230
+	}
+}

@@ -1,16 +1,27 @@
 {
 	"kanji": "径",
-	"meanings": ["diameter", "path", "method"],
+	"meanings": [
+		"diameter",
+		"path",
+		"method"
+	],
 	"keyword": "diameter",
 	"onyomi": {
-		"frequent": ["ケイ"],
+		"frequent": [
+			"ケイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みち", "こみち", "さしわたし", "ただちに"],
+		"rare": [
+			"みち",
+			"こみち",
+			"さしわたし",
+			"ただちに"
+		],
 		"okurigana": []
 	},
 	"frequency": {

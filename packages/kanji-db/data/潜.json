@@ -1,17 +1,37 @@
 {
 	"kanji": "潜",
-	"meanings": ["submerge", "conceal", "hide", "lower (voice)", "hush"],
+	"meanings": [
+		"submerge",
+		"conceal",
+		"hide",
+		"lower (voice)",
+		"hush"
+	],
 	"keyword": "submerge",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひそ", "もぐ"],
+		"frequent": [
+			"ひそ",
+			"もぐ"
+		],
 		"common": [],
-		"rare": ["かく", "くぐ"],
-		"okurigana": ["ひそ.む", "もぐ.る", "かく.れる", "くぐ.る", "ひそ.める"]
+		"rare": [
+			"かく",
+			"くぐ"
+		],
+		"okurigana": [
+			"ひそ.む",
+			"もぐ.る",
+			"かく.れる",
+			"くぐ.る",
+			"ひそ.める"
+		]
 	},
 	"frequency": {
 		"mean": 1065,

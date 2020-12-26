@@ -1,0 +1,32 @@
+{
+	"kanji": "懟",
+	"meanings": [
+		"hate",
+		"abhor",
+		"hatred",
+		"resentment"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ツイ",
+			"ズイ",
+			"タイ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"うら"
+		],
+		"rare": [],
+		"okurigana": [
+			"うら.む"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

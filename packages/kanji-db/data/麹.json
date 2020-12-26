@@ -1,16 +1,23 @@
 {
 	"kanji": "麹",
-	"meanings": ["malt", "yeast"],
+	"meanings": [
+		"malt",
+		"yeast"
+	],
 	"keyword": "malt",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キク"]
+		"rare": [
+			"キク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こうじ"],
+		"rare": [
+			"こうじ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

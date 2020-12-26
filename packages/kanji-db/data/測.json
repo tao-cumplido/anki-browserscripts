@@ -1,17 +1,28 @@
 {
 	"kanji": "測",
-	"meanings": ["fathom", "plan", "scheme", "measure"],
+	"meanings": [
+		"fathom",
+		"plan",
+		"scheme",
+		"measure"
+	],
 	"keyword": "fathom",
 	"onyomi": {
-		"frequent": ["ソク"],
+		"frequent": [
+			"ソク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はか"],
+		"frequent": [
+			"はか"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["はか.る"]
+		"okurigana": [
+			"はか.る"
+		]
 	},
 	"frequency": {
 		"mean": 937,

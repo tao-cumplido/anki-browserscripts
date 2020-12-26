@@ -1,17 +1,27 @@
 {
 	"kanji": "克",
-	"meanings": ["overcome", "kindly", "skillfully"],
+	"meanings": [
+		"overcome",
+		"kindly",
+		"skillfully"
+	],
 	"keyword": "overcome",
 	"onyomi": {
-		"frequent": ["コク"],
+		"frequent": [
+			"コク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["か"],
-		"okurigana": ["か.つ"]
+		"rare": [
+			"か"
+		],
+		"okurigana": [
+			"か.つ"
+		]
 	},
 	"frequency": {
 		"mean": 1393,

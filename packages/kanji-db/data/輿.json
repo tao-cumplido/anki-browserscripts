@@ -1,16 +1,26 @@
 {
 	"kanji": "輿",
-	"meanings": ["palanquin", "bier", "public opinion", "the earth"],
+	"meanings": [
+		"palanquin",
+		"bier",
+		"public opinion",
+		"the earth"
+	],
 	"keyword": "palanquin",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヨ"]
+		"rare": [
+			"ヨ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かご", "こし"],
+		"rare": [
+			"かご",
+			"こし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,16 +1,28 @@
 {
 	"kanji": "俯",
-	"meanings": ["bend down", "lie prostrate"],
+	"meanings": [
+		"bend down",
+		"lie prostrate"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フ"]
+		"rare": [
+			"フ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふ", "うつむ"],
-		"okurigana": ["ふ.す", "うつむ.く", "ふ.せる"]
+		"rare": [
+			"ふ",
+			"うつむ"
+		],
+		"okurigana": [
+			"ふ.す",
+			"うつむ.く",
+			"ふ.せる"
+		]
 	},
 	"frequency": {
 		"mean": 2642,

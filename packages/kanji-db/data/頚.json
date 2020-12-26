@@ -1,16 +1,23 @@
 {
 	"kanji": "頚",
-	"meanings": ["neck", "head"],
+	"meanings": [
+		"neck",
+		"head"
+	],
 	"keyword": "neck and throat",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケイ"]
+		"rare": [
+			"ケイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くび"],
+		"rare": [
+			"くび"
+		],
 		"okurigana": []
 	},
 	"frequency": {

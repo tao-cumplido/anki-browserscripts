@@ -1,16 +1,23 @@
 {
 	"kanji": "硯",
-	"meanings": ["inkstone"],
+	"meanings": [
+		"inkstone"
+	],
 	"keyword": "inkstone",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケン", "ゲン"]
+		"rare": [
+			"ケン",
+			"ゲン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すずり"],
+		"rare": [
+			"すずり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

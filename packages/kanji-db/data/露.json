@@ -1,14 +1,25 @@
 {
 	"kanji": "露",
-	"meanings": ["dew", "tears", "expose", "Russia"],
+	"meanings": [
+		"dew",
+		"tears",
+		"expose",
+		"Russia"
+	],
 	"keyword": "dew",
 	"onyomi": {
-		"frequent": ["ロ"],
-		"common": ["ロウ"],
+		"frequent": [
+			"ロ"
+		],
+		"common": [
+			"ロウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つゆ"],
+		"frequent": [
+			"つゆ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

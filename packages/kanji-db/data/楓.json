@@ -1,16 +1,22 @@
 {
 	"kanji": "楓",
-	"meanings": ["maple"],
+	"meanings": [
+		"maple"
+	],
 	"keyword": "maple tree",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フウ"]
+		"rare": [
+			"フウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かえで"],
+		"rare": [
+			"かえで"
+		],
 		"okurigana": []
 	},
 	"frequency": {

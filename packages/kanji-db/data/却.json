@@ -1,17 +1,33 @@
 {
 	"kanji": "却",
-	"meanings": ["instead", "on the contrary", "rather", "step back", "withdraw", "retreat"],
+	"meanings": [
+		"instead",
+		"on the contrary",
+		"rather",
+		"step back",
+		"withdraw",
+		"retreat"
+	],
 	"keyword": "instead",
 	"onyomi": {
-		"frequent": ["キャク"],
+		"frequent": [
+			"キャク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かえ", "しりぞ"],
-		"okurigana": ["かえ.って", "しりぞ.く", "しりぞ.ける"]
+		"rare": [
+			"かえ",
+			"しりぞ"
+		],
+		"okurigana": [
+			"かえ.って",
+			"しりぞ.く",
+			"しりぞ.ける"
+		]
 	},
 	"frequency": {
 		"mean": 1287,

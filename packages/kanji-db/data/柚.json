@@ -1,16 +1,24 @@
 {
 	"kanji": "柚",
-	"meanings": ["citron"],
+	"meanings": [
+		"citron"
+	],
 	"keyword": "citron",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ユ", "ユウ", "ジク"]
+		"rare": [
+			"ユ",
+			"ユウ",
+			"ジク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゆず"],
+		"rare": [
+			"ゆず"
+		],
 		"okurigana": []
 	},
 	"frequency": {

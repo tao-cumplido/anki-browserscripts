@@ -1,17 +1,27 @@
 {
 	"kanji": "乖",
-	"meanings": ["oppose", "disobey"],
+	"meanings": [
+		"oppose",
+		"disobey"
+	],
 	"keyword": "disobey",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カイ"]
+		"rare": [
+			"カイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["そむ", "もとる"],
-		"okurigana": ["そむ.く"]
+		"rare": [
+			"そむ",
+			"もとる"
+		],
+		"okurigana": [
+			"そむ.く"
+		]
 	},
 	"frequency": {
 		"mean": 3364,

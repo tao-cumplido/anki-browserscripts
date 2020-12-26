@@ -1,16 +1,24 @@
 {
 	"kanji": "誼",
-	"meanings": ["friendship", "intimacy"],
+	"meanings": [
+		"friendship",
+		"intimacy"
+	],
 	"keyword": "familiarity",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ギ"]
+		"rare": [
+			"ギ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よしみ", "よい"],
+		"rare": [
+			"よしみ",
+			"よい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

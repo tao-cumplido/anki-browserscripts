@@ -1,16 +1,30 @@
 {
 	"kanji": "雄",
-	"meanings": ["masculine", "male", "hero", "leader", "superiority", "excellence"],
+	"meanings": [
+		"masculine",
+		"male",
+		"hero",
+		"leader",
+		"superiority",
+		"excellence"
+	],
 	"keyword": "male",
 	"onyomi": {
-		"frequent": ["ユウ"],
+		"frequent": [
+			"ユウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["お", "おす"],
+		"frequent": [
+			"お",
+			"おす"
+		],
 		"common": [],
-		"rare": ["おん"],
+		"rare": [
+			"おん"
+		],
 		"okurigana": []
 	},
 	"frequency": {

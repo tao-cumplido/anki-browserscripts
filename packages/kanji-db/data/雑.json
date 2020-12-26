@@ -1,17 +1,27 @@
 {
 	"kanji": "雑",
-	"meanings": ["miscellaneous"],
+	"meanings": [
+		"miscellaneous"
+	],
 	"keyword": "miscellaneous",
 	"onyomi": {
-		"frequent": ["ザツ", "ゾウ"],
+		"frequent": [
+			"ザツ",
+			"ゾウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まじ"],
-		"okurigana": ["まじ.える", "まじ.る"]
+		"rare": [
+			"まじ"
+		],
+		"okurigana": [
+			"まじ.える",
+			"まじ.る"
+		]
 	},
 	"frequency": {
 		"mean": 717,

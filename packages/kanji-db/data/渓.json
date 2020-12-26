@@ -1,16 +1,24 @@
 {
 	"kanji": "渓",
-	"meanings": ["mountain stream", "valley"],
+	"meanings": [
+		"mountain stream",
+		"valley"
+	],
 	"keyword": "mountain stream",
 	"onyomi": {
-		"frequent": ["ケイ"],
+		"frequent": [
+			"ケイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たに", "たにがわ"],
+		"rare": [
+			"たに",
+			"たにがわ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

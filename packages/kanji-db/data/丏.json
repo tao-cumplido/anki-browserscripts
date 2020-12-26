@@ -1,14 +1,22 @@
 {
 	"kanji": "丏",
-	"meanings": ["parapet", "invisible"],
+	"meanings": [
+		"parapet",
+		"invisible"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ベン", "メン"],
+		"common": [
+			"ベン",
+			"メン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["みえぬ"],
+		"common": [
+			"みえぬ"
+		],
 		"rare": [],
 		"okurigana": []
 	},

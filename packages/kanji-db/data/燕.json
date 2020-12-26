@@ -1,16 +1,24 @@
 {
 	"kanji": "燕",
-	"meanings": ["swallow (bird)"],
+	"meanings": [
+		"swallow (bird)"
+	],
 	"keyword": "swallow",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["エン"]
+		"rare": [
+			"エン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つばめ", "つばくら", "つばくろ"],
+		"rare": [
+			"つばめ",
+			"つばくら",
+			"つばくろ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

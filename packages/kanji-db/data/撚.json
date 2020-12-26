@@ -1,17 +1,31 @@
 {
 	"kanji": "撚",
-	"meanings": ["twist", "twine", "kinky"],
+	"meanings": [
+		"twist",
+		"twine",
+		"kinky"
+	],
 	"keyword": "twirl",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ネン"]
+		"rare": [
+			"ネン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よ", "より", "ひね"],
-		"okurigana": ["よ.る", "よ.れる", "ひね.る"]
+		"rare": [
+			"よ",
+			"より",
+			"ひね"
+		],
+		"okurigana": [
+			"よ.る",
+			"よ.れる",
+			"ひね.る"
+		]
 	},
 	"frequency": {
 		"mean": 3814,

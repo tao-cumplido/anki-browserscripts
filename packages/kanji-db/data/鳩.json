@@ -1,17 +1,28 @@
 {
 	"kanji": "鳩",
-	"meanings": ["pigeon", "dove"],
+	"meanings": [
+		"pigeon",
+		"dove"
+	],
 	"keyword": "pigeon",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キュウ", "ク"]
+		"rare": [
+			"キュウ",
+			"ク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はと", "あつ"],
-		"okurigana": ["あつ.める"]
+		"rare": [
+			"はと",
+			"あつ"
+		],
+		"okurigana": [
+			"あつ.める"
+		]
 	},
 	"frequency": {
 		"mean": 1846,

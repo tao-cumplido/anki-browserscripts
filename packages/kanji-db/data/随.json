@@ -1,17 +1,37 @@
 {
 	"kanji": "随",
-	"meanings": ["follow", "though", "notwithstanding", "while", "during", "both", "all", "obey", "submit to", "comply", "at the mercy of (the waves)"],
+	"meanings": [
+		"follow",
+		"though",
+		"notwithstanding",
+		"while",
+		"during",
+		"both",
+		"all",
+		"obey",
+		"submit to",
+		"comply",
+		"at the mercy of (the waves)"
+	],
 	"keyword": "follow",
 	"onyomi": {
-		"frequent": ["ズイ"],
+		"frequent": [
+			"ズイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まにま", "したが"],
-		"okurigana": ["まにま.に", "したが.う"]
+		"rare": [
+			"まにま",
+			"したが"
+		],
+		"okurigana": [
+			"まにま.に",
+			"したが.う"
+		]
 	},
 	"frequency": {
 		"mean": 1461,

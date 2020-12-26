@@ -1,17 +1,28 @@
 {
 	"kanji": "賄",
-	"meanings": ["bribe", "board", "supply", "finance"],
+	"meanings": [
+		"bribe",
+		"board",
+		"supply",
+		"finance"
+	],
 	"keyword": "bribe",
 	"onyomi": {
-		"frequent": ["ワイ"],
+		"frequent": [
+			"ワイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まかな"],
+		"frequent": [
+			"まかな"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["まかな.う"]
+		"okurigana": [
+			"まかな.う"
+		]
 	},
 	"frequency": {
 		"mean": 2473,

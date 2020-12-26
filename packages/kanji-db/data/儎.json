@@ -1,16 +1,26 @@
 {
 	"kanji": "儎",
-	"meanings": ["carry", "contain", "load"],
+	"meanings": [
+		"carry",
+		"contain",
+		"load"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["サイ"],
+		"common": [
+			"サイ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["の"],
+		"common": [
+			"の"
+		],
 		"rare": [],
-		"okurigana": ["の.せる"]
+		"okurigana": [
+			"の.せる"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

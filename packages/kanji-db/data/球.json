@@ -1,14 +1,21 @@
 {
 	"kanji": "球",
-	"meanings": ["ball", "sphere"],
+	"meanings": [
+		"ball",
+		"sphere"
+	],
 	"keyword": "ball",
 	"onyomi": {
-		"frequent": ["キュウ"],
+		"frequent": [
+			"キュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たま"],
+		"frequent": [
+			"たま"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

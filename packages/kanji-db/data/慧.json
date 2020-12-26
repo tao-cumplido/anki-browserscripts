@@ -1,16 +1,23 @@
 {
 	"kanji": "慧",
-	"meanings": ["wise"],
+	"meanings": [
+		"wise"
+	],
 	"keyword": "astute",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケイ", "エ"]
+		"rare": [
+			"ケイ",
+			"エ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さとい"],
+		"rare": [
+			"さとい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

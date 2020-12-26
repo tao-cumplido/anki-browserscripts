@@ -1,17 +1,32 @@
 {
 	"kanji": "馴",
-	"meanings": ["get used to", "experienced", "tamed"],
+	"meanings": [
+		"get used to",
+		"experienced",
+		"tamed"
+	],
 	"keyword": "tame",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジュン", "シュン", "クン"]
+		"rare": [
+			"ジュン",
+			"シュン",
+			"クン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["な", "したが"],
-		"okurigana": ["な.れる", "な.らす", "したが.う"]
+		"rare": [
+			"な",
+			"したが"
+		],
+		"okurigana": [
+			"な.れる",
+			"な.らす",
+			"したが.う"
+		]
 	},
 	"frequency": {
 		"mean": 1865,

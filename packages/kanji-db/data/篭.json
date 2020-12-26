@@ -1,17 +1,33 @@
 {
 	"kanji": "篭",
-	"meanings": ["seclude oneself", "cage", "coop", "implied"],
+	"meanings": [
+		"seclude oneself",
+		"cage",
+		"coop",
+		"implied"
+	],
 	"keyword": "basket",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ロウ", "ル"]
+		"rare": [
+			"ロウ",
+			"ル"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かご", "こ", "こも"],
-		"okurigana": ["こ.める", "こも.る", "こ.む"]
+		"rare": [
+			"かご",
+			"こ",
+			"こも"
+		],
+		"okurigana": [
+			"こ.める",
+			"こも.る",
+			"こ.む"
+		]
 	},
 	"frequency": {
 		"mean": 2704,

@@ -1,17 +1,29 @@
 {
 	"kanji": "脅",
-	"meanings": ["threaten", "coerce"],
+	"meanings": [
+		"threaten",
+		"coerce"
+	],
 	"keyword": "threaten",
 	"onyomi": {
-		"frequent": ["キョウ"],
+		"frequent": [
+			"キョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おびや", "おど"],
+		"frequent": [
+			"おびや",
+			"おど"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おびや.かす", "おど.す", "おど.かす"]
+		"okurigana": [
+			"おびや.かす",
+			"おど.す",
+			"おど.かす"
+		]
 	},
 	"frequency": {
 		"mean": 1761,

@@ -1,17 +1,39 @@
 {
 	"kanji": "剥",
-	"meanings": ["come off", "peel", "fade", "discolor"],
+	"meanings": [
+		"come off",
+		"peel",
+		"fade",
+		"discolor"
+	],
 	"keyword": "peel off",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハク", "ホク"]
+		"rare": [
+			"ハク",
+			"ホク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["へ", "へず", "む", "は"],
-		"okurigana": ["へ.ぐ", "へず.る", "む.く", "む.ける", "は.がれる", "は.ぐ", "は.げる", "は.がす"]
+		"rare": [
+			"へ",
+			"へず",
+			"む",
+			"は"
+		],
+		"okurigana": [
+			"へ.ぐ",
+			"へず.る",
+			"む.く",
+			"む.ける",
+			"は.がれる",
+			"は.ぐ",
+			"は.げる",
+			"は.がす"
+		]
 	},
 	"frequency": {
 		"mean": 1894,

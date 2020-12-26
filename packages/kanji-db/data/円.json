@@ -1,17 +1,32 @@
 {
 	"kanji": "円",
-	"meanings": ["circle", "yen", "round"],
+	"meanings": [
+		"circle",
+		"yen",
+		"round"
+	],
 	"keyword": "circle",
 	"onyomi": {
-		"frequent": ["エン"],
+		"frequent": [
+			"エン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まる"],
+		"frequent": [
+			"まる"
+		],
 		"common": [],
-		"rare": ["まど", "まろ"],
-		"okurigana": ["まる.い", "まど.か", "まろ.やか"]
+		"rare": [
+			"まど",
+			"まろ"
+		],
+		"okurigana": [
+			"まる.い",
+			"まど.か",
+			"まろ.やか"
+		]
 	},
 	"frequency": {
 		"mean": 452,

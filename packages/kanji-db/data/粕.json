@@ -1,16 +1,23 @@
 {
 	"kanji": "粕",
-	"meanings": ["scrap", "waste"],
+	"meanings": [
+		"scrap",
+		"waste"
+	],
 	"keyword": "settlings",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハク"]
+		"rare": [
+			"ハク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かす"],
+		"rare": [
+			"かす"
+		],
 		"okurigana": []
 	},
 	"frequency": {

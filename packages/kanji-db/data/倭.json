@@ -1,17 +1,28 @@
 {
 	"kanji": "倭",
-	"meanings": ["Yamato", "ancient Japan"],
+	"meanings": [
+		"Yamato",
+		"ancient Japan"
+	],
 	"keyword": "Yamato",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ワ", "イ"]
+		"rare": [
+			"ワ",
+			"イ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["やまと", "したが"],
-		"okurigana": ["したが.う"]
+		"rare": [
+			"やまと",
+			"したが"
+		],
+		"okurigana": [
+			"したが.う"
+		]
 	},
 	"frequency": {
 		"mean": 2201,

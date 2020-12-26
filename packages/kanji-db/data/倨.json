@@ -1,16 +1,26 @@
 {
 	"kanji": "倨",
-	"meanings": ["pride", "squatting with legs outstretched"],
+	"meanings": [
+		"pride",
+		"squatting with legs outstretched"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョ", "コ"]
+		"rare": [
+			"キョ",
+			"コ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おご"],
-		"okurigana": ["おご.る"]
+		"rare": [
+			"おご"
+		],
+		"okurigana": [
+			"おご.る"
+		]
 	},
 	"frequency": {
 		"mean": 4476,

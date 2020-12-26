@@ -1,0 +1,30 @@
+{
+	"kanji": "賴",
+	"meanings": [
+		"rely",
+		"depend on",
+		"accuse falsely"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": [
+			"ライ"
+		]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": [
+			"たのむ",
+			"たよる",
+			"たより"
+		],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4183,
+		"twitter": 1727,
+		"wikipedia": 3869
+	}
+}

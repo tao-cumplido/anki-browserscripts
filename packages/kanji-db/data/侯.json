@@ -1,9 +1,15 @@
 {
 	"kanji": "侯",
-	"meanings": ["marquis", "lord", "daimyo"],
+	"meanings": [
+		"marquis",
+		"lord",
+		"daimyo"
+	],
 	"keyword": "marquis",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},

@@ -1,16 +1,24 @@
 {
 	"kanji": "母",
-	"meanings": ["mother"],
+	"meanings": [
+		"mother"
+	],
 	"keyword": "mama",
 	"onyomi": {
-		"frequent": ["ボ"],
+		"frequent": [
+			"ボ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はは"],
+		"frequent": [
+			"はは"
+		],
 		"common": [],
-		"rare": ["も"],
+		"rare": [
+			"も"
+		],
 		"okurigana": []
 	},
 	"frequency": {

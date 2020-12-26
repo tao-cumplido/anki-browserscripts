@@ -1,17 +1,28 @@
 {
 	"kanji": "飴",
-	"meanings": ["rice jelly", "candy"],
+	"meanings": [
+		"rice jelly",
+		"candy"
+	],
 	"keyword": "sweets",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["イ", "シ"]
+		"rare": [
+			"イ",
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あめ", "やしな"],
-		"okurigana": ["やしな.う"]
+		"rare": [
+			"あめ",
+			"やしな"
+		],
+		"okurigana": [
+			"やしな.う"
+		]
 	},
 	"frequency": {
 		"mean": 2652,

@@ -1,17 +1,30 @@
 {
 	"kanji": "惜",
-	"meanings": ["pity", "be sparing of", "frugal", "stingy", "regret"],
+	"meanings": [
+		"pity",
+		"be sparing of",
+		"frugal",
+		"stingy",
+		"regret"
+	],
 	"keyword": "pity",
 	"onyomi": {
-		"frequent": ["セキ"],
+		"frequent": [
+			"セキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["お"],
+		"frequent": [
+			"お"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["お.しい", "お.しむ"]
+		"okurigana": [
+			"お.しい",
+			"お.しむ"
+		]
 	},
 	"frequency": {
 		"mean": 1977,

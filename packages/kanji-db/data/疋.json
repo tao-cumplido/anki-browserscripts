@@ -1,16 +1,26 @@
 {
 	"kanji": "疋",
-	"meanings": ["head", "counter for animals"],
+	"meanings": [
+		"head",
+		"counter for animals"
+	],
 	"keyword": "critters",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒキ", "ショ", "ソ", "ヒツ"]
+		"rare": [
+			"ヒキ",
+			"ショ",
+			"ソ",
+			"ヒツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あし"],
+		"rare": [
+			"あし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,26 @@
 {
 	"kanji": "聚",
-	"meanings": ["assemble"],
+	"meanings": [
+		"assemble"
+	],
 	"keyword": "crowd",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュウ", "シュ"]
+		"rare": [
+			"シュウ",
+			"シュ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あつ"],
-		"okurigana": ["あつ.まる"]
+		"rare": [
+			"あつ"
+		],
+		"okurigana": [
+			"あつ.まる"
+		]
 	},
 	"frequency": {
 		"mean": 2761,

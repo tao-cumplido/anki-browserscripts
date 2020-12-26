@@ -1,17 +1,37 @@
 {
 	"kanji": "堪",
-	"meanings": ["withstand", "endure", "support", "resist"],
+	"meanings": [
+		"withstand",
+		"endure",
+		"support",
+		"resist"
+	],
 	"keyword": "withstand",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
-		"rare": ["タン"]
+		"rare": [
+			"タン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["た"],
+		"frequent": [
+			"た"
+		],
 		"common": [],
-		"rare": ["たま", "こら", "こた"],
-		"okurigana": ["た.える", "たま.る", "こら.える", "こた.える"]
+		"rare": [
+			"たま",
+			"こら",
+			"こた"
+		],
+		"okurigana": [
+			"た.える",
+			"たま.る",
+			"こら.える",
+			"こた.える"
+		]
 	},
 	"frequency": {
 		"mean": 2125,

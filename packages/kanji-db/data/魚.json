@@ -1,16 +1,25 @@
 {
 	"kanji": "魚",
-	"meanings": ["fish"],
+	"meanings": [
+		"fish"
+	],
 	"keyword": "fish",
 	"onyomi": {
-		"frequent": ["ギョ"],
+		"frequent": [
+			"ギョ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うお", "さかな"],
+		"frequent": [
+			"うお",
+			"さかな"
+		],
 		"common": [],
-		"rare": ["ざかな"],
+		"rare": [
+			"ざかな"
+		],
 		"okurigana": []
 	},
 	"frequency": {

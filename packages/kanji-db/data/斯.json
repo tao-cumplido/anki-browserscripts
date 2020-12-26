@@ -1,17 +1,32 @@
 {
 	"kanji": "斯",
-	"meanings": ["this", "thus", "such", "verbal pause"],
+	"meanings": [
+		"this",
+		"thus",
+		"such",
+		"verbal pause"
+	],
 	"keyword": "this",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["か", "こう", "この", "これ", "ここに"],
-		"okurigana": ["か.く"]
+		"rare": [
+			"か",
+			"こう",
+			"この",
+			"これ",
+			"ここに"
+		],
+		"okurigana": [
+			"か.く"
+		]
 	},
 	"frequency": {
 		"mean": 1844,

@@ -1,17 +1,30 @@
 {
 	"kanji": "絞",
-	"meanings": ["strangle", "constrict", "wring"],
+	"meanings": [
+		"strangle",
+		"constrict",
+		"wring"
+	],
 	"keyword": "strangle",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["しぼ", "し"],
+		"frequent": [
+			"しぼ",
+			"し"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["しぼ.る", "し.める", "し.まる"]
+		"okurigana": [
+			"しぼ.る",
+			"し.める",
+			"し.まる"
+		]
 	},
 	"frequency": {
 		"mean": 1896,

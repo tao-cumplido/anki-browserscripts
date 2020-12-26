@@ -1,10 +1,16 @@
 {
 	"kanji": "佶",
-	"meanings": ["healthy", "correct"],
+	"meanings": [
+		"healthy",
+		"correct"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キツ", "キチ"]
+		"rare": [
+			"キツ",
+			"キチ"
+		]
 	},
 	"frequency": {
 		"mean": 4194,

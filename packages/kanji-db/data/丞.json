@@ -1,17 +1,28 @@
 {
 	"kanji": "丞",
-	"meanings": ["help"],
+	"meanings": [
+		"help"
+	],
 	"keyword": "helping hand",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジョウ", "ショウ"]
+		"rare": [
+			"ジョウ",
+			"ショウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すく", "たす"],
-		"okurigana": ["すく.う", "たす.ける"]
+		"rare": [
+			"すく",
+			"たす"
+		],
+		"okurigana": [
+			"すく.う",
+			"たす.ける"
+		]
 	},
 	"frequency": {
 		"mean": 2057,

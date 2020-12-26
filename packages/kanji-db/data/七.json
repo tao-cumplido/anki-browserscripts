@@ -1,17 +1,27 @@
 {
 	"kanji": "七",
-	"meanings": ["seven"],
+	"meanings": [
+		"seven"
+	],
 	"keyword": "seven",
 	"onyomi": {
-		"frequent": ["シチ"],
+		"frequent": [
+			"シチ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["なな"],
-		"common": ["なの"],
+		"frequent": [
+			"なな"
+		],
+		"common": [
+			"なの"
+		],
 		"rare": [],
-		"okurigana": ["なな.つ"]
+		"okurigana": [
+			"なな.つ"
+		]
 	},
 	"frequency": {
 		"mean": 691,

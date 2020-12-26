@@ -1,9 +1,18 @@
 {
 	"kanji": "不",
-	"meanings": ["negative", "non-", "bad", "ugly", "clumsy"],
+	"meanings": [
+		"negative",
+		"non-",
+		"bad",
+		"ugly",
+		"clumsy"
+	],
 	"keyword": "negative",
 	"onyomi": {
-		"frequent": ["フ", "ブ"],
+		"frequent": [
+			"フ",
+			"ブ"
+		],
 		"common": [],
 		"rare": []
 	},

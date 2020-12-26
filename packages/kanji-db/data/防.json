@@ -1,17 +1,28 @@
 {
 	"kanji": "防",
-	"meanings": ["ward off", "defend", "protect", "resist"],
+	"meanings": [
+		"ward off",
+		"defend",
+		"protect",
+		"resist"
+	],
 	"keyword": "ward off",
 	"onyomi": {
-		"frequent": ["ボウ"],
+		"frequent": [
+			"ボウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふせ"],
+		"frequent": [
+			"ふせ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ふせ.ぐ"]
+		"okurigana": [
+			"ふせ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 494,

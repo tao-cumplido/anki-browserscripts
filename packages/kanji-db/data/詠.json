@@ -1,17 +1,31 @@
 {
 	"kanji": "詠",
-	"meanings": ["recitation", "poem", "song", "composing"],
+	"meanings": [
+		"recitation",
+		"poem",
+		"song",
+		"composing"
+	],
 	"keyword": "recitation",
 	"onyomi": {
-		"frequent": ["エイ"],
+		"frequent": [
+			"エイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["よ"],
+		"frequent": [
+			"よ"
+		],
 		"common": [],
-		"rare": ["うた"],
-		"okurigana": ["よ.む", "うた.う"]
+		"rare": [
+			"うた"
+		],
+		"okurigana": [
+			"よ.む",
+			"うた.う"
+		]
 	},
 	"frequency": {
 		"mean": 2051,

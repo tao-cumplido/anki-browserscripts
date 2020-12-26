@@ -1,14 +1,21 @@
 {
 	"kanji": "痕",
-	"meanings": ["mark", "foot print"],
+	"meanings": [
+		"mark",
+		"foot print"
+	],
 	"keyword": "scar",
 	"onyomi": {
-		"frequent": ["コン"],
+		"frequent": [
+			"コン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あと"],
+		"frequent": [
+			"あと"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

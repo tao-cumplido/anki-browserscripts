@@ -1,16 +1,22 @@
 {
 	"kanji": "鯉",
-	"meanings": ["carp"],
+	"meanings": [
+		"carp"
+	],
 	"keyword": "carp",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リ"]
+		"rare": [
+			"リ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こい"],
+		"rare": [
+			"こい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

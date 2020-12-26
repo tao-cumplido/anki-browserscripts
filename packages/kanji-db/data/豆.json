@@ -1,14 +1,24 @@
 {
 	"kanji": "豆",
-	"meanings": ["beans", "pea", "midget"],
+	"meanings": [
+		"beans",
+		"pea",
+		"midget"
+	],
 	"keyword": "beans",
 	"onyomi": {
-		"frequent": ["トウ"],
-		"common": ["ズ"],
+		"frequent": [
+			"トウ"
+		],
+		"common": [
+			"ズ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まめ"],
+		"frequent": [
+			"まめ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

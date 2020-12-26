@@ -1,17 +1,33 @@
 {
 	"kanji": "訊",
-	"meanings": ["request", "question", "investigate"],
+	"meanings": [
+		"request",
+		"question",
+		"investigate"
+	],
 	"keyword": "query",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジン", "シュン", "シン"]
+		"rare": [
+			"ジン",
+			"シュン",
+			"シン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["き", "と", "たず"],
-		"okurigana": ["き.く", "と.う", "たず.ねる"]
+		"rare": [
+			"き",
+			"と",
+			"たず"
+		],
+		"okurigana": [
+			"き.く",
+			"と.う",
+			"たず.ねる"
+		]
 	},
 	"frequency": {
 		"mean": 2117,

@@ -1,16 +1,29 @@
 {
 	"kanji": "夫",
-	"meanings": ["husband", "man"],
+	"meanings": [
+		"husband",
+		"man"
+	],
 	"keyword": "husband",
 	"onyomi": {
-		"frequent": ["フ"],
-		"common": ["フウ"],
-		"rare": ["ブ"]
+		"frequent": [
+			"フ"
+		],
+		"common": [
+			"フウ"
+		],
+		"rare": [
+			"ブ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["おっと"],
+		"frequent": [
+			"おっと"
+		],
 		"common": [],
-		"rare": ["それ"],
+		"rare": [
+			"それ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

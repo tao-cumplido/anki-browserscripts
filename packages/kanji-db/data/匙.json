@@ -1,16 +1,22 @@
 {
 	"kanji": "匙",
-	"meanings": ["spoon"],
+	"meanings": [
+		"spoon"
+	],
 	"keyword": "wooden spoon",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さじ"],
+		"rare": [
+			"さじ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

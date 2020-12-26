@@ -1,16 +1,26 @@
 {
 	"kanji": "卯",
-	"meanings": ["sign of the hare or rabbit", "fourth sign of Chinese zodiac", "5-7AM", "east"],
+	"meanings": [
+		"sign of the hare or rabbit",
+		"fourth sign of Chinese zodiac",
+		"5-7AM",
+		"east"
+	],
 	"keyword": "sign of the hare",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ボウ", "モウ"]
+		"rare": [
+			"ボウ",
+			"モウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["う"],
+		"rare": [
+			"う"
+		],
 		"okurigana": []
 	},
 	"frequency": {

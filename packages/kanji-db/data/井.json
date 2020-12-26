@@ -1,14 +1,25 @@
 {
 	"kanji": "井",
-	"meanings": ["well", "well crib", "town", "community"],
+	"meanings": [
+		"well",
+		"well crib",
+		"town",
+		"community"
+	],
 	"keyword": "well",
 	"onyomi": {
-		"frequent": ["セイ"],
-		"common": ["ショウ"],
+		"frequent": [
+			"セイ"
+		],
+		"common": [
+			"ショウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["い"],
+		"frequent": [
+			"い"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

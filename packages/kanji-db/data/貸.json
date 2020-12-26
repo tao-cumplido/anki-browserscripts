@@ -1,17 +1,28 @@
 {
 	"kanji": "貸",
-	"meanings": ["lend"],
+	"meanings": [
+		"lend"
+	],
 	"keyword": "lend",
 	"onyomi": {
-		"frequent": ["タイ"],
+		"frequent": [
+			"タイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["か"],
+		"frequent": [
+			"か"
+		],
 		"common": [],
-		"rare": ["かし"],
-		"okurigana": ["か.す", "か.し"]
+		"rare": [
+			"かし"
+		],
+		"okurigana": [
+			"か.す",
+			"か.し"
+		]
 	},
 	"frequency": {
 		"mean": 1468,

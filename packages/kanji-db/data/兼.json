@@ -1,17 +1,28 @@
 {
 	"kanji": "兼",
-	"meanings": ["concurrently", "and", "beforehand", "in advance"],
+	"meanings": [
+		"concurrently",
+		"and",
+		"beforehand",
+		"in advance"
+	],
 	"keyword": "concurrently",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["か"],
+		"frequent": [
+			"か"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["か.ねる"]
+		"okurigana": [
+			"か.ねる"
+		]
 	},
 	"frequency": {
 		"mean": 970,

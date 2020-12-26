@@ -1,14 +1,24 @@
 {
 	"kanji": "枝",
-	"meanings": ["bough", "branch", "twig", "limb", "counter for branches"],
+	"meanings": [
+		"bough",
+		"branch",
+		"twig",
+		"limb",
+		"counter for branches"
+	],
 	"keyword": "bough",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["えだ"],
+		"frequent": [
+			"えだ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

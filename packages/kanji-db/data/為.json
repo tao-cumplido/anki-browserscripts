@@ -18,15 +18,29 @@
 	],
 	"keyword": "do",
 	"onyomi": {
-		"frequent": ["イ"],
+		"frequent": [
+			"イ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ため", "な", "す", "たり", "つく", "なり"],
-		"okurigana": ["な.る", "な.す", "す.る", "つく.る"]
+		"rare": [
+			"ため",
+			"な",
+			"す",
+			"たり",
+			"つく",
+			"なり"
+		],
+		"okurigana": [
+			"な.る",
+			"な.す",
+			"す.る",
+			"つく.る"
+		]
 	},
 	"frequency": {
 		"mean": 703,

@@ -1,16 +1,25 @@
 {
 	"kanji": "鮪",
-	"meanings": ["tuna"],
+	"meanings": [
+		"tuna"
+	],
 	"keyword": "tuna",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キ", "ユウ", "イ"]
+		"rare": [
+			"キ",
+			"ユウ",
+			"イ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まぐろ", "しび"],
+		"rare": [
+			"まぐろ",
+			"しび"
+		],
 		"okurigana": []
 	},
 	"frequency": {

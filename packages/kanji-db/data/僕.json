@@ -1,16 +1,25 @@
 {
 	"kanji": "僕",
-	"meanings": ["me", "I (male)", "servant", "manservant"],
+	"meanings": [
+		"me",
+		"I (male)",
+		"servant",
+		"manservant"
+	],
 	"keyword": "me",
 	"onyomi": {
-		"frequent": ["ボク"],
+		"frequent": [
+			"ボク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しもべ"],
+		"rare": [
+			"しもべ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

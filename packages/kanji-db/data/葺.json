@@ -1,17 +1,30 @@
 {
 	"kanji": "葺",
-	"meanings": ["thatch", "cover", "shingle", "tile"],
+	"meanings": [
+		"thatch",
+		"cover",
+		"shingle",
+		"tile"
+	],
 	"keyword": "shingling",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュウ"]
+		"rare": [
+			"シュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あし", "ふ", "ふき"],
-		"okurigana": ["ふ.く"]
+		"rare": [
+			"あし",
+			"ふ",
+			"ふき"
+		],
+		"okurigana": [
+			"ふ.く"
+		]
 	},
 	"frequency": {
 		"mean": 2508,

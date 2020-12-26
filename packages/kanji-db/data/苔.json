@@ -1,16 +1,24 @@
 {
 	"kanji": "苔",
-	"meanings": ["moss", "lichen"],
+	"meanings": [
+		"moss",
+		"lichen"
+	],
 	"keyword": "moss",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["タイ"]
+		"rare": [
+			"タイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こけ", "こけら"],
+		"rare": [
+			"こけ",
+			"こけら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

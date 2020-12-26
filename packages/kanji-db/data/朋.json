@@ -1,16 +1,23 @@
 {
 	"kanji": "朋",
-	"meanings": ["companion", "friend"],
+	"meanings": [
+		"companion",
+		"friend"
+	],
 	"keyword": "companion",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ホウ"]
+		"rare": [
+			"ホウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とも"],
+		"rare": [
+			"とも"
+		],
 		"okurigana": []
 	},
 	"frequency": {

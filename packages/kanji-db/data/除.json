@@ -1,17 +1,35 @@
 {
 	"kanji": "除",
-	"meanings": ["exclude", "division (x/3)", "remove", "abolish", "cancel", "except"],
+	"meanings": [
+		"exclude",
+		"division (x/3)",
+		"remove",
+		"abolish",
+		"cancel",
+		"except"
+	],
 	"keyword": "exclude",
 	"onyomi": {
-		"frequent": ["ジョ"],
-		"common": ["ジ"],
+		"frequent": [
+			"ジョ"
+		],
+		"common": [
+			"ジ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["のぞ"],
+		"frequent": [
+			"のぞ"
+		],
 		"common": [],
-		"rare": ["よ"],
-		"okurigana": ["のぞ.く", "よ.け"]
+		"rare": [
+			"よ"
+		],
+		"okurigana": [
+			"のぞ.く",
+			"よ.け"
+		]
 	},
 	"frequency": {
 		"mean": 78,

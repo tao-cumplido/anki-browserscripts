@@ -1,16 +1,23 @@
 {
 	"kanji": "笙",
-	"meanings": ["a reed instrument"],
+	"meanings": [
+		"a reed instrument"
+	],
 	"keyword": "Chinese panpipe",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ", "ソウ"]
+		"rare": [
+			"ショウ",
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふえ"],
+		"rare": [
+			"ふえ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

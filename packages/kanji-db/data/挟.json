@@ -1,17 +1,34 @@
 {
 	"kanji": "挟",
-	"meanings": ["pinch", "between"],
+	"meanings": [
+		"pinch",
+		"between"
+	],
 	"keyword": "sandwiched",
 	"onyomi": {
-		"frequent": ["キョウ"],
+		"frequent": [
+			"キョウ"
+		],
 		"common": [],
-		"rare": ["ショウ"]
+		"rare": [
+			"ショウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["はさ"],
+		"frequent": [
+			"はさ"
+		],
 		"common": [],
-		"rare": ["わきばさ", "さしはさ"],
-		"okurigana": ["はさ.む", "はさ.まる", "わきばさ.む", "さしはさ.む"]
+		"rare": [
+			"わきばさ",
+			"さしはさ"
+		],
+		"okurigana": [
+			"はさ.む",
+			"はさ.まる",
+			"わきばさ.む",
+			"さしはさ.む"
+		]
 	},
 	"frequency": {
 		"mean": 1807,

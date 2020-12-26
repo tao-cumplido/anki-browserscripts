@@ -1,16 +1,25 @@
 {
 	"kanji": "廓",
-	"meanings": ["enclosure", "quarter", "red-light district"],
+	"meanings": [
+		"enclosure",
+		"quarter",
+		"red-light district"
+	],
 	"keyword": "licensed quarters",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カク"]
+		"rare": [
+			"カク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くるわ", "とりで"],
+		"rare": [
+			"くるわ",
+			"とりで"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,37 @@
 {
 	"kanji": "優",
-	"meanings": ["tenderness", "excel", "surpass", "actor", "superiority", "gentleness"],
+	"meanings": [
+		"tenderness",
+		"excel",
+		"surpass",
+		"actor",
+		"superiority",
+		"gentleness"
+	],
 	"keyword": "tenderness",
 	"onyomi": {
-		"frequent": ["ユウ"],
+		"frequent": [
+			"ユウ"
+		],
 		"common": [],
-		"rare": ["ウ"]
+		"rare": [
+			"ウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["やさ", "すぐ"],
+		"frequent": [
+			"やさ",
+			"すぐ"
+		],
 		"common": [],
-		"rare": ["まさ"],
-		"okurigana": ["やさ.しい", "すぐ.れる", "まさ.る"]
+		"rare": [
+			"まさ"
+		],
+		"okurigana": [
+			"やさ.しい",
+			"すぐ.れる",
+			"まさ.る"
+		]
 	},
 	"frequency": {
 		"mean": 182,

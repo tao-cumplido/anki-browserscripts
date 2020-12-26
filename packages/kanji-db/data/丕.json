@@ -1,16 +1,28 @@
 {
 	"kanji": "丕",
-	"meanings": ["large", "great", "grand", "glorious", "distinguished"],
+	"meanings": [
+		"large",
+		"great",
+		"grand",
+		"glorious",
+		"distinguished"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒ"]
+		"rare": [
+			"ヒ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おお"],
-		"okurigana": ["おお.きい"]
+		"rare": [
+			"おお"
+		],
+		"okurigana": [
+			"おお.きい"
+		]
 	},
 	"frequency": {
 		"mean": 3415,

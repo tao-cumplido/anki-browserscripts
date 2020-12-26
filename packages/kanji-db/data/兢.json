@@ -1,16 +1,27 @@
 {
 	"kanji": "兢",
-	"meanings": ["discreet", "careful"],
+	"meanings": [
+		"discreet",
+		"careful"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ"]
+		"rare": [
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おそ", "つつ"],
-		"okurigana": ["おそ.れる", "つつ.しむ"]
+		"rare": [
+			"おそ",
+			"つつ"
+		],
+		"okurigana": [
+			"おそ.れる",
+			"つつ.しむ"
+		]
 	},
 	"frequency": {
 		"mean": 4388,

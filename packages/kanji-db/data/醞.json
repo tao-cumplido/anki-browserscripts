@@ -1,0 +1,30 @@
+{
+	"kanji": "醞",
+	"meanings": [
+		"liquor",
+		"spirits",
+		"wine",
+		"fermentation"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ウン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"かも"
+		],
+		"rare": [],
+		"okurigana": [
+			"かも.す"
+		]
+	},
+	"frequency": {
+		"mean": 4524,
+		"wikipedia": 4215
+	}
+}

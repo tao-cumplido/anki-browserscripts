@@ -1,16 +1,24 @@
 {
 	"kanji": "脛",
-	"meanings": ["leg", "shin"],
+	"meanings": [
+		"leg",
+		"shin"
+	],
 	"keyword": "shin",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケイ"]
+		"rare": [
+			"ケイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すね", "はぎ"],
+		"rare": [
+			"すね",
+			"はぎ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

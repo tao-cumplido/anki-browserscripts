@@ -1,17 +1,30 @@
 {
 	"kanji": "拒",
-	"meanings": ["repel", "refuse", "reject", "decline"],
+	"meanings": [
+		"repel",
+		"refuse",
+		"reject",
+		"decline"
+	],
 	"keyword": "repel",
 	"onyomi": {
-		"frequent": ["キョ"],
+		"frequent": [
+			"キョ"
+		],
 		"common": [],
-		"rare": ["ゴ"]
+		"rare": [
+			"ゴ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["こば"],
+		"frequent": [
+			"こば"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["こば.む"]
+		"okurigana": [
+			"こば.む"
+		]
 	},
 	"frequency": {
 		"mean": 1500,

@@ -1,15 +1,28 @@
 {
 	"kanji": "乎",
-	"meanings": ["question mark", "?"],
+	"meanings": [
+		"question mark",
+		"?"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コ", "オ"]
+		"rare": [
+			"コ",
+			"オ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["か", "ああ", "かな", "や", "よ", "を"],
+		"rare": [
+			"か",
+			"ああ",
+			"かな",
+			"や",
+			"よ",
+			"を"
+		],
 		"okurigana": []
 	},
 	"frequency": {

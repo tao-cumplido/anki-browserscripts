@@ -1,16 +1,28 @@
 {
 	"kanji": "雛",
-	"meanings": ["chick", "squab", "duckling", "doll"],
+	"meanings": [
+		"chick",
+		"squab",
+		"duckling",
+		"doll"
+	],
 	"keyword": "chick",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["スウ", "ス", "ジュ"]
+		"rare": [
+			"スウ",
+			"ス",
+			"ジュ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひな", "ひよこ"],
+		"rare": [
+			"ひな",
+			"ひよこ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

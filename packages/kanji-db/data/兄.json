@@ -1,14 +1,23 @@
 {
 	"kanji": "兄",
-	"meanings": ["elder brother", "big brother"],
+	"meanings": [
+		"elder brother",
+		"big brother"
+	],
 	"keyword": "elder brother",
 	"onyomi": {
-		"frequent": ["ケイ"],
-		"common": ["キョウ"],
+		"frequent": [
+			"ケイ"
+		],
+		"common": [
+			"キョウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あに"],
+		"frequent": [
+			"あに"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

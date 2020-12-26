@@ -1,11 +1,17 @@
 {
 	"kanji": "僑",
-	"meanings": ["expatriate", "person living abroad", "temporary home"],
+	"meanings": [
+		"expatriate",
+		"person living abroad",
+		"temporary home"
+	],
 	"keyword": "emigrant",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ"]
+		"rare": [
+			"キョウ"
+		]
 	},
 	"frequency": {
 		"mean": 3143,

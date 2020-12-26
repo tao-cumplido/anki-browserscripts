@@ -1,17 +1,33 @@
 {
 	"kanji": "填",
-	"meanings": ["fill in"],
+	"meanings": [
+		"fill in"
+	],
 	"keyword": "inlay",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テン", "チン"]
+		"rare": [
+			"テン",
+			"チン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["は", "うず", "しず", "ふさ"],
-		"okurigana": ["は.まる", "は.める", "うず.める", "しず.める", "ふさ.ぐ"]
+		"rare": [
+			"は",
+			"うず",
+			"しず",
+			"ふさ"
+		],
+		"okurigana": [
+			"は.まる",
+			"は.める",
+			"うず.める",
+			"しず.める",
+			"ふさ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 2291,

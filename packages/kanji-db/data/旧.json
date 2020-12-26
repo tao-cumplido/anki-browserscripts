@@ -1,17 +1,30 @@
 {
 	"kanji": "旧",
-	"meanings": ["old times", "old things", "old friend", "former", "ex-"],
+	"meanings": [
+		"old times",
+		"old things",
+		"old friend",
+		"former",
+		"ex-"
+	],
 	"keyword": "olden times",
 	"onyomi": {
-		"frequent": ["キュウ"],
+		"frequent": [
+			"キュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふる", "もと"],
-		"okurigana": ["ふる.い"]
+		"rare": [
+			"ふる",
+			"もと"
+		],
+		"okurigana": [
+			"ふる.い"
+		]
 	},
 	"frequency": {
 		"mean": 410,

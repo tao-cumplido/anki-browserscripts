@@ -1,14 +1,23 @@
 {
 	"kanji": "息",
-	"meanings": ["breath", "respiration", "son", "interest (on money)"],
+	"meanings": [
+		"breath",
+		"respiration",
+		"son",
+		"interest (on money)"
+	],
 	"keyword": "breath",
 	"onyomi": {
-		"frequent": ["ソク"],
+		"frequent": [
+			"ソク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いき"],
+		"frequent": [
+			"いき"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

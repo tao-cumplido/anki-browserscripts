@@ -1,16 +1,23 @@
 {
 	"kanji": "藷",
-	"meanings": ["potato"],
+	"meanings": [
+		"potato"
+	],
 	"keyword": "sweet potato",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショ", "ジョ"]
+		"rare": [
+			"ショ",
+			"ジョ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いも"],
+		"rare": [
+			"いも"
+		],
 		"okurigana": []
 	},
 	"frequency": {

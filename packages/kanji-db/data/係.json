@@ -1,17 +1,32 @@
 {
 	"kanji": "係",
-	"meanings": ["person in charge", "connection", "duty", "concern oneself"],
+	"meanings": [
+		"person in charge",
+		"connection",
+		"duty",
+		"concern oneself"
+	],
 	"keyword": "person in charge",
 	"onyomi": {
-		"frequent": ["ケイ"],
+		"frequent": [
+			"ケイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かか", "かかり"],
+		"frequent": [
+			"かか",
+			"かかり"
+		],
 		"common": [],
-		"rare": ["がかり"],
-		"okurigana": ["かか.る", "かか.わる"]
+		"rare": [
+			"がかり"
+		],
+		"okurigana": [
+			"かか.る",
+			"かか.わる"
+		]
 	},
 	"frequency": {
 		"mean": 476,

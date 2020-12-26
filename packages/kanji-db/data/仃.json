@@ -1,9 +1,14 @@
 {
 	"kanji": "仃",
-	"meanings": ["lonely", "solitary"],
+	"meanings": [
+		"lonely",
+		"solitary"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["テイ"],
+		"common": [
+			"テイ"
+		],
 		"rare": []
 	},
 	"frequency": {

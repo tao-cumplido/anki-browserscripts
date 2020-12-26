@@ -1,16 +1,27 @@
 {
 	"kanji": "朴",
-	"meanings": ["crude", "simple", "plain", "docile"],
+	"meanings": [
+		"crude",
+		"simple",
+		"plain",
+		"docile"
+	],
 	"keyword": "crude",
 	"onyomi": {
-		"frequent": ["ボク"],
+		"frequent": [
+			"ボク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほう", "ほお", "えのき"],
+		"rare": [
+			"ほう",
+			"ほお",
+			"えのき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

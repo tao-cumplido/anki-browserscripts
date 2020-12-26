@@ -1,16 +1,25 @@
 {
 	"kanji": "蹟",
-	"meanings": ["remains", "traces", "footprint"],
+	"meanings": [
+		"remains",
+		"traces",
+		"footprint"
+	],
 	"keyword": "vestiges",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セキ", "シャク"]
+		"rare": [
+			"セキ",
+			"シャク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あと"],
+		"rare": [
+			"あと"
+		],
 		"okurigana": []
 	},
 	"frequency": {

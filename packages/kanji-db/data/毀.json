@@ -1,17 +1,39 @@
 {
 	"kanji": "毀",
-	"meanings": ["break", "destroy", "censure", "be chipped", "be scratched", "be broken", "be ruined"],
+	"meanings": [
+		"break",
+		"destroy",
+		"censure",
+		"be chipped",
+		"be scratched",
+		"be broken",
+		"be ruined"
+	],
 	"keyword": "break",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こぼ", "こわ", "そし", "やぶ"],
-		"okurigana": ["こぼ.つ", "こわ.す", "こぼ.れる", "こわ.れる", "そし.る", "やぶ.る"]
+		"rare": [
+			"こぼ",
+			"こわ",
+			"そし",
+			"やぶ"
+		],
+		"okurigana": [
+			"こぼ.つ",
+			"こわ.す",
+			"こぼ.れる",
+			"こわ.れる",
+			"そし.る",
+			"やぶ.る"
+		]
 	},
 	"frequency": {
 		"mean": 2446,

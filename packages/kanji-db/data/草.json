@@ -1,16 +1,29 @@
 {
 	"kanji": "草",
-	"meanings": ["grass", "weeds", "herbs", "pasture", "write", "draft"],
+	"meanings": [
+		"grass",
+		"weeds",
+		"herbs",
+		"pasture",
+		"write",
+		"draft"
+	],
 	"keyword": "grass",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くさ"],
+		"frequent": [
+			"くさ"
+		],
 		"common": [],
-		"rare": ["ぐさ"],
+		"rare": [
+			"ぐさ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

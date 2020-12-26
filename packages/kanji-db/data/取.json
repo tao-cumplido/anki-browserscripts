@@ -1,17 +1,32 @@
 {
 	"kanji": "取",
-	"meanings": ["take", "fetch", "take up"],
+	"meanings": [
+		"take",
+		"fetch",
+		"take up"
+	],
 	"keyword": "take",
 	"onyomi": {
-		"frequent": ["シュ"],
+		"frequent": [
+			"シュ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["と"],
+		"frequent": [
+			"と"
+		],
 		"common": [],
-		"rare": ["とり", "ど"],
-		"okurigana": ["と.る", "と.り", "ど.り"]
+		"rare": [
+			"とり",
+			"ど"
+		],
+		"okurigana": [
+			"と.る",
+			"と.り",
+			"ど.り"
+		]
 	},
 	"frequency": {
 		"mean": 195,

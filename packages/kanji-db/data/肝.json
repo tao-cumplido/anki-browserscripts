@@ -1,14 +1,23 @@
 {
 	"kanji": "肝",
-	"meanings": ["liver", "pluck", "nerve", "chutzpah"],
+	"meanings": [
+		"liver",
+		"pluck",
+		"nerve",
+		"chutzpah"
+	],
 	"keyword": "liver",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["きも"],
+		"frequent": [
+			"きも"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

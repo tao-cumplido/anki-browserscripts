@@ -1,17 +1,34 @@
 {
 	"kanji": "操",
-	"meanings": ["maneuver", "manipulate", "operate", "steer", "chastity", "virginity", "fidelity"],
+	"meanings": [
+		"maneuver",
+		"manipulate",
+		"operate",
+		"steer",
+		"chastity",
+		"virginity",
+		"fidelity"
+	],
 	"keyword": "maneuver",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
-		"rare": ["サン"]
+		"rare": [
+			"サン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["みさお", "あやつ"],
+		"frequent": [
+			"みさお",
+			"あやつ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あやつ.る"]
+		"okurigana": [
+			"あやつ.る"
+		]
 	},
 	"frequency": {
 		"mean": 895,

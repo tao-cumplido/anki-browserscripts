@@ -1,17 +1,32 @@
 {
 	"kanji": "刻",
-	"meanings": ["engrave", "cut fine", "chop", "hash", "mince", "time", "carving"],
+	"meanings": [
+		"engrave",
+		"cut fine",
+		"chop",
+		"hash",
+		"mince",
+		"time",
+		"carving"
+	],
 	"keyword": "engrave",
 	"onyomi": {
-		"frequent": ["コク"],
+		"frequent": [
+			"コク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["きざ"],
+		"frequent": [
+			"きざ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["きざ.む", "きざ.み"]
+		"okurigana": [
+			"きざ.む",
+			"きざ.み"
+		]
 	},
 	"frequency": {
 		"mean": 1033,

@@ -1,0 +1,36 @@
+{
+	"kanji": "潑",
+	"meanings": [
+		"pour",
+		"splash",
+		"water",
+		"sprinkle",
+		"violent",
+		"malignant"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ハツ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"も",
+			"とびち",
+			"そそ"
+		],
+		"rare": [],
+		"okurigana": [
+			"も.る",
+			"とびち.る",
+			"そそ.ぐ"
+		]
+	},
+	"frequency": {
+		"mean": 4478,
+		"wikipedia": 4169
+	}
+}

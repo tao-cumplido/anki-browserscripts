@@ -1,17 +1,31 @@
 {
 	"kanji": "戚",
-	"meanings": ["grieve", "relatives"],
+	"meanings": [
+		"grieve",
+		"relatives"
+	],
 	"keyword": "relatives",
 	"onyomi": {
-		"frequent": ["セキ"],
+		"frequent": [
+			"セキ"
+		],
 		"common": [],
-		"rare": ["ソク"]
+		"rare": [
+			"ソク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いた", "うれ", "みうち"],
-		"okurigana": ["いた.む", "うれ.える"]
+		"rare": [
+			"いた",
+			"うれ",
+			"みうち"
+		],
+		"okurigana": [
+			"いた.む",
+			"うれ.える"
+		]
 	},
 	"frequency": {
 		"mean": 2186,

@@ -1,14 +1,21 @@
 {
 	"kanji": "童",
-	"meanings": ["juvenile", "child"],
+	"meanings": [
+		"juvenile",
+		"child"
+	],
 	"keyword": "juvenile",
 	"onyomi": {
-		"frequent": ["ドウ"],
+		"frequent": [
+			"ドウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["わらべ"],
+		"frequent": [
+			"わらべ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

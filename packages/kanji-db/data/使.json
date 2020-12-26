@@ -1,17 +1,35 @@
 {
 	"kanji": "使",
-	"meanings": ["use", "send on a mission", "order", "messenger", "envoy", "ambassador", "cause"],
+	"meanings": [
+		"use",
+		"send on a mission",
+		"order",
+		"messenger",
+		"envoy",
+		"ambassador",
+		"cause"
+	],
 	"keyword": "use",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つか"],
+		"frequent": [
+			"つか"
+		],
 		"common": [],
-		"rare": ["づか"],
-		"okurigana": ["つか.う", "つか.い", "づか.い"]
+		"rare": [
+			"づか"
+		],
+		"okurigana": [
+			"つか.う",
+			"つか.い",
+			"づか.い"
+		]
 	},
 	"frequency": {
 		"mean": 178,

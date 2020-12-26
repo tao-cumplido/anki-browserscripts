@@ -1,0 +1,30 @@
+{
+	"kanji": "婷",
+	"meanings": [
+		"pretty",
+		"attractive",
+		"graceful"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"テイ",
+			"チョウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"うつく"
+		],
+		"rare": [],
+		"okurigana": [
+			"うつく.しい"
+		]
+	},
+	"frequency": {
+		"mean": 3947,
+		"wikipedia": 3647
+	}
+}

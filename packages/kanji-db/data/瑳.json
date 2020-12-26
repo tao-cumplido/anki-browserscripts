@@ -1,17 +1,27 @@
 {
 	"kanji": "瑳",
-	"meanings": ["polish", "brilliant white luster of a gem", "artful smile"],
+	"meanings": [
+		"polish",
+		"brilliant white luster of a gem",
+		"artful smile"
+	],
 	"keyword": "burnish",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サ"]
+		"rare": [
+			"サ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みが"],
-		"okurigana": ["みが.く"]
+		"rare": [
+			"みが"
+		],
+		"okurigana": [
+			"みが.く"
+		]
 	},
 	"frequency": {
 		"mean": 3206,

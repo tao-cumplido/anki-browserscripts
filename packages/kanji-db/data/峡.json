@@ -1,16 +1,25 @@
 {
 	"kanji": "峡",
-	"meanings": ["gorge", "ravine"],
+	"meanings": [
+		"gorge",
+		"ravine"
+	],
 	"keyword": "gorge",
 	"onyomi": {
-		"frequent": ["キョウ"],
+		"frequent": [
+			"キョウ"
+		],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はざま"],
+		"rare": [
+			"はざま"
+		],
 		"okurigana": []
 	},
 	"frequency": {

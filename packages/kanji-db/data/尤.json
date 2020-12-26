@@ -1,17 +1,32 @@
 {
 	"kanji": "尤",
-	"meanings": ["reasonable", "just", "natural", "superb", "outstanding", "plausible"],
+	"meanings": [
+		"reasonable",
+		"just",
+		"natural",
+		"superb",
+		"outstanding",
+		"plausible"
+	],
 	"keyword": "understandably",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ユウ"]
+		"rare": [
+			"ユウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["もっと", "とが"],
-		"okurigana": ["もっと.も", "とが.める"]
+		"rare": [
+			"もっと",
+			"とが"
+		],
+		"okurigana": [
+			"もっと.も",
+			"とが.める"
+		]
 	},
 	"frequency": {
 		"mean": 2495,

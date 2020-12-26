@@ -1,16 +1,24 @@
 {
 	"kanji": "鮒",
-	"meanings": ["carp"],
+	"meanings": [
+		"carp"
+	],
 	"keyword": "crucian carp",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ホ", "フ", "ブ"]
+		"rare": [
+			"ホ",
+			"フ",
+			"ブ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふな"],
+		"rare": [
+			"ふな"
+		],
 		"okurigana": []
 	},
 	"frequency": {

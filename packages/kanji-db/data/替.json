@@ -1,17 +1,30 @@
 {
 	"kanji": "替",
-	"meanings": ["exchange", "spare", "substitute", "per-"],
+	"meanings": [
+		"exchange",
+		"spare",
+		"substitute",
+		"per-"
+	],
 	"keyword": "exchange",
 	"onyomi": {
-		"frequent": ["タイ"],
+		"frequent": [
+			"タイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["か"],
+		"frequent": [
+			"か"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["か.える", "か.え", "か.わる"]
+		"okurigana": [
+			"か.える",
+			"か.え",
+			"か.わる"
+		]
 	},
 	"frequency": {
 		"mean": 789,

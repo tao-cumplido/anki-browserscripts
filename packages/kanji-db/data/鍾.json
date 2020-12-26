@@ -1,17 +1,30 @@
 {
 	"kanji": "鍾",
-	"meanings": ["spindle", "gather", "collect"],
+	"meanings": [
+		"spindle",
+		"gather",
+		"collect"
+	],
 	"keyword": "cluster",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ", "シュ"]
+		"rare": [
+			"ショウ",
+			"シュ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あつ", "さかずき", "かね"],
-		"okurigana": ["あつ.める"]
+		"rare": [
+			"あつ",
+			"さかずき",
+			"かね"
+		],
+		"okurigana": [
+			"あつ.める"
+		]
 	},
 	"frequency": {
 		"mean": 2527,

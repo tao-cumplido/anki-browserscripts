@@ -1,17 +1,26 @@
 {
 	"kanji": "函",
-	"meanings": ["box (archaic)"],
+	"meanings": [
+		"box (archaic)"
+	],
 	"keyword": "bin",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カン"]
+		"rare": [
+			"カン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はこ", "い"],
-		"okurigana": ["い.れる"]
+		"rare": [
+			"はこ",
+			"い"
+		],
+		"okurigana": [
+			"い.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1451,

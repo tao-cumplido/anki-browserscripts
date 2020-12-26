@@ -1,16 +1,25 @@
 {
 	"kanji": "蔭",
-	"meanings": ["shade", "shadow", "backing assistance"],
+	"meanings": [
+		"shade",
+		"shadow",
+		"backing assistance"
+	],
 	"keyword": "behind the scenes",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["イン", "オン"]
+		"rare": [
+			"イン",
+			"オン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かげ"],
+		"rare": [
+			"かげ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

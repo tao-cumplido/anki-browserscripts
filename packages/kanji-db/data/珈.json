@@ -1,16 +1,22 @@
 {
 	"kanji": "珈",
-	"meanings": ["ornamental hairpin"],
+	"meanings": [
+		"ornamental hairpin"
+	],
 	"keyword": "jeweled hairpin",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カ"]
+		"rare": [
+			"カ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かみかざり"],
+		"rare": [
+			"かみかざり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

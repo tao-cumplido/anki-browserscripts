@@ -1,16 +1,23 @@
 {
 	"kanji": "昴",
-	"meanings": ["the Pleiades"],
+	"meanings": [
+		"the Pleiades"
+	],
 	"keyword": "overarching",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ", "ボウ"]
+		"rare": [
+			"コウ",
+			"ボウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すばる"],
+		"rare": [
+			"すばる"
+		],
 		"okurigana": []
 	},
 	"frequency": {

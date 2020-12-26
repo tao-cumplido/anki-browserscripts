@@ -1,17 +1,29 @@
 {
 	"kanji": "屈",
-	"meanings": ["yield", "bend", "flinch", "submit"],
+	"meanings": [
+		"yield",
+		"bend",
+		"flinch",
+		"submit"
+	],
 	"keyword": "yield",
 	"onyomi": {
-		"frequent": ["クツ"],
+		"frequent": [
+			"クツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かが"],
-		"okurigana": ["かが.む", "かが.める"]
+		"rare": [
+			"かが"
+		],
+		"okurigana": [
+			"かが.む",
+			"かが.める"
+		]
 	},
 	"frequency": {
 		"mean": 1583,

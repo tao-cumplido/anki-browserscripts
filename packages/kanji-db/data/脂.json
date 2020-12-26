@@ -1,14 +1,26 @@
 {
 	"kanji": "脂",
-	"meanings": ["fat", "grease", "tallow", "lard", "rosin", "gum", "tar"],
+	"meanings": [
+		"fat",
+		"grease",
+		"tallow",
+		"lard",
+		"rosin",
+		"gum",
+		"tar"
+	],
 	"keyword": "fat",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あぶら"],
+		"frequent": [
+			"あぶら"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

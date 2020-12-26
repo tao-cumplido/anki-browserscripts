@@ -1,16 +1,24 @@
 {
 	"kanji": "姉",
-	"meanings": ["elder sister"],
+	"meanings": [
+		"elder sister"
+	],
 	"keyword": "elder sister",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あね"],
+		"frequent": [
+			"あね"
+		],
 		"common": [],
-		"rare": ["はは"],
+		"rare": [
+			"はは"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,29 @@
 {
 	"kanji": "蘇",
-	"meanings": ["be resuscitated", "revived", "perilla", "shiso"],
+	"meanings": [
+		"be resuscitated",
+		"revived",
+		"perilla",
+		"shiso"
+	],
 	"keyword": "resurrect",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソ", "ス"]
+		"rare": [
+			"ソ",
+			"ス"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よみがえ"],
-		"okurigana": ["よみがえ.る"]
+		"rare": [
+			"よみがえ"
+		],
+		"okurigana": [
+			"よみがえ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1534,

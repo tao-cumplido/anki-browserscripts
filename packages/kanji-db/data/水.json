@@ -1,14 +1,20 @@
 {
 	"kanji": "水",
-	"meanings": ["water"],
+	"meanings": [
+		"water"
+	],
 	"keyword": "water",
 	"onyomi": {
-		"frequent": ["スイ"],
+		"frequent": [
+			"スイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みず"],
+		"frequent": [
+			"みず"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,14 +1,24 @@
 {
 	"kanji": "板",
-	"meanings": ["plank", "board", "plate", "stage"],
+	"meanings": [
+		"plank",
+		"board",
+		"plate",
+		"stage"
+	],
 	"keyword": "plank",
 	"onyomi": {
-		"frequent": ["ハン", "バン"],
+		"frequent": [
+			"ハン",
+			"バン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いた"],
+		"frequent": [
+			"いた"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

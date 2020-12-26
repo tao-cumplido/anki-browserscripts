@@ -1,17 +1,30 @@
 {
 	"kanji": "勉",
-	"meanings": ["exertion", "endeavour", "encourage", "strive", "make effort", "diligent"],
+	"meanings": [
+		"exertion",
+		"endeavour",
+		"encourage",
+		"strive",
+		"make effort",
+		"diligent"
+	],
 	"keyword": "exertion",
 	"onyomi": {
-		"frequent": ["ベン"],
+		"frequent": [
+			"ベン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つと"],
-		"okurigana": ["つと.める"]
+		"rare": [
+			"つと"
+		],
+		"okurigana": [
+			"つと.める"
+		]
 	},
 	"frequency": {
 		"mean": 1511,

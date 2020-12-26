@@ -1,16 +1,25 @@
 {
 	"kanji": "偬",
-	"meanings": ["feel pain", "suffer"],
+	"meanings": [
+		"feel pain",
+		"suffer"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ"]
+		"rare": [
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くる"],
-		"okurigana": ["くる.しむ"]
+		"rare": [
+			"くる"
+		],
+		"okurigana": [
+			"くる.しむ"
+		]
 	},
 	"frequency": {
 		"mean": 4531,

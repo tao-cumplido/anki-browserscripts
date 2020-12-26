@@ -1,17 +1,30 @@
 {
 	"kanji": "幸",
-	"meanings": ["happiness", "blessing", "fortune"],
+	"meanings": [
+		"happiness",
+		"blessing",
+		"fortune"
+	],
 	"keyword": "happiness",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さいわ", "さち", "しあわ"],
+		"frequent": [
+			"さいわ",
+			"さち",
+			"しあわ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["さいわ.い", "しあわ.せ"]
+		"okurigana": [
+			"さいわ.い",
+			"しあわ.せ"
+		]
 	},
 	"frequency": {
 		"mean": 658,

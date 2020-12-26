@@ -1,14 +1,20 @@
 {
 	"kanji": "千",
-	"meanings": ["thousand"],
+	"meanings": [
+		"thousand"
+	],
 	"keyword": "thousand",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ち"],
+		"frequent": [
+			"ち"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

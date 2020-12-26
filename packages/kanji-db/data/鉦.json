@@ -1,16 +1,25 @@
 {
 	"kanji": "鉦",
-	"meanings": ["bell", "gong", "chimes"],
+	"meanings": [
+		"bell",
+		"gong",
+		"chimes"
+	],
 	"keyword": "carillion",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セイ", "ショウ"]
+		"rare": [
+			"セイ",
+			"ショウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かね"],
+		"rare": [
+			"かね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

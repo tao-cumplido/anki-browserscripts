@@ -1,14 +1,22 @@
 {
 	"kanji": "桜",
-	"meanings": ["cherry"],
+	"meanings": [
+		"cherry"
+	],
 	"keyword": "cherry tree",
 	"onyomi": {
-		"frequent": ["オウ"],
+		"frequent": [
+			"オウ"
+		],
 		"common": [],
-		"rare": ["ヨウ"]
+		"rare": [
+			"ヨウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["さくら"],
+		"frequent": [
+			"さくら"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

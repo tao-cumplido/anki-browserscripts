@@ -1,17 +1,29 @@
 {
 	"kanji": "轟",
-	"meanings": ["roar", "thunder", "boom resound"],
+	"meanings": [
+		"roar",
+		"thunder",
+		"boom resound"
+	],
 	"keyword": "rumble",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゴウ", "コウ"]
+		"rare": [
+			"ゴウ",
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とどろ"],
-		"okurigana": ["とどろ.かす", "とどろ.く"]
+		"rare": [
+			"とどろ"
+		],
+		"okurigana": [
+			"とどろ.かす",
+			"とどろ.く"
+		]
 	},
 	"frequency": {
 		"mean": 2292,

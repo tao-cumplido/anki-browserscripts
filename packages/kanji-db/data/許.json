@@ -1,17 +1,28 @@
 {
 	"kanji": "許",
-	"meanings": ["permit", "approve"],
+	"meanings": [
+		"permit",
+		"approve"
+	],
 	"keyword": "permit",
 	"onyomi": {
-		"frequent": ["キョ"],
+		"frequent": [
+			"キョ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ゆる"],
+		"frequent": [
+			"ゆる"
+		],
 		"common": [],
-		"rare": ["もと"],
-		"okurigana": ["ゆる.す"]
+		"rare": [
+			"もと"
+		],
+		"okurigana": [
+			"ゆる.す"
+		]
 	},
 	"frequency": {
 		"mean": 802,

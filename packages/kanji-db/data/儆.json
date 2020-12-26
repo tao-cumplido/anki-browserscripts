@@ -1,16 +1,26 @@
 {
 	"kanji": "儆",
-	"meanings": ["warn", "warning"],
+	"meanings": [
+		"warn",
+		"warning"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ケイ", "ショウ"],
+		"common": [
+			"ケイ",
+			"ショウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["いまし"],
+		"common": [
+			"いまし"
+		],
 		"rare": [],
-		"okurigana": ["いまし.める"]
+		"okurigana": [
+			"いまし.める"
+		]
 	},
 	"frequency": {
 		"mean": 4478,

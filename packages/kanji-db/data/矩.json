@@ -1,16 +1,25 @@
 {
 	"kanji": "矩",
-	"meanings": ["ruler", "carpenter's square"],
+	"meanings": [
+		"ruler",
+		"carpenter's square"
+	],
 	"keyword": "carpenter’s square",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ク"]
+		"rare": [
+			"ク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かね", "かねざし", "さしがね"],
+		"rare": [
+			"かね",
+			"かねざし",
+			"さしがね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

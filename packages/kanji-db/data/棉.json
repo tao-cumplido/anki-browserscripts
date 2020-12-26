@@ -1,16 +1,22 @@
 {
 	"kanji": "棉",
-	"meanings": ["cotton"],
+	"meanings": [
+		"cotton"
+	],
 	"keyword": "raw cotton",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["メン"]
+		"rare": [
+			"メン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わた"],
+		"rare": [
+			"わた"
+		],
 		"okurigana": []
 	},
 	"frequency": {

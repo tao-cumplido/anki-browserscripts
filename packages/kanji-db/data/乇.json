@@ -1,10 +1,16 @@
 {
 	"kanji": "乇",
-	"meanings": ["to depend on", "to entrust with"],
+	"meanings": [
+		"to depend on",
+		"to entrust with"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["タク", "チャク"]
+		"rare": [
+			"タク",
+			"チャク"
+		]
 	},
 	"frequency": {
 		"mean": 4533,

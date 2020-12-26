@@ -1,17 +1,28 @@
 {
 	"kanji": "鎧",
-	"meanings": ["put on armor", "arm oneself"],
+	"meanings": [
+		"put on armor",
+		"arm oneself"
+	],
 	"keyword": "suit of armor",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カイ", "ガイ"]
+		"rare": [
+			"カイ",
+			"ガイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よろ", "よろい"],
-		"okurigana": ["よろ.う"]
+		"rare": [
+			"よろ",
+			"よろい"
+		],
+		"okurigana": [
+			"よろ.う"
+		]
 	},
 	"frequency": {
 		"mean": 2138,

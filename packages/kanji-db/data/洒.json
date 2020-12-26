@@ -1,17 +1,32 @@
 {
 	"kanji": "洒",
-	"meanings": ["wash", "sprinkle"],
+	"meanings": [
+		"wash",
+		"sprinkle"
+	],
 	"keyword": "rinse",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シャ", "ソン", "サイ", "セン", "セイ"]
+		"rare": [
+			"シャ",
+			"ソン",
+			"サイ",
+			"セン",
+			"セイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すす", "あら"],
-		"okurigana": ["すす.ぐ", "あら.う"]
+		"rare": [
+			"すす",
+			"あら"
+		],
+		"okurigana": [
+			"すす.ぐ",
+			"あら.う"
+		]
 	},
 	"frequency": {
 		"mean": 2690,

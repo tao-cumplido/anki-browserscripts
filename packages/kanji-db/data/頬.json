@@ -1,16 +1,24 @@
 {
 	"kanji": "頬",
-	"meanings": ["cheeks", "jaw"],
+	"meanings": [
+		"cheeks",
+		"jaw"
+	],
 	"keyword": "cheek",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ"]
+		"rare": [
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほお", "ほほ"],
+		"rare": [
+			"ほお",
+			"ほほ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

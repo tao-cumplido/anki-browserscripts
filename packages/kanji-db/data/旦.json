@@ -1,17 +1,32 @@
 {
 	"kanji": "旦",
-	"meanings": ["daybreak", "dawn", "morning"],
+	"meanings": [
+		"daybreak",
+		"dawn",
+		"morning"
+	],
 	"keyword": "nightbreak",
 	"onyomi": {
-		"frequent": ["タン", "ダン"],
+		"frequent": [
+			"タン",
+			"ダン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あき", "あきら", "ただし", "あさ", "あした"],
-		"okurigana": ["あき.らか"]
+		"rare": [
+			"あき",
+			"あきら",
+			"ただし",
+			"あさ",
+			"あした"
+		],
+		"okurigana": [
+			"あき.らか"
+		]
 	},
 	"frequency": {
 		"mean": 1554,

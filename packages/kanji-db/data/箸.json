@@ -1,14 +1,21 @@
 {
 	"kanji": "箸",
-	"meanings": ["chopsticks"],
+	"meanings": [
+		"chopsticks"
+	],
 	"keyword": "chopsticks",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョ", "チャク"]
+		"rare": [
+			"チョ",
+			"チャク"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["はし"],
+		"frequent": [
+			"はし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

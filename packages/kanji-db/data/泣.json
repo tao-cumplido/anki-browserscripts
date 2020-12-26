@@ -1,17 +1,27 @@
 {
 	"kanji": "泣",
-	"meanings": ["cry", "weep", "moan"],
+	"meanings": [
+		"cry",
+		"weep",
+		"moan"
+	],
 	"keyword": "cry",
 	"onyomi": {
-		"frequent": ["キュウ"],
+		"frequent": [
+			"キュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["な"],
+		"frequent": [
+			"な"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["な.く"]
+		"okurigana": [
+			"な.く"
+		]
 	},
 	"frequency": {
 		"mean": 1372,

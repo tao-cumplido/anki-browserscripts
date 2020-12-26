@@ -1,17 +1,39 @@
 {
 	"kanji": "縁",
-	"meanings": ["affinity", "relation", "connection", "edge", "border", "verge", "brink"],
+	"meanings": [
+		"affinity",
+		"relation",
+		"connection",
+		"edge",
+		"border",
+		"verge",
+		"brink"
+	],
 	"keyword": "affinity",
 	"onyomi": {
-		"frequent": ["エン"],
+		"frequent": [
+			"エン"
+		],
 		"common": [],
-		"rare": ["-ネン"]
+		"rare": [
+			"-ネン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ふち"],
+		"frequent": [
+			"ふち"
+		],
 		"common": [],
-		"rare": ["ふちど", "ゆかり", "よすが", "へり", "えにし"],
-		"okurigana": ["ふちど.る"]
+		"rare": [
+			"ふちど",
+			"ゆかり",
+			"よすが",
+			"へり",
+			"えにし"
+		],
+		"okurigana": [
+			"ふちど.る"
+		]
 	},
 	"frequency": {
 		"mean": 1134,

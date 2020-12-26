@@ -1,17 +1,31 @@
 {
 	"kanji": "量",
-	"meanings": ["quantity", "measure", "weight", "amount", "consider", "estimate", "surmise"],
+	"meanings": [
+		"quantity",
+		"measure",
+		"weight",
+		"amount",
+		"consider",
+		"estimate",
+		"surmise"
+	],
 	"keyword": "quantity",
 	"onyomi": {
-		"frequent": ["リョウ"],
+		"frequent": [
+			"リョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はか"],
+		"frequent": [
+			"はか"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["はか.る"]
+		"okurigana": [
+			"はか.る"
+		]
 	},
 	"frequency": {
 		"mean": 500,

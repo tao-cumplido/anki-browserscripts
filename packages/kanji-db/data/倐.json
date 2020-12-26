@@ -1,9 +1,14 @@
 {
 	"kanji": "倐",
-	"meanings": ["hastily", "suddenly"],
+	"meanings": [
+		"hastily",
+		"suddenly"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["シュク"],
+		"common": [
+			"シュク"
+		],
 		"rare": []
 	},
 	"frequency": {

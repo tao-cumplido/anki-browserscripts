@@ -1,16 +1,23 @@
 {
 	"kanji": "鉱",
-	"meanings": ["mineral", "ore"],
+	"meanings": [
+		"mineral",
+		"ore"
+	],
 	"keyword": "mineral",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あらがね"],
+		"rare": [
+			"あらがね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

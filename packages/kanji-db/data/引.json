@@ -1,17 +1,32 @@
 {
 	"kanji": "引",
-	"meanings": ["pull", "tug", "jerk", "admit", "install", "quote", "refer to"],
+	"meanings": [
+		"pull",
+		"tug",
+		"jerk",
+		"admit",
+		"install",
+		"quote",
+		"refer to"
+	],
 	"keyword": "pull",
 	"onyomi": {
-		"frequent": ["イン"],
+		"frequent": [
+			"イン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひ"],
+		"frequent": [
+			"ひ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ひ.く", "ひ.ける"]
+		"okurigana": [
+			"ひ.く",
+			"ひ.ける"
+		]
 	},
 	"frequency": {
 		"mean": 332,

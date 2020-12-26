@@ -1,17 +1,27 @@
 {
 	"kanji": "劣",
-	"meanings": ["inferiority", "be inferior to", "be worse"],
+	"meanings": [
+		"inferiority",
+		"be inferior to",
+		"be worse"
+	],
 	"keyword": "inferiority",
 	"onyomi": {
-		"frequent": ["レツ"],
+		"frequent": [
+			"レツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おと"],
+		"frequent": [
+			"おと"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おと.る"]
+		"okurigana": [
+			"おと.る"
+		]
 	},
 	"frequency": {
 		"mean": 1687,

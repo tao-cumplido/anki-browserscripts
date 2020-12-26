@@ -1,17 +1,29 @@
 {
 	"kanji": "半",
-	"meanings": ["half", "middle", "odd number", "semi-", "part-"],
+	"meanings": [
+		"half",
+		"middle",
+		"odd number",
+		"semi-",
+		"part-"
+	],
 	"keyword": "half",
 	"onyomi": {
-		"frequent": ["ハン"],
+		"frequent": [
+			"ハン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["なか"],
+		"frequent": [
+			"なか"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["なか.ば"]
+		"okurigana": [
+			"なか.ば"
+		]
 	},
 	"frequency": {
 		"mean": 432,

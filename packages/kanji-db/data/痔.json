@@ -1,16 +1,24 @@
 {
 	"kanji": "痔",
-	"meanings": ["piles", "hemorrhoids"],
+	"meanings": [
+		"piles",
+		"hemorrhoids"
+	],
 	"keyword": "hemorrhoids",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヂ", "ジ"]
+		"rare": [
+			"ヂ",
+			"ジ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しもがさ"],
+		"rare": [
+			"しもがさ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

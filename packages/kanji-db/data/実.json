@@ -1,17 +1,36 @@
 {
 	"kanji": "実",
-	"meanings": ["reality", "truth", "seed", "fruit", "nut"],
+	"meanings": [
+		"reality",
+		"truth",
+		"seed",
+		"fruit",
+		"nut"
+	],
 	"keyword": "reality",
 	"onyomi": {
-		"frequent": ["ジツ"],
+		"frequent": [
+			"ジツ"
+		],
 		"common": [],
-		"rare": ["シツ"]
+		"rare": [
+			"シツ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["み", "みの"],
+		"frequent": [
+			"み",
+			"みの"
+		],
 		"common": [],
-		"rare": ["まこと", "みち"],
-		"okurigana": ["みの.る", "みち.る"]
+		"rare": [
+			"まこと",
+			"みち"
+		],
+		"okurigana": [
+			"みの.る",
+			"みち.る"
+		]
 	},
 	"frequency": {
 		"mean": 148,

@@ -1,17 +1,28 @@
 {
 	"kanji": "渾",
-	"meanings": ["all", "turbidity"],
+	"meanings": [
+		"all",
+		"turbidity"
+	],
 	"keyword": "gushing",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コン"]
+		"rare": [
+			"コン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すべ", "にご"],
-		"okurigana": ["すべ.て", "にご.る"]
+		"rare": [
+			"すべ",
+			"にご"
+		],
+		"okurigana": [
+			"すべ.て",
+			"にご.る"
+		]
 	},
 	"frequency": {
 		"mean": 2489,

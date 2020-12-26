@@ -1,17 +1,34 @@
 {
 	"kanji": "扱",
-	"meanings": ["handle", "entertain", "thresh", "strip"],
+	"meanings": [
+		"handle",
+		"entertain",
+		"thresh",
+		"strip"
+	],
 	"keyword": "handle",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ", "キュウ"]
+		"rare": [
+			"ソウ",
+			"キュウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["あつか"],
+		"frequent": [
+			"あつか"
+		],
 		"common": [],
-		"rare": ["こ"],
-		"okurigana": ["あつか.い", "あつか.う", "あつか.る", "こ.く"]
+		"rare": [
+			"こ"
+		],
+		"okurigana": [
+			"あつか.い",
+			"あつか.う",
+			"あつか.る",
+			"こ.く"
+		]
 	},
 	"frequency": {
 		"mean": 858,

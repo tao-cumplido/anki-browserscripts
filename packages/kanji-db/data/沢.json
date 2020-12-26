@@ -1,17 +1,32 @@
 {
 	"kanji": "沢",
-	"meanings": ["swamp", "marsh", "brilliance", "grace"],
+	"meanings": [
+		"swamp",
+		"marsh",
+		"brilliance",
+		"grace"
+	],
 	"keyword": "swamp",
 	"onyomi": {
-		"frequent": ["タク"],
+		"frequent": [
+			"タク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さわ"],
+		"frequent": [
+			"さわ"
+		],
 		"common": [],
-		"rare": ["うるお", "つや"],
-		"okurigana": ["うるお.い", "うるお.す"]
+		"rare": [
+			"うるお",
+			"つや"
+		],
+		"okurigana": [
+			"うるお.い",
+			"うるお.す"
+		]
 	},
 	"frequency": {
 		"mean": 418,

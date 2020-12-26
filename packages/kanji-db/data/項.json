@@ -1,16 +1,26 @@
 {
 	"kanji": "項",
-	"meanings": ["paragraph", "nape of neck", "clause", "item", "term (expression)"],
+	"meanings": [
+		"paragraph",
+		"nape of neck",
+		"clause",
+		"item",
+		"term (expression)"
+	],
 	"keyword": "paragraph",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うなじ"],
+		"rare": [
+			"うなじ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

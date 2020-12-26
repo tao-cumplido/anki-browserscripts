@@ -1,17 +1,28 @@
 {
 	"kanji": "捉",
-	"meanings": ["catch", "capture"],
+	"meanings": [
+		"catch",
+		"capture"
+	],
 	"keyword": "nab",
 	"onyomi": {
-		"frequent": ["ソク"],
+		"frequent": [
+			"ソク"
+		],
 		"common": [],
-		"rare": ["サク"]
+		"rare": [
+			"サク"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["とら"],
+		"frequent": [
+			"とら"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["とら.える"]
+		"okurigana": [
+			"とら.える"
+		]
 	},
 	"frequency": {
 		"mean": 1975,

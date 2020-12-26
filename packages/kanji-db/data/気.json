@@ -1,16 +1,27 @@
 {
 	"kanji": "気",
-	"meanings": ["spirit", "mind", "air", "atmosphere", "mood"],
+	"meanings": [
+		"spirit",
+		"mind",
+		"air",
+		"atmosphere",
+		"mood"
+	],
 	"keyword": "spirit",
 	"onyomi": {
-		"frequent": ["キ", "ケ"],
+		"frequent": [
+			"キ",
+			"ケ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いき"],
+		"rare": [
+			"いき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

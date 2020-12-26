@@ -1,17 +1,32 @@
 {
 	"kanji": "趨",
-	"meanings": ["run", "go", "quick", "tend towards"],
+	"meanings": [
+		"run",
+		"go",
+		"quick",
+		"tend towards"
+	],
 	"keyword": "scurry",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["スウ", "ソク"]
+		"rare": [
+			"スウ",
+			"ソク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しゅ", "おもむ", "はし"],
-		"okurigana": ["おもむ.く", "はし.る"]
+		"rare": [
+			"しゅ",
+			"おもむ",
+			"はし"
+		],
+		"okurigana": [
+			"おもむ.く",
+			"はし.る"
+		]
 	},
 	"frequency": {
 		"mean": 3581,

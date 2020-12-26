@@ -1,17 +1,33 @@
 {
 	"kanji": "射",
-	"meanings": ["shoot", "shine into", "onto", "archery"],
+	"meanings": [
+		"shoot",
+		"shine into",
+		"onto",
+		"archery"
+	],
 	"keyword": "shoot",
 	"onyomi": {
-		"frequent": ["シャ"],
+		"frequent": [
+			"シャ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["い"],
+		"frequent": [
+			"い"
+		],
 		"common": [],
-		"rare": ["さ", "う"],
-		"okurigana": ["い.る", "さ.す", "う.つ"]
+		"rare": [
+			"さ",
+			"う"
+		],
+		"okurigana": [
+			"い.る",
+			"さ.す",
+			"う.つ"
+		]
 	},
 	"frequency": {
 		"mean": 731,

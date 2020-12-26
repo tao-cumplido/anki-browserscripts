@@ -1,17 +1,25 @@
 {
 	"kanji": "諮",
-	"meanings": ["consult with"],
+	"meanings": [
+		"consult with"
+	],
 	"keyword": "consult with",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はか"],
+		"frequent": [
+			"はか"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["はか.る"]
+		"okurigana": [
+			"はか.る"
+		]
 	},
 	"frequency": {
 		"mean": 2649,

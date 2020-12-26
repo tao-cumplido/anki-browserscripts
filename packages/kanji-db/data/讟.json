@@ -1,0 +1,29 @@
+{
+	"kanji": "讟",
+	"meanings": [
+		"slander",
+		"utter evil words"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"トク",
+			"トウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"うら"
+		],
+		"rare": [],
+		"okurigana": [
+			"うら.む"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

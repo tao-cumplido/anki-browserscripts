@@ -1,14 +1,23 @@
 {
 	"kanji": "池",
-	"meanings": ["pond", "cistern", "pool", "reservoir"],
+	"meanings": [
+		"pond",
+		"cistern",
+		"pool",
+		"reservoir"
+	],
 	"keyword": "pond",
 	"onyomi": {
-		"frequent": ["チ"],
+		"frequent": [
+			"チ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いけ"],
+		"frequent": [
+			"いけ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

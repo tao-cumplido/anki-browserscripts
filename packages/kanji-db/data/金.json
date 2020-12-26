@@ -1,16 +1,29 @@
 {
 	"kanji": "金",
-	"meanings": ["gold"],
+	"meanings": [
+		"gold"
+	],
 	"keyword": "gold",
 	"onyomi": {
-		"frequent": ["キン", "コン"],
+		"frequent": [
+			"キン",
+			"コン"
+		],
 		"common": [],
-		"rare": ["ゴン"]
+		"rare": [
+			"ゴン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["かね"],
-		"common": ["かな"],
-		"rare": ["がね"],
+		"frequent": [
+			"かね"
+		],
+		"common": [
+			"かな"
+		],
+		"rare": [
+			"がね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,16 +1,28 @@
 {
 	"kanji": "輩",
-	"meanings": ["comrade", "fellow", "people", "companions"],
+	"meanings": [
+		"comrade",
+		"fellow",
+		"people",
+		"companions"
+	],
 	"keyword": "comrade",
 	"onyomi": {
-		"frequent": ["ハイ"],
+		"frequent": [
+			"ハイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ばら", "やから", "やかい", "ともがら"],
+		"rare": [
+			"ばら",
+			"やから",
+			"やかい",
+			"ともがら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

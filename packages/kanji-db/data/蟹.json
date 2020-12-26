@@ -1,16 +1,22 @@
 {
 	"kanji": "蟹",
-	"meanings": ["crab"],
+	"meanings": [
+		"crab"
+	],
 	"keyword": "crab",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カイ"]
+		"rare": [
+			"カイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かに"],
+		"rare": [
+			"かに"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,36 @@
 {
 	"kanji": "冷",
-	"meanings": ["cool", "cold (beer, person)", "chill"],
+	"meanings": [
+		"cool",
+		"cold (beer, person)",
+		"chill"
+	],
 	"keyword": "cool",
 	"onyomi": {
-		"frequent": ["レイ"],
+		"frequent": [
+			"レイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つめ", "ひ", "さ"],
+		"frequent": [
+			"つめ",
+			"ひ",
+			"さ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["つめ.たい", "ひ.える", "ひ.や", "ひ.ややか", "ひ.やす", "ひ.やかす", "さ.める", "さ.ます"]
+		"okurigana": [
+			"つめ.たい",
+			"ひ.える",
+			"ひ.や",
+			"ひ.ややか",
+			"ひ.やす",
+			"ひ.やかす",
+			"さ.める",
+			"さ.ます"
+		]
 	},
 	"frequency": {
 		"mean": 1038,

@@ -1,14 +1,23 @@
 {
 	"kanji": "穂",
-	"meanings": ["ear", "ear (grain)", "head", "crest (wave)"],
+	"meanings": [
+		"ear",
+		"ear (grain)",
+		"head",
+		"crest (wave)"
+	],
 	"keyword": "ear of a plant",
 	"onyomi": {
-		"frequent": ["スイ"],
+		"frequent": [
+			"スイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほ"],
+		"frequent": [
+			"ほ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

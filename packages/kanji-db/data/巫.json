@@ -1,16 +1,25 @@
 {
 	"kanji": "巫",
-	"meanings": ["sorcerer", "medium", "shrine maiden"],
+	"meanings": [
+		"sorcerer",
+		"medium",
+		"shrine maiden"
+	],
 	"keyword": "sorceress",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フ"]
+		"rare": [
+			"フ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みこ", "かんなぎ"],
+		"rare": [
+			"みこ",
+			"かんなぎ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

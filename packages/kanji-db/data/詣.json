@@ -1,17 +1,36 @@
 {
 	"kanji": "詣",
-	"meanings": ["visit a temple", "arrive", "attain"],
+	"meanings": [
+		"visit a temple",
+		"arrive",
+		"attain"
+	],
 	"keyword": "visit a shrine",
 	"onyomi": {
-		"frequent": ["ケイ"],
+		"frequent": [
+			"ケイ"
+		],
 		"common": [],
-		"rare": ["ゲイ"]
+		"rare": [
+			"ゲイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["もう"],
+		"frequent": [
+			"もう"
+		],
 		"common": [],
-		"rare": ["けい", "まい", "いた"],
-		"okurigana": ["けい.する", "まい.る", "いた.る", "もう.でる"]
+		"rare": [
+			"けい",
+			"まい",
+			"いた"
+		],
+		"okurigana": [
+			"けい.する",
+			"まい.る",
+			"いた.る",
+			"もう.でる"
+		]
 	},
 	"frequency": {
 		"mean": 2243,

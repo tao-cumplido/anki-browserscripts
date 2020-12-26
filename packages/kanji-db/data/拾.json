@@ -1,17 +1,30 @@
 {
 	"kanji": "拾",
-	"meanings": ["pick up", "gather", "find", "go on foot", "ten"],
+	"meanings": [
+		"pick up",
+		"gather",
+		"find",
+		"go on foot",
+		"ten"
+	],
 	"keyword": "pick up",
 	"onyomi": {
-		"frequent": ["シュウ", "ジュウ"],
+		"frequent": [
+			"シュウ",
+			"ジュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひろ"],
+		"frequent": [
+			"ひろ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ひろ.う"]
+		"okurigana": [
+			"ひろ.う"
+		]
 	},
 	"frequency": {
 		"mean": 1786,

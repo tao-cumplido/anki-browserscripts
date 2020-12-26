@@ -1,16 +1,22 @@
 {
 	"kanji": "薯",
-	"meanings": ["potato"],
+	"meanings": [
+		"potato"
+	],
 	"keyword": "yam",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショ"]
+		"rare": [
+			"ショ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いも"],
+		"rare": [
+			"いも"
+		],
 		"okurigana": []
 	},
 	"frequency": {

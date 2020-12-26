@@ -1,15 +1,27 @@
 {
 	"kanji": "苗",
-	"meanings": ["seedling", "sapling", "shoot"],
+	"meanings": [
+		"seedling",
+		"sapling",
+		"shoot"
+	],
 	"keyword": "seedling",
 	"onyomi": {
-		"frequent": ["ビョウ"],
+		"frequent": [
+			"ビョウ"
+		],
 		"common": [],
-		"rare": ["ミョウ"]
+		"rare": [
+			"ミョウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["なえ"],
-		"common": ["なわ"],
+		"frequent": [
+			"なえ"
+		],
+		"common": [
+			"なわ"
+		],
 		"rare": [],
 		"okurigana": []
 	},

@@ -1,17 +1,25 @@
 {
 	"kanji": "贖",
-	"meanings": ["redeem"],
+	"meanings": [
+		"redeem"
+	],
 	"keyword": "expiate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショク"]
+		"rare": [
+			"ショク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あがな"],
-		"okurigana": ["あがな.う"]
+		"rare": [
+			"あがな"
+		],
+		"okurigana": [
+			"あがな.う"
+		]
 	},
 	"frequency": {
 		"mean": 3186,

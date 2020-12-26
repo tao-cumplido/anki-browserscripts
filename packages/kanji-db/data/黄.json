@@ -1,15 +1,24 @@
 {
 	"kanji": "黄",
-	"meanings": ["yellow"],
+	"meanings": [
+		"yellow"
+	],
 	"keyword": "yellow",
 	"onyomi": {
-		"frequent": ["コウ", "オウ"],
+		"frequent": [
+			"コウ",
+			"オウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["き"],
-		"common": ["こ"],
+		"frequent": [
+			"き"
+		],
+		"common": [
+			"こ"
+		],
 		"rare": [],
 		"okurigana": []
 	},

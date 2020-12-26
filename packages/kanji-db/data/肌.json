@@ -1,14 +1,23 @@
 {
 	"kanji": "肌",
-	"meanings": ["texture", "skin", "body", "grain"],
+	"meanings": [
+		"texture",
+		"skin",
+		"body",
+		"grain"
+	],
 	"keyword": "texture",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キ"]
+		"rare": [
+			"キ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["はだ"],
+		"frequent": [
+			"はだ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

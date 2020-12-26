@@ -1,17 +1,30 @@
 {
 	"kanji": "釈",
-	"meanings": ["explanation"],
+	"meanings": [
+		"explanation"
+	],
 	"keyword": "interpretation",
 	"onyomi": {
-		"frequent": ["シャク"],
+		"frequent": [
+			"シャク"
+		],
 		"common": [],
-		"rare": ["セキ"]
+		"rare": [
+			"セキ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とく", "す", "ゆる"],
-		"okurigana": ["す.てる", "ゆる.す"]
+		"rare": [
+			"とく",
+			"す",
+			"ゆる"
+		],
+		"okurigana": [
+			"す.てる",
+			"ゆる.す"
+		]
 	},
 	"frequency": {
 		"mean": 982,

@@ -1,17 +1,31 @@
 {
 	"kanji": "唆",
-	"meanings": ["tempt", "seduce", "instigate", "promote"],
+	"meanings": [
+		"tempt",
+		"seduce",
+		"instigate",
+		"promote"
+	],
 	"keyword": "tempt",
 	"onyomi": {
-		"frequent": ["サ"],
+		"frequent": [
+			"サ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["そそのか"],
+		"frequent": [
+			"そそのか"
+		],
 		"common": [],
-		"rare": ["そそ"],
-		"okurigana": ["そそ.る", "そそのか.す"]
+		"rare": [
+			"そそ"
+		],
+		"okurigana": [
+			"そそ.る",
+			"そそのか.す"
+		]
 	},
 	"frequency": {
 		"mean": 2137,

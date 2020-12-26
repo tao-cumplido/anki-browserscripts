@@ -1,17 +1,28 @@
 {
 	"kanji": "悦",
-	"meanings": ["ecstasy", "joy", "rapture"],
+	"meanings": [
+		"ecstasy",
+		"joy",
+		"rapture"
+	],
 	"keyword": "ecstasy",
 	"onyomi": {
-		"frequent": ["エツ"],
+		"frequent": [
+			"エツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よろこ"],
-		"okurigana": ["よろこ.ぶ", "よろこ.ばす"]
+		"rare": [
+			"よろこ"
+		],
+		"okurigana": [
+			"よろこ.ぶ",
+			"よろこ.ばす"
+		]
 	},
 	"frequency": {
 		"mean": 1858,

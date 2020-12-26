@@ -1,16 +1,24 @@
 {
 	"kanji": "鏑",
-	"meanings": ["arrowhead"],
+	"meanings": [
+		"arrowhead"
+	],
 	"keyword": "arrowhead",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テキ"]
+		"rare": [
+			"テキ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かぶら", "かぶらや", "やじり"],
+		"rare": [
+			"かぶら",
+			"かぶらや",
+			"やじり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

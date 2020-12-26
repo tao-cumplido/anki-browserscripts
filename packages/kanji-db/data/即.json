@@ -1,17 +1,33 @@
 {
 	"kanji": "即",
-	"meanings": ["instant", "namely", "as is", "conform", "agree", "adapt"],
+	"meanings": [
+		"instant",
+		"namely",
+		"as is",
+		"conform",
+		"agree",
+		"adapt"
+	],
 	"keyword": "instant",
 	"onyomi": {
-		"frequent": ["ソク"],
+		"frequent": [
+			"ソク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つ", "すなわ"],
-		"okurigana": ["つ.く", "つ.ける", "すなわ.ち"]
+		"rare": [
+			"つ",
+			"すなわ"
+		],
+		"okurigana": [
+			"つ.く",
+			"つ.ける",
+			"すなわ.ち"
+		]
 	},
 	"frequency": {
 		"mean": 986,

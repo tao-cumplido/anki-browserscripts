@@ -1,16 +1,23 @@
 {
 	"kanji": "璧",
-	"meanings": ["sphere", "ball"],
+	"meanings": [
+		"sphere",
+		"ball"
+	],
 	"keyword": "holed gem",
 	"onyomi": {
-		"frequent": ["ヘキ"],
+		"frequent": [
+			"ヘキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たま"],
+		"rare": [
+			"たま"
+		],
 		"okurigana": []
 	},
 	"frequency": {

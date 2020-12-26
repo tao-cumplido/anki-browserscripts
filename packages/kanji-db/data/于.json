@@ -1,15 +1,28 @@
 {
 	"kanji": "于",
-	"meanings": ["going", "from"],
+	"meanings": [
+		"going",
+		"from"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ウ", "ク"]
+		"rare": [
+			"ウ",
+			"ク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ここに", "ああ", "おいて", "に", "より", "を"],
+		"rare": [
+			"ここに",
+			"ああ",
+			"おいて",
+			"に",
+			"より",
+			"を"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,28 @@
 {
 	"kanji": "健",
-	"meanings": ["healthy", "health", "strength", "persistence"],
+	"meanings": [
+		"healthy",
+		"health",
+		"strength",
+		"persistence"
+	],
 	"keyword": "healthy",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["すこ"],
+		"frequent": [
+			"すこ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["すこ.やか"]
+		"okurigana": [
+			"すこ.やか"
+		]
 	},
 	"frequency": {
 		"mean": 687,

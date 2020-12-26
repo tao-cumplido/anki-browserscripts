@@ -1,17 +1,28 @@
 {
 	"kanji": "咎",
-	"meanings": ["blame", "censure", "reprimand"],
+	"meanings": [
+		"blame",
+		"censure",
+		"reprimand"
+	],
 	"keyword": "reprehend",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キュウ", "コウ"]
+		"rare": [
+			"キュウ",
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とが"],
-		"okurigana": ["とが.める"]
+		"rare": [
+			"とが"
+		],
+		"okurigana": [
+			"とが.める"
+		]
 	},
 	"frequency": {
 		"mean": 2680,

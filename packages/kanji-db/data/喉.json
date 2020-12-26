@@ -1,14 +1,21 @@
 {
 	"kanji": "喉",
-	"meanings": ["throat", "voice"],
+	"meanings": [
+		"throat",
+		"voice"
+	],
 	"keyword": "throat",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["のど"],
+		"frequent": [
+			"のど"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

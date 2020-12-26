@@ -1,17 +1,32 @@
 {
 	"kanji": "企",
-	"meanings": ["undertake", "scheme", "design", "attempt", "plan"],
+	"meanings": [
+		"undertake",
+		"scheme",
+		"design",
+		"attempt",
+		"plan"
+	],
 	"keyword": "undertake",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くわだ"],
+		"frequent": [
+			"くわだ"
+		],
 		"common": [],
-		"rare": ["たくら"],
-		"okurigana": ["くわだ.てる", "たくら.む"]
+		"rare": [
+			"たくら"
+		],
+		"okurigana": [
+			"くわだ.てる",
+			"たくら.む"
+		]
 	},
 	"frequency": {
 		"mean": 464,

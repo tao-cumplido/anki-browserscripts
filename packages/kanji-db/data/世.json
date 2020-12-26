@@ -1,14 +1,26 @@
 {
 	"kanji": "世",
-	"meanings": ["generation", "world", "society", "public"],
+	"meanings": [
+		"generation",
+		"world",
+		"society",
+		"public"
+	],
 	"keyword": "generation",
 	"onyomi": {
-		"frequent": ["セイ", "セ"],
+		"frequent": [
+			"セイ",
+			"セ"
+		],
 		"common": [],
-		"rare": ["ソウ"]
+		"rare": [
+			"ソウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["よ"],
+		"frequent": [
+			"よ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

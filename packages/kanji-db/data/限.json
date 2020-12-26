@@ -1,17 +1,28 @@
 {
 	"kanji": "限",
-	"meanings": ["limit", "restrict", "to best of ability"],
+	"meanings": [
+		"limit",
+		"restrict",
+		"to best of ability"
+	],
 	"keyword": "limit",
 	"onyomi": {
-		"frequent": ["ゲン"],
+		"frequent": [
+			"ゲン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かぎ"],
+		"frequent": [
+			"かぎ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かぎ.る", "かぎ.り"]
+		"okurigana": [
+			"かぎ.る",
+			"かぎ.り"
+		]
 	},
 	"frequency": {
 		"mean": 416,

@@ -1,17 +1,28 @@
 {
 	"kanji": "逓",
-	"meanings": ["relay", "in turn", "sending"],
+	"meanings": [
+		"relay",
+		"in turn",
+		"sending"
+	],
 	"keyword": "parcel post",
 	"onyomi": {
-		"frequent": ["テイ"],
+		"frequent": [
+			"テイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かわ", "たがいに"],
-		"okurigana": ["かわ.る"]
+		"rare": [
+			"かわ",
+			"たがいに"
+		],
+		"okurigana": [
+			"かわ.る"
+		]
 	},
 	"frequency": {
 		"mean": 2623,

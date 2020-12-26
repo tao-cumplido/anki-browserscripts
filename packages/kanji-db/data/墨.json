@@ -1,14 +1,23 @@
 {
 	"kanji": "墨",
-	"meanings": ["black ink", "India ink", "ink stick", "Mexico"],
+	"meanings": [
+		"black ink",
+		"India ink",
+		"ink stick",
+		"Mexico"
+	],
 	"keyword": "black ink",
 	"onyomi": {
-		"frequent": ["ボク"],
+		"frequent": [
+			"ボク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["すみ"],
+		"frequent": [
+			"すみ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

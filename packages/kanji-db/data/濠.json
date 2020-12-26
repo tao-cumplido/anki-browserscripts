@@ -1,16 +1,26 @@
 {
 	"kanji": "濠",
-	"meanings": ["moat", "ditch", "canal", "Australia"],
+	"meanings": [
+		"moat",
+		"ditch",
+		"canal",
+		"Australia"
+	],
 	"keyword": "moat",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゴウ", "コウ"]
+		"rare": [
+			"ゴウ",
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほり"],
+		"rare": [
+			"ほり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

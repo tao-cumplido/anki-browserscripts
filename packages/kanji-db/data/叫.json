@@ -1,17 +1,27 @@
 {
 	"kanji": "叫",
-	"meanings": ["shout", "exclaim", "yell"],
+	"meanings": [
+		"shout",
+		"exclaim",
+		"yell"
+	],
 	"keyword": "shout",
 	"onyomi": {
-		"frequent": ["キョウ"],
+		"frequent": [
+			"キョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さけ"],
+		"frequent": [
+			"さけ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["さけ.ぶ"]
+		"okurigana": [
+			"さけ.ぶ"
+		]
 	},
 	"frequency": {
 		"mean": 1650,

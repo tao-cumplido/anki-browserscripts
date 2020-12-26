@@ -1,17 +1,27 @@
 {
 	"kanji": "捗",
-	"meanings": ["make progress"],
+	"meanings": [
+		"make progress"
+	],
 	"keyword": "make headway",
 	"onyomi": {
-		"frequent": ["チョク"],
+		"frequent": [
+			"チョク"
+		],
 		"common": [],
-		"rare": ["ホ"]
+		"rare": [
+			"ホ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はかど"],
-		"okurigana": ["はかど.る"]
+		"rare": [
+			"はかど"
+		],
+		"okurigana": [
+			"はかど.る"
+		]
 	},
 	"frequency": {
 		"mean": 3052,

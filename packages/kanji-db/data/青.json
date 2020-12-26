@@ -1,17 +1,28 @@
 {
 	"kanji": "青",
-	"meanings": ["blue", "green"],
+	"meanings": [
+		"blue",
+		"green"
+	],
 	"keyword": "blue",
 	"onyomi": {
-		"frequent": ["セイ"],
-		"common": ["ショウ"],
+		"frequent": [
+			"セイ"
+		],
+		"common": [
+			"ショウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あお"],
+		"frequent": [
+			"あお"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あお.い"]
+		"okurigana": [
+			"あお.い"
+		]
 	},
 	"frequency": {
 		"mean": 359,

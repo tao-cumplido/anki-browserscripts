@@ -1,14 +1,22 @@
 {
 	"kanji": "花",
-	"meanings": ["flower"],
+	"meanings": [
+		"flower"
+	],
 	"keyword": "flower",
 	"onyomi": {
-		"frequent": ["カ"],
+		"frequent": [
+			"カ"
+		],
 		"common": [],
-		"rare": ["ケ"]
+		"rare": [
+			"ケ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["はな"],
+		"frequent": [
+			"はな"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

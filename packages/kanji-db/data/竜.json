@@ -1,16 +1,28 @@
 {
 	"kanji": "竜",
-	"meanings": ["dragon", "imperial"],
+	"meanings": [
+		"dragon",
+		"imperial"
+	],
 	"keyword": "dragon",
 	"onyomi": {
-		"frequent": ["リュウ"],
+		"frequent": [
+			"リュウ"
+		],
 		"common": [],
-		"rare": ["リョウ", "ロウ"]
+		"rare": [
+			"リョウ",
+			"ロウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["たつ"],
+		"frequent": [
+			"たつ"
+		],
 		"common": [],
-		"rare": ["いせ"],
+		"rare": [
+			"いせ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

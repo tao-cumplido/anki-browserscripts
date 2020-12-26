@@ -1,14 +1,22 @@
 {
 	"kanji": "庭",
-	"meanings": ["courtyard", "garden", "yard"],
+	"meanings": [
+		"courtyard",
+		"garden",
+		"yard"
+	],
 	"keyword": "courtyard",
 	"onyomi": {
-		"frequent": ["テイ"],
+		"frequent": [
+			"テイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["にわ"],
+		"frequent": [
+			"にわ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

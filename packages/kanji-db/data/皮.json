@@ -1,14 +1,24 @@
 {
 	"kanji": "皮",
-	"meanings": ["pelt", "skin", "hide", "leather", "skin radical (no. 107)"],
+	"meanings": [
+		"pelt",
+		"skin",
+		"hide",
+		"leather",
+		"skin radical (no. 107)"
+	],
 	"keyword": "pelt",
 	"onyomi": {
-		"frequent": ["ヒ"],
+		"frequent": [
+			"ヒ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かわ"],
+		"frequent": [
+			"かわ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

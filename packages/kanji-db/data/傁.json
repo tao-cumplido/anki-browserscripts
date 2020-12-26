@@ -1,14 +1,21 @@
 {
 	"kanji": "傁",
-	"meanings": ["old man"],
+	"meanings": [
+		"old man"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ソウ", "ス"],
+		"common": [
+			"ソウ",
+			"ス"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["おきな"],
+		"common": [
+			"おきな"
+		],
 		"rare": [],
 		"okurigana": []
 	},

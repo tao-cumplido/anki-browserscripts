@@ -1,16 +1,32 @@
 {
 	"kanji": "際",
-	"meanings": ["occasion", "side", "edge", "verge", "dangerous", "adventurous", "indecent", "time", "when"],
+	"meanings": [
+		"occasion",
+		"side",
+		"edge",
+		"verge",
+		"dangerous",
+		"adventurous",
+		"indecent",
+		"time",
+		"when"
+	],
 	"keyword": "occasion",
 	"onyomi": {
-		"frequent": ["サイ"],
+		"frequent": [
+			"サイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["きわ"],
+		"frequent": [
+			"きわ"
+		],
 		"common": [],
-		"rare": ["ぎわ"],
+		"rare": [
+			"ぎわ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

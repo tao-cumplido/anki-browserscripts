@@ -1,17 +1,28 @@
 {
 	"kanji": "膨",
-	"meanings": ["swell", "get fat", "thick"],
+	"meanings": [
+		"swell",
+		"get fat",
+		"thick"
+	],
 	"keyword": "swell",
 	"onyomi": {
-		"frequent": ["ボウ"],
+		"frequent": [
+			"ボウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふく"],
+		"frequent": [
+			"ふく"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ふく.らむ", "ふく.れる"]
+		"okurigana": [
+			"ふく.らむ",
+			"ふく.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1946,

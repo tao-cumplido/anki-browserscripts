@@ -1,17 +1,29 @@
 {
 	"kanji": "悲",
-	"meanings": ["grieve", "sad", "deplore", "regret"],
+	"meanings": [
+		"grieve",
+		"sad",
+		"deplore",
+		"regret"
+	],
 	"keyword": "sad",
 	"onyomi": {
-		"frequent": ["ヒ"],
+		"frequent": [
+			"ヒ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かな"],
+		"frequent": [
+			"かな"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かな.しい", "かな.しむ"]
+		"okurigana": [
+			"かな.しい",
+			"かな.しむ"
+		]
 	},
 	"frequency": {
 		"mean": 1259,

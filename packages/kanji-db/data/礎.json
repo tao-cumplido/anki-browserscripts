@@ -1,14 +1,21 @@
 {
 	"kanji": "礎",
-	"meanings": ["cornerstone", "foundation stone"],
+	"meanings": [
+		"cornerstone",
+		"foundation stone"
+	],
 	"keyword": "cornerstone",
 	"onyomi": {
-		"frequent": ["ソ"],
+		"frequent": [
+			"ソ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いしずえ"],
+		"frequent": [
+			"いしずえ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

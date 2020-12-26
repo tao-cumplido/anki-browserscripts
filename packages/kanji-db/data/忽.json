@@ -1,17 +1,31 @@
 {
 	"kanji": "忽",
-	"meanings": ["in a moment", "instantly", "all of a sudden", "neglect", "disregard"],
+	"meanings": [
+		"in a moment",
+		"instantly",
+		"all of a sudden",
+		"neglect",
+		"disregard"
+	],
 	"keyword": "instantaneously",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コツ"]
+		"rare": [
+			"コツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たちま", "ゆるが"],
-		"okurigana": ["たちま.ち", "ゆるが.せ"]
+		"rare": [
+			"たちま",
+			"ゆるが"
+		],
+		"okurigana": [
+			"たちま.ち",
+			"ゆるが.せ"
+		]
 	},
 	"frequency": {
 		"mean": 2487,

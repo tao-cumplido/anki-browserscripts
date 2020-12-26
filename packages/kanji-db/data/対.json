@@ -1,17 +1,41 @@
 {
 	"kanji": "対",
-	"meanings": ["vis-a-vis", "opposite", "even", "equal", "versus", "anti-", "compare"],
+	"meanings": [
+		"vis-a-vis",
+		"opposite",
+		"even",
+		"equal",
+		"versus",
+		"anti-",
+		"compare"
+	],
 	"keyword": "vis-a-vis",
 	"onyomi": {
-		"frequent": ["タイ", "ツイ"],
+		"frequent": [
+			"タイ",
+			"ツイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あいて", "こた", "そろ", "つれあ", "なら", "むか"],
-		"okurigana": ["こた.える", "そろ.い", "つれあ.い", "なら.ぶ", "むか.う"]
+		"rare": [
+			"あいて",
+			"こた",
+			"そろ",
+			"つれあ",
+			"なら",
+			"むか"
+		],
+		"okurigana": [
+			"こた.える",
+			"そろ.い",
+			"つれあ.い",
+			"なら.ぶ",
+			"むか.う"
+		]
 	},
 	"frequency": {
 		"mean": 110,

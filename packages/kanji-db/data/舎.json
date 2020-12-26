@@ -1,17 +1,31 @@
 {
 	"kanji": "舎",
-	"meanings": ["cottage", "inn", "hut", "house", "mansion"],
+	"meanings": [
+		"cottage",
+		"inn",
+		"hut",
+		"house",
+		"mansion"
+	],
 	"keyword": "cottage",
 	"onyomi": {
-		"frequent": ["シャ"],
+		"frequent": [
+			"シャ"
+		],
 		"common": [],
-		"rare": ["セキ"]
+		"rare": [
+			"セキ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["やど"],
-		"okurigana": ["やど.る"]
+		"rare": [
+			"やど"
+		],
+		"okurigana": [
+			"やど.る"
+		]
 	},
 	"frequency": {
 		"mean": 816,

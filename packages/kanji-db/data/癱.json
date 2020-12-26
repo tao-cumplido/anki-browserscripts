@@ -1,0 +1,29 @@
+{
+	"kanji": "癱",
+	"meanings": [
+		"paralysis",
+		"palsy",
+		"numbness"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"タン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"しび"
+		],
+		"rare": [],
+		"okurigana": [
+			"しび.れる"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

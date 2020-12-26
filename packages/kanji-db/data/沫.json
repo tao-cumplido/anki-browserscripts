@@ -1,16 +1,26 @@
 {
 	"kanji": "沫",
-	"meanings": ["splash", "suds"],
+	"meanings": [
+		"splash",
+		"suds"
+	],
 	"keyword": "splash",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["マツ", "バツ"]
+		"rare": [
+			"マツ",
+			"バツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あわ", "しぶき", "つばき"],
+		"rare": [
+			"あわ",
+			"しぶき",
+			"つばき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,16 +1,26 @@
 {
 	"kanji": "磐",
-	"meanings": ["rock", "crag", "cliff", "wall (in a mine)"],
+	"meanings": [
+		"rock",
+		"crag",
+		"cliff",
+		"wall (in a mine)"
+	],
 	"keyword": "crag",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["バン", "ハン"]
+		"rare": [
+			"バン",
+			"ハン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いわ"],
+		"rare": [
+			"いわ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

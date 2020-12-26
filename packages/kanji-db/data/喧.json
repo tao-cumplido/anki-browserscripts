@@ -1,17 +1,28 @@
 {
 	"kanji": "喧",
-	"meanings": ["noisy", "boisterous"],
+	"meanings": [
+		"noisy",
+		"boisterous"
+	],
 	"keyword": "clamor",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケン"]
+		"rare": [
+			"ケン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["やかま", "かまびす"],
-		"okurigana": ["やかま.しい", "かまびす.しい"]
+		"rare": [
+			"やかま",
+			"かまびす"
+		],
+		"okurigana": [
+			"やかま.しい",
+			"かまびす.しい"
+		]
 	},
 	"frequency": {
 		"mean": 1879,

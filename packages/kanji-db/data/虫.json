@@ -1,14 +1,24 @@
 {
 	"kanji": "虫",
-	"meanings": ["insect", "bug", "temper"],
+	"meanings": [
+		"insect",
+		"bug",
+		"temper"
+	],
 	"keyword": "insect",
 	"onyomi": {
-		"frequent": ["チュウ"],
+		"frequent": [
+			"チュウ"
+		],
 		"common": [],
-		"rare": ["キ"]
+		"rare": [
+			"キ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["むし"],
+		"frequent": [
+			"むし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

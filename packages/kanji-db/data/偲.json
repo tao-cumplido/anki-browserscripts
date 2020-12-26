@@ -1,17 +1,27 @@
 {
 	"kanji": "偲",
-	"meanings": ["recollect", "remember"],
+	"meanings": [
+		"recollect",
+		"remember"
+	],
 	"keyword": "memorial",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サイ", "シ"]
+		"rare": [
+			"サイ",
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しの"],
-		"okurigana": ["しの.ぶ"]
+		"rare": [
+			"しの"
+		],
+		"okurigana": [
+			"しの.ぶ"
+		]
 	},
 	"frequency": {
 		"mean": 3015,

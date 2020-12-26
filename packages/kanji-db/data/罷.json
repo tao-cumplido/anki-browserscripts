@@ -1,17 +1,31 @@
 {
 	"kanji": "罷",
-	"meanings": ["quit", "stop", "leave", "withdraw", "go"],
+	"meanings": [
+		"quit",
+		"stop",
+		"leave",
+		"withdraw",
+		"go"
+	],
 	"keyword": "quit",
 	"onyomi": {
-		"frequent": ["ヒ"],
+		"frequent": [
+			"ヒ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まか", "や"],
-		"okurigana": ["まか.り", "や.める"]
+		"rare": [
+			"まか",
+			"や"
+		],
+		"okurigana": [
+			"まか.り",
+			"や.める"
+		]
 	},
 	"frequency": {
 		"mean": 2736,

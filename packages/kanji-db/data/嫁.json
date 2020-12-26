@@ -1,17 +1,32 @@
 {
 	"kanji": "嫁",
-	"meanings": ["marry into", "bride"],
+	"meanings": [
+		"marry into",
+		"bride"
+	],
 	"keyword": "marry into",
 	"onyomi": {
-		"frequent": ["カ"],
+		"frequent": [
+			"カ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["よめ", "とつ"],
+		"frequent": [
+			"よめ",
+			"とつ"
+		],
 		"common": [],
-		"rare": ["い", "ゆ"],
-		"okurigana": ["とつ.ぐ", "い.く", "ゆ.く"]
+		"rare": [
+			"い",
+			"ゆ"
+		],
+		"okurigana": [
+			"とつ.ぐ",
+			"い.く",
+			"ゆ.く"
+		]
 	},
 	"frequency": {
 		"mean": 1628,

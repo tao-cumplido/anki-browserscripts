@@ -1,16 +1,30 @@
 {
 	"kanji": "頭",
-	"meanings": ["head", "counter for large animals"],
+	"meanings": [
+		"head",
+		"counter for large animals"
+	],
 	"keyword": "head",
 	"onyomi": {
-		"frequent": ["トウ", "ズ"],
-		"common": ["ト"],
+		"frequent": [
+			"トウ",
+			"ズ"
+		],
+		"common": [
+			"ト"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あたま", "かしら"],
+		"frequent": [
+			"あたま",
+			"かしら"
+		],
 		"common": [],
-		"rare": ["がしら", "かぶり"],
+		"rare": [
+			"がしら",
+			"かぶり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,25 @@
 {
 	"kanji": "戒",
-	"meanings": ["commandment"],
+	"meanings": [
+		"commandment"
+	],
 	"keyword": "commandment",
 	"onyomi": {
-		"frequent": ["カイ"],
+		"frequent": [
+			"カイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いまし"],
+		"frequent": [
+			"いまし"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["いまし.める"]
+		"okurigana": [
+			"いまし.める"
+		]
 	},
 	"frequency": {
 		"mean": 1355,

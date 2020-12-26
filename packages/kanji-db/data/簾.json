@@ -1,16 +1,24 @@
 {
 	"kanji": "簾",
-	"meanings": ["bamboo screen", "rattan blind"],
+	"meanings": [
+		"bamboo screen",
+		"rattan blind"
+	],
 	"keyword": "bamboo blinds",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["レン"]
+		"rare": [
+			"レン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すだれ", "す"],
+		"rare": [
+			"すだれ",
+			"す"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,9 +1,13 @@
 {
 	"kanji": "儒",
-	"meanings": ["Confucian"],
+	"meanings": [
+		"Confucian"
+	],
 	"keyword": "Confucian",
 	"onyomi": {
-		"frequent": ["ジュ"],
+		"frequent": [
+			"ジュ"
+		],
 		"common": [],
 		"rare": []
 	},

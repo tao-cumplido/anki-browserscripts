@@ -1,14 +1,20 @@
 {
 	"kanji": "絹",
-	"meanings": ["silk"],
+	"meanings": [
+		"silk"
+	],
 	"keyword": "silk",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["きぬ"],
+		"frequent": [
+			"きぬ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

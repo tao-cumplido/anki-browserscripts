@@ -1,15 +1,24 @@
 {
 	"kanji": "佰",
-	"meanings": ["hundred", "leader of 100 men", "east-west path between paddies"],
+	"meanings": [
+		"hundred",
+		"leader of 100 men",
+		"east-west path between paddies"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒャク", "ハク"]
+		"rare": [
+			"ヒャク",
+			"ハク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おさ"],
+		"rare": [
+			"おさ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

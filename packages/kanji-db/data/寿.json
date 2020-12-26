@@ -1,17 +1,34 @@
 {
 	"kanji": "寿",
-	"meanings": ["longevity", "congratulations", "one's natural life"],
+	"meanings": [
+		"longevity",
+		"congratulations",
+		"one's natural life"
+	],
 	"keyword": "longevity",
 	"onyomi": {
-		"frequent": ["ジュ"],
+		"frequent": [
+			"ジュ"
+		],
 		"common": [],
-		"rare": ["ス", "シュウ"]
+		"rare": [
+			"ス",
+			"シュウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ことぶき"],
+		"frequent": [
+			"ことぶき"
+		],
 		"common": [],
-		"rare": ["ことぶ", "ことほ"],
-		"okurigana": ["ことぶ.く", "ことほ.ぐ"]
+		"rare": [
+			"ことぶ",
+			"ことほ"
+		],
+		"okurigana": [
+			"ことぶ.く",
+			"ことほ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 1075,

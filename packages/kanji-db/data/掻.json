@@ -1,17 +1,29 @@
 {
 	"kanji": "掻",
-	"meanings": ["scratch", "rake", "comb", "paddle", "behead"],
+	"meanings": [
+		"scratch",
+		"rake",
+		"comb",
+		"paddle",
+		"behead"
+	],
 	"keyword": "scratch",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ"]
+		"rare": [
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["か"],
-		"okurigana": ["か.く"]
+		"rare": [
+			"か"
+		],
+		"okurigana": [
+			"か.く"
+		]
 	},
 	"frequency": {
 		"mean": 2405,

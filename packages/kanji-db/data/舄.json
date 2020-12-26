@@ -1,0 +1,30 @@
+{
+	"kanji": "舄",
+	"meanings": [
+		"a shoe",
+		"the sole of a shoe",
+		"magpie"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"シャク",
+			"サク",
+			"セキ",
+			"タク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"かささぎ"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

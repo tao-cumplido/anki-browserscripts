@@ -1,16 +1,29 @@
 {
 	"kanji": "兵",
-	"meanings": ["soldier", "private", "troops", "army", "warfare", "strategy", "tactics"],
+	"meanings": [
+		"soldier",
+		"private",
+		"troops",
+		"army",
+		"warfare",
+		"strategy",
+		"tactics"
+	],
 	"keyword": "soldier",
 	"onyomi": {
-		"frequent": ["ヘイ", "ヒョウ"],
+		"frequent": [
+			"ヘイ",
+			"ヒョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つわもの"],
+		"rare": [
+			"つわもの"
+		],
 		"okurigana": []
 	},
 	"frequency": {

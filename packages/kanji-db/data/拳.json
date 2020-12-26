@@ -1,14 +1,22 @@
 {
 	"kanji": "拳",
-	"meanings": ["fist"],
+	"meanings": [
+		"fist"
+	],
 	"keyword": "fist",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
-		"rare": ["ゲン"]
+		"rare": [
+			"ゲン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["こぶし"],
+		"frequent": [
+			"こぶし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

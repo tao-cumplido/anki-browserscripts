@@ -1,0 +1,30 @@
+{
+	"kanji": "洎",
+	"meanings": [
+		"until",
+		"till",
+		"soup",
+		"to soak"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"キ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"そそ"
+		],
+		"rare": [],
+		"okurigana": [
+			"そそ.ぐ"
+		]
+	},
+	"frequency": {
+		"mean": 4524,
+		"wikipedia": 4215
+	}
+}

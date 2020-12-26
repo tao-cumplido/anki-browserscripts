@@ -1,17 +1,35 @@
 {
 	"kanji": "確",
-	"meanings": ["assurance", "firm", "tight", "hard", "solid", "confirm", "clear", "evident"],
+	"meanings": [
+		"assurance",
+		"firm",
+		"tight",
+		"hard",
+		"solid",
+		"confirm",
+		"clear",
+		"evident"
+	],
 	"keyword": "assurance",
 	"onyomi": {
-		"frequent": ["カク"],
+		"frequent": [
+			"カク"
+		],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["たし"],
+		"frequent": [
+			"たし"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["たし.か", "たし.かめる"]
+		"okurigana": [
+			"たし.か",
+			"たし.かめる"
+		]
 	},
 	"frequency": {
 		"mean": 396,

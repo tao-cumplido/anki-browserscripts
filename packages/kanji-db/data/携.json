@@ -1,17 +1,29 @@
 {
 	"kanji": "携",
-	"meanings": ["portable", "carry (in hand)", "armed with", "bring along"],
+	"meanings": [
+		"portable",
+		"carry (in hand)",
+		"armed with",
+		"bring along"
+	],
 	"keyword": "portable",
 	"onyomi": {
-		"frequent": ["ケイ"],
+		"frequent": [
+			"ケイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たずさ"],
+		"frequent": [
+			"たずさ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["たずさ.える", "たずさ.わる"]
+		"okurigana": [
+			"たずさ.える",
+			"たずさ.わる"
+		]
 	},
 	"frequency": {
 		"mean": 957,

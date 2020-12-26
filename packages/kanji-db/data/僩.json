@@ -1,16 +1,27 @@
 {
 	"kanji": "僩",
-	"meanings": ["courageous", "martial", "dignified"],
+	"meanings": [
+		"courageous",
+		"martial",
+		"dignified"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["カン", "ゲン"],
+		"common": [
+			"カン",
+			"ゲン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["たけだけ"],
+		"common": [
+			"たけだけ"
+		],
 		"rare": [],
-		"okurigana": ["たけだけ.しい"]
+		"okurigana": [
+			"たけだけ.しい"
+		]
 	},
 	"frequency": {
 		"mean": 4537,

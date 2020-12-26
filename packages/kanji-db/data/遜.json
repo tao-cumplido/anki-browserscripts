@@ -1,17 +1,30 @@
 {
 	"kanji": "遜",
-	"meanings": ["humble", "modest"],
+	"meanings": [
+		"humble",
+		"modest"
+	],
 	"keyword": "modest",
 	"onyomi": {
-		"frequent": ["ソン"],
+		"frequent": [
+			"ソン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["したが", "へりくだ", "ゆず"],
-		"okurigana": ["したが.う", "へりくだ.る", "ゆず.る"]
+		"rare": [
+			"したが",
+			"へりくだ",
+			"ゆず"
+		],
+		"okurigana": [
+			"したが.う",
+			"へりくだ.る",
+			"ゆず.る"
+		]
 	},
 	"frequency": {
 		"mean": 2804,

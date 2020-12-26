@@ -1,16 +1,24 @@
 {
 	"kanji": "詞",
-	"meanings": ["part of speech", "words", "poetry"],
+	"meanings": [
+		"part of speech",
+		"words",
+		"poetry"
+	],
 	"keyword": "parts of speech",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ことば"],
+		"rare": [
+			"ことば"
+		],
 		"okurigana": []
 	},
 	"frequency": {

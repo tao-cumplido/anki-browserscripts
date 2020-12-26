@@ -1,16 +1,27 @@
 {
 	"kanji": "橇",
-	"meanings": ["sled", "sleigh", "snowshoes"],
+	"meanings": [
+		"sled",
+		"sleigh",
+		"snowshoes"
+	],
 	"keyword": "sled",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ", "ゼイ", "セイ"]
+		"rare": [
+			"キョウ",
+			"ゼイ",
+			"セイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["そり", "かんじき"],
+		"rare": [
+			"そり",
+			"かんじき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

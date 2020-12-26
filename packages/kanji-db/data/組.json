@@ -1,17 +1,35 @@
 {
 	"kanji": "組",
-	"meanings": ["association", "braid", "plait", "construct", "assemble", "unite", "cooperate", "grapple"],
+	"meanings": [
+		"association",
+		"braid",
+		"plait",
+		"construct",
+		"assemble",
+		"unite",
+		"cooperate",
+		"grapple"
+	],
 	"keyword": "association",
 	"onyomi": {
-		"frequent": ["ソ"],
+		"frequent": [
+			"ソ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["く", "くみ"],
+		"frequent": [
+			"く",
+			"くみ"
+		],
 		"common": [],
-		"rare": ["ぐみ"],
-		"okurigana": ["く.む"]
+		"rare": [
+			"ぐみ"
+		],
+		"okurigana": [
+			"く.む"
+		]
 	},
 	"frequency": {
 		"mean": 133,

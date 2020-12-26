@@ -1,15 +1,21 @@
 {
 	"kanji": "偕",
-	"meanings": ["together"],
+	"meanings": [
+		"together"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カイ"]
+		"rare": [
+			"カイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ともに"],
+		"rare": [
+			"ともに"
+		],
 		"okurigana": []
 	},
 	"frequency": {

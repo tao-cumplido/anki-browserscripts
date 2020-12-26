@@ -1,17 +1,30 @@
 {
 	"kanji": "綻",
-	"meanings": ["be rent", "ripped", "unravel", "run", "begin to open", "smile"],
+	"meanings": [
+		"be rent",
+		"ripped",
+		"unravel",
+		"run",
+		"begin to open",
+		"smile"
+	],
 	"keyword": "come apart at the seams",
 	"onyomi": {
-		"frequent": ["タン"],
+		"frequent": [
+			"タン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほころ"],
+		"frequent": [
+			"ほころ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ほころ.びる"]
+		"okurigana": [
+			"ほころ.びる"
+		]
 	},
 	"frequency": {
 		"mean": 2337,

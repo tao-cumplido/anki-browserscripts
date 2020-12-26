@@ -1,17 +1,31 @@
 {
 	"kanji": "願",
-	"meanings": ["petition", "request", "vow", "wish", "hope"],
+	"meanings": [
+		"petition",
+		"request",
+		"vow",
+		"wish",
+		"hope"
+	],
 	"keyword": "petition",
 	"onyomi": {
-		"frequent": ["ガン"],
+		"frequent": [
+			"ガン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ねが"],
+		"frequent": [
+			"ねが"
+		],
 		"common": [],
-		"rare": ["ねがい"],
-		"okurigana": ["ねが.う"]
+		"rare": [
+			"ねがい"
+		],
+		"okurigana": [
+			"ねが.う"
+		]
 	},
 	"frequency": {
 		"mean": 872,

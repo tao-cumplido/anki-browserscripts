@@ -1,17 +1,29 @@
 {
 	"kanji": "災",
-	"meanings": ["disaster", "calamity", "woe", "curse", "evil"],
+	"meanings": [
+		"disaster",
+		"calamity",
+		"woe",
+		"curse",
+		"evil"
+	],
 	"keyword": "disaster",
 	"onyomi": {
-		"frequent": ["サイ"],
+		"frequent": [
+			"サイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["わざわ"],
+		"frequent": [
+			"わざわ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["わざわ.い"]
+		"okurigana": [
+			"わざわ.い"
+		]
 	},
 	"frequency": {
 		"mean": 934,

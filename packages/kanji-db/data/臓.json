@@ -1,16 +1,24 @@
 {
 	"kanji": "臓",
-	"meanings": ["entrails", "viscera", "bowels"],
+	"meanings": [
+		"entrails",
+		"viscera",
+		"bowels"
+	],
 	"keyword": "entrails",
 	"onyomi": {
-		"frequent": ["ゾウ"],
+		"frequent": [
+			"ゾウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はらわた"],
+		"rare": [
+			"はらわた"
+		],
 		"okurigana": []
 	},
 	"frequency": {

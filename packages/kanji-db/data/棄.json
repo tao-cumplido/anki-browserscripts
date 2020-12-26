@@ -1,17 +1,30 @@
 {
 	"kanji": "棄",
-	"meanings": ["abandon", "throw away", "discard", "resign", "reject", "sacrifice"],
+	"meanings": [
+		"abandon",
+		"throw away",
+		"discard",
+		"resign",
+		"reject",
+		"sacrifice"
+	],
 	"keyword": "abandon",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["す"],
-		"okurigana": ["す.てる"]
+		"rare": [
+			"す"
+		],
+		"okurigana": [
+			"す.てる"
+		]
 	},
 	"frequency": {
 		"mean": 1353,

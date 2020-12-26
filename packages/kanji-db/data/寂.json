@@ -1,17 +1,35 @@
 {
 	"kanji": "寂",
-	"meanings": ["loneliness", "quietly", "mellow", "mature", "death of a priest"],
+	"meanings": [
+		"loneliness",
+		"quietly",
+		"mellow",
+		"mature",
+		"death of a priest"
+	],
 	"keyword": "loneliness",
 	"onyomi": {
-		"frequent": ["ジャク"],
-		"common": ["セキ"],
+		"frequent": [
+			"ジャク"
+		],
+		"common": [
+			"セキ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さび"],
+		"frequent": [
+			"さび"
+		],
 		"common": [],
-		"rare": ["さみ"],
-		"okurigana": ["さび.しい", "さび.れる", "さみ.しい"]
+		"rare": [
+			"さみ"
+		],
+		"okurigana": [
+			"さび.しい",
+			"さび.れる",
+			"さみ.しい"
+		]
 	},
 	"frequency": {
 		"mean": 1917,

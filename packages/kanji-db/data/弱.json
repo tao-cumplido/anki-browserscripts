@@ -1,17 +1,29 @@
 {
 	"kanji": "弱",
-	"meanings": ["weak", "frail"],
+	"meanings": [
+		"weak",
+		"frail"
+	],
 	"keyword": "weak",
 	"onyomi": {
-		"frequent": ["ジャク"],
+		"frequent": [
+			"ジャク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["よわ"],
+		"frequent": [
+			"よわ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["よわ.い", "よわ.る", "よわ.まる", "よわ.める"]
+		"okurigana": [
+			"よわ.い",
+			"よわ.る",
+			"よわ.まる",
+			"よわ.める"
+		]
 	},
 	"frequency": {
 		"mean": 1112,

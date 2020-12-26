@@ -1,17 +1,32 @@
 {
 	"kanji": "現",
-	"meanings": ["present", "existing", "actual"],
+	"meanings": [
+		"present",
+		"existing",
+		"actual"
+	],
 	"keyword": "present",
 	"onyomi": {
-		"frequent": ["ゲン"],
+		"frequent": [
+			"ゲン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あらわ"],
+		"frequent": [
+			"あらわ"
+		],
 		"common": [],
-		"rare": ["うつつ", "うつ"],
-		"okurigana": ["あらわ.れる", "あらわ.す", "うつ.つ"]
+		"rare": [
+			"うつつ",
+			"うつ"
+		],
+		"okurigana": [
+			"あらわ.れる",
+			"あらわ.す",
+			"うつ.つ"
+		]
 	},
 	"frequency": {
 		"mean": 107,

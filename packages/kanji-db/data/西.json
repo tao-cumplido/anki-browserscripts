@@ -1,14 +1,24 @@
 {
 	"kanji": "西",
-	"meanings": ["west", "Spain"],
+	"meanings": [
+		"west",
+		"Spain"
+	],
 	"keyword": "west",
 	"onyomi": {
-		"frequent": ["セイ", "サイ"],
+		"frequent": [
+			"セイ",
+			"サイ"
+		],
 		"common": [],
-		"rare": ["ス"]
+		"rare": [
+			"ス"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["にし"],
+		"frequent": [
+			"にし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

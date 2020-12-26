@@ -1,17 +1,34 @@
 {
 	"kanji": "群",
-	"meanings": ["flock", "group", "crowd", "herd", "swarm", "cluster"],
+	"meanings": [
+		"flock",
+		"group",
+		"crowd",
+		"herd",
+		"swarm",
+		"cluster"
+	],
 	"keyword": "flock",
 	"onyomi": {
-		"frequent": ["グン"],
+		"frequent": [
+			"グン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["む"],
-		"common": ["むら"],
+		"frequent": [
+			"む"
+		],
+		"common": [
+			"むら"
+		],
 		"rare": [],
-		"okurigana": ["む.れる", "む.れ", "むら.がる"]
+		"okurigana": [
+			"む.れる",
+			"む.れ",
+			"むら.がる"
+		]
 	},
 	"frequency": {
 		"mean": 693,

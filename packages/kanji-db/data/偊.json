@@ -1,16 +1,28 @@
 {
 	"kanji": "偊",
-	"meanings": ["to walk alone", "self-reliant"],
+	"meanings": [
+		"to walk alone",
+		"self-reliant"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ウ", "ク"],
+		"common": [
+			"ウ",
+			"ク"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["くぐ", "つつし"],
+		"common": [
+			"くぐ",
+			"つつし"
+		],
 		"rare": [],
-		"okurigana": ["くぐ.まる", "つつし.む"]
+		"okurigana": [
+			"くぐ.まる",
+			"つつし.む"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

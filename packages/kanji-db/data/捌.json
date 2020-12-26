@@ -19,13 +19,24 @@
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハツ", "ハチ", "ベツ"]
+		"rare": [
+			"ハツ",
+			"ハチ",
+			"ベツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さば", "は"],
-		"okurigana": ["さば.く", "さば.ける", "は.け"]
+		"rare": [
+			"さば",
+			"は"
+		],
+		"okurigana": [
+			"さば.く",
+			"さば.ける",
+			"は.け"
+		]
 	},
 	"frequency": {
 		"mean": 3232,

@@ -1,16 +1,24 @@
 {
 	"kanji": "缶",
-	"meanings": ["tin can", "container", "jar radical (no. 121)"],
+	"meanings": [
+		"tin can",
+		"container",
+		"jar radical (no. 121)"
+	],
 	"keyword": "tin can",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かま"],
+		"rare": [
+			"かま"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,32 @@
 {
 	"kanji": "怨",
-	"meanings": ["grudge", "show resentment", "be jealous"],
+	"meanings": [
+		"grudge",
+		"show resentment",
+		"be jealous"
+	],
 	"keyword": "grudge",
 	"onyomi": {
-		"frequent": ["エン", "オン"],
+		"frequent": [
+			"エン",
+			"オン"
+		],
 		"common": [],
-		"rare": ["ウン"]
+		"rare": [
+			"ウン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うら", "うらみ"],
-		"okurigana": ["うら.む", "うら.めしい"]
+		"rare": [
+			"うら",
+			"うらみ"
+		],
+		"okurigana": [
+			"うら.む",
+			"うら.めしい"
+		]
 	},
 	"frequency": {
 		"mean": 2224,

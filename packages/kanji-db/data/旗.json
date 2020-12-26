@@ -1,14 +1,22 @@
 {
 	"kanji": "旗",
-	"meanings": ["national flag", "banner", "standard"],
+	"meanings": [
+		"national flag",
+		"banner",
+		"standard"
+	],
 	"keyword": "national flag",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はた"],
+		"frequent": [
+			"はた"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

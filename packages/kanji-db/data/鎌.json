@@ -1,14 +1,23 @@
 {
 	"kanji": "鎌",
-	"meanings": ["sickle", "scythe", "trick"],
+	"meanings": [
+		"sickle",
+		"scythe",
+		"trick"
+	],
 	"keyword": "sickle",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["レン", "ケン"]
+		"rare": [
+			"レン",
+			"ケン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["かま"],
+		"frequent": [
+			"かま"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

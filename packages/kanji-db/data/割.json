@@ -1,17 +1,35 @@
 {
 	"kanji": "割",
-	"meanings": ["proportion", "comparatively", "divide", "cut", "separate", "split"],
+	"meanings": [
+		"proportion",
+		"comparatively",
+		"divide",
+		"cut",
+		"separate",
+		"split"
+	],
 	"keyword": "proportion",
 	"onyomi": {
-		"frequent": ["カツ"],
+		"frequent": [
+			"カツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["わ", "わり", "さ"],
+		"frequent": [
+			"わ",
+			"わり",
+			"さ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["わ.る", "わ.り", "わ.れる", "さ.く"]
+		"okurigana": [
+			"わ.る",
+			"わ.り",
+			"わ.れる",
+			"さ.く"
+		]
 	},
 	"frequency": {
 		"mean": 701,

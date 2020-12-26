@@ -1,14 +1,21 @@
 {
 	"kanji": "喪",
-	"meanings": ["miss", "mourning"],
+	"meanings": [
+		"miss",
+		"mourning"
+	],
 	"keyword": "miss",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["も"],
+		"frequent": [
+			"も"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

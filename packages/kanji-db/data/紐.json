@@ -1,16 +1,29 @@
 {
 	"kanji": "紐",
-	"meanings": ["string", "cord", "braid", "lace", "tape", "strap", "ribbon"],
+	"meanings": [
+		"string",
+		"cord",
+		"braid",
+		"lace",
+		"tape",
+		"strap",
+		"ribbon"
+	],
 	"keyword": "string",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チュウ", "ジュウ"]
+		"rare": [
+			"チュウ",
+			"ジュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひも"],
+		"rare": [
+			"ひも"
+		],
 		"okurigana": []
 	},
 	"frequency": {

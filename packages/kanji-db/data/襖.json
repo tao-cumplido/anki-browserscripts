@@ -1,16 +1,23 @@
 {
 	"kanji": "襖",
-	"meanings": ["opaque sliding door"],
+	"meanings": [
+		"opaque sliding door"
+	],
 	"keyword": "sliding door",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["オウ"]
+		"rare": [
+			"オウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふすま", "あお"],
+		"rare": [
+			"ふすま",
+			"あお"
+		],
 		"okurigana": []
 	},
 	"frequency": {

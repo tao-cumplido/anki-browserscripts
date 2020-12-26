@@ -1,17 +1,27 @@
 {
 	"kanji": "痴",
-	"meanings": ["stupid", "foolish"],
+	"meanings": [
+		"stupid",
+		"foolish"
+	],
 	"keyword": "stupid",
 	"onyomi": {
-		"frequent": ["チ"],
+		"frequent": [
+			"チ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["し", "おろか"],
-		"okurigana": ["し.れる"]
+		"rare": [
+			"し",
+			"おろか"
+		],
+		"okurigana": [
+			"し.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1980,

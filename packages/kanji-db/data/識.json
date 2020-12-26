@@ -1,17 +1,29 @@
 {
 	"kanji": "識",
-	"meanings": ["discriminating", "know", "write"],
+	"meanings": [
+		"discriminating",
+		"know",
+		"write"
+	],
 	"keyword": "discriminating",
 	"onyomi": {
-		"frequent": ["シキ"],
+		"frequent": [
+			"シキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["し", "しる"],
-		"okurigana": ["し.る", "しる.す"]
+		"rare": [
+			"し",
+			"しる"
+		],
+		"okurigana": [
+			"し.る",
+			"しる.す"
+		]
 	},
 	"frequency": {
 		"mean": 760,

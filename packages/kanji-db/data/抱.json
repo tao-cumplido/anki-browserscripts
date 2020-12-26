@@ -1,17 +1,31 @@
 {
 	"kanji": "抱",
-	"meanings": ["embrace", "hug", "hold in arms"],
+	"meanings": [
+		"embrace",
+		"hug",
+		"hold in arms"
+	],
 	"keyword": "embrace",
 	"onyomi": {
-		"frequent": ["ホウ"],
+		"frequent": [
+			"ホウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["だ", "いだ", "かか"],
+		"frequent": [
+			"だ",
+			"いだ",
+			"かか"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["だ.く", "いだ.く", "かか.える"]
+		"okurigana": [
+			"だ.く",
+			"いだ.く",
+			"かか.える"
+		]
 	},
 	"frequency": {
 		"mean": 1149,

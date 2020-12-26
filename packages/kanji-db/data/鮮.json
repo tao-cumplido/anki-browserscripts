@@ -1,17 +1,29 @@
 {
 	"kanji": "鮮",
-	"meanings": ["fresh", "vivid", "clear", "brilliant", "Korea"],
+	"meanings": [
+		"fresh",
+		"vivid",
+		"clear",
+		"brilliant",
+		"Korea"
+	],
 	"keyword": "fresh",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あざ"],
+		"frequent": [
+			"あざ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あざ.やか"]
+		"okurigana": [
+			"あざ.やか"
+		]
 	},
 	"frequency": {
 		"mean": 908,

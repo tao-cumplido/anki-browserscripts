@@ -1,0 +1,32 @@
+{
+	"kanji": "摻",
+	"meanings": [
+		"delicate hand",
+		"mix",
+		"blend",
+		"adulterate"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"サン",
+			"セン",
+			"シン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"と"
+		],
+		"rare": [],
+		"okurigana": [
+			"と.る"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

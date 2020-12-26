@@ -1,14 +1,23 @@
 {
 	"kanji": "幹",
-	"meanings": ["tree trunk", "main part", "talent", "capability"],
+	"meanings": [
+		"tree trunk",
+		"main part",
+		"talent",
+		"capability"
+	],
 	"keyword": "tree trunk",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みき"],
+		"frequent": [
+			"みき"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

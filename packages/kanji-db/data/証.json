@@ -1,14 +1,22 @@
 {
 	"kanji": "証",
-	"meanings": ["evidence", "proof", "certificate"],
+	"meanings": [
+		"evidence",
+		"proof",
+		"certificate"
+	],
 	"keyword": "evidence",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あかし"],
+		"frequent": [
+			"あかし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

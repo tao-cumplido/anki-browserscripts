@@ -1,14 +1,22 @@
 {
 	"kanji": "民",
-	"meanings": ["people", "nation", "subjects"],
+	"meanings": [
+		"people",
+		"nation",
+		"subjects"
+	],
 	"keyword": "people",
 	"onyomi": {
-		"frequent": ["ミン"],
+		"frequent": [
+			"ミン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たみ"],
+		"frequent": [
+			"たみ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

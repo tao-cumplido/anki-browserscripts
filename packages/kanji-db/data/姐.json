@@ -1,16 +1,25 @@
 {
 	"kanji": "姐",
-	"meanings": ["elder sister", "maidservant"],
+	"meanings": [
+		"elder sister",
+		"maidservant"
+	],
 	"keyword": "young miss",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソ", "シャ"]
+		"rare": [
+			"ソ",
+			"シャ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あね", "ねえさん"],
+		"rare": [
+			"あね",
+			"ねえさん"
+		],
 		"okurigana": []
 	},
 	"frequency": {

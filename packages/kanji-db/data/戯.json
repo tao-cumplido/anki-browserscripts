@@ -1,17 +1,34 @@
 {
 	"kanji": "戯",
-	"meanings": ["frolic", "play", "sport"],
+	"meanings": [
+		"frolic",
+		"play",
+		"sport"
+	],
 	"keyword": "frolic",
 	"onyomi": {
-		"frequent": ["ギ"],
+		"frequent": [
+			"ギ"
+		],
 		"common": [],
-		"rare": ["ゲ"]
+		"rare": [
+			"ゲ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["たわむ"],
+		"frequent": [
+			"たわむ"
+		],
 		"common": [],
-		"rare": ["ざ", "じゃ"],
-		"okurigana": ["たわむ.れる", "ざ.れる", "じゃ.れる"]
+		"rare": [
+			"ざ",
+			"じゃ"
+		],
+		"okurigana": [
+			"たわむ.れる",
+			"ざ.れる",
+			"じゃ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1458,

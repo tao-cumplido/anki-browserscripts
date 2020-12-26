@@ -1,17 +1,28 @@
 {
 	"kanji": "嘘",
-	"meanings": ["lie", "falsehood"],
+	"meanings": [
+		"lie",
+		"falsehood"
+	],
 	"keyword": "fib",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョ", "コ"]
+		"rare": [
+			"キョ",
+			"コ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うそ", "ふ"],
-		"okurigana": ["ふ.く"]
+		"rare": [
+			"うそ",
+			"ふ"
+		],
+		"okurigana": [
+			"ふ.く"
+		]
 	},
 	"frequency": {
 		"mean": 1818,

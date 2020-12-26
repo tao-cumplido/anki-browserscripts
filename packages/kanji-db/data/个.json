@@ -1,10 +1,16 @@
 {
 	"kanji": "个",
-	"meanings": ["counter for articles", "individual"],
+	"meanings": [
+		"counter for articles",
+		"individual"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カ", "コ"]
+		"rare": [
+			"カ",
+			"コ"
+		]
 	},
 	"frequency": {
 		"mean": 4089,

@@ -1,17 +1,33 @@
 {
 	"kanji": "這",
-	"meanings": ["crawl", "creep", "grovel", "trail (vines)"],
+	"meanings": [
+		"crawl",
+		"creep",
+		"grovel",
+		"trail (vines)"
+	],
 	"keyword": "crawl",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シャ", "ゲン"]
+		"rare": [
+			"シャ",
+			"ゲン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["は", "むか", "この"],
-		"okurigana": ["は.う", "は.い", "むか.える"]
+		"rare": [
+			"は",
+			"むか",
+			"この"
+		],
+		"okurigana": [
+			"は.う",
+			"は.い",
+			"むか.える"
+		]
 	},
 	"frequency": {
 		"mean": 2047,

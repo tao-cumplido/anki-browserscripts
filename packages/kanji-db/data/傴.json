@@ -1,16 +1,28 @@
 {
 	"kanji": "傴",
-	"meanings": ["bend over", "stoop", "bow"],
+	"meanings": [
+		"bend over",
+		"stoop",
+		"bow"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ク", "ウ"]
+		"rare": [
+			"ク",
+			"ウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かが", "せむし"],
-		"okurigana": ["かが.む"]
+		"rare": [
+			"かが",
+			"せむし"
+		],
+		"okurigana": [
+			"かが.む"
+		]
 	},
 	"frequency": {
 		"mean": 4381,

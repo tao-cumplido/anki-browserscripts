@@ -1,14 +1,25 @@
 {
 	"kanji": "角",
-	"meanings": ["angle", "corner", "square", "horn", "antlers"],
+	"meanings": [
+		"angle",
+		"corner",
+		"square",
+		"horn",
+		"antlers"
+	],
 	"keyword": "angle",
 	"onyomi": {
-		"frequent": ["カク"],
+		"frequent": [
+			"カク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かど", "つの"],
+		"frequent": [
+			"かど",
+			"つの"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

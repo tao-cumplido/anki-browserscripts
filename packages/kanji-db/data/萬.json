@@ -1,16 +1,24 @@
 {
 	"kanji": "萬",
-	"meanings": ["ten thousand", "10,000"],
+	"meanings": [
+		"ten thousand",
+		"10,000"
+	],
 	"keyword": "ten thousand (old)",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["マン", "バン"]
+		"rare": [
+			"マン",
+			"バン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よろず"],
+		"rare": [
+			"よろず"
+		],
 		"okurigana": []
 	},
 	"frequency": {

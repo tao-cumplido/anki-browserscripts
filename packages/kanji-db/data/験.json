@@ -1,17 +1,32 @@
 {
 	"kanji": "験",
-	"meanings": ["verification", "effect", "testing"],
+	"meanings": [
+		"verification",
+		"effect",
+		"testing"
+	],
 	"keyword": "verification",
 	"onyomi": {
-		"frequent": ["ケン"],
-		"common": ["ゲン"],
+		"frequent": [
+			"ケン"
+		],
+		"common": [
+			"ゲン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あかし", "しるし", "ため", "ためし"],
-		"okurigana": ["ため.す"]
+		"rare": [
+			"あかし",
+			"しるし",
+			"ため",
+			"ためし"
+		],
+		"okurigana": [
+			"ため.す"
+		]
 	},
 	"frequency": {
 		"mean": 597,

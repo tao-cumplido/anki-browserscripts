@@ -1,16 +1,25 @@
 {
 	"kanji": "彗",
-	"meanings": ["comet"],
+	"meanings": [
+		"comet"
+	],
 	"keyword": "comet",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["スイ", "エ", "ケイ", "セイ"]
+		"rare": [
+			"スイ",
+			"エ",
+			"ケイ",
+			"セイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほうき"],
+		"rare": [
+			"ほうき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,27 @@
 {
 	"kanji": "煙",
-	"meanings": ["smoke"],
+	"meanings": [
+		"smoke"
+	],
 	"keyword": "smoke",
 	"onyomi": {
-		"frequent": ["エン"],
+		"frequent": [
+			"エン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["けむ", "けむり"],
+		"frequent": [
+			"けむ",
+			"けむり"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["けむ.る", "けむ.い"]
+		"okurigana": [
+			"けむ.る",
+			"けむ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1362,

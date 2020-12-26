@@ -1,16 +1,27 @@
 {
 	"kanji": "達",
-	"meanings": ["accomplished", "reach", "arrive", "attain"],
+	"meanings": [
+		"accomplished",
+		"reach",
+		"arrive",
+		"attain"
+	],
 	"keyword": "accomplished",
 	"onyomi": {
-		"frequent": ["タツ"],
+		"frequent": [
+			"タツ"
+		],
 		"common": [],
-		"rare": ["ダ"]
+		"rare": [
+			"ダ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たち"],
+		"rare": [
+			"たち"
+		],
 		"okurigana": []
 	},
 	"frequency": {

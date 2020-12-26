@@ -1,16 +1,23 @@
 {
 	"kanji": "箔",
-	"meanings": ["foil", "gilt"],
+	"meanings": [
+		"foil",
+		"gilt"
+	],
 	"keyword": "foil",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハク"]
+		"rare": [
+			"ハク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すだれ"],
+		"rare": [
+			"すだれ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

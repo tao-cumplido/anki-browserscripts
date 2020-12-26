@@ -1,16 +1,27 @@
 {
 	"kanji": "瓶",
-	"meanings": ["bottle", "vial", "jar", "jug", "vat", "urn"],
+	"meanings": [
+		"bottle",
+		"vial",
+		"jar",
+		"jug",
+		"vat",
+		"urn"
+	],
 	"keyword": "flower pot",
 	"onyomi": {
-		"frequent": ["ビン"],
+		"frequent": [
+			"ビン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かめ"],
+		"rare": [
+			"かめ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

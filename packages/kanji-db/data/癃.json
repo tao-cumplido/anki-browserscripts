@@ -1,0 +1,30 @@
+{
+	"kanji": "癃",
+	"meanings": [
+		"weakness",
+		"infirmity",
+		"retention of urine"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"リュウ",
+			"リュ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"つか"
+		],
+		"rare": [],
+		"okurigana": [
+			"つか.れる"
+		]
+	},
+	"frequency": {
+		"mean": 4536,
+		"wikipedia": 4227
+	}
+}

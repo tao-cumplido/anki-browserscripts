@@ -1,16 +1,23 @@
 {
 	"kanji": "蔦",
-	"meanings": ["vine", "ivy"],
+	"meanings": [
+		"vine",
+		"ivy"
+	],
 	"keyword": "vine",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョウ"]
+		"rare": [
+			"チョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つた"],
+		"rare": [
+			"つた"
+		],
 		"okurigana": []
 	},
 	"frequency": {

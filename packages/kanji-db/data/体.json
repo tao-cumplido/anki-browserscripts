@@ -1,16 +1,29 @@
 {
 	"kanji": "体",
-	"meanings": ["body", "substance", "object", "reality", "counter for images"],
+	"meanings": [
+		"body",
+		"substance",
+		"object",
+		"reality",
+		"counter for images"
+	],
 	"keyword": "body",
 	"onyomi": {
-		"frequent": ["タイ", "テイ"],
+		"frequent": [
+			"タイ",
+			"テイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["からだ"],
+		"frequent": [
+			"からだ"
+		],
 		"common": [],
-		"rare": ["かたち"],
+		"rare": [
+			"かたち"
+		],
 		"okurigana": []
 	},
 	"frequency": {

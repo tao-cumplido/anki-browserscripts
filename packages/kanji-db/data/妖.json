@@ -1,17 +1,32 @@
 {
 	"kanji": "妖",
-	"meanings": ["attractive", "bewitching", "calamity"],
+	"meanings": [
+		"attractive",
+		"bewitching",
+		"calamity"
+	],
 	"keyword": "bewitched",
 	"onyomi": {
-		"frequent": ["ヨウ"],
+		"frequent": [
+			"ヨウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あや"],
+		"frequent": [
+			"あや"
+		],
 		"common": [],
-		"rare": ["なま", "わざわ"],
-		"okurigana": ["あや.しい", "なま.めく", "わざわ.い"]
+		"rare": [
+			"なま",
+			"わざわ"
+		],
+		"okurigana": [
+			"あや.しい",
+			"なま.めく",
+			"わざわ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1310,

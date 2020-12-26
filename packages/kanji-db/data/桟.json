@@ -1,16 +1,28 @@
 {
 	"kanji": "桟",
-	"meanings": ["scaffold", "cleat", "frame", "jetty", "bolt (door)"],
+	"meanings": [
+		"scaffold",
+		"cleat",
+		"frame",
+		"jetty",
+		"bolt (door)"
+	],
 	"keyword": "scaffold",
 	"onyomi": {
-		"frequent": ["サン"],
+		"frequent": [
+			"サン"
+		],
 		"common": [],
-		"rare": ["セン"]
+		"rare": [
+			"セン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かけはし"],
+		"rare": [
+			"かけはし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

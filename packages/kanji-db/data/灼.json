@@ -1,16 +1,23 @@
 {
 	"kanji": "灼",
-	"meanings": ["miraculous"],
+	"meanings": [
+		"miraculous"
+	],
 	"keyword": "refulgent",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シャク"]
+		"rare": [
+			"シャク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あらた", "やく"],
+		"rare": [
+			"あらた",
+			"やく"
+		],
 		"okurigana": []
 	},
 	"frequency": {

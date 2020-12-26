@@ -1,17 +1,28 @@
 {
 	"kanji": "禎",
-	"meanings": ["happiness", "blessed", "good fortune", "auspicious"],
+	"meanings": [
+		"happiness",
+		"blessed",
+		"good fortune",
+		"auspicious"
+	],
 	"keyword": "felicitation",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テイ"]
+		"rare": [
+			"テイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さいわ"],
-		"okurigana": ["さいわ.い"]
+		"rare": [
+			"さいわ"
+		],
+		"okurigana": [
+			"さいわ.い"
+		]
 	},
 	"frequency": {
 		"mean": 2482,

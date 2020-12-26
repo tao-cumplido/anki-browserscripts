@@ -1,15 +1,21 @@
 {
 	"kanji": "倆",
-	"meanings": ["skill"],
+	"meanings": [
+		"skill"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リョウ"]
+		"rare": [
+			"リョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たくみ"],
+		"rare": [
+			"たくみ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

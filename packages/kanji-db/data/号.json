@@ -1,17 +1,32 @@
 {
 	"kanji": "号",
-	"meanings": ["nickname", "number", "item", "title", "pseudonym", "name", "call"],
+	"meanings": [
+		"nickname",
+		"number",
+		"item",
+		"title",
+		"pseudonym",
+		"name",
+		"call"
+	],
 	"keyword": "nickname",
 	"onyomi": {
-		"frequent": ["ゴウ"],
+		"frequent": [
+			"ゴウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さけ", "よびな"],
-		"okurigana": ["さけ.ぶ"]
+		"rare": [
+			"さけ",
+			"よびな"
+		],
+		"okurigana": [
+			"さけ.ぶ"
+		]
 	},
 	"frequency": {
 		"mean": 80,

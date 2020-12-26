@@ -1,17 +1,30 @@
 {
 	"kanji": "長",
-	"meanings": ["long", "leader", "superior", "senior"],
+	"meanings": [
+		"long",
+		"leader",
+		"superior",
+		"senior"
+	],
 	"keyword": "long",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["なが"],
+		"frequent": [
+			"なが"
+		],
 		"common": [],
-		"rare": ["おさ"],
-		"okurigana": ["なが.い"]
+		"rare": [
+			"おさ"
+		],
+		"okurigana": [
+			"なが.い"
+		]
 	},
 	"frequency": {
 		"mean": 48,

@@ -1,17 +1,28 @@
 {
 	"kanji": "絡",
-	"meanings": ["entwine", "coil around", "get caught in"],
+	"meanings": [
+		"entwine",
+		"coil around",
+		"get caught in"
+	],
 	"keyword": "entwine",
 	"onyomi": {
-		"frequent": ["ラク"],
+		"frequent": [
+			"ラク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["から"],
+		"frequent": [
+			"から"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["から.む", "から.まる"]
+		"okurigana": [
+			"から.む",
+			"から.まる"
+		]
 	},
 	"frequency": {
 		"mean": 1194,

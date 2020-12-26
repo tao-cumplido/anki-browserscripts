@@ -1,16 +1,24 @@
 {
 	"kanji": "寅",
-	"meanings": ["sign of the tiger", "3-5AM", "third sign of Chinese zodiac"],
+	"meanings": [
+		"sign of the tiger",
+		"3-5AM",
+		"third sign of Chinese zodiac"
+	],
 	"keyword": "sign of the tiger",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["イン"]
+		"rare": [
+			"イン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とら"],
+		"rare": [
+			"とら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

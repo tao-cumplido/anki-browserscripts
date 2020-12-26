@@ -1,16 +1,25 @@
 {
 	"kanji": "俺",
-	"meanings": ["I", "myself"],
+	"meanings": [
+		"I",
+		"myself"
+	],
 	"keyword": "myself",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["エン"]
+		"rare": [
+			"エン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["おれ"],
+		"frequent": [
+			"おれ"
+		],
 		"common": [],
-		"rare": ["われ"],
+		"rare": [
+			"われ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

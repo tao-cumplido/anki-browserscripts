@@ -1,16 +1,22 @@
 {
 	"kanji": "銀",
-	"meanings": ["silver"],
+	"meanings": [
+		"silver"
+	],
 	"keyword": "silver",
 	"onyomi": {
-		"frequent": ["ギン"],
+		"frequent": [
+			"ギン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しろがね"],
+		"rare": [
+			"しろがね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

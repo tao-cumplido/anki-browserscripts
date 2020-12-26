@@ -1,17 +1,27 @@
 {
 	"kanji": "録",
-	"meanings": ["record"],
+	"meanings": [
+		"record"
+	],
 	"keyword": "record",
 	"onyomi": {
-		"frequent": ["ロク"],
+		"frequent": [
+			"ロク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しる", "と"],
-		"okurigana": ["しる.す", "と.る"]
+		"rare": [
+			"しる",
+			"と"
+		],
+		"okurigana": [
+			"しる.す",
+			"と.る"
+		]
 	},
 	"frequency": {
 		"mean": 260,

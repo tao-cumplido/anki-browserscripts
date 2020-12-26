@@ -1,14 +1,24 @@
 {
 	"kanji": "夏",
-	"meanings": ["summer"],
+	"meanings": [
+		"summer"
+	],
 	"keyword": "summer",
 	"onyomi": {
-		"frequent": ["カ"],
-		"common": ["ゲ"],
-		"rare": ["ガ"]
+		"frequent": [
+			"カ"
+		],
+		"common": [
+			"ゲ"
+		],
+		"rare": [
+			"ガ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["なつ"],
+		"frequent": [
+			"なつ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

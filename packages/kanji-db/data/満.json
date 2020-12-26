@@ -1,17 +1,32 @@
 {
 	"kanji": "満",
-	"meanings": ["full", "fullness", "enough", "satisfy"],
+	"meanings": [
+		"full",
+		"fullness",
+		"enough",
+		"satisfy"
+	],
 	"keyword": "full",
 	"onyomi": {
-		"frequent": ["マン"],
+		"frequent": [
+			"マン"
+		],
 		"common": [],
-		"rare": ["バン"]
+		"rare": [
+			"バン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["み"],
+		"frequent": [
+			"み"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["み.ちる", "み.つ", "み.たす"]
+		"okurigana": [
+			"み.ちる",
+			"み.つ",
+			"み.たす"
+		]
 	},
 	"frequency": {
 		"mean": 643,

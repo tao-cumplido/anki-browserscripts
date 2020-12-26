@@ -1,16 +1,22 @@
 {
 	"kanji": "肋",
-	"meanings": ["rib"],
+	"meanings": [
+		"rib"
+	],
 	"keyword": "rib",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ロク"]
+		"rare": [
+			"ロク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あばら"],
+		"rare": [
+			"あばら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

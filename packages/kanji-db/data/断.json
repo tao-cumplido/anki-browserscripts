@@ -1,17 +1,39 @@
 {
 	"kanji": "断",
-	"meanings": ["severance", "decline", "refuse", "apologize", "warn", "dismiss", "prohibit", "decision", "judgement", "cutting"],
+	"meanings": [
+		"severance",
+		"decline",
+		"refuse",
+		"apologize",
+		"warn",
+		"dismiss",
+		"prohibit",
+		"decision",
+		"judgement",
+		"cutting"
+	],
 	"keyword": "severance",
 	"onyomi": {
-		"frequent": ["ダン"],
+		"frequent": [
+			"ダン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["た", "ことわ"],
+		"frequent": [
+			"た",
+			"ことわ"
+		],
 		"common": [],
-		"rare": ["さだ"],
-		"okurigana": ["た.つ", "ことわ.る", "さだ.める"]
+		"rare": [
+			"さだ"
+		],
+		"okurigana": [
+			"た.つ",
+			"ことわ.る",
+			"さだ.める"
+		]
 	},
 	"frequency": {
 		"mean": 600,

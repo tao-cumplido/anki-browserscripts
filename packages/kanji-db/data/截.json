@@ -1,17 +1,29 @@
 {
 	"kanji": "截",
-	"meanings": ["cut off", "sever"],
+	"meanings": [
+		"cut off",
+		"sever"
+	],
 	"keyword": "incision",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セツ", "サイ"]
+		"rare": [
+			"セツ",
+			"サイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["き", "た"],
-		"okurigana": ["き.る", "た.つ"]
+		"rare": [
+			"き",
+			"た"
+		],
+		"okurigana": [
+			"き.る",
+			"た.つ"
+		]
 	},
 	"frequency": {
 		"mean": 3439,

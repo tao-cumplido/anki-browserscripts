@@ -1,16 +1,25 @@
 {
 	"kanji": "丂",
-	"meanings": ["obstruction of breath (qi) as it seeks release", "variant of other characters"],
+	"meanings": [
+		"obstruction of breath (qi) as it seeks release",
+		"variant of other characters"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["コウ"],
+		"common": [
+			"コウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["さまた"],
+		"common": [
+			"さまた"
+		],
 		"rare": [],
-		"okurigana": ["さまた.げられる"]
+		"okurigana": [
+			"さまた.げられる"
+		]
 	},
 	"frequency": {
 		"mean": 4536,

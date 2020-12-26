@@ -1,16 +1,24 @@
 {
 	"kanji": "敏",
-	"meanings": ["cleverness", "agile", "alert"],
+	"meanings": [
+		"cleverness",
+		"agile",
+		"alert"
+	],
 	"keyword": "cleverness",
 	"onyomi": {
-		"frequent": ["ビン"],
+		"frequent": [
+			"ビン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さとい"],
+		"rare": [
+			"さとい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

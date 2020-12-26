@@ -1,17 +1,26 @@
 {
 	"kanji": "歌",
-	"meanings": ["song", "sing"],
+	"meanings": [
+		"song",
+		"sing"
+	],
 	"keyword": "song",
 	"onyomi": {
-		"frequent": ["カ"],
+		"frequent": [
+			"カ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うた"],
+		"frequent": [
+			"うた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["うた.う"]
+		"okurigana": [
+			"うた.う"
+		]
 	},
 	"frequency": {
 		"mean": 243,

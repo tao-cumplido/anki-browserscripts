@@ -1,17 +1,28 @@
 {
 	"kanji": "励",
-	"meanings": ["encourage", "be diligent", "inspire"],
+	"meanings": [
+		"encourage",
+		"be diligent",
+		"inspire"
+	],
 	"keyword": "encourage",
 	"onyomi": {
-		"frequent": ["レイ"],
+		"frequent": [
+			"レイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はげ"],
+		"frequent": [
+			"はげ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["はげ.む", "はげ.ます"]
+		"okurigana": [
+			"はげ.む",
+			"はげ.ます"
+		]
 	},
 	"frequency": {
 		"mean": 1685,

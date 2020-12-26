@@ -1,17 +1,33 @@
 {
 	"kanji": "莫",
-	"meanings": ["must not", "do not", "be not"],
+	"meanings": [
+		"must not",
+		"do not",
+		"be not"
+	],
 	"keyword": "shalt",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["バク", "ボ", "マク", "モ", "ナイ"]
+		"rare": [
+			"バク",
+			"ボ",
+			"マク",
+			"モ",
+			"ナイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くれ", "なか", "なし"],
-		"okurigana": ["なか.れ"]
+		"rare": [
+			"くれ",
+			"なか",
+			"なし"
+		],
+		"okurigana": [
+			"なか.れ"
+		]
 	},
 	"frequency": {
 		"mean": 2294,

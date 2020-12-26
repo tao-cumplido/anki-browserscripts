@@ -1,17 +1,28 @@
 {
 	"kanji": "抗",
-	"meanings": ["confront", "resist", "defy", "oppose"],
+	"meanings": [
+		"confront",
+		"resist",
+		"defy",
+		"oppose"
+	],
 	"keyword": "confront",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あらが"],
-		"okurigana": ["あらが.う"]
+		"rare": [
+			"あらが"
+		],
+		"okurigana": [
+			"あらが.う"
+		]
 	},
 	"frequency": {
 		"mean": 926,

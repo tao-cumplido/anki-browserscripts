@@ -1,17 +1,32 @@
 {
 	"kanji": "巾",
-	"meanings": ["towel", "hanging scroll", "width", "cloth radical (no. 50)"],
+	"meanings": [
+		"towel",
+		"hanging scroll",
+		"width",
+		"cloth radical (no. 50)"
+	],
 	"keyword": "towel",
 	"onyomi": {
-		"frequent": ["キン"],
+		"frequent": [
+			"キン"
+		],
 		"common": [],
-		"rare": ["フク"]
+		"rare": [
+			"フク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おお", "ちきり", "きれ"],
-		"okurigana": ["おお.い"]
+		"rare": [
+			"おお",
+			"ちきり",
+			"きれ"
+		],
+		"okurigana": [
+			"おお.い"
+		]
 	},
 	"frequency": {
 		"mean": 2316,

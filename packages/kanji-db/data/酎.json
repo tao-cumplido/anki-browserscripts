@@ -1,17 +1,27 @@
 {
 	"kanji": "酎",
-	"meanings": ["sake"],
+	"meanings": [
+		"sake"
+	],
 	"keyword": "hooch",
 	"onyomi": {
-		"frequent": ["チュウ"],
+		"frequent": [
+			"チュウ"
+		],
 		"common": [],
-		"rare": ["チュ"]
+		"rare": [
+			"チュ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かも"],
-		"okurigana": ["かも.す"]
+		"rare": [
+			"かも"
+		],
+		"okurigana": [
+			"かも.す"
+		]
 	},
 	"frequency": {
 		"mean": 2689,

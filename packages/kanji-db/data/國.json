@@ -1,16 +1,22 @@
 {
 	"kanji": "國",
-	"meanings": ["country"],
+	"meanings": [
+		"country"
+	],
 	"keyword": "country (old)",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コク"]
+		"rare": [
+			"コク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くに"],
+		"rare": [
+			"くに"
+		],
 		"okurigana": []
 	},
 	"frequency": {

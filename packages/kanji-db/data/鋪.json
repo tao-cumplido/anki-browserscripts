@@ -1,16 +1,25 @@
 {
 	"kanji": "鋪",
-	"meanings": ["shop", "store"],
+	"meanings": [
+		"shop",
+		"store"
+	],
 	"keyword": "shop (alternate)",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ホ", "フ"]
+		"rare": [
+			"ホ",
+			"フ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しく", "みせ"],
+		"rare": [
+			"しく",
+			"みせ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

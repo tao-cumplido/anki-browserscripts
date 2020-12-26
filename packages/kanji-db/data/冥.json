@@ -1,17 +1,26 @@
 {
 	"kanji": "冥",
-	"meanings": ["dark"],
+	"meanings": [
+		"dark"
+	],
 	"keyword": "Hades",
 	"onyomi": {
-		"frequent": ["メイ", "ミョウ"],
+		"frequent": [
+			"メイ",
+			"ミョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くら"],
-		"okurigana": ["くら.い"]
+		"rare": [
+			"くら"
+		],
+		"okurigana": [
+			"くら.い"
+		]
 	},
 	"frequency": {
 		"mean": 2158,

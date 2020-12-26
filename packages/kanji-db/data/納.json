@@ -1,17 +1,36 @@
 {
 	"kanji": "納",
-	"meanings": ["settlement", "obtain", "reap", "pay", "supply", "store"],
+	"meanings": [
+		"settlement",
+		"obtain",
+		"reap",
+		"pay",
+		"supply",
+		"store"
+	],
 	"keyword": "settlement",
 	"onyomi": {
-		"frequent": ["ノウ"],
-		"common": ["ナッ", "ナ", "ナン", "トウ"],
+		"frequent": [
+			"ノウ"
+		],
+		"common": [
+			"ナッ",
+			"ナ",
+			"ナン",
+			"トウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おさ"],
+		"frequent": [
+			"おさ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おさ.める", "おさ.まる"]
+		"okurigana": [
+			"おさ.める",
+			"おさ.まる"
+		]
 	},
 	"frequency": {
 		"mean": 1071,

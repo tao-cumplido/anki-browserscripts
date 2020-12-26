@@ -1,17 +1,28 @@
 {
 	"kanji": "仔",
-	"meanings": ["offspring (animal)", "detailed", "fine"],
+	"meanings": [
+		"offspring (animal)",
+		"detailed",
+		"fine"
+	],
 	"keyword": "animal offspring",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こ", "た"],
-		"okurigana": ["た.える"]
+		"rare": [
+			"こ",
+			"た"
+		],
+		"okurigana": [
+			"た.える"
+		]
 	},
 	"frequency": {
 		"mean": 2357,

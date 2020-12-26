@@ -1,15 +1,24 @@
 {
 	"kanji": "其",
-	"meanings": ["that"],
+	"meanings": [
+		"that"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キ", "ギ", "ゴ"]
+		"rare": [
+			"キ",
+			"ギ",
+			"ゴ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["それ", "その"],
+		"rare": [
+			"それ",
+			"その"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,14 +1,27 @@
 {
 	"kanji": "原",
-	"meanings": ["meadow", "original", "primitive", "field", "plain", "prairie", "tundra", "wilderness"],
+	"meanings": [
+		"meadow",
+		"original",
+		"primitive",
+		"field",
+		"plain",
+		"prairie",
+		"tundra",
+		"wilderness"
+	],
 	"keyword": "meadow",
 	"onyomi": {
-		"frequent": ["ゲン"],
+		"frequent": [
+			"ゲン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はら"],
+		"frequent": [
+			"はら"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

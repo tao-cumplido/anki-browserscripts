@@ -1,16 +1,23 @@
 {
 	"kanji": "贋",
-	"meanings": ["counterfeit", "forgery"],
+	"meanings": [
+		"counterfeit",
+		"forgery"
+	],
 	"keyword": "counterfeit",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ガン"]
+		"rare": [
+			"ガン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["にせ"],
+		"rare": [
+			"にせ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

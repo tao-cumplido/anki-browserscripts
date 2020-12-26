@@ -1,17 +1,27 @@
 {
 	"kanji": "戴",
-	"meanings": ["be crowned with", "live under (a ruler)", "receive"],
+	"meanings": [
+		"be crowned with",
+		"live under (a ruler)",
+		"receive"
+	],
 	"keyword": "accept humbly",
 	"onyomi": {
-		"frequent": ["タイ"],
+		"frequent": [
+			"タイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いただ"],
-		"okurigana": ["いただ.く"]
+		"rare": [
+			"いただ"
+		],
+		"okurigana": [
+			"いただ.く"
+		]
 	},
 	"frequency": {
 		"mean": 2088,

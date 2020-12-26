@@ -1,16 +1,25 @@
 {
 	"kanji": "陸",
-	"meanings": ["land", "six"],
+	"meanings": [
+		"land",
+		"six"
+	],
 	"keyword": "land",
 	"onyomi": {
-		"frequent": ["リク"],
+		"frequent": [
+			"リク"
+		],
 		"common": [],
-		"rare": ["ロク"]
+		"rare": [
+			"ロク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おか"],
+		"rare": [
+			"おか"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,29 @@
 {
 	"kanji": "偏",
-	"meanings": ["partial", "side", "left-side radical", "inclining", "biased"],
+	"meanings": [
+		"partial",
+		"side",
+		"left-side radical",
+		"inclining",
+		"biased"
+	],
 	"keyword": "partial",
 	"onyomi": {
-		"frequent": ["ヘン"],
+		"frequent": [
+			"ヘン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かたよ"],
+		"frequent": [
+			"かたよ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かたよ.る"]
+		"okurigana": [
+			"かたよ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1660,

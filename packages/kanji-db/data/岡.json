@@ -1,14 +1,22 @@
 {
 	"kanji": "岡",
-	"meanings": ["mount", "hill", "knoll"],
+	"meanings": [
+		"mount",
+		"hill",
+		"knoll"
+	],
 	"keyword": "Mount",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["おか"],
+		"frequent": [
+			"おか"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

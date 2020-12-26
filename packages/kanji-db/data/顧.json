@@ -1,17 +1,28 @@
 {
 	"kanji": "顧",
-	"meanings": ["look back", "review", "examine oneself", "turn around"],
+	"meanings": [
+		"look back",
+		"review",
+		"examine oneself",
+		"turn around"
+	],
 	"keyword": "look back",
 	"onyomi": {
-		"frequent": ["コ"],
+		"frequent": [
+			"コ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かえり"],
+		"frequent": [
+			"かえり"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かえり.みる"]
+		"okurigana": [
+			"かえり.みる"
+		]
 	},
 	"frequency": {
 		"mean": 1478,

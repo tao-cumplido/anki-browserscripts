@@ -1,16 +1,24 @@
 {
 	"kanji": "艘",
-	"meanings": ["counter for small boats"],
+	"meanings": [
+		"counter for small boats"
+	],
 	"keyword": "small craft",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ", "シュウ", "ソウ"]
+		"rare": [
+			"ショウ",
+			"シュウ",
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふね"],
+		"rare": [
+			"ふね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

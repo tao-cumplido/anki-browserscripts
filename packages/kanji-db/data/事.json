@@ -1,17 +1,35 @@
 {
 	"kanji": "事",
-	"meanings": ["matter", "thing", "fact", "business", "reason", "possibly"],
+	"meanings": [
+		"matter",
+		"thing",
+		"fact",
+		"business",
+		"reason",
+		"possibly"
+	],
 	"keyword": "matter",
 	"onyomi": {
-		"frequent": ["ジ"],
-		"common": ["ズ"],
+		"frequent": [
+			"ジ"
+		],
+		"common": [
+			"ズ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こと"],
+		"frequent": [
+			"こと"
+		],
 		"common": [],
-		"rare": ["つか"],
-		"okurigana": ["つか.う", "つか.える"]
+		"rare": [
+			"つか"
+		],
+		"okurigana": [
+			"つか.う",
+			"つか.える"
+		]
 	},
 	"frequency": {
 		"mean": 29,

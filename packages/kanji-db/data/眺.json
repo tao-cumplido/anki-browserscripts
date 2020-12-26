@@ -1,17 +1,29 @@
 {
 	"kanji": "眺",
-	"meanings": ["stare", "watch", "look at", "see", "scrutinize"],
+	"meanings": [
+		"stare",
+		"watch",
+		"look at",
+		"see",
+		"scrutinize"
+	],
 	"keyword": "stare",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["なが"],
+		"frequent": [
+			"なが"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["なが.める"]
+		"okurigana": [
+			"なが.める"
+		]
 	},
 	"frequency": {
 		"mean": 1797,

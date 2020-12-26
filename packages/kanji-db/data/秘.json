@@ -1,17 +1,31 @@
 {
 	"kanji": "秘",
-	"meanings": ["secret", "conceal"],
+	"meanings": [
+		"secret",
+		"conceal"
+	],
 	"keyword": "secret",
 	"onyomi": {
-		"frequent": ["ヒ"],
+		"frequent": [
+			"ヒ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひ"],
+		"frequent": [
+			"ひ"
+		],
 		"common": [],
-		"rare": ["ひそ", "かく"],
-		"okurigana": ["ひ.める", "ひそ.か", "かく.す"]
+		"rare": [
+			"ひそ",
+			"かく"
+		],
+		"okurigana": [
+			"ひ.める",
+			"ひそ.か",
+			"かく.す"
+		]
 	},
 	"frequency": {
 		"mean": 951,

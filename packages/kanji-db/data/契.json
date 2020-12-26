@@ -1,17 +1,27 @@
 {
 	"kanji": "契",
-	"meanings": ["pledge", "promise", "vow"],
+	"meanings": [
+		"pledge",
+		"promise",
+		"vow"
+	],
 	"keyword": "pledge",
 	"onyomi": {
-		"frequent": ["ケイ"],
+		"frequent": [
+			"ケイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ちぎ"],
+		"frequent": [
+			"ちぎ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ちぎ.る"]
+		"okurigana": [
+			"ちぎ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1010,

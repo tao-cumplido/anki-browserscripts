@@ -1,16 +1,26 @@
 {
 	"kanji": "領",
-	"meanings": ["jurisdiction", "dominion", "territory", "fief", "reign"],
+	"meanings": [
+		"jurisdiction",
+		"dominion",
+		"territory",
+		"fief",
+		"reign"
+	],
 	"keyword": "jurisdiction",
 	"onyomi": {
-		"frequent": ["リョウ"],
+		"frequent": [
+			"リョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["えり"],
+		"rare": [
+			"えり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

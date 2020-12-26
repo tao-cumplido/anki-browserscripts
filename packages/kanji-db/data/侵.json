@@ -1,17 +1,29 @@
 {
 	"kanji": "侵",
-	"meanings": ["encroach", "invade", "raid", "trespass", "violate"],
+	"meanings": [
+		"encroach",
+		"invade",
+		"raid",
+		"trespass",
+		"violate"
+	],
 	"keyword": "encroach",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おか"],
+		"frequent": [
+			"おか"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おか.す"]
+		"okurigana": [
+			"おか.す"
+		]
 	},
 	"frequency": {
 		"mean": 1051,

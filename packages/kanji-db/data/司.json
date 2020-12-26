@@ -1,17 +1,29 @@
 {
 	"kanji": "司",
-	"meanings": ["director", "official", "govt office", "rule", "administer"],
+	"meanings": [
+		"director",
+		"official",
+		"govt office",
+		"rule",
+		"administer"
+	],
 	"keyword": "director",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つかさど"],
-		"okurigana": ["つかさど.る"]
+		"rare": [
+			"つかさど"
+		],
+		"okurigana": [
+			"つかさど.る"
+		]
 	},
 	"frequency": {
 		"mean": 467,

@@ -1,17 +1,27 @@
 {
 	"kanji": "謬",
-	"meanings": ["mistake"],
+	"meanings": [
+		"mistake"
+	],
 	"keyword": "fallible",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ビュウ", "ビョウ", "ミュウ"]
+		"rare": [
+			"ビュウ",
+			"ビョウ",
+			"ミュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あやま"],
-		"okurigana": ["あやま.る"]
+		"rare": [
+			"あやま"
+		],
+		"okurigana": [
+			"あやま.る"
+		]
 	},
 	"frequency": {
 		"mean": 3076,

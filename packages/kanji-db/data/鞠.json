@@ -1,16 +1,23 @@
 {
 	"kanji": "鞠",
-	"meanings": ["ball"],
+	"meanings": [
+		"ball"
+	],
 	"keyword": "terminate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キク", "キュウ"]
+		"rare": [
+			"キク",
+			"キュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まり"],
+		"rare": [
+			"まり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

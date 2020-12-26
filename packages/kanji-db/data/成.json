@@ -1,17 +1,33 @@
 {
 	"kanji": "成",
-	"meanings": ["turn into", "become", "get", "grow", "elapse", "reach"],
+	"meanings": [
+		"turn into",
+		"become",
+		"get",
+		"grow",
+		"elapse",
+		"reach"
+	],
 	"keyword": "turn into",
 	"onyomi": {
-		"frequent": ["セイ"],
-		"common": ["ジョウ"],
+		"frequent": [
+			"セイ"
+		],
+		"common": [
+			"ジョウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["な"],
+		"frequent": [
+			"な"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["な.る", "な.す"]
+		"okurigana": [
+			"な.る",
+			"な.す"
+		]
 	},
 	"frequency": {
 		"mean": 44,

@@ -1,17 +1,33 @@
 {
 	"kanji": "已",
-	"meanings": ["stop", "halt", "previously", "already", "long ago"],
+	"meanings": [
+		"stop",
+		"halt",
+		"previously",
+		"already",
+		"long ago"
+	],
 	"keyword": "stop short",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["イ"]
+		"rare": [
+			"イ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["や", "すで", "のみ", "はなはだ"],
-		"okurigana": ["や.む", "すで.に"]
+		"rare": [
+			"や",
+			"すで",
+			"のみ",
+			"はなはだ"
+		],
+		"okurigana": [
+			"や.む",
+			"すで.に"
+		]
 	},
 	"frequency": {
 		"mean": 2898,

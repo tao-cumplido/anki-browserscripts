@@ -1,17 +1,33 @@
 {
 	"kanji": "灯",
-	"meanings": ["lamp", "a light", "light", "counter for lights"],
+	"meanings": [
+		"lamp",
+		"a light",
+		"light",
+		"counter for lights"
+	],
 	"keyword": "lamp",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひ"],
+		"frequent": [
+			"ひ"
+		],
 		"common": [],
-		"rare": ["ほ", "ともしび", "とも", "あかり"],
-		"okurigana": ["とも.す"]
+		"rare": [
+			"ほ",
+			"ともしび",
+			"とも",
+			"あかり"
+		],
+		"okurigana": [
+			"とも.す"
+		]
 	},
 	"frequency": {
 		"mean": 1229,

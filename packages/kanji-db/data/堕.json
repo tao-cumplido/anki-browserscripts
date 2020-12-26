@@ -1,17 +1,30 @@
 {
 	"kanji": "堕",
-	"meanings": ["degenerate", "descend to", "lapse into"],
+	"meanings": [
+		"degenerate",
+		"descend to",
+		"lapse into"
+	],
 	"keyword": "degenerate",
 	"onyomi": {
-		"frequent": ["ダ"],
+		"frequent": [
+			"ダ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["お", "くず"],
-		"okurigana": ["お.ちる", "くず.す", "くず.れる"]
+		"rare": [
+			"お",
+			"くず"
+		],
+		"okurigana": [
+			"お.ちる",
+			"くず.す",
+			"くず.れる"
+		]
 	},
 	"frequency": {
 		"mean": 2248,

@@ -1,16 +1,24 @@
 {
 	"kanji": "昌",
-	"meanings": ["prosperous", "bright", "clear"],
+	"meanings": [
+		"prosperous",
+		"bright",
+		"clear"
+	],
 	"keyword": "prosperous",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ"]
+		"rare": [
+			"ショウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さかん"],
+		"rare": [
+			"さかん"
+		],
 		"okurigana": []
 	},
 	"frequency": {

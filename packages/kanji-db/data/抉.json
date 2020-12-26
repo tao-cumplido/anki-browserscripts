@@ -1,17 +1,32 @@
 {
 	"kanji": "抉",
-	"meanings": ["gouge", "hollow out", "bore", "pry"],
+	"meanings": [
+		"gouge",
+		"hollow out",
+		"bore",
+		"pry"
+	],
 	"keyword": "gouge out",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケツ"]
+		"rare": [
+			"ケツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["えぐ", "こじ", "くじ"],
-		"okurigana": ["えぐ.る", "こじ.る", "くじ.る"]
+		"rare": [
+			"えぐ",
+			"こじ",
+			"くじ"
+		],
+		"okurigana": [
+			"えぐ.る",
+			"こじ.る",
+			"くじ.る"
+		]
 	},
 	"frequency": {
 		"mean": 3537,

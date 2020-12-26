@@ -1,17 +1,31 @@
 {
 	"kanji": "貞",
-	"meanings": ["upright", "chastity", "constancy", "righteousness"],
+	"meanings": [
+		"upright",
+		"chastity",
+		"constancy",
+		"righteousness"
+	],
 	"keyword": "upright",
 	"onyomi": {
-		"frequent": ["テイ"],
+		"frequent": [
+			"テイ"
+		],
 		"common": [],
-		"rare": ["ジョウ"]
+		"rare": [
+			"ジョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ただし", "さだ"],
-		"okurigana": ["ただし.い"]
+		"rare": [
+			"ただし",
+			"さだ"
+		],
+		"okurigana": [
+			"ただし.い"
+		]
 	},
 	"frequency": {
 		"mean": 1212,

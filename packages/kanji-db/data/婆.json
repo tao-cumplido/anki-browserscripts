@@ -1,16 +1,25 @@
 {
 	"kanji": "婆",
-	"meanings": ["old woman", "grandma", "wet nurse"],
+	"meanings": [
+		"old woman",
+		"grandma",
+		"wet nurse"
+	],
 	"keyword": "old woman",
 	"onyomi": {
-		"frequent": ["バ"],
+		"frequent": [
+			"バ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ばば", "ばあ"],
+		"rare": [
+			"ばば",
+			"ばあ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

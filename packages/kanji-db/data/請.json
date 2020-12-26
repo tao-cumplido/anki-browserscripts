@@ -1,17 +1,33 @@
 {
 	"kanji": "請",
-	"meanings": ["solicit", "invite", "ask"],
+	"meanings": [
+		"solicit",
+		"invite",
+		"ask"
+	],
 	"keyword": "solicit",
 	"onyomi": {
-		"frequent": ["セイ"],
-		"common": ["シン"],
-		"rare": ["ショウ"]
+		"frequent": [
+			"セイ"
+		],
+		"common": [
+			"シン"
+		],
+		"rare": [
+			"ショウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["こ", "う"],
+		"frequent": [
+			"こ",
+			"う"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["こ.う", "う.ける"]
+		"okurigana": [
+			"こ.う",
+			"う.ける"
+		]
 	},
 	"frequency": {
 		"mean": 1089,

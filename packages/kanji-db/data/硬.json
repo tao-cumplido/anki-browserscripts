@@ -1,17 +1,26 @@
 {
 	"kanji": "硬",
-	"meanings": ["stiff", "hard"],
+	"meanings": [
+		"stiff",
+		"hard"
+	],
 	"keyword": "stiff",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かた"],
+		"frequent": [
+			"かた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かた.い"]
+		"okurigana": [
+			"かた.い"
+		]
 	},
 	"frequency": {
 		"mean": 1358,

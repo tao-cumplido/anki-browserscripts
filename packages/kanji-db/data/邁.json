@@ -1,17 +1,27 @@
 {
 	"kanji": "邁",
-	"meanings": ["go", "excel"],
+	"meanings": [
+		"go",
+		"excel"
+	],
 	"keyword": "pass through",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["マイ", "バイ"]
+		"rare": [
+			"マイ",
+			"バイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゆ"],
-		"okurigana": ["ゆ.く"]
+		"rare": [
+			"ゆ"
+		],
+		"okurigana": [
+			"ゆ.く"
+		]
 	},
 	"frequency": {
 		"mean": 3183,

@@ -1,17 +1,28 @@
 {
 	"kanji": "盗",
-	"meanings": ["steal", "rob", "pilfer"],
+	"meanings": [
+		"steal",
+		"rob",
+		"pilfer"
+	],
 	"keyword": "steal",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ぬす"],
+		"frequent": [
+			"ぬす"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ぬす.む", "ぬす.み"]
+		"okurigana": [
+			"ぬす.む",
+			"ぬす.み"
+		]
 	},
 	"frequency": {
 		"mean": 1233,

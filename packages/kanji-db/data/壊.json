@@ -1,17 +1,33 @@
 {
 	"kanji": "壊",
-	"meanings": ["demolition", "break", "destroy"],
+	"meanings": [
+		"demolition",
+		"break",
+		"destroy"
+	],
 	"keyword": "demolition",
 	"onyomi": {
-		"frequent": ["カイ"],
+		"frequent": [
+			"カイ"
+		],
 		"common": [],
-		"rare": ["エ"]
+		"rare": [
+			"エ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["こわ"],
+		"frequent": [
+			"こわ"
+		],
 		"common": [],
-		"rare": ["やぶ"],
-		"okurigana": ["こわ.す", "こわ.れる", "やぶ.る"]
+		"rare": [
+			"やぶ"
+		],
+		"okurigana": [
+			"こわ.す",
+			"こわ.れる",
+			"やぶ.る"
+		]
 	},
 	"frequency": {
 		"mean": 904,

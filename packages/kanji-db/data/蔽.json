@@ -1,17 +1,33 @@
 {
 	"kanji": "蔽",
-	"meanings": ["cover", "shade", "mantle", "capsize", "be ruined"],
+	"meanings": [
+		"cover",
+		"shade",
+		"mantle",
+		"capsize",
+		"be ruined"
+	],
 	"keyword": "cover over",
 	"onyomi": {
-		"frequent": ["ヘイ"],
+		"frequent": [
+			"ヘイ"
+		],
 		"common": [],
-		"rare": ["ヘツ", "フツ"]
+		"rare": [
+			"ヘツ",
+			"フツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おお"],
-		"okurigana": ["おお.う", "おお.い"]
+		"rare": [
+			"おお"
+		],
+		"okurigana": [
+			"おお.う",
+			"おお.い"
+		]
 	},
 	"frequency": {
 		"mean": 2436,

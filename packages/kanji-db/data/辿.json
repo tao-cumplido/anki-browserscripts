@@ -1,17 +1,27 @@
 {
 	"kanji": "辿",
-	"meanings": ["follow (road)", "pursue"],
+	"meanings": [
+		"follow (road)",
+		"pursue"
+	],
 	"keyword": "track down",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テン"]
+		"rare": [
+			"テン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たど", "たどり"],
-		"okurigana": ["たど.る"]
+		"rare": [
+			"たど",
+			"たどり"
+		],
+		"okurigana": [
+			"たど.る"
+		]
 	},
 	"frequency": {
 		"mean": 2327,

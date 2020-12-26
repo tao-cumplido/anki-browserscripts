@@ -1,0 +1,29 @@
+{
+	"kanji": "慁",
+	"meanings": [
+		"dishonor",
+		"disobey",
+		"insult"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"コン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"うれ"
+		],
+		"rare": [],
+		"okurigana": [
+			"うれ.える"
+		]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

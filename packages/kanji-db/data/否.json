@@ -1,16 +1,29 @@
 {
 	"kanji": "否",
-	"meanings": ["negate", "no", "noes", "refuse", "decline", "deny"],
+	"meanings": [
+		"negate",
+		"no",
+		"noes",
+		"refuse",
+		"decline",
+		"deny"
+	],
 	"keyword": "negate",
 	"onyomi": {
-		"frequent": ["ヒ"],
+		"frequent": [
+			"ヒ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いな"],
+		"frequent": [
+			"いな"
+		],
 		"common": [],
-		"rare": ["いや"],
+		"rare": [
+			"いや"
+		],
 		"okurigana": []
 	},
 	"frequency": {

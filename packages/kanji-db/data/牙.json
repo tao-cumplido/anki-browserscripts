@@ -1,16 +1,28 @@
 {
 	"kanji": "牙",
-	"meanings": ["tusk", "fang", "tusk radical (no. 92)"],
+	"meanings": [
+		"tusk",
+		"fang",
+		"tusk radical (no. 92)"
+	],
 	"keyword": "tusk",
 	"onyomi": {
-		"frequent": ["ガ"],
-		"common": ["ゲ"],
+		"frequent": [
+			"ガ"
+		],
+		"common": [
+			"ゲ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["きば"],
+		"frequent": [
+			"きば"
+		],
 		"common": [],
-		"rare": ["は"],
+		"rare": [
+			"は"
+		],
 		"okurigana": []
 	},
 	"frequency": {

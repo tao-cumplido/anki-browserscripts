@@ -1,16 +1,24 @@
 {
 	"kanji": "瘍",
-	"meanings": ["swelling", "boil", "tumor"],
+	"meanings": [
+		"swelling",
+		"boil",
+		"tumor"
+	],
 	"keyword": "carbuncle",
 	"onyomi": {
-		"frequent": ["ヨウ"],
+		"frequent": [
+			"ヨウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かさ"],
+		"rare": [
+			"かさ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,33 @@
 {
 	"kanji": "叩",
-	"meanings": ["strike", "beat", "kow tow", "hit", "thrash", "criticize"],
+	"meanings": [
+		"strike",
+		"beat",
+		"kow tow",
+		"hit",
+		"thrash",
+		"criticize"
+	],
 	"keyword": "bash",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たた", "はた", "すぎ"],
-		"okurigana": ["たた.く", "はた.く"]
+		"rare": [
+			"たた",
+			"はた",
+			"すぎ"
+		],
+		"okurigana": [
+			"たた.く",
+			"はた.く"
+		]
 	},
 	"frequency": {
 		"mean": 1713,

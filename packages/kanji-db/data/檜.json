@@ -1,16 +1,23 @@
 {
 	"kanji": "檜",
-	"meanings": ["Japanese cypress"],
+	"meanings": [
+		"Japanese cypress"
+	],
 	"keyword": "Japanese cypress (old)",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カイ"]
+		"rare": [
+			"カイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひのき", "ひ"],
+		"rare": [
+			"ひのき",
+			"ひ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

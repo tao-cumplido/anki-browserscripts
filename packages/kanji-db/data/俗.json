@@ -1,9 +1,17 @@
 {
 	"kanji": "俗",
-	"meanings": ["vulgar", "customs", "manners", "worldliness", "mundane things"],
+	"meanings": [
+		"vulgar",
+		"customs",
+		"manners",
+		"worldliness",
+		"mundane things"
+	],
 	"keyword": "vulgar",
 	"onyomi": {
-		"frequent": ["ゾク"],
+		"frequent": [
+			"ゾク"
+		],
 		"common": [],
 		"rare": []
 	},

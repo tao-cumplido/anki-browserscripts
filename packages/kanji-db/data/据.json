@@ -1,17 +1,31 @@
 {
 	"kanji": "据",
-	"meanings": ["set", "lay a foundation", "install", "equip", "squat down", "sit down"],
+	"meanings": [
+		"set",
+		"lay a foundation",
+		"install",
+		"equip",
+		"squat down",
+		"sit down"
+	],
 	"keyword": "set",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョ"]
+		"rare": [
+			"キョ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["す"],
+		"frequent": [
+			"す"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["す.える", "す.わる"]
+		"okurigana": [
+			"す.える",
+			"す.わる"
+		]
 	},
 	"frequency": {
 		"mean": 2084,

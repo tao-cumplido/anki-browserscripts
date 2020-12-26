@@ -1,17 +1,28 @@
 {
 	"kanji": "括",
-	"meanings": ["fasten", "tie up", "arrest", "constrict"],
+	"meanings": [
+		"fasten",
+		"tie up",
+		"arrest",
+		"constrict"
+	],
 	"keyword": "fasten",
 	"onyomi": {
-		"frequent": ["カツ"],
+		"frequent": [
+			"カツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くく"],
-		"okurigana": ["くく.る"]
+		"rare": [
+			"くく"
+		],
+		"okurigana": [
+			"くく.る"
+		]
 	},
 	"frequency": {
 		"mean": 1440,

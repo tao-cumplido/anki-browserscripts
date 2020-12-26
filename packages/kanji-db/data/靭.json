@@ -1,17 +1,33 @@
 {
 	"kanji": "靭",
-	"meanings": ["soft", "pliable", "quiver"],
+	"meanings": [
+		"soft",
+		"pliable",
+		"quiver"
+	],
 	"keyword": "pliable",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジン", "ニン", "サ", "サイ", "サツ"]
+		"rare": [
+			"ジン",
+			"ニン",
+			"サ",
+			"サイ",
+			"サツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うつぼ", "しな", "ゆぎ"],
-		"okurigana": ["しな.やか"]
+		"rare": [
+			"うつぼ",
+			"しな",
+			"ゆぎ"
+		],
+		"okurigana": [
+			"しな.やか"
+		]
 	},
 	"frequency": {
 		"mean": 2775,

@@ -1,17 +1,30 @@
 {
 	"kanji": "鋳",
-	"meanings": ["casting", "mint"],
+	"meanings": [
+		"casting",
+		"mint"
+	],
 	"keyword": "casting",
 	"onyomi": {
-		"frequent": ["チュウ"],
+		"frequent": [
+			"チュウ"
+		],
 		"common": [],
-		"rare": ["イ", "シュ", "シュウ"]
+		"rare": [
+			"イ",
+			"シュ",
+			"シュウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["い"],
+		"frequent": [
+			"い"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["い.る"]
+		"okurigana": [
+			"い.る"
+		]
 	},
 	"frequency": {
 		"mean": 2194,

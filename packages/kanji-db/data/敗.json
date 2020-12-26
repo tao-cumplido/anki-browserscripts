@@ -1,17 +1,27 @@
 {
 	"kanji": "敗",
-	"meanings": ["failure", "defeat", "reversal"],
+	"meanings": [
+		"failure",
+		"defeat",
+		"reversal"
+	],
 	"keyword": "failure",
 	"onyomi": {
-		"frequent": ["ハイ"],
+		"frequent": [
+			"ハイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["やぶ"],
+		"frequent": [
+			"やぶ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["やぶ.れる"]
+		"okurigana": [
+			"やぶ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 567,

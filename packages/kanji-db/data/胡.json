@@ -1,16 +1,25 @@
 {
 	"kanji": "胡",
-	"meanings": ["barbarian", "foreign"],
+	"meanings": [
+		"barbarian",
+		"foreign"
+	],
 	"keyword": "uncivilized",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ウ", "コ", "ゴ"]
+		"rare": [
+			"ウ",
+			"コ",
+			"ゴ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なんぞ"],
+		"rare": [
+			"なんぞ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

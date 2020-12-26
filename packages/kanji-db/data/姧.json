@@ -1,0 +1,34 @@
+{
+	"kanji": "姧",
+	"meanings": [
+		"wicked",
+		"mischief",
+		"seduce",
+		"rape",
+		"noisy"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"カン",
+			"ケン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"かしま",
+			"みだら",
+			"よこしま"
+		],
+		"rare": [],
+		"okurigana": [
+			"かしま.しい"
+		]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

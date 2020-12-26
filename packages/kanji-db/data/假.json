@@ -1,16 +1,28 @@
 {
 	"kanji": "假",
-	"meanings": ["temporary", "interim", "assumed (name)", "informal"],
+	"meanings": [
+		"temporary",
+		"interim",
+		"assumed (name)",
+		"informal"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カ", "ケ"]
+		"rare": [
+			"カ",
+			"ケ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かり"],
-		"okurigana": ["かり.る"]
+		"rare": [
+			"かり"
+		],
+		"okurigana": [
+			"かり.る"
+		]
 	},
 	"frequency": {
 		"mean": 3230,

@@ -1,17 +1,37 @@
 {
 	"kanji": "艶",
-	"meanings": ["glossy", "luster", "glaze", "polish", "charm", "colorful", "captivating"],
+	"meanings": [
+		"glossy",
+		"luster",
+		"glaze",
+		"polish",
+		"charm",
+		"colorful",
+		"captivating"
+	],
 	"keyword": "glossy",
 	"onyomi": {
-		"frequent": ["エン"],
+		"frequent": [
+			"エン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つや"],
+		"frequent": [
+			"つや"
+		],
 		"common": [],
-		"rare": ["なま", "あで"],
-		"okurigana": ["なま.めかしい", "あで.やか", "つや.めく", "なま.めく"]
+		"rare": [
+			"なま",
+			"あで"
+		],
+		"okurigana": [
+			"なま.めかしい",
+			"あで.やか",
+			"つや.めく",
+			"なま.めく"
+		]
 	},
 	"frequency": {
 		"mean": 2275,

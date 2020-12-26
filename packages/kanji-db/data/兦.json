@@ -1,16 +1,29 @@
 {
 	"kanji": "兦",
-	"meanings": ["destruction"],
+	"meanings": [
+		"destruction"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ボウ", "モウ"],
+		"common": [
+			"ボウ",
+			"モウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["な", "ほろ"],
+		"common": [
+			"な",
+			"ほろ"
+		],
 		"rare": [],
-		"okurigana": ["な.い", "ほろ.びる", "ほろ.ぶ", "ほろ.ぼす"]
+		"okurigana": [
+			"な.い",
+			"ほろ.びる",
+			"ほろ.ぶ",
+			"ほろ.ぼす"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

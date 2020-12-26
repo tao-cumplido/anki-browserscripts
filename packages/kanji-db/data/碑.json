@@ -1,16 +1,23 @@
 {
 	"kanji": "碑",
-	"meanings": ["tombstone", "monument"],
+	"meanings": [
+		"tombstone",
+		"monument"
+	],
 	"keyword": "tombstone",
 	"onyomi": {
-		"frequent": ["ヒ"],
+		"frequent": [
+			"ヒ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いしぶみ"],
+		"rare": [
+			"いしぶみ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

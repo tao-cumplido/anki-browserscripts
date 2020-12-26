@@ -1,17 +1,36 @@
 {
 	"kanji": "隙",
-	"meanings": ["crevice", "fissure", "discord", "opportunity", "leisure"],
+	"meanings": [
+		"crevice",
+		"fissure",
+		"discord",
+		"opportunity",
+		"leisure"
+	],
 	"keyword": "chink",
 	"onyomi": {
-		"frequent": ["ゲキ"],
+		"frequent": [
+			"ゲキ"
+		],
 		"common": [],
-		"rare": ["キャク", "ケキ"]
+		"rare": [
+			"キャク",
+			"ケキ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["すき"],
+		"frequent": [
+			"すき"
+		],
 		"common": [],
-		"rare": ["す", "ひま"],
-		"okurigana": ["す.く", "す.かす"]
+		"rare": [
+			"す",
+			"ひま"
+		],
+		"okurigana": [
+			"す.く",
+			"す.かす"
+		]
 	},
 	"frequency": {
 		"mean": 2032,

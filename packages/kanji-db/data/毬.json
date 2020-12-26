@@ -1,16 +1,24 @@
 {
 	"kanji": "毬",
-	"meanings": ["burr", "ball"],
+	"meanings": [
+		"burr",
+		"ball"
+	],
 	"keyword": "furball",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キュウ"]
+		"rare": [
+			"キュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いが", "まり"],
+		"rare": [
+			"いが",
+			"まり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

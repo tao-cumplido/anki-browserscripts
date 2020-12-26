@@ -1,17 +1,39 @@
 {
 	"kanji": "回",
-	"meanings": ["-times", "round", "game", "revolve", "counter for occurrences"],
+	"meanings": [
+		"-times",
+		"round",
+		"game",
+		"revolve",
+		"counter for occurrences"
+	],
 	"keyword": "-times",
 	"onyomi": {
-		"frequent": ["カイ"],
-		"common": ["エ"],
+		"frequent": [
+			"カイ"
+		],
+		"common": [
+			"エ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まわ"],
+		"frequent": [
+			"まわ"
+		],
 		"common": [],
-		"rare": ["もとお", "か"],
-		"okurigana": ["まわ.る", "まわ.り", "まわ.す", "まわ.し", "もとお.る", "か.える"]
+		"rare": [
+			"もとお",
+			"か"
+		],
+		"okurigana": [
+			"まわ.る",
+			"まわ.り",
+			"まわ.す",
+			"まわ.し",
+			"もとお.る",
+			"か.える"
+		]
 	},
 	"frequency": {
 		"mean": 84,

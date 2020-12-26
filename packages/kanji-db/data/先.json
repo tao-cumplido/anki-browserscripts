@@ -1,17 +1,31 @@
 {
 	"kanji": "先",
-	"meanings": ["before", "ahead", "previous", "future", "precedence"],
+	"meanings": [
+		"before",
+		"ahead",
+		"previous",
+		"future",
+		"precedence"
+	],
 	"keyword": "before",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さき"],
+		"frequent": [
+			"さき"
+		],
 		"common": [],
-		"rare": ["ま"],
-		"okurigana": ["ま.ず"]
+		"rare": [
+			"ま"
+		],
+		"okurigana": [
+			"ま.ず"
+		]
 	},
 	"frequency": {
 		"mean": 335,

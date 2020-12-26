@@ -1,16 +1,28 @@
 {
 	"kanji": "宗",
-	"meanings": ["religion", "sect", "denomination", "main point", "origin", "essence"],
+	"meanings": [
+		"religion",
+		"sect",
+		"denomination",
+		"main point",
+		"origin",
+		"essence"
+	],
 	"keyword": "religion",
 	"onyomi": {
-		"frequent": ["シュウ", "ソウ"],
+		"frequent": [
+			"シュウ",
+			"ソウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["むね"],
+		"rare": [
+			"むね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

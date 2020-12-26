@@ -1,17 +1,28 @@
 {
 	"kanji": "択",
-	"meanings": ["choose", "select", "elect", "prefer"],
+	"meanings": [
+		"choose",
+		"select",
+		"elect",
+		"prefer"
+	],
 	"keyword": "choose",
 	"onyomi": {
-		"frequent": ["タク"],
+		"frequent": [
+			"タク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["えら"],
-		"okurigana": ["えら.ぶ"]
+		"rare": [
+			"えら"
+		],
+		"okurigana": [
+			"えら.ぶ"
+		]
 	},
 	"frequency": {
 		"mean": 1192,

@@ -1,14 +1,23 @@
 {
 	"kanji": "岬",
-	"meanings": ["headland", "cape", "spit", "promontory"],
+	"meanings": [
+		"headland",
+		"cape",
+		"spit",
+		"promontory"
+	],
 	"keyword": "headland",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["みさき"],
+		"frequent": [
+			"みさき"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,16 +1,24 @@
 {
 	"kanji": "鼈",
-	"meanings": ["snapping turtle", "fresh-water turtle"],
+	"meanings": [
+		"snapping turtle",
+		"fresh-water turtle"
+	],
 	"keyword": "snapping turtle",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ベツ", "ヘツ"]
+		"rare": [
+			"ベツ",
+			"ヘツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すっぽん"],
+		"rare": [
+			"すっぽん"
+		],
 		"okurigana": []
 	},
 	"frequency": {

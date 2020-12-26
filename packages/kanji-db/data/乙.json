@@ -1,16 +1,29 @@
 {
 	"kanji": "乙",
-	"meanings": ["the latter", "duplicate", "strange", "witty", "fishhook radical (no. 5)"],
+	"meanings": [
+		"the latter",
+		"duplicate",
+		"strange",
+		"witty",
+		"fishhook radical (no. 5)"
+	],
 	"keyword": "fish guts",
 	"onyomi": {
-		"frequent": ["オツ"],
+		"frequent": [
+			"オツ"
+		],
 		"common": [],
-		"rare": ["イツ"]
+		"rare": [
+			"イツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おと", "きのと"],
+		"rare": [
+			"おと",
+			"きのと"
+		],
 		"okurigana": []
 	},
 	"frequency": {

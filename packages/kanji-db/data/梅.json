@@ -1,14 +1,20 @@
 {
 	"kanji": "梅",
-	"meanings": ["plum"],
+	"meanings": [
+		"plum"
+	],
 	"keyword": "plum",
 	"onyomi": {
-		"frequent": ["バイ"],
+		"frequent": [
+			"バイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うめ"],
+		"frequent": [
+			"うめ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

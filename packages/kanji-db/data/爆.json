@@ -1,17 +1,28 @@
 {
 	"kanji": "爆",
-	"meanings": ["bomb", "burst open", "pop", "split"],
+	"meanings": [
+		"bomb",
+		"burst open",
+		"pop",
+		"split"
+	],
 	"keyword": "bomb",
 	"onyomi": {
-		"frequent": ["バク"],
+		"frequent": [
+			"バク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["は"],
-		"okurigana": ["は.ぜる"]
+		"rare": [
+			"は"
+		],
+		"okurigana": [
+			"は.ぜる"
+		]
 	},
 	"frequency": {
 		"mean": 784,

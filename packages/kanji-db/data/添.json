@@ -1,17 +1,35 @@
 {
 	"kanji": "添",
-	"meanings": ["annexed", "accompany", "marry", "suit", "meet", "satisfy", "attach", "append", "garnish", "imitate"],
+	"meanings": [
+		"annexed",
+		"accompany",
+		"marry",
+		"suit",
+		"meet",
+		"satisfy",
+		"attach",
+		"append",
+		"garnish",
+		"imitate"
+	],
 	"keyword": "annexed",
 	"onyomi": {
-		"frequent": ["テン"],
+		"frequent": [
+			"テン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["そ"],
+		"frequent": [
+			"そ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["そ.える", "そ.う"]
+		"okurigana": [
+			"そ.える",
+			"そ.う"
+		]
 	},
 	"frequency": {
 		"mean": 1462,

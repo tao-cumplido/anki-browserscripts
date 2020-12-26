@@ -1,9 +1,14 @@
 {
 	"kanji": "億",
-	"meanings": ["hundred million", "10**8"],
+	"meanings": [
+		"hundred million",
+		"10**8"
+	],
 	"keyword": "hundred million",
 	"onyomi": {
-		"frequent": ["オク"],
+		"frequent": [
+			"オク"
+		],
 		"common": [],
 		"rare": []
 	},

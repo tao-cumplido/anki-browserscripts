@@ -1,17 +1,33 @@
 {
 	"kanji": "載",
-	"meanings": ["ride", "board", "get on", "place", "spread", "10**44", "record", "publish"],
+	"meanings": [
+		"ride",
+		"board",
+		"get on",
+		"place",
+		"spread",
+		"10**44",
+		"record",
+		"publish"
+	],
 	"keyword": "load",
 	"onyomi": {
-		"frequent": ["サイ"],
+		"frequent": [
+			"サイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["の"],
+		"frequent": [
+			"の"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["の.せる", "の.る"]
+		"okurigana": [
+			"の.せる",
+			"の.る"
+		]
 	},
 	"frequency": {
 		"mean": 361,

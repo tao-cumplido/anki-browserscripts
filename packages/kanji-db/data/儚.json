@@ -1,16 +1,28 @@
 {
 	"kanji": "儚",
-	"meanings": ["fleeting", "fickle"],
+	"meanings": [
+		"fleeting",
+		"fickle"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ボウ", "モウ"]
+		"rare": [
+			"ボウ",
+			"モウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はかな", "くら"],
-		"okurigana": ["はかな.い", "くら.い"]
+		"rare": [
+			"はかな",
+			"くら"
+		],
+		"okurigana": [
+			"はかな.い",
+			"くら.い"
+		]
 	},
 	"frequency": {
 		"mean": 3475,

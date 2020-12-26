@@ -1,17 +1,34 @@
 {
 	"kanji": "凝",
-	"meanings": ["congeal", "freeze", "stiff", "be absorbed in"],
+	"meanings": [
+		"congeal",
+		"freeze",
+		"stiff",
+		"be absorbed in"
+	],
 	"keyword": "congeal",
 	"onyomi": {
-		"frequent": ["ギョウ"],
+		"frequent": [
+			"ギョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こ"],
+		"frequent": [
+			"こ"
+		],
 		"common": [],
-		"rare": ["こご"],
-		"okurigana": ["こ.る", "こ.らす", "こご.らす", "こご.らせる", "こご.る"]
+		"rare": [
+			"こご"
+		],
+		"okurigana": [
+			"こ.る",
+			"こ.らす",
+			"こご.らす",
+			"こご.らせる",
+			"こご.る"
+		]
 	},
 	"frequency": {
 		"mean": 2066,

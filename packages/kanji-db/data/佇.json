@@ -1,16 +1,28 @@
 {
 	"kanji": "佇",
-	"meanings": ["stop", "linger", "appearance", "figure", "bearing"],
+	"meanings": [
+		"stop",
+		"linger",
+		"appearance",
+		"figure",
+		"bearing"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョ"]
+		"rare": [
+			"チョ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たたず"],
-		"okurigana": ["たたず.む"]
+		"rare": [
+			"たたず"
+		],
+		"okurigana": [
+			"たたず.む"
+		]
 	},
 	"frequency": {
 		"mean": 3127,

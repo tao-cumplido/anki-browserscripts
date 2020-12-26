@@ -1,14 +1,22 @@
 {
 	"kanji": "傢",
-	"meanings": ["stubborn", "obstinate", "intransigent"],
+	"meanings": [
+		"stubborn",
+		"obstinate",
+		"intransigent"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["カ"],
+		"common": [
+			"カ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["かぐ"],
+		"common": [
+			"かぐ"
+		],
 		"rare": [],
 		"okurigana": []
 	},

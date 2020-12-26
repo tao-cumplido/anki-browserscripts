@@ -1,16 +1,25 @@
 {
 	"kanji": "倝",
-	"meanings": ["sunrise", "dawn"],
+	"meanings": [
+		"sunrise",
+		"dawn"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["カン"],
+		"common": [
+			"カン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["かがや"],
+		"common": [
+			"かがや"
+		],
 		"rare": [],
-		"okurigana": ["かがや.く"]
+		"okurigana": [
+			"かがや.く"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

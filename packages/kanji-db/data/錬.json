@@ -1,17 +1,29 @@
 {
 	"kanji": "錬",
-	"meanings": ["tempering", "refine", "drill", "train", "polish"],
+	"meanings": [
+		"tempering",
+		"refine",
+		"drill",
+		"train",
+		"polish"
+	],
 	"keyword": "tempering",
 	"onyomi": {
-		"frequent": ["レン"],
+		"frequent": [
+			"レン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ね"],
-		"okurigana": ["ね.る"]
+		"rare": [
+			"ね"
+		],
+		"okurigana": [
+			"ね.る"
+		]
 	},
 	"frequency": {
 		"mean": 1806,

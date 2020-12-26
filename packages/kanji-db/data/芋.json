@@ -1,14 +1,20 @@
 {
 	"kanji": "芋",
-	"meanings": ["potato"],
+	"meanings": [
+		"potato"
+	],
 	"keyword": "potato",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ウ"]
+		"rare": [
+			"ウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["いも"],
+		"frequent": [
+			"いも"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,29 @@
 {
 	"kanji": "巌",
-	"meanings": ["rock", "crag", "boulder"],
+	"meanings": [
+		"rock",
+		"crag",
+		"boulder"
+	],
 	"keyword": "boulder (old)",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ガン"]
+		"rare": [
+			"ガン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いわ", "いわお", "けわ"],
-		"okurigana": ["けわ.しい"]
+		"rare": [
+			"いわ",
+			"いわお",
+			"けわ"
+		],
+		"okurigana": [
+			"けわ.しい"
+		]
 	},
 	"frequency": {
 		"mean": 2180,

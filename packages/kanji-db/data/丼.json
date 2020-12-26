@@ -1,14 +1,24 @@
 {
 	"kanji": "丼",
-	"meanings": ["bowl", "bowl of food"],
+	"meanings": [
+		"bowl",
+		"bowl of food"
+	],
 	"keyword": "donburi",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["トン", "タン", "ショウ", "セイ"]
+		"rare": [
+			"トン",
+			"タン",
+			"ショウ",
+			"セイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["どんぶり"],
+		"frequent": [
+			"どんぶり"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

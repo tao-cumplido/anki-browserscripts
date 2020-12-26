@@ -1,16 +1,25 @@
 {
 	"kanji": "党",
-	"meanings": ["party", "faction", "clique"],
+	"meanings": [
+		"party",
+		"faction",
+		"clique"
+	],
 	"keyword": "party",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なかま", "むら"],
+		"rare": [
+			"なかま",
+			"むら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

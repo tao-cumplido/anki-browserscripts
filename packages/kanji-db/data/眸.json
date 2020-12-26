@@ -1,16 +1,23 @@
 {
 	"kanji": "眸",
-	"meanings": ["pupil of the eye"],
+	"meanings": [
+		"pupil of the eye"
+	],
 	"keyword": "apple of the eye",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ボウ", "ム"]
+		"rare": [
+			"ボウ",
+			"ム"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひとみ"],
+		"rare": [
+			"ひとみ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

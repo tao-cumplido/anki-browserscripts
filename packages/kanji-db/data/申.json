@@ -1,17 +1,31 @@
 {
 	"kanji": "申",
-	"meanings": ["have the honor to", "sign of the monkey", "3-5PM", "ninth sign of Chinese zodiac"],
+	"meanings": [
+		"have the honor to",
+		"sign of the monkey",
+		"3-5PM",
+		"ninth sign of Chinese zodiac"
+	],
 	"keyword": "speaketh",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["もう"],
+		"frequent": [
+			"もう"
+		],
 		"common": [],
-		"rare": ["さる"],
-		"okurigana": ["もう.す", "もう.し"]
+		"rare": [
+			"さる"
+		],
+		"okurigana": [
+			"もう.す",
+			"もう.し"
+		]
 	},
 	"frequency": {
 		"mean": 948,

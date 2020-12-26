@@ -1,0 +1,32 @@
+{
+	"kanji": "埈",
+	"meanings": [
+		"high",
+		"steep",
+		"towering",
+		"stern"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"シュン",
+			"カイ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"そばだ"
+		],
+		"rare": [],
+		"okurigana": [
+			"そばだ.つ"
+		]
+	},
+	"frequency": {
+		"mean": 4331,
+		"news": 1704,
+		"wikipedia": 4024
+	}
+}

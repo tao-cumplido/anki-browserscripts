@@ -1,14 +1,21 @@
 {
 	"kanji": "今",
-	"meanings": ["now"],
+	"meanings": [
+		"now"
+	],
 	"keyword": "now",
 	"onyomi": {
-		"frequent": ["コン", "キン"],
+		"frequent": [
+			"コン",
+			"キン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いま"],
+		"frequent": [
+			"いま"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,32 @@
 {
 	"kanji": "慎",
-	"meanings": ["humility", "be careful", "discreet", "prudent"],
+	"meanings": [
+		"humility",
+		"be careful",
+		"discreet",
+		"prudent"
+	],
 	"keyword": "humility",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つつし"],
+		"frequent": [
+			"つつし"
+		],
 		"common": [],
-		"rare": ["つつ"],
-		"okurigana": ["つつし.む", "つつ.ましい", "つつし.み"]
+		"rare": [
+			"つつ"
+		],
+		"okurigana": [
+			"つつし.む",
+			"つつ.ましい",
+			"つつし.み"
+		]
 	},
 	"frequency": {
 		"mean": 1471,

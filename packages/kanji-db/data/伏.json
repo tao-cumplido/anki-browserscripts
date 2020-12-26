@@ -1,17 +1,30 @@
 {
 	"kanji": "伏",
-	"meanings": ["prostrated", "bend down", "bow", "cover", "lay (pipes)"],
+	"meanings": [
+		"prostrated",
+		"bend down",
+		"bow",
+		"cover",
+		"lay (pipes)"
+	],
 	"keyword": "prostrated",
 	"onyomi": {
-		"frequent": ["フク"],
+		"frequent": [
+			"フク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふ"],
+		"frequent": [
+			"ふ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ふ.せる", "ふ.す"]
+		"okurigana": [
+			"ふ.せる",
+			"ふ.す"
+		]
 	},
 	"frequency": {
 		"mean": 1227,

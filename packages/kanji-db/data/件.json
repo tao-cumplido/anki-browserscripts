@@ -1,16 +1,25 @@
 {
 	"kanji": "件",
-	"meanings": ["affair", "case", "matter", "item"],
+	"meanings": [
+		"affair",
+		"case",
+		"matter",
+		"item"
+	],
 	"keyword": "affair",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くだん"],
+		"rare": [
+			"くだん"
+		],
 		"okurigana": []
 	},
 	"frequency": {

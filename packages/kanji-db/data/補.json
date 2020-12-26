@@ -1,17 +1,31 @@
 {
 	"kanji": "補",
-	"meanings": ["supplement", "supply", "make good", "offset", "compensate", "assistant", "learner"],
+	"meanings": [
+		"supplement",
+		"supply",
+		"make good",
+		"offset",
+		"compensate",
+		"assistant",
+		"learner"
+	],
 	"keyword": "supplement",
 	"onyomi": {
-		"frequent": ["ホ"],
+		"frequent": [
+			"ホ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おぎな"],
+		"frequent": [
+			"おぎな"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おぎな.う"]
+		"okurigana": [
+			"おぎな.う"
+		]
 	},
 	"frequency": {
 		"mean": 615,

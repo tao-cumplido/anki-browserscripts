@@ -1,17 +1,40 @@
 {
 	"kanji": "厭",
-	"meanings": ["get tired of", "satiate", "bore", "dislike", "disagreeable", "unwelcome"],
+	"meanings": [
+		"get tired of",
+		"satiate",
+		"bore",
+		"dislike",
+		"disagreeable",
+		"unwelcome"
+	],
 	"keyword": "despondent",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["エン", "オン", "アン", "オウ", "ユウ", "ヨウ"]
+		"rare": [
+			"エン",
+			"オン",
+			"アン",
+			"オウ",
+			"ユウ",
+			"ヨウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いや", "あ", "いと", "おさ"],
-		"okurigana": ["あ.きる", "いと.う", "おさ.える"]
+		"rare": [
+			"いや",
+			"あ",
+			"いと",
+			"おさ"
+		],
+		"okurigana": [
+			"あ.きる",
+			"いと.う",
+			"おさ.える"
+		]
 	},
 	"frequency": {
 		"mean": 2274,

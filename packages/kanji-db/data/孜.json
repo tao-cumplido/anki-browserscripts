@@ -1,17 +1,25 @@
 {
 	"kanji": "孜",
-	"meanings": ["industriousness"],
+	"meanings": [
+		"industriousness"
+	],
 	"keyword": "assiduous",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つと"],
-		"okurigana": ["つと.める"]
+		"rare": [
+			"つと"
+		],
+		"okurigana": [
+			"つと.める"
+		]
 	},
 	"frequency": {
 		"mean": 3625,

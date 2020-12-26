@@ -1,17 +1,34 @@
 {
 	"kanji": "歪",
-	"meanings": ["warp", "bend", "strained", "distort"],
+	"meanings": [
+		"warp",
+		"bend",
+		"strained",
+		"distort"
+	],
 	"keyword": "warped",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ワイ", "エ"]
+		"rare": [
+			"ワイ",
+			"エ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いが", "いびつ", "ひず", "ゆが"],
-		"okurigana": ["いが.む", "ひず.む", "ゆが.む"]
+		"rare": [
+			"いが",
+			"いびつ",
+			"ひず",
+			"ゆが"
+		],
+		"okurigana": [
+			"いが.む",
+			"ひず.む",
+			"ゆが.む"
+		]
 	},
 	"frequency": {
 		"mean": 2321,

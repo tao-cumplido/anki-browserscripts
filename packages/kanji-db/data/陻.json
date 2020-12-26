@@ -1,0 +1,34 @@
+{
+	"kanji": "陻",
+	"meanings": [
+		"small hill",
+		"mound",
+		"bury",
+		"dam"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"シュ",
+			"ショウ",
+			"ジュ",
+			"トウ",
+			"ズ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ふさ"
+		],
+		"rare": [],
+		"okurigana": [
+			"ふさ.ぐ"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

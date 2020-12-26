@@ -1,17 +1,35 @@
 {
 	"kanji": "纏",
-	"meanings": ["wear", "wrap", "tie", "follow around", "collect"],
+	"meanings": [
+		"wear",
+		"wrap",
+		"tie",
+		"follow around",
+		"collect"
+	],
 	"keyword": "summarize",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テン", "デン"]
+		"rare": [
+			"テン",
+			"デン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まつ", "まと"],
-		"okurigana": ["まつ.わる", "まと.う", "まと.める", "まと.まる", "まと.い"]
+		"rare": [
+			"まつ",
+			"まと"
+		],
+		"okurigana": [
+			"まつ.わる",
+			"まと.う",
+			"まと.める",
+			"まと.まる",
+			"まと.い"
+		]
 	},
 	"frequency": {
 		"mean": 2149,

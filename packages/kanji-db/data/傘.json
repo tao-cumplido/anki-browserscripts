@@ -1,14 +1,20 @@
 {
 	"kanji": "傘",
-	"meanings": ["umbrella"],
+	"meanings": [
+		"umbrella"
+	],
 	"keyword": "umbrella",
 	"onyomi": {
-		"frequent": ["サン"],
+		"frequent": [
+			"サン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かさ"],
+		"frequent": [
+			"かさ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

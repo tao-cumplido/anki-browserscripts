@@ -1,17 +1,30 @@
 {
 	"kanji": "臥",
-	"meanings": ["bend down", "bow", "lie prostrate"],
+	"meanings": [
+		"bend down",
+		"bow",
+		"lie prostrate"
+	],
 	"keyword": "supinate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ガ"]
+		"rare": [
+			"ガ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふせ", "ふ"],
-		"okurigana": ["ふせ.る", "ふ.せる", "ふ.す"]
+		"rare": [
+			"ふせ",
+			"ふ"
+		],
+		"okurigana": [
+			"ふせ.る",
+			"ふ.せる",
+			"ふ.す"
+		]
 	},
 	"frequency": {
 		"mean": 2580,

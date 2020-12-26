@@ -1,17 +1,29 @@
 {
 	"kanji": "妄",
-	"meanings": ["delusion", "unnecessarily", "without authority", "reckless"],
+	"meanings": [
+		"delusion",
+		"unnecessarily",
+		"without authority",
+		"reckless"
+	],
 	"keyword": "delusion",
 	"onyomi": {
-		"frequent": ["モウ", "ボウ"],
+		"frequent": [
+			"モウ",
+			"ボウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みだ"],
-		"okurigana": ["みだ.りに"]
+		"rare": [
+			"みだ"
+		],
+		"okurigana": [
+			"みだ.りに"
+		]
 	},
 	"frequency": {
 		"mean": 2108,

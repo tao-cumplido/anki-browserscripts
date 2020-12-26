@@ -1,17 +1,28 @@
 {
 	"kanji": "疑",
-	"meanings": ["doubt", "distrust", "be suspicious", "question"],
+	"meanings": [
+		"doubt",
+		"distrust",
+		"be suspicious",
+		"question"
+	],
 	"keyword": "doubt",
 	"onyomi": {
-		"frequent": ["ギ"],
+		"frequent": [
+			"ギ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うたが"],
+		"frequent": [
+			"うたが"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["うたが.う"]
+		"okurigana": [
+			"うたが.う"
+		]
 	},
 	"frequency": {
 		"mean": 956,

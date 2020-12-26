@@ -1,16 +1,29 @@
 {
 	"kanji": "蒲",
-	"meanings": ["bullrush", "flag", "cattail"],
+	"meanings": [
+		"bullrush",
+		"flag",
+		"cattail"
+	],
 	"keyword": "bullrush",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ホ", "ボ", "フ", "ブ"]
+		"rare": [
+			"ホ",
+			"ボ",
+			"フ",
+			"ブ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["がま", "かば", "かま"],
+		"rare": [
+			"がま",
+			"かば",
+			"かま"
+		],
 		"okurigana": []
 	},
 	"frequency": {

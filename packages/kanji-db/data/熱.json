@@ -1,17 +1,29 @@
 {
 	"kanji": "熱",
-	"meanings": ["heat", "temperature", "fever", "mania", "passion"],
+	"meanings": [
+		"heat",
+		"temperature",
+		"fever",
+		"mania",
+		"passion"
+	],
 	"keyword": "heat",
 	"onyomi": {
-		"frequent": ["ネツ"],
+		"frequent": [
+			"ネツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あつ"],
+		"frequent": [
+			"あつ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あつ.い"]
+		"okurigana": [
+			"あつ.い"
+		]
 	},
 	"frequency": {
 		"mean": 792,

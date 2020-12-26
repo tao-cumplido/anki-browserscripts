@@ -1,16 +1,24 @@
 {
 	"kanji": "乩",
-	"meanings": ["to divine"],
+	"meanings": [
+		"to divine"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ケイ"],
+		"common": [
+			"ケイ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["うらな"],
+		"common": [
+			"うらな"
+		],
 		"rare": [],
-		"okurigana": ["うらな.う"]
+		"okurigana": [
+			"うらな.う"
+		]
 	},
 	"frequency": {
 		"mean": 4512,

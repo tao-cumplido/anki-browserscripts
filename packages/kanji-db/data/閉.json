@@ -1,17 +1,33 @@
 {
 	"kanji": "閉",
-	"meanings": ["closed", "shut"],
+	"meanings": [
+		"closed",
+		"shut"
+	],
 	"keyword": "closed",
 	"onyomi": {
-		"frequent": ["ヘイ"],
+		"frequent": [
+			"ヘイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["と", "し"],
+		"frequent": [
+			"と",
+			"し"
+		],
 		"common": [],
-		"rare": ["た"],
-		"okurigana": ["と.じる", "と.ざす", "し.める", "し.まる", "た.てる"]
+		"rare": [
+			"た"
+		],
+		"okurigana": [
+			"と.じる",
+			"と.ざす",
+			"し.める",
+			"し.まる",
+			"た.てる"
+		]
 	},
 	"frequency": {
 		"mean": 922,

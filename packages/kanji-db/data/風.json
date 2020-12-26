@@ -1,15 +1,28 @@
 {
 	"kanji": "風",
-	"meanings": ["wind", "air", "style", "manner"],
+	"meanings": [
+		"wind",
+		"air",
+		"style",
+		"manner"
+	],
 	"keyword": "wind",
 	"onyomi": {
-		"frequent": ["フウ"],
-		"common": ["フ"],
+		"frequent": [
+			"フウ"
+		],
+		"common": [
+			"フ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かぜ"],
-		"common": ["かざ"],
+		"frequent": [
+			"かぜ"
+		],
+		"common": [
+			"かざ"
+		],
 		"rare": [],
 		"okurigana": []
 	},

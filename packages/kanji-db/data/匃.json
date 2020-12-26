@@ -1,0 +1,32 @@
+{
+	"kanji": "匃",
+	"meanings": [
+		"beggar",
+		"beg",
+		"give"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"カツ",
+			"カチ",
+			"カイ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"こう",
+			"あた"
+		],
+		"rare": [],
+		"okurigana": [
+			"あた.える"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

@@ -1,17 +1,32 @@
 {
 	"kanji": "浄",
-	"meanings": ["clean", "purify", "cleanse", "exorcise", "Manchu Dynasty"],
+	"meanings": [
+		"clean",
+		"purify",
+		"cleanse",
+		"exorcise",
+		"Manchu Dynasty"
+	],
 	"keyword": "clean",
 	"onyomi": {
-		"frequent": ["ジョウ"],
+		"frequent": [
+			"ジョウ"
+		],
 		"common": [],
-		"rare": ["セイ"]
+		"rare": [
+			"セイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きよ"],
-		"okurigana": ["きよ.める", "きよ.い"]
+		"rare": [
+			"きよ"
+		],
+		"okurigana": [
+			"きよ.める",
+			"きよ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1487,

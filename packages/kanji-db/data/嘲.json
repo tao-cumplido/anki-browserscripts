@@ -1,17 +1,28 @@
 {
 	"kanji": "嘲",
-	"meanings": ["ridicule", "insult"],
+	"meanings": [
+		"ridicule",
+		"insult"
+	],
 	"keyword": "derision",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
-		"rare": ["トウ"]
+		"rare": [
+			"トウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["あざけ"],
+		"frequent": [
+			"あざけ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あざけ.る"]
+		"okurigana": [
+			"あざけ.る"
+		]
 	},
 	"frequency": {
 		"mean": 2679,

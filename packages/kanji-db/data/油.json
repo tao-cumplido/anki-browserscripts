@@ -1,14 +1,23 @@
 {
 	"kanji": "油",
-	"meanings": ["oil", "fat"],
+	"meanings": [
+		"oil",
+		"fat"
+	],
 	"keyword": "oil",
 	"onyomi": {
-		"frequent": ["ユ"],
+		"frequent": [
+			"ユ"
+		],
 		"common": [],
-		"rare": ["ユウ"]
+		"rare": [
+			"ユウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["あぶら"],
+		"frequent": [
+			"あぶら"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

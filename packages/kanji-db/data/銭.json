@@ -1,16 +1,28 @@
 {
 	"kanji": "銭",
-	"meanings": ["coin", ".01 yen", "money"],
+	"meanings": [
+		"coin",
+		".01 yen",
+		"money"
+	],
 	"keyword": "coin",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
-		"rare": ["ゼン"]
+		"rare": [
+			"ゼン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ぜに"],
+		"frequent": [
+			"ぜに"
+		],
 		"common": [],
-		"rare": ["すき"],
+		"rare": [
+			"すき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,28 @@
 {
 	"kanji": "視",
-	"meanings": ["inspection", "regard as", "see", "look at"],
+	"meanings": [
+		"inspection",
+		"regard as",
+		"see",
+		"look at"
+	],
 	"keyword": "inspection",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["み"],
-		"okurigana": ["み.る"]
+		"rare": [
+			"み"
+		],
+		"okurigana": [
+			"み.る"
+		]
 	},
 	"frequency": {
 		"mean": 647,

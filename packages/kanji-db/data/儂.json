@@ -1,15 +1,27 @@
 {
 	"kanji": "儂",
-	"meanings": ["I", "my", "he", "his", "me (used by old people)"],
+	"meanings": [
+		"I",
+		"my",
+		"he",
+		"his",
+		"me (used by old people)"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ドウ", "ノウ"]
+		"rare": [
+			"ドウ",
+			"ノウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わし", "かれ"],
+		"rare": [
+			"わし",
+			"かれ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

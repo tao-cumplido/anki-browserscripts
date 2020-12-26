@@ -1,16 +1,25 @@
 {
 	"kanji": "鮭",
-	"meanings": ["salmon"],
+	"meanings": [
+		"salmon"
+	],
 	"keyword": "salmon",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カイ", "ケイ"]
+		"rare": [
+			"カイ",
+			"ケイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さけ", "しゃけ", "ふぐ"],
+		"rare": [
+			"さけ",
+			"しゃけ",
+			"ふぐ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

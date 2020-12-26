@@ -1,17 +1,30 @@
 {
 	"kanji": "諜",
-	"meanings": ["spy out", "reconnoiter"],
+	"meanings": [
+		"spy out",
+		"reconnoiter"
+	],
 	"keyword": "secret agent",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョウ"]
+		"rare": [
+			"チョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ちょう", "うかが", "しめ"],
-		"okurigana": ["ちょう.ずる", "うかが.う", "しめ.す"]
+		"rare": [
+			"ちょう",
+			"うかが",
+			"しめ"
+		],
+		"okurigana": [
+			"ちょう.ずる",
+			"うかが.う",
+			"しめ.す"
+		]
 	},
 	"frequency": {
 		"mean": 2425,

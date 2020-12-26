@@ -1,16 +1,22 @@
 {
 	"kanji": "晃",
-	"meanings": ["clear"],
+	"meanings": [
+		"clear"
+	],
 	"keyword": "limpid",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あきらか"],
+		"rare": [
+			"あきらか"
+		],
 		"okurigana": []
 	},
 	"frequency": {

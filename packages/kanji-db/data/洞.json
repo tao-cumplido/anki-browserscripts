@@ -1,14 +1,22 @@
 {
 	"kanji": "洞",
-	"meanings": ["den", "cave", "excavation"],
+	"meanings": [
+		"den",
+		"cave",
+		"excavation"
+	],
 	"keyword": "den",
 	"onyomi": {
-		"frequent": ["ドウ"],
+		"frequent": [
+			"ドウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほら"],
+		"frequent": [
+			"ほら"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

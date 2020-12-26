@@ -1,16 +1,29 @@
 {
 	"kanji": "侷",
-	"meanings": ["narrow", "cramped", "confined"],
+	"meanings": [
+		"narrow",
+		"cramped",
+		"confined"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["キョク", "ゴク"],
+		"common": [
+			"キョク",
+			"ゴク"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["たけがひく", "せま"],
+		"common": [
+			"たけがひく",
+			"せま"
+		],
 		"rare": [],
-		"okurigana": ["たけがひく.い", "せま.る"]
+		"okurigana": [
+			"たけがひく.い",
+			"せま.る"
+		]
 	},
 	"frequency": {
 		"mean": 4542,

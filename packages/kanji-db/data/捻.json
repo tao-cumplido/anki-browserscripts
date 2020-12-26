@@ -1,17 +1,34 @@
 {
 	"kanji": "捻",
-	"meanings": ["twirl", "twist", "play with"],
+	"meanings": [
+		"twirl",
+		"twist",
+		"play with"
+	],
 	"keyword": "wrench",
 	"onyomi": {
-		"frequent": ["ネン"],
+		"frequent": [
+			"ネン"
+		],
 		"common": [],
-		"rare": ["ジョウ"]
+		"rare": [
+			"ジョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ね", "ねじ", "ひね"],
-		"okurigana": ["ね.じる", "ねじ.る", "ひね.くる", "ひね.る"]
+		"rare": [
+			"ね",
+			"ねじ",
+			"ひね"
+		],
+		"okurigana": [
+			"ね.じる",
+			"ねじ.る",
+			"ひね.くる",
+			"ひね.る"
+		]
 	},
 	"frequency": {
 		"mean": 2432,

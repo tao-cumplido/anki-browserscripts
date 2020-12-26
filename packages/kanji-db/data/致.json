@@ -1,17 +1,32 @@
 {
 	"kanji": "致",
-	"meanings": ["doth", "do", "send", "forward", "cause", "exert", "incur", "engage"],
+	"meanings": [
+		"doth",
+		"do",
+		"send",
+		"forward",
+		"cause",
+		"exert",
+		"incur",
+		"engage"
+	],
 	"keyword": "doth",
 	"onyomi": {
-		"frequent": ["チ"],
+		"frequent": [
+			"チ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いた"],
+		"frequent": [
+			"いた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["いた.す"]
+		"okurigana": [
+			"いた.す"
+		]
 	},
 	"frequency": {
 		"mean": 1072,

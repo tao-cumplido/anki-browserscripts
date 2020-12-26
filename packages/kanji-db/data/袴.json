@@ -1,16 +1,24 @@
 {
 	"kanji": "袴",
-	"meanings": ["men's formal divided skirt"],
+	"meanings": [
+		"men's formal divided skirt"
+	],
 	"keyword": "pleated skirt",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コ", "ク"]
+		"rare": [
+			"コ",
+			"ク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はかま", "ずぼん"],
+		"rare": [
+			"はかま",
+			"ずぼん"
+		],
 		"okurigana": []
 	},
 	"frequency": {

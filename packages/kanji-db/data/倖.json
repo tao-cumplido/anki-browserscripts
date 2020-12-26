@@ -1,17 +1,28 @@
 {
 	"kanji": "倖",
-	"meanings": ["happiness", "luck"],
+	"meanings": [
+		"happiness",
+		"luck"
+	],
 	"keyword": "bliss",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しあわ", "さいわ"],
-		"okurigana": ["しあわ.せ", "さいわ.い"]
+		"rare": [
+			"しあわ",
+			"さいわ"
+		],
+		"okurigana": [
+			"しあわ.せ",
+			"さいわ.い"
+		]
 	},
 	"frequency": {
 		"mean": 2781,

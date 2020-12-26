@@ -1,16 +1,22 @@
 {
 	"kanji": "狒",
-	"meanings": ["baboon"],
+	"meanings": [
+		"baboon"
+	],
 	"keyword": "baboon",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒ"]
+		"rare": [
+			"ヒ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひひ"],
+		"rare": [
+			"ひひ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

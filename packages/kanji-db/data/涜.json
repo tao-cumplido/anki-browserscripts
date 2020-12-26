@@ -1,17 +1,30 @@
 {
 	"kanji": "涜",
-	"meanings": ["defile", "blaspheme", "ditch"],
+	"meanings": [
+		"defile",
+		"blaspheme",
+		"ditch"
+	],
 	"keyword": "blaspheme",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["トク", "トウ"]
+		"rare": [
+			"トク",
+			"トウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["けが", "みぞ"],
-		"okurigana": ["けが.す", "けが.れ"]
+		"rare": [
+			"けが",
+			"みぞ"
+		],
+		"okurigana": [
+			"けが.す",
+			"けが.れ"
+		]
 	},
 	"frequency": {
 		"mean": 3518,

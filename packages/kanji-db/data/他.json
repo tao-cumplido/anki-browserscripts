@@ -1,14 +1,22 @@
 {
 	"kanji": "他",
-	"meanings": ["other", "another", "the others"],
+	"meanings": [
+		"other",
+		"another",
+		"the others"
+	],
 	"keyword": "other",
 	"onyomi": {
-		"frequent": ["タ"],
+		"frequent": [
+			"タ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほか"],
+		"frequent": [
+			"ほか"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

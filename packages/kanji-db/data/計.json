@@ -1,17 +1,29 @@
 {
 	"kanji": "計",
-	"meanings": ["plot", "plan", "scheme", "measure"],
+	"meanings": [
+		"plot",
+		"plan",
+		"scheme",
+		"measure"
+	],
 	"keyword": "plot",
 	"onyomi": {
-		"frequent": ["ケイ"],
+		"frequent": [
+			"ケイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はか"],
+		"frequent": [
+			"はか"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["はか.る", "はか.らう"]
+		"okurigana": [
+			"はか.る",
+			"はか.らう"
+		]
 	},
 	"frequency": {
 		"mean": 283,

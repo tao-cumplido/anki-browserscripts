@@ -1,16 +1,27 @@
 {
 	"kanji": "汐",
-	"meanings": ["eventide", "tide", "salt water", "opportunity"],
+	"meanings": [
+		"eventide",
+		"tide",
+		"salt water",
+		"opportunity"
+	],
 	"keyword": "eventide",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セキ"]
+		"rare": [
+			"セキ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しお", "うしお", "せい"],
+		"rare": [
+			"しお",
+			"うしお",
+			"せい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

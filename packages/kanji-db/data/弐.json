@@ -1,17 +1,30 @@
 {
 	"kanji": "弐",
-	"meanings": ["II", "two", "second"],
+	"meanings": [
+		"II",
+		"two",
+		"second"
+	],
 	"keyword": "II (two)",
 	"onyomi": {
-		"frequent": ["ニ"],
+		"frequent": [
+			"ニ"
+		],
 		"common": [],
-		"rare": ["ジ"]
+		"rare": [
+			"ジ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふた", "そえ"],
-		"okurigana": ["ふた.つ"]
+		"rare": [
+			"ふた",
+			"そえ"
+		],
+		"okurigana": [
+			"ふた.つ"
+		]
 	},
 	"frequency": {
 		"mean": 2398,

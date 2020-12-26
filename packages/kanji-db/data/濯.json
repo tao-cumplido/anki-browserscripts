@@ -1,17 +1,30 @@
 {
 	"kanji": "濯",
-	"meanings": ["laundry", "wash", "pour on", "rinse"],
+	"meanings": [
+		"laundry",
+		"wash",
+		"pour on",
+		"rinse"
+	],
 	"keyword": "laundry",
 	"onyomi": {
-		"frequent": ["タク"],
+		"frequent": [
+			"タク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すす", "ゆす"],
-		"okurigana": ["すす.ぐ", "ゆす.ぐ"]
+		"rare": [
+			"すす",
+			"ゆす"
+		],
+		"okurigana": [
+			"すす.ぐ",
+			"ゆす.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 2461,

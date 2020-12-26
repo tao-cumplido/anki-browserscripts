@@ -1,14 +1,22 @@
 {
 	"kanji": "鐘",
-	"meanings": ["bell", "gong", "chimes"],
+	"meanings": [
+		"bell",
+		"gong",
+		"chimes"
+	],
 	"keyword": "bell",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かね"],
+		"frequent": [
+			"かね"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

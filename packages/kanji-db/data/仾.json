@@ -1,16 +1,31 @@
 {
 	"kanji": "仾",
-	"meanings": ["to hang the head", "to bow the head", "to droop", "to lower", "low", "beneath"],
+	"meanings": [
+		"to hang the head",
+		"to bow the head",
+		"to droop",
+		"to lower",
+		"low",
+		"beneath"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["テイ"],
+		"common": [
+			"テイ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["ひく"],
+		"common": [
+			"ひく"
+		],
 		"rare": [],
-		"okurigana": ["ひく.い", "ひく.める", "ひく.まる"]
+		"okurigana": [
+			"ひく.い",
+			"ひく.める",
+			"ひく.まる"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

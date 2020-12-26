@@ -1,16 +1,23 @@
 {
 	"kanji": "轡",
-	"meanings": ["bit (horse)"],
+	"meanings": [
+		"bit (horse)"
+	],
 	"keyword": "tinkling bell",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒ"]
+		"rare": [
+			"ヒ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くつわ", "たづな"],
+		"rare": [
+			"くつわ",
+			"たづな"
+		],
 		"okurigana": []
 	},
 	"frequency": {

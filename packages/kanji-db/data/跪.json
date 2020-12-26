@@ -1,17 +1,25 @@
 {
 	"kanji": "跪",
-	"meanings": ["kneel"],
+	"meanings": [
+		"kneel"
+	],
 	"keyword": "kneel",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キ"]
+		"rare": [
+			"キ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひざまず"],
-		"okurigana": ["ひざまず.く"]
+		"rare": [
+			"ひざまず"
+		],
+		"okurigana": [
+			"ひざまず.く"
+		]
 	},
 	"frequency": {
 		"mean": 3552,

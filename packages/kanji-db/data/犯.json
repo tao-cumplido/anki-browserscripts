@@ -1,17 +1,29 @@
 {
 	"kanji": "犯",
-	"meanings": ["crime", "sin", "offense"],
+	"meanings": [
+		"crime",
+		"sin",
+		"offense"
+	],
 	"keyword": "crime",
 	"onyomi": {
-		"frequent": ["ハン"],
+		"frequent": [
+			"ハン"
+		],
 		"common": [],
-		"rare": ["ボン"]
+		"rare": [
+			"ボン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["おか"],
+		"frequent": [
+			"おか"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おか.す"]
+		"okurigana": [
+			"おか.す"
+		]
 	},
 	"frequency": {
 		"mean": 991,

@@ -1,17 +1,30 @@
 {
 	"kanji": "敬",
-	"meanings": ["awe", "respect", "honor", "revere"],
+	"meanings": [
+		"awe",
+		"respect",
+		"honor",
+		"revere"
+	],
 	"keyword": "awe",
 	"onyomi": {
-		"frequent": ["ケイ"],
+		"frequent": [
+			"ケイ"
+		],
 		"common": [],
-		"rare": ["キョウ"]
+		"rare": [
+			"キョウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["うやま"],
+		"frequent": [
+			"うやま"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["うやま.う"]
+		"okurigana": [
+			"うやま.う"
+		]
 	},
 	"frequency": {
 		"mean": 1150,

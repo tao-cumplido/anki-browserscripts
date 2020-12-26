@@ -1,17 +1,32 @@
 {
 	"kanji": "宛",
-	"meanings": ["address", "just like", "fortunately"],
+	"meanings": [
+		"address",
+		"just like",
+		"fortunately"
+	],
 	"keyword": "address",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["エン"]
+		"rare": [
+			"エン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["あ"],
+		"frequent": [
+			"あ"
+		],
 		"common": [],
-		"rare": ["あて", "づつ", "あたか"],
-		"okurigana": ["あ.てる", "あたか.も"]
+		"rare": [
+			"あて",
+			"づつ",
+			"あたか"
+		],
+		"okurigana": [
+			"あ.てる",
+			"あたか.も"
+		]
 	},
 	"frequency": {
 		"mean": 2073,

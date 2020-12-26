@@ -1,17 +1,39 @@
 {
 	"kanji": "点",
-	"meanings": ["spot", "point", "mark", "speck", "decimal point"],
+	"meanings": [
+		"spot",
+		"point",
+		"mark",
+		"speck",
+		"decimal point"
+	],
 	"keyword": "spot",
 	"onyomi": {
-		"frequent": ["テン"],
+		"frequent": [
+			"テン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つ", "た", "さ", "とぼ", "とも", "ぼち"],
-		"okurigana": ["つ.ける", "つ.く", "た.てる", "さ.す", "とぼ.す", "とも.す"]
+		"rare": [
+			"つ",
+			"た",
+			"さ",
+			"とぼ",
+			"とも",
+			"ぼち"
+		],
+		"okurigana": [
+			"つ.ける",
+			"つ.く",
+			"た.てる",
+			"さ.す",
+			"とぼ.す",
+			"とも.す"
+		]
 	},
 	"frequency": {
 		"mean": 173,

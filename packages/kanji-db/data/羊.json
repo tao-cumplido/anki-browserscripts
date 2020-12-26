@@ -1,14 +1,20 @@
 {
 	"kanji": "羊",
-	"meanings": ["sheep"],
+	"meanings": [
+		"sheep"
+	],
 	"keyword": "sheep",
 	"onyomi": {
-		"frequent": ["ヨウ"],
+		"frequent": [
+			"ヨウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひつじ"],
+		"frequent": [
+			"ひつじ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

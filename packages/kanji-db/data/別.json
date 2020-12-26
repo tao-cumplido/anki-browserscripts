@@ -1,17 +1,34 @@
 {
 	"kanji": "別",
-	"meanings": ["separate", "branch off", "diverge", "fork", "another", "extra", "specially"],
+	"meanings": [
+		"separate",
+		"branch off",
+		"diverge",
+		"fork",
+		"another",
+		"extra",
+		"specially"
+	],
 	"keyword": "separate",
 	"onyomi": {
-		"frequent": ["ベツ"],
+		"frequent": [
+			"ベツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["わか"],
+		"frequent": [
+			"わか"
+		],
 		"common": [],
-		"rare": ["わ"],
-		"okurigana": ["わか.れる", "わ.ける"]
+		"rare": [
+			"わ"
+		],
+		"okurigana": [
+			"わか.れる",
+			"わ.ける"
+		]
 	},
 	"frequency": {
 		"mean": 165,

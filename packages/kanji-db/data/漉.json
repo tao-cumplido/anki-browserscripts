@@ -1,17 +1,31 @@
 {
 	"kanji": "漉",
-	"meanings": ["manufacture paper", "spread out thin", "strain", "percolate"],
+	"meanings": [
+		"manufacture paper",
+		"spread out thin",
+		"strain",
+		"percolate"
+	],
 	"keyword": "filter",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ロク"]
+		"rare": [
+			"ロク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こ", "す"],
-		"okurigana": ["こ.し", "こ.す", "す.く"]
+		"rare": [
+			"こ",
+			"す"
+		],
+		"okurigana": [
+			"こ.し",
+			"こ.す",
+			"す.く"
+		]
 	},
 	"frequency": {
 		"mean": 3430,

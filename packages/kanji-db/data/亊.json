@@ -1,16 +1,33 @@
 {
 	"kanji": "亊",
-	"meanings": ["affair", "matter", "business", "to serve", "accident", "incident"],
+	"meanings": [
+		"affair",
+		"matter",
+		"business",
+		"to serve",
+		"accident",
+		"incident"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジ", "シ", "ズ"]
+		"rare": [
+			"ジ",
+			"シ",
+			"ズ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こと", "つか"],
-		"okurigana": ["つか.う", "つか.える"]
+		"rare": [
+			"こと",
+			"つか"
+		],
+		"okurigana": [
+			"つか.う",
+			"つか.える"
+		]
 	},
 	"frequency": {
 		"mean": 4490,

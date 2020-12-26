@@ -1,16 +1,28 @@
 {
 	"kanji": "估",
-	"meanings": ["price", "business", "selling"],
+	"meanings": [
+		"price",
+		"business",
+		"selling"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コ"]
+		"rare": [
+			"コ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あきな", "あた"],
-		"okurigana": ["あきな.う", "あた.い"]
+		"rare": [
+			"あきな",
+			"あた"
+		],
+		"okurigana": [
+			"あきな.う",
+			"あた.い"
+		]
 	},
 	"frequency": {
 		"mean": 4398,

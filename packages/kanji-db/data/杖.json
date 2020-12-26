@@ -1,16 +1,23 @@
 {
 	"kanji": "杖",
-	"meanings": ["staff", "cane"],
+	"meanings": [
+		"staff",
+		"cane"
+	],
 	"keyword": "cane",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジョウ"]
+		"rare": [
+			"ジョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つえ"],
+		"rare": [
+			"つえ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

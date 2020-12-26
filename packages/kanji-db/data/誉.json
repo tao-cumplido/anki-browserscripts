@@ -1,17 +1,31 @@
 {
 	"kanji": "誉",
-	"meanings": ["reputation", "praise", "honor", "glory"],
+	"meanings": [
+		"reputation",
+		"praise",
+		"honor",
+		"glory"
+	],
 	"keyword": "reputation",
 	"onyomi": {
-		"frequent": ["ヨ"],
+		"frequent": [
+			"ヨ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほま"],
+		"frequent": [
+			"ほま"
+		],
 		"common": [],
-		"rare": ["ほ"],
-		"okurigana": ["ほま.れ", "ほ.める"]
+		"rare": [
+			"ほ"
+		],
+		"okurigana": [
+			"ほま.れ",
+			"ほ.める"
+		]
 	},
 	"frequency": {
 		"mean": 1217,

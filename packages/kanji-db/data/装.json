@@ -1,17 +1,31 @@
 {
 	"kanji": "装",
-	"meanings": ["attire", "dress", "pretend", "disguise", "profess"],
+	"meanings": [
+		"attire",
+		"dress",
+		"pretend",
+		"disguise",
+		"profess"
+	],
 	"keyword": "attire",
 	"onyomi": {
-		"frequent": ["ソウ", "ショウ"],
+		"frequent": [
+			"ソウ",
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["よそお"],
+		"frequent": [
+			"よそお"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["よそお.う", "よそお.い"]
+		"okurigana": [
+			"よそお.う",
+			"よそお.い"
+		]
 	},
 	"frequency": {
 		"mean": 365,

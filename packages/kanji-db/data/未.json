@@ -1,17 +1,37 @@
 {
 	"kanji": "未",
-	"meanings": ["un-", "not yet", "hitherto", "still", "even now", "sign of the ram", "1-3PM", "eighth sign of Chinese zodiac"],
+	"meanings": [
+		"un-",
+		"not yet",
+		"hitherto",
+		"still",
+		"even now",
+		"sign of the ram",
+		"1-3PM",
+		"eighth sign of Chinese zodiac"
+	],
 	"keyword": "not yet",
 	"onyomi": {
-		"frequent": ["ミ"],
+		"frequent": [
+			"ミ"
+		],
 		"common": [],
-		"rare": ["ビ"]
+		"rare": [
+			"ビ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いま", "ま", "ひつじ"],
-		"okurigana": ["いま.だ", "ま.だ"]
+		"rare": [
+			"いま",
+			"ま",
+			"ひつじ"
+		],
+		"okurigana": [
+			"いま.だ",
+			"ま.だ"
+		]
 	},
 	"frequency": {
 		"mean": 565,

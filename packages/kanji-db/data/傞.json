@@ -1,9 +1,13 @@
 {
 	"kanji": "傞",
-	"meanings": ["unsteady"],
+	"meanings": [
+		"unsteady"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["サ"],
+		"common": [
+			"サ"
+		],
 		"rare": []
 	},
 	"frequency": {

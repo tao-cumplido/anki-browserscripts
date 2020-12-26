@@ -1,17 +1,42 @@
 {
 	"kanji": "伝",
-	"meanings": ["transmit", "go along", "walk along", "follow", "report", "communicate", "legend", "tradition"],
+	"meanings": [
+		"transmit",
+		"go along",
+		"walk along",
+		"follow",
+		"report",
+		"communicate",
+		"legend",
+		"tradition"
+	],
 	"keyword": "transmit",
 	"onyomi": {
-		"frequent": ["デン"],
+		"frequent": [
+			"デン"
+		],
 		"common": [],
-		"rare": ["テン"]
+		"rare": [
+			"テン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["つた"],
+		"frequent": [
+			"つた"
+		],
 		"common": [],
-		"rare": ["つだ", "づた", "つて"],
-		"okurigana": ["つた.わる", "つた.える", "つた.う", "つだ.う", "づた.い"]
+		"rare": [
+			"つだ",
+			"づた",
+			"つて"
+		],
+		"okurigana": [
+			"つた.わる",
+			"つた.える",
+			"つた.う",
+			"つだ.う",
+			"づた.い"
+		]
 	},
 	"frequency": {
 		"mean": 336,

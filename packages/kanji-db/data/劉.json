@@ -1,17 +1,31 @@
 {
 	"kanji": "劉",
-	"meanings": ["weapon of war", "logging axe", "kill en masse", "peeling (paint off a wall, etc)", "sparse", "faded"],
+	"meanings": [
+		"weapon of war",
+		"logging axe",
+		"kill en masse",
+		"peeling (paint off a wall, etc)",
+		"sparse",
+		"faded"
+	],
 	"keyword": "slaughter",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リュウ", "ル"]
+		"rare": [
+			"リュウ",
+			"ル"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ころ"],
-		"okurigana": ["ころ.す"]
+		"rare": [
+			"ころ"
+		],
+		"okurigana": [
+			"ころ.す"
+		]
 	},
 	"frequency": {
 		"mean": 1590,

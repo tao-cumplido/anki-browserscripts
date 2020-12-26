@@ -1,17 +1,28 @@
 {
 	"kanji": "恢",
-	"meanings": ["wide", "large", "enlarge"],
+	"meanings": [
+		"wide",
+		"large",
+		"enlarge"
+	],
 	"keyword": "enlarge",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カイ", "ケ"]
+		"rare": [
+			"カイ",
+			"ケ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひろ"],
-		"okurigana": ["ひろ.い"]
+		"rare": [
+			"ひろ"
+		],
+		"okurigana": [
+			"ひろ.い"
+		]
 	},
 	"frequency": {
 		"mean": 3443,

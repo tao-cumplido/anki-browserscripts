@@ -1,16 +1,23 @@
 {
 	"kanji": "雁",
-	"meanings": ["wild goose"],
+	"meanings": [
+		"wild goose"
+	],
 	"keyword": "wild goose",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ガン"]
+		"rare": [
+			"ガン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かり", "かりがね"],
+		"rare": [
+			"かり",
+			"かりがね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

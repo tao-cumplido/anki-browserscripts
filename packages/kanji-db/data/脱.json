@@ -1,17 +1,31 @@
 {
 	"kanji": "脱",
-	"meanings": ["undress", "removing", "escape from", "get rid of", "be left out", "take off"],
+	"meanings": [
+		"undress",
+		"removing",
+		"escape from",
+		"get rid of",
+		"be left out",
+		"take off"
+	],
 	"keyword": "undress",
 	"onyomi": {
-		"frequent": ["ダツ"],
+		"frequent": [
+			"ダツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ぬ"],
+		"frequent": [
+			"ぬ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ぬ.ぐ", "ぬ.げる"]
+		"okurigana": [
+			"ぬ.ぐ",
+			"ぬ.げる"
+		]
 	},
 	"frequency": {
 		"mean": 947,

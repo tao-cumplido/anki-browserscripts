@@ -1,17 +1,30 @@
 {
 	"kanji": "隷",
-	"meanings": ["slave", "servant", "prisoner", "criminal", "follower"],
+	"meanings": [
+		"slave",
+		"servant",
+		"prisoner",
+		"criminal",
+		"follower"
+	],
 	"keyword": "slave",
 	"onyomi": {
-		"frequent": ["レイ"],
+		"frequent": [
+			"レイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["したが", "しもべ"],
-		"okurigana": ["したが.う"]
+		"rare": [
+			"したが",
+			"しもべ"
+		],
+		"okurigana": [
+			"したが.う"
+		]
 	},
 	"frequency": {
 		"mean": 1664,

@@ -1,16 +1,24 @@
 {
 	"kanji": "唖",
-	"meanings": ["mute", "dumb"],
+	"meanings": [
+		"mute",
+		"dumb"
+	],
 	"keyword": "babble",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ア", "アク"]
+		"rare": [
+			"ア",
+			"アク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おし"],
+		"rare": [
+			"おし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

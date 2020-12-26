@@ -1,17 +1,26 @@
 {
 	"kanji": "彊",
-	"meanings": ["strong"],
+	"meanings": [
+		"strong"
+	],
 	"keyword": "strengthen",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ", "ゴウ"]
+		"rare": [
+			"キョウ",
+			"ゴウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つよ"],
-		"okurigana": ["つよ.い"]
+		"rare": [
+			"つよ"
+		],
+		"okurigana": [
+			"つよ.い"
+		]
 	},
 	"frequency": {
 		"mean": 3670,

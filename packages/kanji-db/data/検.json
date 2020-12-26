@@ -1,17 +1,26 @@
 {
 	"kanji": "検",
-	"meanings": ["examination", "investigate"],
+	"meanings": [
+		"examination",
+		"investigate"
+	],
 	"keyword": "examination",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しら"],
-		"okurigana": ["しら.べる"]
+		"rare": [
+			"しら"
+		],
+		"okurigana": [
+			"しら.べる"
+		]
 	},
 	"frequency": {
 		"mean": 576,

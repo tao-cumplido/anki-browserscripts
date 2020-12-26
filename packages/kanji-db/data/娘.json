@@ -1,16 +1,25 @@
 {
 	"kanji": "娘",
-	"meanings": ["daughter", "girl"],
+	"meanings": [
+		"daughter",
+		"girl"
+	],
 	"keyword": "daughter",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジョウ"]
+		"rare": [
+			"ジョウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["むすめ"],
+		"frequent": [
+			"むすめ"
+		],
 		"common": [],
-		"rare": ["こ"],
+		"rare": [
+			"こ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,34 @@
 {
 	"kanji": "帰",
-	"meanings": ["homecoming", "arrive at", "lead to", "result in"],
+	"meanings": [
+		"homecoming",
+		"arrive at",
+		"lead to",
+		"result in"
+	],
 	"keyword": "homecoming",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かえ"],
+		"frequent": [
+			"かえ"
+		],
 		"common": [],
-		"rare": ["おく", "とつ"],
-		"okurigana": ["かえ.る", "かえ.す", "おく.る", "とつ.ぐ"]
+		"rare": [
+			"おく",
+			"とつ"
+		],
+		"okurigana": [
+			"かえ.る",
+			"かえ.す",
+			"おく.る",
+			"とつ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 438,

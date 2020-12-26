@@ -1,17 +1,30 @@
 {
 	"kanji": "曝",
-	"meanings": ["bleach", "refine", "expose", "air"],
+	"meanings": [
+		"bleach",
+		"refine",
+		"expose",
+		"air"
+	],
 	"keyword": "air out",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["バク", "ホク", "ボク"]
+		"rare": [
+			"バク",
+			"ホク",
+			"ボク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さら"],
-		"okurigana": ["さら.す"]
+		"rare": [
+			"さら"
+		],
+		"okurigana": [
+			"さら.す"
+		]
 	},
 	"frequency": {
 		"mean": 2661,

@@ -1,16 +1,26 @@
 {
 	"kanji": "侖",
-	"meanings": ["think", "be methodical"],
+	"meanings": [
+		"think",
+		"be methodical"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リン", "ロン"]
+		"rare": [
+			"リン",
+			"ロン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おも"],
-		"okurigana": ["おも.う"]
+		"rare": [
+			"おも"
+		],
+		"okurigana": [
+			"おも.う"
+		]
 	},
 	"frequency": {
 		"mean": 4384,

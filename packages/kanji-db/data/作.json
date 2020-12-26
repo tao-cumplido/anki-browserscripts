@@ -1,17 +1,33 @@
 {
 	"kanji": "作",
-	"meanings": ["make", "production", "prepare", "build"],
+	"meanings": [
+		"make",
+		"production",
+		"prepare",
+		"build"
+	],
 	"keyword": "make",
 	"onyomi": {
-		"frequent": ["サク", "サ"],
+		"frequent": [
+			"サク",
+			"サ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つく"],
+		"frequent": [
+			"つく"
+		],
 		"common": [],
-		"rare": ["づく"],
-		"okurigana": ["つく.る", "つく.り", "づく.り"]
+		"rare": [
+			"づく"
+		],
+		"okurigana": [
+			"つく.る",
+			"つく.り",
+			"づく.り"
+		]
 	},
 	"frequency": {
 		"mean": 15,

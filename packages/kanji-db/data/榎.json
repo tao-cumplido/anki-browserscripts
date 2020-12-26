@@ -1,16 +1,24 @@
 {
 	"kanji": "榎",
-	"meanings": ["lotus tree", "nettle tree", "hackberry"],
+	"meanings": [
+		"lotus tree",
+		"nettle tree",
+		"hackberry"
+	],
 	"keyword": "hackberry",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カ"]
+		"rare": [
+			"カ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["えのき"],
+		"rare": [
+			"えのき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

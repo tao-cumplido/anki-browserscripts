@@ -1,16 +1,23 @@
 {
 	"kanji": "曙",
-	"meanings": ["dawn", "daybreak"],
+	"meanings": [
+		"dawn",
+		"daybreak"
+	],
 	"keyword": "dawn",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショ"]
+		"rare": [
+			"ショ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あけぼの"],
+		"rare": [
+			"あけぼの"
+		],
 		"okurigana": []
 	},
 	"frequency": {

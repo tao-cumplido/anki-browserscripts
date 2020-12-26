@@ -1,16 +1,33 @@
 {
 	"kanji": "標",
-	"meanings": ["signpost", "seal", "mark", "stamp", "imprint", "symbol", "emblem", "trademark", "evidence", "souvenir", "target"],
+	"meanings": [
+		"signpost",
+		"seal",
+		"mark",
+		"stamp",
+		"imprint",
+		"symbol",
+		"emblem",
+		"trademark",
+		"evidence",
+		"souvenir",
+		"target"
+	],
 	"keyword": "signpost",
 	"onyomi": {
-		"frequent": ["ヒョウ"],
+		"frequent": [
+			"ヒョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しるべ", "しるし"],
+		"rare": [
+			"しるべ",
+			"しるし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,29 @@
 {
 	"kanji": "恥",
-	"meanings": ["shame", "dishonor"],
+	"meanings": [
+		"shame",
+		"dishonor"
+	],
 	"keyword": "shame",
 	"onyomi": {
-		"frequent": ["チ"],
+		"frequent": [
+			"チ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["は", "はじ"],
+		"frequent": [
+			"は",
+			"はじ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["は.じる", "は.じらう", "は.ずかしい"]
+		"okurigana": [
+			"は.じる",
+			"は.じらう",
+			"は.ずかしい"
+		]
 	},
 	"frequency": {
 		"mean": 1771,

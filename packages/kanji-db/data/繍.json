@@ -1,16 +1,23 @@
 {
 	"kanji": "繍",
-	"meanings": ["sew", "figured cloth"],
+	"meanings": [
+		"sew",
+		"figured cloth"
+	],
 	"keyword": "embroidery",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュウ"]
+		"rare": [
+			"シュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ぬいとり"],
+		"rare": [
+			"ぬいとり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

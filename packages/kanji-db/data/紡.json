@@ -1,17 +1,25 @@
 {
 	"kanji": "紡",
-	"meanings": ["spinning"],
+	"meanings": [
+		"spinning"
+	],
 	"keyword": "spinning",
 	"onyomi": {
-		"frequent": ["ボウ"],
+		"frequent": [
+			"ボウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つむ"],
+		"frequent": [
+			"つむ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["つむ.ぐ"]
+		"okurigana": [
+			"つむ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 2072,

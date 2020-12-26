@@ -1,17 +1,28 @@
 {
 	"kanji": "浴",
-	"meanings": ["bathe", "be favored with", "bask in"],
+	"meanings": [
+		"bathe",
+		"be favored with",
+		"bask in"
+	],
 	"keyword": "bathe",
 	"onyomi": {
-		"frequent": ["ヨク"],
+		"frequent": [
+			"ヨク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あ"],
+		"frequent": [
+			"あ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あ.びる", "あ.びせる"]
+		"okurigana": [
+			"あ.びる",
+			"あ.びせる"
+		]
 	},
 	"frequency": {
 		"mean": 1447,

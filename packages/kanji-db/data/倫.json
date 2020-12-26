@@ -1,9 +1,14 @@
 {
 	"kanji": "倫",
-	"meanings": ["ethics", "companion"],
+	"meanings": [
+		"ethics",
+		"companion"
+	],
 	"keyword": "ethics",
 	"onyomi": {
-		"frequent": ["リン"],
+		"frequent": [
+			"リン"
+		],
 		"common": [],
 		"rare": []
 	},

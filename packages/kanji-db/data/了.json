@@ -1,9 +1,14 @@
 {
 	"kanji": "了",
-	"meanings": ["complete", "finish"],
+	"meanings": [
+		"complete",
+		"finish"
+	],
 	"keyword": "complete",
 	"onyomi": {
-		"frequent": ["リョウ"],
+		"frequent": [
+			"リョウ"
+		],
 		"common": [],
 		"rare": []
 	},

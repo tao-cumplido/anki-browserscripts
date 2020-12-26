@@ -1,17 +1,37 @@
 {
 	"kanji": "積",
-	"meanings": ["volume", "product (x*y)", "acreage", "contents", "pile up", "stack", "load", "amass"],
+	"meanings": [
+		"volume",
+		"product (x*y)",
+		"acreage",
+		"contents",
+		"pile up",
+		"stack",
+		"load",
+		"amass"
+	],
 	"keyword": "volume",
 	"onyomi": {
-		"frequent": ["セキ"],
+		"frequent": [
+			"セキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つ"],
+		"frequent": [
+			"つ"
+		],
 		"common": [],
-		"rare": ["づ"],
-		"okurigana": ["つ.む", "づ.み", "つ.もる", "つ.もり"]
+		"rare": [
+			"づ"
+		],
+		"okurigana": [
+			"つ.む",
+			"づ.み",
+			"つ.もる",
+			"つ.もり"
+		]
 	},
 	"frequency": {
 		"mean": 635,

@@ -1,16 +1,22 @@
 {
 	"kanji": "嶽",
-	"meanings": ["peak"],
+	"meanings": [
+		"peak"
+	],
 	"keyword": "Point (old)",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ガク"]
+		"rare": [
+			"ガク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たけ"],
+		"rare": [
+			"たけ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

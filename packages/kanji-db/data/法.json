@@ -1,16 +1,32 @@
 {
 	"kanji": "法",
-	"meanings": ["method", "law", "rule", "principle", "model", "system"],
+	"meanings": [
+		"method",
+		"law",
+		"rule",
+		"principle",
+		"model",
+		"system"
+	],
 	"keyword": "method",
 	"onyomi": {
-		"frequent": ["ホウ"],
-		"common": ["ハッ", "ホッ"],
-		"rare": ["フラン"]
+		"frequent": [
+			"ホウ"
+		],
+		"common": [
+			"ハッ",
+			"ホッ"
+		],
+		"rare": [
+			"フラン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["のり"],
+		"rare": [
+			"のり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

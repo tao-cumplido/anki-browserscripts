@@ -1,10 +1,15 @@
 {
 	"kanji": "冂",
-	"meanings": ["upside-down box radical (no. 13)"],
+	"meanings": [
+		"upside-down box radical (no. 13)"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ", "ケイ"]
+		"rare": [
+			"キョウ",
+			"ケイ"
+		]
 	},
 	"frequency": {
 		"mean": 4435,

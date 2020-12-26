@@ -1,16 +1,28 @@
 {
 	"kanji": "暇",
-	"meanings": ["spare time", "rest", "leisure", "time", "leave of absence"],
+	"meanings": [
+		"spare time",
+		"rest",
+		"leisure",
+		"time",
+		"leave of absence"
+	],
 	"keyword": "spare time",
 	"onyomi": {
-		"frequent": ["カ"],
+		"frequent": [
+			"カ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひま"],
+		"frequent": [
+			"ひま"
+		],
 		"common": [],
-		"rare": ["いとま"],
+		"rare": [
+			"いとま"
+		],
 		"okurigana": []
 	},
 	"frequency": {

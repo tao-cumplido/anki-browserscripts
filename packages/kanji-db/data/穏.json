@@ -1,17 +1,27 @@
 {
 	"kanji": "穏",
-	"meanings": ["calm", "quiet", "moderation"],
+	"meanings": [
+		"calm",
+		"quiet",
+		"moderation"
+	],
 	"keyword": "calm",
 	"onyomi": {
-		"frequent": ["オン"],
+		"frequent": [
+			"オン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おだ"],
+		"frequent": [
+			"おだ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おだ.やか"]
+		"okurigana": [
+			"おだ.やか"
+		]
 	},
 	"frequency": {
 		"mean": 1976,

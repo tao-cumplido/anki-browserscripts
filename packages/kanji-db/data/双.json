@@ -1,16 +1,29 @@
 {
 	"kanji": "双",
-	"meanings": ["pair", "set", "comparison", "counter for pairs"],
+	"meanings": [
+		"pair",
+		"set",
+		"comparison",
+		"counter for pairs"
+	],
 	"keyword": "pair",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふた"],
+		"frequent": [
+			"ふた"
+		],
 		"common": [],
-		"rare": ["たぐい", "ならぶ", "ふたつ"],
+		"rare": [
+			"たぐい",
+			"ならぶ",
+			"ふたつ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,37 @@
 {
 	"kanji": "着",
-	"meanings": ["don", "arrive", "wear", "counter for suits of clothing"],
+	"meanings": [
+		"don",
+		"arrive",
+		"wear",
+		"counter for suits of clothing"
+	],
 	"keyword": "don",
 	"onyomi": {
-		"frequent": ["チャク"],
-		"common": ["ジャク"],
+		"frequent": [
+			"チャク"
+		],
+		"common": [
+			"ジャク"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["き", "つ"],
+		"frequent": [
+			"き",
+			"つ"
+		],
 		"common": [],
-		"rare": ["ぎ"],
-		"okurigana": ["き.る", "き.せる", "き.せ", "つ.く", "つ.ける"]
+		"rare": [
+			"ぎ"
+		],
+		"okurigana": [
+			"き.る",
+			"き.せる",
+			"き.せ",
+			"つ.く",
+			"つ.ける"
+		]
 	},
 	"frequency": {
 		"mean": 384,

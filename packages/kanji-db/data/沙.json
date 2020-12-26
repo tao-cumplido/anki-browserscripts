@@ -1,16 +1,25 @@
 {
 	"kanji": "沙",
-	"meanings": ["sand"],
+	"meanings": [
+		"sand"
+	],
 	"keyword": "grains of sand",
 	"onyomi": {
-		"frequent": ["サ"],
+		"frequent": [
+			"サ"
+		],
 		"common": [],
-		"rare": ["シャ"]
+		"rare": [
+			"シャ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すな", "よなげる"],
+		"rare": [
+			"すな",
+			"よなげる"
+		],
 		"okurigana": []
 	},
 	"frequency": {

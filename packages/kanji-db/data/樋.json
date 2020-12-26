@@ -1,16 +1,26 @@
 {
 	"kanji": "樋",
-	"meanings": ["water pipe", "gutter", "downspout", "conduit"],
+	"meanings": [
+		"water pipe",
+		"gutter",
+		"downspout",
+		"conduit"
+	],
 	"keyword": "downspout",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["トウ"]
+		"rare": [
+			"トウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひ", "とい"],
+		"rare": [
+			"ひ",
+			"とい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

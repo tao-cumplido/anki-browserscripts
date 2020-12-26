@@ -1,17 +1,32 @@
 {
 	"kanji": "混",
-	"meanings": ["mix", "blend", "confuse"],
+	"meanings": [
+		"mix",
+		"blend",
+		"confuse"
+	],
 	"keyword": "mix",
 	"onyomi": {
-		"frequent": ["コン"],
+		"frequent": [
+			"コン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ま", "こ"],
+		"frequent": [
+			"ま",
+			"こ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ま.じる", "ま.じり", "ま.ざる", "ま.ぜる", "こ.む"]
+		"okurigana": [
+			"ま.じる",
+			"ま.じり",
+			"ま.ざる",
+			"ま.ぜる",
+			"こ.む"
+		]
 	},
 	"frequency": {
 		"mean": 1040,

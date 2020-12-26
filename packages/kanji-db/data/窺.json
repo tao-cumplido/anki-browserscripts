@@ -1,17 +1,28 @@
 {
 	"kanji": "窺",
-	"meanings": ["lie in wait", "spy on", "reconnoiter"],
+	"meanings": [
+		"lie in wait",
+		"spy on",
+		"reconnoiter"
+	],
 	"keyword": "peep",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キ"]
+		"rare": [
+			"キ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うかが", "のぞく"],
-		"okurigana": ["うかが.う"]
+		"rare": [
+			"うかが",
+			"のぞく"
+		],
+		"okurigana": [
+			"うかが.う"
+		]
 	},
 	"frequency": {
 		"mean": 2592,

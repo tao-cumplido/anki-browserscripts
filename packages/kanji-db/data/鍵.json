@@ -1,14 +1,20 @@
 {
 	"kanji": "鍵",
-	"meanings": ["key"],
+	"meanings": [
+		"key"
+	],
 	"keyword": "key",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かぎ"],
+		"frequent": [
+			"かぎ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

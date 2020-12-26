@@ -1,14 +1,22 @@
 {
 	"kanji": "窯",
-	"meanings": ["kiln", "oven", "furnace"],
+	"meanings": [
+		"kiln",
+		"oven",
+		"furnace"
+	],
 	"keyword": "kiln",
 	"onyomi": {
-		"frequent": ["ヨウ"],
+		"frequent": [
+			"ヨウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かま"],
+		"frequent": [
+			"かま"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

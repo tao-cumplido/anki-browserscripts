@@ -1,17 +1,30 @@
 {
 	"kanji": "担",
-	"meanings": ["shouldering", "carry", "raise", "bear"],
+	"meanings": [
+		"shouldering",
+		"carry",
+		"raise",
+		"bear"
+	],
 	"keyword": "shouldering",
 	"onyomi": {
-		"frequent": ["タン"],
+		"frequent": [
+			"タン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かつ", "にな"],
+		"frequent": [
+			"かつ",
+			"にな"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かつ.ぐ", "にな.う"]
+		"okurigana": [
+			"かつ.ぐ",
+			"にな.う"
+		]
 	},
 	"frequency": {
 		"mean": 583,

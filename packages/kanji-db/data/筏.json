@@ -1,16 +1,24 @@
 {
 	"kanji": "筏",
-	"meanings": ["raft"],
+	"meanings": [
+		"raft"
+	],
 	"keyword": "raft",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["バツ", "ハツ", "ボチ"]
+		"rare": [
+			"バツ",
+			"ハツ",
+			"ボチ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いかだ"],
+		"rare": [
+			"いかだ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,29 @@
 {
 	"kanji": "妊",
-	"meanings": ["pregnancy"],
+	"meanings": [
+		"pregnancy"
+	],
 	"keyword": "pregnancy",
 	"onyomi": {
-		"frequent": ["ニン"],
+		"frequent": [
+			"ニン"
+		],
 		"common": [],
-		"rare": ["ジン"]
+		"rare": [
+			"ジン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はら", "みごも"],
-		"okurigana": ["はら.む", "みごも.る"]
+		"rare": [
+			"はら",
+			"みごも"
+		],
+		"okurigana": [
+			"はら.む",
+			"みごも.る"
+		]
 	},
 	"frequency": {
 		"mean": 1987,

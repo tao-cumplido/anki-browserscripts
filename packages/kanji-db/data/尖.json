@@ -1,17 +1,33 @@
 {
 	"kanji": "尖",
-	"meanings": ["be pointed", "sharp", "taper", "displeased", "angry", "edgy"],
+	"meanings": [
+		"be pointed",
+		"sharp",
+		"taper",
+		"displeased",
+		"angry",
+		"edgy"
+	],
 	"keyword": "sharp point",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セン"]
+		"rare": [
+			"セン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とが", "さき", "するど"],
-		"okurigana": ["とが.る", "するど.い"]
+		"rare": [
+			"とが",
+			"さき",
+			"するど"
+		],
+		"okurigana": [
+			"とが.る",
+			"するど.い"
+		]
 	},
 	"frequency": {
 		"mean": 2079,

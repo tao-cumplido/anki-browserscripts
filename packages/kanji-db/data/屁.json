@@ -1,16 +1,24 @@
 {
 	"kanji": "屁",
-	"meanings": ["fart", "passing gas"],
+	"meanings": [
+		"fart",
+		"passing gas"
+	],
 	"keyword": "fart",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒ"]
+		"rare": [
+			"ヒ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["へ", "おなら"],
+		"rare": [
+			"へ",
+			"おなら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,25 @@
 {
 	"kanji": "惣",
-	"meanings": ["all"],
+	"meanings": [
+		"all"
+	],
 	"keyword": "firstborn son",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ"]
+		"rare": [
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すべ"],
-		"okurigana": ["すべ.て"]
+		"rare": [
+			"すべ"
+		],
+		"okurigana": [
+			"すべ.て"
+		]
 	},
 	"frequency": {
 		"mean": 2161,

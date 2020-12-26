@@ -1,17 +1,29 @@
 {
 	"kanji": "預",
-	"meanings": ["deposit", "custody", "leave with", "entrust to"],
+	"meanings": [
+		"deposit",
+		"custody",
+		"leave with",
+		"entrust to"
+	],
 	"keyword": "deposit",
 	"onyomi": {
-		"frequent": ["ヨ"],
+		"frequent": [
+			"ヨ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あず"],
+		"frequent": [
+			"あず"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あず.ける", "あず.かる"]
+		"okurigana": [
+			"あず.ける",
+			"あず.かる"
+		]
 	},
 	"frequency": {
 		"mean": 1627,

@@ -1,17 +1,33 @@
 {
 	"kanji": "染",
-	"meanings": ["dye", "color", "paint", "stain", "print"],
+	"meanings": [
+		"dye",
+		"color",
+		"paint",
+		"stain",
+		"print"
+	],
 	"keyword": "dye",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["そ", "し"],
+		"frequent": [
+			"そ",
+			"し"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["そ.める", "そ.まる", "し.みる", "し.み"]
+		"okurigana": [
+			"そ.める",
+			"そ.まる",
+			"し.みる",
+			"し.み"
+		]
 	},
 	"frequency": {
 		"mean": 1062,

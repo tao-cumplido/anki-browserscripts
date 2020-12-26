@@ -1,16 +1,34 @@
 {
 	"kanji": "柄",
-	"meanings": ["design", "pattern", "build", "nature", "character", "handle", "crank", "grip", "knob", "shaft"],
+	"meanings": [
+		"design",
+		"pattern",
+		"build",
+		"nature",
+		"character",
+		"handle",
+		"crank",
+		"grip",
+		"knob",
+		"shaft"
+	],
 	"keyword": "design",
 	"onyomi": {
-		"frequent": ["ヘイ"],
+		"frequent": [
+			"ヘイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["がら", "え"],
+		"frequent": [
+			"がら",
+			"え"
+		],
 		"common": [],
-		"rare": ["つか"],
+		"rare": [
+			"つか"
+		],
 		"okurigana": []
 	},
 	"frequency": {

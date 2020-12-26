@@ -1,17 +1,33 @@
 {
 	"kanji": "暈",
-	"meanings": ["halo", "corona", "fade"],
+	"meanings": [
+		"halo",
+		"corona",
+		"fade"
+	],
 	"keyword": "halo",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ウン"]
+		"rare": [
+			"ウン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ぼか", "ぼけ", "かさ", "くま", "ぼかし", "めまい"],
-		"okurigana": ["ぼか.す", "ぼけ.る"]
+		"rare": [
+			"ぼか",
+			"ぼけ",
+			"かさ",
+			"くま",
+			"ぼかし",
+			"めまい"
+		],
+		"okurigana": [
+			"ぼか.す",
+			"ぼけ.る"
+		]
 	},
 	"frequency": {
 		"mean": 3485,

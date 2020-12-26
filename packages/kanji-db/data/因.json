@@ -1,17 +1,32 @@
 {
 	"kanji": "因",
-	"meanings": ["cause", "factor", "be associated with", "depend on", "be limited to"],
+	"meanings": [
+		"cause",
+		"factor",
+		"be associated with",
+		"depend on",
+		"be limited to"
+	],
 	"keyword": "cause",
 	"onyomi": {
-		"frequent": ["イン"],
+		"frequent": [
+			"イン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["よ"],
+		"frequent": [
+			"よ"
+		],
 		"common": [],
-		"rare": ["ちな"],
-		"okurigana": ["よ.る", "ちな.む"]
+		"rare": [
+			"ちな"
+		],
+		"okurigana": [
+			"よ.る",
+			"ちな.む"
+		]
 	},
 	"frequency": {
 		"mean": 885,

@@ -1,16 +1,27 @@
 {
 	"kanji": "酉",
-	"meanings": ["west", "bird", "sign of the bird", "5-7PM", "tenth sign of Chinese zodiac", "sake radical (no. 164)"],
+	"meanings": [
+		"west",
+		"bird",
+		"sign of the bird",
+		"5-7PM",
+		"tenth sign of Chinese zodiac",
+		"sake radical (no. 164)"
+	],
 	"keyword": "sign of the bird",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ユウ"]
+		"rare": [
+			"ユウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とり"],
+		"rare": [
+			"とり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,30 @@
 {
 	"kanji": "示",
-	"meanings": ["show", "indicate", "point out", "express", "display"],
+	"meanings": [
+		"show",
+		"indicate",
+		"point out",
+		"express",
+		"display"
+	],
 	"keyword": "show",
 	"onyomi": {
-		"frequent": ["ジ", "シ"],
+		"frequent": [
+			"ジ",
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["しめ"],
+		"frequent": [
+			"しめ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["しめ.す"]
+		"okurigana": [
+			"しめ.す"
+		]
 	},
 	"frequency": {
 		"mean": 408,

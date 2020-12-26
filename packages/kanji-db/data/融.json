@@ -1,17 +1,27 @@
 {
 	"kanji": "融",
-	"meanings": ["dissolve", "melt"],
+	"meanings": [
+		"dissolve",
+		"melt"
+	],
 	"keyword": "dissolve",
 	"onyomi": {
-		"frequent": ["ユウ"],
+		"frequent": [
+			"ユウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["と"],
-		"okurigana": ["と.ける", "と.かす"]
+		"rare": [
+			"と"
+		],
+		"okurigana": [
+			"と.ける",
+			"と.かす"
+		]
 	},
 	"frequency": {
 		"mean": 1099,

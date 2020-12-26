@@ -1,16 +1,24 @@
 {
 	"kanji": "堵",
-	"meanings": ["fence", "railing", "enclosure"],
+	"meanings": [
+		"fence",
+		"railing",
+		"enclosure"
+	],
 	"keyword": "railing",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ト"]
+		"rare": [
+			"ト"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かき"],
+		"rare": [
+			"かき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

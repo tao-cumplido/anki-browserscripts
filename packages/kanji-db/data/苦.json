@@ -1,17 +1,38 @@
 {
 	"kanji": "苦",
-	"meanings": ["suffering", "trial", "worry", "hardship", "feel bitter", "scowl"],
+	"meanings": [
+		"suffering",
+		"trial",
+		"worry",
+		"hardship",
+		"feel bitter",
+		"scowl"
+	],
 	"keyword": "suffering",
 	"onyomi": {
-		"frequent": ["ク"],
+		"frequent": [
+			"ク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くる", "にが"],
+		"frequent": [
+			"くる",
+			"にが"
+		],
 		"common": [],
-		"rare": ["ぐる"],
-		"okurigana": ["くる.しい", "ぐる.しい", "くる.しむ", "くる.しめる", "にが.い", "にが.る"]
+		"rare": [
+			"ぐる"
+		],
+		"okurigana": [
+			"くる.しい",
+			"ぐる.しい",
+			"くる.しむ",
+			"くる.しめる",
+			"にが.い",
+			"にが.る"
+		]
 	},
 	"frequency": {
 		"mean": 980,

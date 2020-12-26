@@ -1,17 +1,31 @@
 {
 	"kanji": "夷",
-	"meanings": ["barbarian", "savage", "Ainu"],
+	"meanings": [
+		"barbarian",
+		"savage",
+		"Ainu"
+	],
 	"keyword": "ebisu",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["イ"]
+		"rare": [
+			"イ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["えびす", "えみし", "ころ", "たい"],
-		"okurigana": ["ころ.す", "たい.らげる"]
+		"rare": [
+			"えびす",
+			"えみし",
+			"ころ",
+			"たい"
+		],
+		"okurigana": [
+			"ころ.す",
+			"たい.らげる"
+		]
 	},
 	"frequency": {
 		"mean": 1848,

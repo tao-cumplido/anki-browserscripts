@@ -1,17 +1,32 @@
 {
 	"kanji": "矯",
-	"meanings": ["rectify", "straighten", "correct", "reform", "cure", "control", "pretend", "falsify"],
+	"meanings": [
+		"rectify",
+		"straighten",
+		"correct",
+		"reform",
+		"cure",
+		"control",
+		"pretend",
+		"falsify"
+	],
 	"keyword": "rectify",
 	"onyomi": {
-		"frequent": ["キョウ"],
+		"frequent": [
+			"キョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["た"],
+		"frequent": [
+			"た"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["た.める"]
+		"okurigana": [
+			"た.める"
+		]
 	},
 	"frequency": {
 		"mean": 2607,

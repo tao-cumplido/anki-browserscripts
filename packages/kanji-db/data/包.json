@@ -1,17 +1,31 @@
 {
 	"kanji": "包",
-	"meanings": ["wrap", "pack up", "cover", "conceal"],
+	"meanings": [
+		"wrap",
+		"pack up",
+		"cover",
+		"conceal"
+	],
 	"keyword": "wrap",
 	"onyomi": {
-		"frequent": ["ホウ"],
+		"frequent": [
+			"ホウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つつ"],
+		"frequent": [
+			"つつ"
+		],
 		"common": [],
-		"rare": ["くる"],
-		"okurigana": ["つつ.む", "くる.む"]
+		"rare": [
+			"くる"
+		],
+		"okurigana": [
+			"つつ.む",
+			"くる.む"
+		]
 	},
 	"frequency": {
 		"mean": 1244,

@@ -1,17 +1,28 @@
 {
 	"kanji": "遊",
-	"meanings": ["play"],
+	"meanings": [
+		"play"
+	],
 	"keyword": "play",
 	"onyomi": {
-		"frequent": ["ユウ"],
-		"common": ["ユ"],
+		"frequent": [
+			"ユウ"
+		],
+		"common": [
+			"ユ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あそ"],
+		"frequent": [
+			"あそ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あそ.ぶ", "あそ.ばす"]
+		"okurigana": [
+			"あそ.ぶ",
+			"あそ.ばす"
+		]
 	},
 	"frequency": {
 		"mean": 799,

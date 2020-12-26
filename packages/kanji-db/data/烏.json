@@ -1,16 +1,26 @@
 {
 	"kanji": "烏",
-	"meanings": ["crow", "raven"],
+	"meanings": [
+		"crow",
+		"raven"
+	],
 	"keyword": "crow",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ウ", "オ"]
+		"rare": [
+			"ウ",
+			"オ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["からす", "いずくんぞ", "なんぞ"],
+		"rare": [
+			"からす",
+			"いずくんぞ",
+			"なんぞ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

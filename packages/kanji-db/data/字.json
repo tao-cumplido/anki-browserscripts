@@ -1,16 +1,28 @@
 {
 	"kanji": "字",
-	"meanings": ["character", "letter", "word", "section of village"],
+	"meanings": [
+		"character",
+		"letter",
+		"word",
+		"section of village"
+	],
 	"keyword": "character",
 	"onyomi": {
-		"frequent": ["ジ"],
+		"frequent": [
+			"ジ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あざ"],
+		"frequent": [
+			"あざ"
+		],
 		"common": [],
-		"rare": ["あざな", "な"],
+		"rare": [
+			"あざな",
+			"な"
+		],
 		"okurigana": []
 	},
 	"frequency": {

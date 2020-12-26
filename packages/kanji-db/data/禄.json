@@ -1,17 +1,30 @@
 {
 	"kanji": "禄",
-	"meanings": ["fief", "allowance", "pension", "grant", "happiness"],
+	"meanings": [
+		"fief",
+		"allowance",
+		"pension",
+		"grant",
+		"happiness"
+	],
 	"keyword": "salarium",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ロク"]
+		"rare": [
+			"ロク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さいわ", "ふち"],
-		"okurigana": ["さいわ.い"]
+		"rare": [
+			"さいわ",
+			"ふち"
+		],
+		"okurigana": [
+			"さいわ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1589,

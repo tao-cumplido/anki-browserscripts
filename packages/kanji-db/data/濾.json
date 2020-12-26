@@ -1,17 +1,26 @@
 {
 	"kanji": "濾",
-	"meanings": ["filter"],
+	"meanings": [
+		"filter"
+	],
 	"keyword": "strainer",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ロ", "リョ"]
+		"rare": [
+			"ロ",
+			"リョ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こ"],
-		"okurigana": ["こ.す"]
+		"rare": [
+			"こ"
+		],
+		"okurigana": [
+			"こ.す"
+		]
 	},
 	"frequency": {
 		"mean": 3150,

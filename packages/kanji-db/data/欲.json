@@ -1,17 +1,32 @@
 {
 	"kanji": "欲",
-	"meanings": ["longing", "covetousness", "greed", "passion", "desire", "craving"],
+	"meanings": [
+		"longing",
+		"covetousness",
+		"greed",
+		"passion",
+		"desire",
+		"craving"
+	],
 	"keyword": "longing",
 	"onyomi": {
-		"frequent": ["ヨク"],
+		"frequent": [
+			"ヨク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほっ", "ほ"],
+		"frequent": [
+			"ほっ",
+			"ほ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ほっ.する", "ほ.しい"]
+		"okurigana": [
+			"ほっ.する",
+			"ほ.しい"
+		]
 	},
 	"frequency": {
 		"mean": 1286,

@@ -1,16 +1,28 @@
 {
 	"kanji": "御",
-	"meanings": ["honorable", "manipulate", "govern"],
+	"meanings": [
+		"honorable",
+		"manipulate",
+		"govern"
+	],
 	"keyword": "honorable",
 	"onyomi": {
-		"frequent": ["ギョ", "ゴ"],
+		"frequent": [
+			"ギョ",
+			"ゴ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おん"],
+		"frequent": [
+			"おん"
+		],
 		"common": [],
-		"rare": ["お", "み"],
+		"rare": [
+			"お",
+			"み"
+		],
 		"okurigana": []
 	},
 	"frequency": {

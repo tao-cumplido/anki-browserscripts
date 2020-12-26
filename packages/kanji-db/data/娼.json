@@ -1,16 +1,22 @@
 {
 	"kanji": "娼",
-	"meanings": ["prostitute"],
+	"meanings": [
+		"prostitute"
+	],
 	"keyword": "harlot",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ"]
+		"rare": [
+			"ショウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あそびめ"],
+		"rare": [
+			"あそびめ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

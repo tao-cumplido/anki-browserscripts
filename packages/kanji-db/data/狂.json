@@ -1,17 +1,32 @@
 {
 	"kanji": "狂",
-	"meanings": ["lunatic", "insane", "crazy", "confuse"],
+	"meanings": [
+		"lunatic",
+		"insane",
+		"crazy",
+		"confuse"
+	],
 	"keyword": "lunatic",
 	"onyomi": {
-		"frequent": ["キョウ"],
+		"frequent": [
+			"キョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くる"],
+		"frequent": [
+			"くる"
+		],
 		"common": [],
-		"rare": ["くるお"],
-		"okurigana": ["くる.う", "くる.おしい", "くるお.しい"]
+		"rare": [
+			"くるお"
+		],
+		"okurigana": [
+			"くる.う",
+			"くる.おしい",
+			"くるお.しい"
+		]
 	},
 	"frequency": {
 		"mean": 1412,

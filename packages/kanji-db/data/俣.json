@@ -1,11 +1,20 @@
 {
 	"kanji": "俣",
-	"meanings": ["crotch", "thigh", "groin", "fork", "junction", "(kokuji)"],
+	"meanings": [
+		"crotch",
+		"thigh",
+		"groin",
+		"fork",
+		"junction",
+		"(kokuji)"
+	],
 	"keyword": "fork in a road",
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["また"],
+		"rare": [
+			"また"
+		],
 		"okurigana": []
 	},
 	"frequency": {

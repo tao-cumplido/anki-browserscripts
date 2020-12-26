@@ -1,0 +1,33 @@
+{
+	"kanji": "攞",
+	"meanings": [
+		"to split",
+		"to rend",
+		"to choose",
+		"to rub",
+		"to wipe"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ラ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"えら",
+			"さ"
+		],
+		"rare": [],
+		"okurigana": [
+			"えら.ぶ",
+			"さ.く"
+		]
+	},
+	"frequency": {
+		"mean": 4527,
+		"wikipedia": 4218
+	}
+}

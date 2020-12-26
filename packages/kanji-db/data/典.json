@@ -1,11 +1,20 @@
 {
 	"kanji": "典",
-	"meanings": ["code", "ceremony", "law", "rule"],
+	"meanings": [
+		"code",
+		"ceremony",
+		"law",
+		"rule"
+	],
 	"keyword": "code",
 	"onyomi": {
-		"frequent": ["テン"],
+		"frequent": [
+			"テン"
+		],
 		"common": [],
-		"rare": ["デン"]
+		"rare": [
+			"デン"
+		]
 	},
 	"frequency": {
 		"mean": 323,

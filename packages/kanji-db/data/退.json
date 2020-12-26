@@ -1,17 +1,40 @@
 {
 	"kanji": "退",
-	"meanings": ["retreat", "withdraw", "retire", "resign", "repel", "expel", "reject"],
+	"meanings": [
+		"retreat",
+		"withdraw",
+		"retire",
+		"resign",
+		"repel",
+		"expel",
+		"reject"
+	],
 	"keyword": "retreat",
 	"onyomi": {
-		"frequent": ["タイ"],
+		"frequent": [
+			"タイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["しりぞ"],
+		"frequent": [
+			"しりぞ"
+		],
 		"common": [],
-		"rare": ["ひ", "の", "ど"],
-		"okurigana": ["しりぞ.く", "しりぞ.ける", "ひ.く", "の.く", "の.ける", "ど.く"]
+		"rare": [
+			"ひ",
+			"の",
+			"ど"
+		],
+		"okurigana": [
+			"しりぞ.く",
+			"しりぞ.ける",
+			"ひ.く",
+			"の.く",
+			"の.ける",
+			"ど.く"
+		]
 	},
 	"frequency": {
 		"mean": 459,

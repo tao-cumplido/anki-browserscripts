@@ -1,17 +1,26 @@
 {
 	"kanji": "耽",
-	"meanings": ["addicted", "absorbed in"],
+	"meanings": [
+		"addicted",
+		"absorbed in"
+	],
 	"keyword": "addiction",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["タン"]
+		"rare": [
+			"タン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふけ"],
-		"okurigana": ["ふけ.る"]
+		"rare": [
+			"ふけ"
+		],
+		"okurigana": [
+			"ふけ.る"
+		]
 	},
 	"frequency": {
 		"mean": 2861,

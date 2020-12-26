@@ -1,17 +1,29 @@
 {
 	"kanji": "類",
-	"meanings": ["sort", "kind", "variety", "class", "genus"],
+	"meanings": [
+		"sort",
+		"kind",
+		"variety",
+		"class",
+		"genus"
+	],
 	"keyword": "sort",
 	"onyomi": {
-		"frequent": ["ルイ"],
+		"frequent": [
+			"ルイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たぐ"],
+		"frequent": [
+			"たぐ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["たぐ.い"]
+		"okurigana": [
+			"たぐ.い"
+		]
 	},
 	"frequency": {
 		"mean": 367,

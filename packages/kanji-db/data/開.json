@@ -1,17 +1,35 @@
 {
 	"kanji": "開",
-	"meanings": ["open", "unfold", "unseal"],
+	"meanings": [
+		"open",
+		"unfold",
+		"unseal"
+	],
 	"keyword": "open",
 	"onyomi": {
-		"frequent": ["カイ"],
+		"frequent": [
+			"カイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひら", "あ"],
+		"frequent": [
+			"ひら",
+			"あ"
+		],
 		"common": [],
-		"rare": ["びら"],
-		"okurigana": ["ひら.く", "ひら.き", "びら.き", "ひら.ける", "あ.く", "あ.ける"]
+		"rare": [
+			"びら"
+		],
+		"okurigana": [
+			"ひら.く",
+			"ひら.き",
+			"びら.き",
+			"ひら.ける",
+			"あ.く",
+			"あ.ける"
+		]
 	},
 	"frequency": {
 		"mean": 73,

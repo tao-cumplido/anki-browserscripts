@@ -1,17 +1,33 @@
 {
 	"kanji": "等",
-	"meanings": ["etc.", "and so forth", "class (first)", "quality", "equal", "similar"],
+	"meanings": [
+		"etc.",
+		"and so forth",
+		"class (first)",
+		"quality",
+		"equal",
+		"similar"
+	],
 	"keyword": "etc.",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひと"],
+		"frequent": [
+			"ひと"
+		],
 		"common": [],
-		"rare": ["など", "ら"],
-		"okurigana": ["ひと.しい"]
+		"rare": [
+			"など",
+			"ら"
+		],
+		"okurigana": [
+			"ひと.しい"
+		]
 	},
 	"frequency": {
 		"mean": 167,

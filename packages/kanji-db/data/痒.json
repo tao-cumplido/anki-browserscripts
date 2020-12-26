@@ -1,17 +1,27 @@
 {
 	"kanji": "痒",
-	"meanings": ["itchy"],
+	"meanings": [
+		"itchy"
+	],
 	"keyword": "itch",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヨウ"]
+		"rare": [
+			"ヨウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かゆ", "かさ"],
-		"okurigana": ["かゆ.がる", "かゆ.い"]
+		"rare": [
+			"かゆ",
+			"かさ"
+		],
+		"okurigana": [
+			"かゆ.がる",
+			"かゆ.い"
+		]
 	},
 	"frequency": {
 		"mean": 3359,

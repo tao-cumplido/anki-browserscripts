@@ -1,17 +1,28 @@
 {
 	"kanji": "貰",
-	"meanings": ["get", "have", "obtain"],
+	"meanings": [
+		"get",
+		"have",
+		"obtain"
+	],
 	"keyword": "get",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セイ", "シャ"]
+		"rare": [
+			"セイ",
+			"シャ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["もら"],
-		"okurigana": ["もら.う"]
+		"rare": [
+			"もら"
+		],
+		"okurigana": [
+			"もら.う"
+		]
 	},
 	"frequency": {
 		"mean": 1764,

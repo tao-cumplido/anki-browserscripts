@@ -1,16 +1,23 @@
 {
 	"kanji": "旭",
-	"meanings": ["rising sun", "morning sun"],
+	"meanings": [
+		"rising sun",
+		"morning sun"
+	],
 	"keyword": "rising sun",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョク"]
+		"rare": [
+			"キョク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あさひ"],
+		"rare": [
+			"あさひ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

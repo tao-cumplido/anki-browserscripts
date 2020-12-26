@@ -1,16 +1,23 @@
 {
 	"kanji": "伶",
-	"meanings": ["actor"],
+	"meanings": [
+		"actor"
+	],
 	"keyword": "minstrel",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["レイ", "リョウ"]
+		"rare": [
+			"レイ",
+			"リョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わざおぎ"],
+		"rare": [
+			"わざおぎ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

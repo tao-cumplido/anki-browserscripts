@@ -1,16 +1,22 @@
 {
 	"kanji": "庖",
-	"meanings": ["kitchen"],
+	"meanings": [
+		"kitchen"
+	],
 	"keyword": "cleaver",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ホウ"]
+		"rare": [
+			"ホウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くりや"],
+		"rare": [
+			"くりや"
+		],
 		"okurigana": []
 	},
 	"frequency": {

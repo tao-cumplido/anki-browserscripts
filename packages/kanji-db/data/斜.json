@@ -1,17 +1,29 @@
 {
 	"kanji": "斜",
-	"meanings": ["diagonal", "slanting", "oblique"],
+	"meanings": [
+		"diagonal",
+		"slanting",
+		"oblique"
+	],
 	"keyword": "diagonal",
 	"onyomi": {
-		"frequent": ["シャ"],
+		"frequent": [
+			"シャ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["なな"],
+		"frequent": [
+			"なな"
+		],
 		"common": [],
-		"rare": ["はす"],
-		"okurigana": ["なな.め"]
+		"rare": [
+			"はす"
+		],
+		"okurigana": [
+			"なな.め"
+		]
 	},
 	"frequency": {
 		"mean": 1514,

@@ -1,16 +1,22 @@
 {
 	"kanji": "鷺",
-	"meanings": ["heron"],
+	"meanings": [
+		"heron"
+	],
 	"keyword": "heron",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ロ"]
+		"rare": [
+			"ロ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さぎ"],
+		"rare": [
+			"さぎ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

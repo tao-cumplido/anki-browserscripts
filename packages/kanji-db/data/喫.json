@@ -1,17 +1,29 @@
 {
 	"kanji": "喫",
-	"meanings": ["consume", "eat", "drink", "smoke", "receive (a blow)"],
+	"meanings": [
+		"consume",
+		"eat",
+		"drink",
+		"smoke",
+		"receive (a blow)"
+	],
 	"keyword": "consume",
 	"onyomi": {
-		"frequent": ["キツ"],
+		"frequent": [
+			"キツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["の"],
-		"okurigana": ["の.む"]
+		"rare": [
+			"の"
+		],
+		"okurigana": [
+			"の.む"
+		]
 	},
 	"frequency": {
 		"mean": 1595,

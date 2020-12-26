@@ -1,14 +1,25 @@
 {
 	"kanji": "偌",
-	"meanings": ["thus", "so", "like", "such"],
+	"meanings": [
+		"thus",
+		"so",
+		"like",
+		"such"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ジャ", "ニャ"],
+		"common": [
+			"ジャ",
+			"ニャ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["このような", "このように"],
+		"common": [
+			"このような",
+			"このように"
+		],
 		"rare": [],
 		"okurigana": []
 	},

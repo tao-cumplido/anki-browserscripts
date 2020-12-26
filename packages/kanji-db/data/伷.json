@@ -1,14 +1,21 @@
 {
 	"kanji": "伷",
-	"meanings": ["descendent"],
+	"meanings": [
+		"descendent"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["チュウ"],
+		"common": [
+			"チュウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["ちすじ", "よつぎ"],
+		"common": [
+			"ちすじ",
+			"よつぎ"
+		],
 		"rare": [],
 		"okurigana": []
 	},

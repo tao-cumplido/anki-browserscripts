@@ -1,14 +1,21 @@
 {
 	"kanji": "飯",
-	"meanings": ["meal", "boiled rice"],
+	"meanings": [
+		"meal",
+		"boiled rice"
+	],
 	"keyword": "meal",
 	"onyomi": {
-		"frequent": ["ハン"],
+		"frequent": [
+			"ハン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["めし"],
+		"frequent": [
+			"めし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

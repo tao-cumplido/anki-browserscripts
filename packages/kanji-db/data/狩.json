@@ -1,17 +1,31 @@
 {
 	"kanji": "狩",
-	"meanings": ["hunt", "raid", "gather"],
+	"meanings": [
+		"hunt",
+		"raid",
+		"gather"
+	],
 	"keyword": "hunt",
 	"onyomi": {
-		"frequent": ["シュ"],
+		"frequent": [
+			"シュ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["か"],
+		"frequent": [
+			"か"
+		],
 		"common": [],
-		"rare": ["が"],
-		"okurigana": ["か.る", "か.り", "が.り"]
+		"rare": [
+			"が"
+		],
+		"okurigana": [
+			"か.る",
+			"か.り",
+			"が.り"
+		]
 	},
 	"frequency": {
 		"mean": 1422,

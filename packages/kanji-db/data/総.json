@@ -1,17 +1,32 @@
 {
 	"kanji": "総",
-	"meanings": ["general", "whole", "all", "full", "total"],
+	"meanings": [
+		"general",
+		"whole",
+		"all",
+		"full",
+		"total"
+	],
 	"keyword": "general",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["す", "すべ", "ふさ"],
-		"okurigana": ["す.べて", "すべ.て"]
+		"rare": [
+			"す",
+			"すべ",
+			"ふさ"
+		],
+		"okurigana": [
+			"す.べて",
+			"すべ.て"
+		]
 	},
 	"frequency": {
 		"mean": 263,

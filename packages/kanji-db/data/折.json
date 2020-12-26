@@ -1,17 +1,35 @@
 {
 	"kanji": "折",
-	"meanings": ["fold", "break", "fracture", "bend", "yield", "submit"],
+	"meanings": [
+		"fold",
+		"break",
+		"fracture",
+		"bend",
+		"yield",
+		"submit"
+	],
 	"keyword": "fold",
 	"onyomi": {
-		"frequent": ["セツ"],
+		"frequent": [
+			"セツ"
+		],
 		"common": [],
-		"rare": ["シャク"]
+		"rare": [
+			"シャク"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["お", "おり"],
+		"frequent": [
+			"お",
+			"おり"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["お.る", "お.り", "お.れる"]
+		"okurigana": [
+			"お.る",
+			"お.り",
+			"お.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1032,

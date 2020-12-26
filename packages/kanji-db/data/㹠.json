@@ -1,9 +1,15 @@
 {
 	"kanji": "㹠",
-	"meanings": ["small pig", "sucking pig", "to shuffle along without lifting the feet"],
+	"meanings": [
+		"small pig",
+		"sucking pig",
+		"to shuffle along without lifting the feet"
+	],
 	"kunyomi": {
 		"frequent": [],
-		"common": ["トン"],
+		"common": [
+			"トン"
+		],
 		"rare": [],
 		"okurigana": []
 	}

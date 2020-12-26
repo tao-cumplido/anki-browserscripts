@@ -1,17 +1,29 @@
 {
 	"kanji": "驚",
-	"meanings": ["wonder", "be surprised", "frightened", "amazed"],
+	"meanings": [
+		"wonder",
+		"be surprised",
+		"frightened",
+		"amazed"
+	],
 	"keyword": "wonder",
 	"onyomi": {
-		"frequent": ["キョウ"],
+		"frequent": [
+			"キョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おどろ"],
+		"frequent": [
+			"おどろ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おどろ.く", "おどろ.かす"]
+		"okurigana": [
+			"おどろ.く",
+			"おどろ.かす"
+		]
 	},
 	"frequency": {
 		"mean": 1452,

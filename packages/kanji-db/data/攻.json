@@ -1,17 +1,28 @@
 {
 	"kanji": "攻",
-	"meanings": ["aggression", "attack", "criticize", "polish"],
+	"meanings": [
+		"aggression",
+		"attack",
+		"criticize",
+		"polish"
+	],
 	"keyword": "aggression",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["せ"],
+		"frequent": [
+			"せ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["せ.める"]
+		"okurigana": [
+			"せ.める"
+		]
 	},
 	"frequency": {
 		"mean": 532,

@@ -1,17 +1,30 @@
 {
 	"kanji": "逢",
-	"meanings": ["meeting", "tryst", "date", "rendezvous"],
+	"meanings": [
+		"meeting",
+		"tryst",
+		"date",
+		"rendezvous"
+	],
 	"keyword": "tryst",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ホウ"]
+		"rare": [
+			"ホウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あ", "むか"],
-		"okurigana": ["あ.う", "むか.える"]
+		"rare": [
+			"あ",
+			"むか"
+		],
+		"okurigana": [
+			"あ.う",
+			"むか.える"
+		]
 	},
 	"frequency": {
 		"mean": 1669,

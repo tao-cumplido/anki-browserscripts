@@ -1,17 +1,31 @@
 {
 	"kanji": "陥",
-	"meanings": ["collapse", "fall into", "cave in", "fall (castle)", "slide into"],
+	"meanings": [
+		"collapse",
+		"fall into",
+		"cave in",
+		"fall (castle)",
+		"slide into"
+	],
 	"keyword": "collapse",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おちい", "おとしい"],
+		"frequent": [
+			"おちい",
+			"おとしい"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おちい.る", "おとしい.れる"]
+		"okurigana": [
+			"おちい.る",
+			"おとしい.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1492,

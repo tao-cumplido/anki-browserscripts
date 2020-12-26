@@ -1,16 +1,24 @@
 {
 	"kanji": "鶏",
-	"meanings": ["chicken"],
+	"meanings": [
+		"chicken"
+	],
 	"keyword": "chicken",
 	"onyomi": {
-		"frequent": ["ケイ"],
+		"frequent": [
+			"ケイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["にわとり"],
+		"frequent": [
+			"にわとり"
+		],
 		"common": [],
-		"rare": ["とり"],
+		"rare": [
+			"とり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,29 @@
 {
 	"kanji": "団",
-	"meanings": ["group", "association"],
+	"meanings": [
+		"group",
+		"association"
+	],
 	"keyword": "group",
 	"onyomi": {
-		"frequent": ["ダン"],
-		"common": ["トン"],
+		"frequent": [
+			"ダン"
+		],
+		"common": [
+			"トン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かたまり", "まる"],
-		"okurigana": ["まる.い"]
+		"rare": [
+			"かたまり",
+			"まる"
+		],
+		"okurigana": [
+			"まる.い"
+		]
 	},
 	"frequency": {
 		"mean": 223,

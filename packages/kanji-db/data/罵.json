@@ -1,17 +1,26 @@
 {
 	"kanji": "罵",
-	"meanings": ["abuse", "insult"],
+	"meanings": [
+		"abuse",
+		"insult"
+	],
 	"keyword": "insult",
 	"onyomi": {
-		"frequent": ["バ"],
+		"frequent": [
+			"バ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ののし"],
+		"frequent": [
+			"ののし"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ののし.る"]
+		"okurigana": [
+			"ののし.る"
+		]
 	},
 	"frequency": {
 		"mean": 2428,

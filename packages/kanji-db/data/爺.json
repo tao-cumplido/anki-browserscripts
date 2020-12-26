@@ -1,16 +1,27 @@
 {
 	"kanji": "爺",
-	"meanings": ["old man", "grampa"],
+	"meanings": [
+		"old man",
+		"grampa"
+	],
 	"keyword": "grandpa",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヤ"]
+		"rare": [
+			"ヤ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["じい", "じじい", "おやじ", "じじ", "ちち"],
+		"rare": [
+			"じい",
+			"じじい",
+			"おやじ",
+			"じじ",
+			"ちち"
+		],
 		"okurigana": []
 	},
 	"frequency": {

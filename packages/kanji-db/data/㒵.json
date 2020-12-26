@@ -1,9 +1,17 @@
 {
 	"kanji": "㒵",
-	"meanings": ["manner", "appearance", "form", "face", "bearing"],
+	"meanings": [
+		"manner",
+		"appearance",
+		"form",
+		"face",
+		"bearing"
+	],
 	"kunyomi": {
 		"frequent": [],
-		"common": ["かお"],
+		"common": [
+			"かお"
+		],
 		"rare": [],
 		"okurigana": []
 	}

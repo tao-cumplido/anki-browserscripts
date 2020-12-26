@@ -1,17 +1,32 @@
 {
 	"kanji": "阿",
-	"meanings": ["Africa", "flatter", "fawn upon", "corner", "nook", "recess"],
+	"meanings": [
+		"Africa",
+		"flatter",
+		"fawn upon",
+		"corner",
+		"nook",
+		"recess"
+	],
 	"keyword": "Africa",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ア", "オ"]
+		"rare": [
+			"ア",
+			"オ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おもね", "くま"],
-		"okurigana": ["おもね.る"]
+		"rare": [
+			"おもね",
+			"くま"
+		],
+		"okurigana": [
+			"おもね.る"
+		]
 	},
 	"frequency": {
 		"mean": 838,

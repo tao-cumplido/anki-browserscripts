@@ -1,14 +1,20 @@
 {
 	"kanji": "梨",
-	"meanings": ["pear tree"],
+	"meanings": [
+		"pear tree"
+	],
 	"keyword": "pear tree",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リ"]
+		"rare": [
+			"リ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["なし"],
+		"frequent": [
+			"なし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

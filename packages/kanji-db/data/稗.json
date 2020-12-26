@@ -1,16 +1,24 @@
 {
 	"kanji": "稗",
-	"meanings": ["humble", "deccan grass"],
+	"meanings": [
+		"humble",
+		"deccan grass"
+	],
 	"keyword": "crabgrass",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハイ", "ヒ"]
+		"rare": [
+			"ハイ",
+			"ヒ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひえ"],
+		"rare": [
+			"ひえ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

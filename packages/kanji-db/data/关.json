@@ -1,6 +1,10 @@
 {
 	"kanji": "关",
-	"meanings": ["frontier pass", "close", "relation"],
+	"meanings": [
+		"frontier pass",
+		"close",
+		"relation"
+	],
 	"frequency": {
 		"mean": 4184,
 		"twitter": 1726,

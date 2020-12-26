@@ -1,15 +1,24 @@
 {
 	"kanji": "丗",
-	"meanings": ["thirty"],
+	"meanings": [
+		"thirty"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セイ", "セ", "ソウ"]
+		"rare": [
+			"セイ",
+			"セ",
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よ", "さんじゅう"],
+		"rare": [
+			"よ",
+			"さんじゅう"
+		],
 		"okurigana": []
 	},
 	"frequency": {

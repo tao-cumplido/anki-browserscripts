@@ -1,17 +1,32 @@
 {
 	"kanji": "違",
-	"meanings": ["difference", "differ"],
+	"meanings": [
+		"difference",
+		"differ"
+	],
 	"keyword": "difference",
 	"onyomi": {
-		"frequent": ["イ"],
+		"frequent": [
+			"イ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ちが"],
+		"frequent": [
+			"ちが"
+		],
 		"common": [],
-		"rare": ["たが"],
-		"okurigana": ["ちが.う", "ちが.い", "ちが.える", "たが.う", "たが.える"]
+		"rare": [
+			"たが"
+		],
+		"okurigana": [
+			"ちが.う",
+			"ちが.い",
+			"ちが.える",
+			"たが.う",
+			"たが.える"
+		]
 	},
 	"frequency": {
 		"mean": 638,

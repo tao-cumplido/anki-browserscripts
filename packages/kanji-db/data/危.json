@@ -1,17 +1,30 @@
 {
 	"kanji": "危",
-	"meanings": ["dangerous", "fear", "uneasy"],
+	"meanings": [
+		"dangerous",
+		"fear",
+		"uneasy"
+	],
 	"keyword": "dangerous",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あぶ", "あや"],
+		"frequent": [
+			"あぶ",
+			"あや"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あぶ.ない", "あや.うい", "あや.ぶむ"]
+		"okurigana": [
+			"あぶ.ない",
+			"あや.うい",
+			"あや.ぶむ"
+		]
 	},
 	"frequency": {
 		"mean": 998,

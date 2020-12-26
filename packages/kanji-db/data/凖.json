@@ -1,16 +1,34 @@
 {
 	"kanji": "凖",
-	"meanings": ["correspond to", "proportionate to", "conform", "imitate"],
+	"meanings": [
+		"correspond to",
+		"proportionate to",
+		"conform",
+		"imitate"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジュン"]
+		"rare": [
+			"ジュン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["じゅん", "なぞら", "のり", "ひと", "みずもり"],
-		"okurigana": ["じゅん.じる", "じゅん.ずる", "なぞら.える", "ひと.しい"]
+		"rare": [
+			"じゅん",
+			"なぞら",
+			"のり",
+			"ひと",
+			"みずもり"
+		],
+		"okurigana": [
+			"じゅん.じる",
+			"じゅん.ずる",
+			"なぞら.える",
+			"ひと.しい"
+		]
 	},
 	"frequency": {
 		"mean": 4381,

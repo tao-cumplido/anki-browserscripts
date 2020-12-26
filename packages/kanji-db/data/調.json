@@ -1,17 +1,38 @@
 {
 	"kanji": "調",
-	"meanings": ["tune", "tone", "meter", "key (music)", "writing style", "prepare", "exorcise", "investigate", "harmonize", "mediate"],
+	"meanings": [
+		"tune",
+		"tone",
+		"meter",
+		"key (music)",
+		"writing style",
+		"prepare",
+		"exorcise",
+		"investigate",
+		"harmonize",
+		"mediate"
+	],
 	"keyword": "tune",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["しら", "ととの"],
+		"frequent": [
+			"しら",
+			"ととの"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["しら.べる", "しら.べ", "ととの.う", "ととの.える"]
+		"okurigana": [
+			"しら.べる",
+			"しら.べ",
+			"ととの.う",
+			"ととの.える"
+		]
 	},
 	"frequency": {
 		"mean": 355,

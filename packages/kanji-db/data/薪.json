@@ -1,16 +1,26 @@
 {
 	"kanji": "薪",
-	"meanings": ["fuel", "firewood", "kindling"],
+	"meanings": [
+		"fuel",
+		"firewood",
+		"kindling"
+	],
 	"keyword": "firewood",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たきぎ"],
+		"frequent": [
+			"たきぎ"
+		],
 		"common": [],
-		"rare": ["まき"],
+		"rare": [
+			"まき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

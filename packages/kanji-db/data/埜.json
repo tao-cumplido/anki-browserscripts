@@ -1,16 +1,25 @@
 {
 	"kanji": "埜",
-	"meanings": ["open country", "field", "wilderness"],
+	"meanings": [
+		"open country",
+		"field",
+		"wilderness"
+	],
 	"keyword": "plains (old)",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヤ", "ショ"]
+		"rare": [
+			"ヤ",
+			"ショ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["の"],
+		"rare": [
+			"の"
+		],
 		"okurigana": []
 	},
 	"frequency": {

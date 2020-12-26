@@ -1,17 +1,31 @@
 {
 	"kanji": "滑",
-	"meanings": ["slippery", "slide", "slip", "fail exam"],
+	"meanings": [
+		"slippery",
+		"slide",
+		"slip",
+		"fail exam"
+	],
 	"keyword": "slippery",
 	"onyomi": {
-		"frequent": ["カツ", "コツ"],
+		"frequent": [
+			"カツ",
+			"コツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["すべ", "なめ"],
+		"frequent": [
+			"すべ",
+			"なめ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["すべ.る", "なめ.らか"]
+		"okurigana": [
+			"すべ.る",
+			"なめ.らか"
+		]
 	},
 	"frequency": {
 		"mean": 1388,

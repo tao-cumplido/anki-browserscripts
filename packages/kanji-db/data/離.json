@@ -1,17 +1,29 @@
 {
 	"kanji": "離",
-	"meanings": ["detach", "separation", "disjoin", "digress"],
+	"meanings": [
+		"detach",
+		"separation",
+		"disjoin",
+		"digress"
+	],
 	"keyword": "detach",
 	"onyomi": {
-		"frequent": ["リ"],
+		"frequent": [
+			"リ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はな"],
+		"frequent": [
+			"はな"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["はな.れる", "はな.す"]
+		"okurigana": [
+			"はな.れる",
+			"はな.す"
+		]
 	},
 	"frequency": {
 		"mean": 505,

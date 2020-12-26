@@ -1,16 +1,29 @@
 {
 	"kanji": "是",
-	"meanings": ["just so", "this", "right", "justice"],
+	"meanings": [
+		"just so",
+		"this",
+		"right",
+		"justice"
+	],
 	"keyword": "just so",
 	"onyomi": {
-		"frequent": ["ゼ"],
+		"frequent": [
+			"ゼ"
+		],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["これ", "この", "ここ"],
+		"rare": [
+			"これ",
+			"この",
+			"ここ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

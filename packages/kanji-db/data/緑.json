@@ -1,14 +1,22 @@
 {
 	"kanji": "緑",
-	"meanings": ["green"],
+	"meanings": [
+		"green"
+	],
 	"keyword": "green",
 	"onyomi": {
-		"frequent": ["リョク"],
-		"common": ["ロク"],
+		"frequent": [
+			"リョク"
+		],
+		"common": [
+			"ロク"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みどり"],
+		"frequent": [
+			"みどり"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

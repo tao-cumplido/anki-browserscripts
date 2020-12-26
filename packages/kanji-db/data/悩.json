@@ -1,17 +1,33 @@
 {
 	"kanji": "悩",
-	"meanings": ["trouble", "worry", "in pain", "distress", "illness"],
+	"meanings": [
+		"trouble",
+		"worry",
+		"in pain",
+		"distress",
+		"illness"
+	],
 	"keyword": "trouble",
 	"onyomi": {
-		"frequent": ["ノウ"],
+		"frequent": [
+			"ノウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["なや"],
+		"frequent": [
+			"なや"
+		],
 		"common": [],
-		"rare": ["なやみ"],
-		"okurigana": ["なや.む", "なや.ます", "なや.ましい"]
+		"rare": [
+			"なやみ"
+		],
+		"okurigana": [
+			"なや.む",
+			"なや.ます",
+			"なや.ましい"
+		]
 	},
 	"frequency": {
 		"mean": 1580,

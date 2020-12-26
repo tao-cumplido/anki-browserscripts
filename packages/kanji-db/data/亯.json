@@ -1,16 +1,26 @@
 {
 	"kanji": "亯",
-	"meanings": ["to receive", "to enjoy"],
+	"meanings": [
+		"to receive",
+		"to enjoy"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["キョウ", "コウ"],
+		"common": [
+			"キョウ",
+			"コウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["う"],
+		"common": [
+			"う"
+		],
 		"rare": [],
-		"okurigana": ["う.ける"]
+		"okurigana": [
+			"う.ける"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

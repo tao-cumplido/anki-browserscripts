@@ -1,16 +1,26 @@
 {
 	"kanji": "幌",
-	"meanings": ["canopy", "awning", "hood", "curtain"],
+	"meanings": [
+		"canopy",
+		"awning",
+		"hood",
+		"curtain"
+	],
 	"keyword": "canopy",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほろ", "とばり"],
+		"rare": [
+			"ほろ",
+			"とばり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

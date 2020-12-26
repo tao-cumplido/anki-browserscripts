@@ -1,16 +1,24 @@
 {
 	"kanji": "百",
-	"meanings": ["hundred"],
+	"meanings": [
+		"hundred"
+	],
 	"keyword": "hundred",
 	"onyomi": {
-		"frequent": ["ヒャク"],
+		"frequent": [
+			"ヒャク"
+		],
 		"common": [],
-		"rare": ["ビャク"]
+		"rare": [
+			"ビャク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["もも"],
+		"rare": [
+			"もも"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,30 @@
 {
 	"kanji": "乏",
-	"meanings": ["destitution", "scarce", "limited"],
+	"meanings": [
+		"destitution",
+		"scarce",
+		"limited"
+	],
 	"keyword": "destitution",
 	"onyomi": {
-		"frequent": ["ボウ"],
+		"frequent": [
+			"ボウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["とぼ"],
+		"frequent": [
+			"とぼ"
+		],
 		"common": [],
-		"rare": ["とも"],
-		"okurigana": ["とぼ.しい", "とも.しい"]
+		"rare": [
+			"とも"
+		],
+		"okurigana": [
+			"とぼ.しい",
+			"とも.しい"
+		]
 	},
 	"frequency": {
 		"mean": 1812,

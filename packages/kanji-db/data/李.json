@@ -1,16 +1,22 @@
 {
 	"kanji": "李",
-	"meanings": ["plum"],
+	"meanings": [
+		"plum"
+	],
 	"keyword": "damson",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リ"]
+		"rare": [
+			"リ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すもも"],
+		"rare": [
+			"すもも"
+		],
 		"okurigana": []
 	},
 	"frequency": {

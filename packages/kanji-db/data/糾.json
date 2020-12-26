@@ -1,17 +1,28 @@
 {
 	"kanji": "糾",
-	"meanings": ["twist", "ask", "investigate", "verify"],
+	"meanings": [
+		"twist",
+		"ask",
+		"investigate",
+		"verify"
+	],
 	"keyword": "twist",
 	"onyomi": {
-		"frequent": ["キュウ"],
+		"frequent": [
+			"キュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ただ"],
-		"okurigana": ["ただ.す"]
+		"rare": [
+			"ただ"
+		],
+		"okurigana": [
+			"ただ.す"
+		]
 	},
 	"frequency": {
 		"mean": 2626,

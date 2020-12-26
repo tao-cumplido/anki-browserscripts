@@ -1,17 +1,37 @@
 {
 	"kanji": "競",
-	"meanings": ["emulate", "compete with", "bid", "sell at auction", "bout", "contest", "race"],
+	"meanings": [
+		"emulate",
+		"compete with",
+		"bid",
+		"sell at auction",
+		"bout",
+		"contest",
+		"race"
+	],
 	"keyword": "vie",
 	"onyomi": {
-		"frequent": ["キョウ", "ケイ"],
+		"frequent": [
+			"キョウ",
+			"ケイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["きそ", "せ"],
+		"frequent": [
+			"きそ",
+			"せ"
+		],
 		"common": [],
-		"rare": ["くら"],
-		"okurigana": ["きそ.う", "せ.る", "くら.べる"]
+		"rare": [
+			"くら"
+		],
+		"okurigana": [
+			"きそ.う",
+			"せ.る",
+			"くら.べる"
+		]
 	},
 	"frequency": {
 		"mean": 314,

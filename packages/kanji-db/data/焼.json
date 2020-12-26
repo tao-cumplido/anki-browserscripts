@@ -1,17 +1,28 @@
 {
 	"kanji": "焼",
-	"meanings": ["bake", "burning"],
+	"meanings": [
+		"bake",
+		"burning"
+	],
 	"keyword": "bake",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["や"],
+		"frequent": [
+			"や"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["や.く", "や.き", "や.ける"]
+		"okurigana": [
+			"や.く",
+			"や.き",
+			"や.ける"
+		]
 	},
 	"frequency": {
 		"mean": 988,

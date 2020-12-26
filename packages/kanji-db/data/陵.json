@@ -1,14 +1,23 @@
 {
 	"kanji": "陵",
-	"meanings": ["mausoleum", "imperial tomb", "mound", "hill"],
+	"meanings": [
+		"mausoleum",
+		"imperial tomb",
+		"mound",
+		"hill"
+	],
 	"keyword": "mausoleum",
 	"onyomi": {
-		"frequent": ["リョウ"],
+		"frequent": [
+			"リョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みささぎ"],
+		"frequent": [
+			"みささぎ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

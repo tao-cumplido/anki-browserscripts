@@ -1,17 +1,37 @@
 {
 	"kanji": "連",
-	"meanings": ["take along", "lead", "join", "connect", "party", "gang", "clique"],
+	"meanings": [
+		"take along",
+		"lead",
+		"join",
+		"connect",
+		"party",
+		"gang",
+		"clique"
+	],
 	"keyword": "take along",
 	"onyomi": {
-		"frequent": ["レン"],
+		"frequent": [
+			"レン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つら", "つ"],
+		"frequent": [
+			"つら",
+			"つ"
+		],
 		"common": [],
-		"rare": ["づ"],
-		"okurigana": ["つら.なる", "つら.ねる", "つ.れる", "づ.れ"]
+		"rare": [
+			"づ"
+		],
+		"okurigana": [
+			"つら.なる",
+			"つら.ねる",
+			"つ.れる",
+			"づ.れ"
+		]
 	},
 	"frequency": {
 		"mean": 89,

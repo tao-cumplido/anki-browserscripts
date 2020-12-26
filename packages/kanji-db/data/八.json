@@ -1,17 +1,30 @@
 {
 	"kanji": "八",
-	"meanings": ["eight", "eight radical (no. 12)"],
+	"meanings": [
+		"eight",
+		"eight radical (no. 12)"
+	],
 	"keyword": "eight",
 	"onyomi": {
-		"frequent": ["ハチ"],
+		"frequent": [
+			"ハチ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["や", "やっ"],
-		"common": ["よう"],
+		"frequent": [
+			"や",
+			"やっ"
+		],
+		"common": [
+			"よう"
+		],
 		"rare": [],
-		"okurigana": ["や.つ", "やっ.つ"]
+		"okurigana": [
+			"や.つ",
+			"やっ.つ"
+		]
 	},
 	"frequency": {
 		"mean": 394,

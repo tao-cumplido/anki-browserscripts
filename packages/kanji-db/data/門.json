@@ -1,16 +1,25 @@
 {
 	"kanji": "門",
-	"meanings": ["gate", "counter for cannons"],
+	"meanings": [
+		"gate",
+		"counter for cannons"
+	],
 	"keyword": "gates",
 	"onyomi": {
-		"frequent": ["モン"],
+		"frequent": [
+			"モン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かど"],
+		"frequent": [
+			"かど"
+		],
 		"common": [],
-		"rare": ["と"],
+		"rare": [
+			"と"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,31 @@
 {
 	"kanji": "最",
-	"meanings": ["utmost", "most", "extreme"],
+	"meanings": [
+		"utmost",
+		"most",
+		"extreme"
+	],
 	"keyword": "utmost",
 	"onyomi": {
-		"frequent": ["サイ"],
+		"frequent": [
+			"サイ"
+		],
 		"common": [],
-		"rare": ["シュ"]
+		"rare": [
+			"シュ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["もっと"],
+		"frequent": [
+			"もっと"
+		],
 		"common": [],
-		"rare": ["つま"],
-		"okurigana": ["もっと.も"]
+		"rare": [
+			"つま"
+		],
+		"okurigana": [
+			"もっと.も"
+		]
 	},
 	"frequency": {
 		"mean": 127,

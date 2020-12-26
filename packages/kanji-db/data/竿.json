@@ -1,16 +1,25 @@
 {
 	"kanji": "竿",
-	"meanings": ["pole", "rod", "scale beam", "violin neck"],
+	"meanings": [
+		"pole",
+		"rod",
+		"scale beam",
+		"violin neck"
+	],
 	"keyword": "pole",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カン"]
+		"rare": [
+			"カン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さお"],
+		"rare": [
+			"さお"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,26 @@
 {
 	"kanji": "雇",
-	"meanings": ["employ", "hire"],
+	"meanings": [
+		"employ",
+		"hire"
+	],
 	"keyword": "employ",
 	"onyomi": {
-		"frequent": ["コ"],
+		"frequent": [
+			"コ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["やと"],
+		"frequent": [
+			"やと"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["やと.う"]
+		"okurigana": [
+			"やと.う"
+		]
 	},
 	"frequency": {
 		"mean": 1506,

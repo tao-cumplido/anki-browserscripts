@@ -1,17 +1,29 @@
 {
 	"kanji": "洵",
-	"meanings": ["alike", "truth"],
+	"meanings": [
+		"alike",
+		"truth"
+	],
 	"keyword": "swirling waters",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジュン", "シュン"]
+		"rare": [
+			"ジュン",
+			"シュン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["の", "まこと"],
-		"okurigana": ["の.ぶ", "まこと.に"]
+		"rare": [
+			"の",
+			"まこと"
+		],
+		"okurigana": [
+			"の.ぶ",
+			"まこと.に"
+		]
 	},
 	"frequency": {
 		"mean": 3662,

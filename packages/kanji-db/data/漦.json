@@ -1,0 +1,32 @@
+{
+	"kanji": "漦",
+	"meanings": [
+		"saliva",
+		"spittle",
+		"flowing downstream"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ギ",
+			"ライ",
+			"タイ",
+			"シ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"なが"
+		],
+		"rare": [],
+		"okurigana": [
+			"なが.れる"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

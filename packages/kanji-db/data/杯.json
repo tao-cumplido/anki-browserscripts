@@ -1,14 +1,23 @@
 {
 	"kanji": "杯",
-	"meanings": ["counter for cupfuls", "wine glass", "glass", "toast"],
+	"meanings": [
+		"counter for cupfuls",
+		"wine glass",
+		"glass",
+		"toast"
+	],
 	"keyword": "cupfuls",
 	"onyomi": {
-		"frequent": ["ハイ"],
+		"frequent": [
+			"ハイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さかずき"],
+		"frequent": [
+			"さかずき"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

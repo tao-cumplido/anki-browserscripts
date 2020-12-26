@@ -1,17 +1,27 @@
 {
 	"kanji": "永",
-	"meanings": ["eternity", "long", "lengthy"],
+	"meanings": [
+		"eternity",
+		"long",
+		"lengthy"
+	],
 	"keyword": "eternity",
 	"onyomi": {
-		"frequent": ["エイ"],
+		"frequent": [
+			"エイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["なが"],
+		"frequent": [
+			"なが"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["なが.い"]
+		"okurigana": [
+			"なが.い"
+		]
 	},
 	"frequency": {
 		"mean": 628,

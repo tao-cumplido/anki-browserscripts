@@ -1,17 +1,27 @@
 {
 	"kanji": "邪",
-	"meanings": ["wicked", "injustice", "wrong"],
+	"meanings": [
+		"wicked",
+		"injustice",
+		"wrong"
+	],
 	"keyword": "wicked",
 	"onyomi": {
-		"frequent": ["ジャ"],
+		"frequent": [
+			"ジャ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よこし"],
-		"okurigana": ["よこし.ま"]
+		"rare": [
+			"よこし"
+		],
+		"okurigana": [
+			"よこし.ま"
+		]
 	},
 	"frequency": {
 		"mean": 1541,

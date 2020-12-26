@@ -1,17 +1,32 @@
 {
 	"kanji": "吐",
-	"meanings": ["spit", "vomit", "belch", "confess", "tell (lies)"],
+	"meanings": [
+		"spit",
+		"vomit",
+		"belch",
+		"confess",
+		"tell (lies)"
+	],
 	"keyword": "spit",
 	"onyomi": {
-		"frequent": ["ト"],
+		"frequent": [
+			"ト"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["は"],
+		"frequent": [
+			"は"
+		],
 		"common": [],
-		"rare": ["つ"],
-		"okurigana": ["は.く", "つ.く"]
+		"rare": [
+			"つ"
+		],
+		"okurigana": [
+			"は.く",
+			"つ.く"
+		]
 	},
 	"frequency": {
 		"mean": 1724,

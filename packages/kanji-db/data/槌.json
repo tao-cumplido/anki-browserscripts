@@ -1,16 +1,23 @@
 {
 	"kanji": "槌",
-	"meanings": ["hammer", "mallet"],
+	"meanings": [
+		"hammer",
+		"mallet"
+	],
 	"keyword": "wooden hammer",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ツイ"]
+		"rare": [
+			"ツイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つち"],
+		"rare": [
+			"つち"
+		],
 		"okurigana": []
 	},
 	"frequency": {

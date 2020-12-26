@@ -1,16 +1,24 @@
 {
 	"kanji": "茅",
-	"meanings": ["miscanthus reed"],
+	"meanings": [
+		"miscanthus reed"
+	],
 	"keyword": "grassy reed",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ボウ", "ミョウ"]
+		"rare": [
+			"ボウ",
+			"ミョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かや", "ちがや"],
+		"rare": [
+			"かや",
+			"ちがや"
+		],
 		"okurigana": []
 	},
 	"frequency": {

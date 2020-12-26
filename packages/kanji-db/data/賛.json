@@ -1,17 +1,31 @@
 {
 	"kanji": "賛",
-	"meanings": ["approve", "praise", "title or inscription on picture", "assist", "agree with"],
+	"meanings": [
+		"approve",
+		"praise",
+		"title or inscription on picture",
+		"assist",
+		"agree with"
+	],
 	"keyword": "approve",
 	"onyomi": {
-		"frequent": ["サン"],
+		"frequent": [
+			"サン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たす", "たた"],
-		"okurigana": ["たす.ける", "たた.える"]
+		"rare": [
+			"たす",
+			"たた"
+		],
+		"okurigana": [
+			"たす.ける",
+			"たた.える"
+		]
 	},
 	"frequency": {
 		"mean": 1124,

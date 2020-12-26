@@ -1,17 +1,32 @@
 {
 	"kanji": "駕",
-	"meanings": ["vehicle", "palanquin", "litter", "hitch up an animal"],
+	"meanings": [
+		"vehicle",
+		"palanquin",
+		"litter",
+		"hitch up an animal"
+	],
 	"keyword": "stretcher",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カ", "ガ"]
+		"rare": [
+			"カ",
+			"ガ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かご", "が", "しのぐ", "のる"],
-		"okurigana": ["が.する"]
+		"rare": [
+			"かご",
+			"が",
+			"しのぐ",
+			"のる"
+		],
+		"okurigana": [
+			"が.する"
+		]
 	},
 	"frequency": {
 		"mean": 2356,

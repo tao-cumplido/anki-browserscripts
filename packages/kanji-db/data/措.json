@@ -1,17 +1,30 @@
 {
 	"kanji": "措",
-	"meanings": ["set aside", "give up", "suspend", "discontinue", "lay aside", "except"],
+	"meanings": [
+		"set aside",
+		"give up",
+		"suspend",
+		"discontinue",
+		"lay aside",
+		"except"
+	],
 	"keyword": "set aside",
 	"onyomi": {
-		"frequent": ["ソ"],
+		"frequent": [
+			"ソ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["お"],
-		"okurigana": ["お.く"]
+		"rare": [
+			"お"
+		],
+		"okurigana": [
+			"お.く"
+		]
 	},
 	"frequency": {
 		"mean": 1716,

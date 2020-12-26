@@ -1,17 +1,26 @@
 {
 	"kanji": "訝",
-	"meanings": ["doubt"],
+	"meanings": [
+		"doubt"
+	],
 	"keyword": "wary",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ガ", "ゲ"]
+		"rare": [
+			"ガ",
+			"ゲ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いぶか"],
-		"okurigana": ["いぶか.る"]
+		"rare": [
+			"いぶか"
+		],
+		"okurigana": [
+			"いぶか.る"
+		]
 	},
 	"frequency": {
 		"mean": 3449,

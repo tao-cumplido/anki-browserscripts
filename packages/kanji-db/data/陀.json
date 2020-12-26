@@ -1,17 +1,30 @@
 {
 	"kanji": "陀",
-	"meanings": ["steep"],
+	"meanings": [
+		"steep"
+	],
 	"keyword": "steeply inclined",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["タ", "ダ", "イ", "チ", "ジ"]
+		"rare": [
+			"タ",
+			"ダ",
+			"イ",
+			"チ",
+			"ジ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["けわ", "ななめ"],
-		"okurigana": ["けわ.しい"]
+		"rare": [
+			"けわ",
+			"ななめ"
+		],
+		"okurigana": [
+			"けわ.しい"
+		]
 	},
 	"frequency": {
 		"mean": 1918,

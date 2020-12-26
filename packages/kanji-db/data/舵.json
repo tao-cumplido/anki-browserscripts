@@ -1,16 +1,25 @@
 {
 	"kanji": "舵",
-	"meanings": ["rudder", "helm", "wheel"],
+	"meanings": [
+		"rudder",
+		"helm",
+		"wheel"
+	],
 	"keyword": "rudder",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ダ", "タ"]
+		"rare": [
+			"ダ",
+			"タ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かじ"],
+		"rare": [
+			"かじ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

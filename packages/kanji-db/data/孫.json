@@ -1,14 +1,21 @@
 {
 	"kanji": "孫",
-	"meanings": ["grandchild", "descendants"],
+	"meanings": [
+		"grandchild",
+		"descendants"
+	],
 	"keyword": "grandchild",
 	"onyomi": {
-		"frequent": ["ソン"],
+		"frequent": [
+			"ソン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まご"],
+		"frequent": [
+			"まご"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

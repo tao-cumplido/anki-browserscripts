@@ -1,16 +1,24 @@
 {
 	"kanji": "邦",
-	"meanings": ["home country", "country", "Japan"],
+	"meanings": [
+		"home country",
+		"country",
+		"Japan"
+	],
 	"keyword": "home country",
 	"onyomi": {
-		"frequent": ["ホウ"],
+		"frequent": [
+			"ホウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くに"],
+		"rare": [
+			"くに"
+		],
 		"okurigana": []
 	},
 	"frequency": {

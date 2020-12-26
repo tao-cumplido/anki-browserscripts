@@ -1,17 +1,34 @@
 {
 	"kanji": "囲",
-	"meanings": ["surround", "besiege", "store", "paling", "enclosure", "encircle", "preserve", "keep"],
+	"meanings": [
+		"surround",
+		"besiege",
+		"store",
+		"paling",
+		"enclosure",
+		"encircle",
+		"preserve",
+		"keep"
+	],
 	"keyword": "surround",
 	"onyomi": {
-		"frequent": ["イ"],
+		"frequent": [
+			"イ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かこ"],
+		"frequent": [
+			"かこ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かこ.む", "かこ.う", "かこ.い"]
+		"okurigana": [
+			"かこ.む",
+			"かこ.う",
+			"かこ.い"
+		]
 	},
 	"frequency": {
 		"mean": 737,

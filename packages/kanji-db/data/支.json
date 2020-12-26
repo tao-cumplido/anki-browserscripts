@@ -1,17 +1,33 @@
 {
 	"kanji": "支",
-	"meanings": ["branch", "support", "sustain", "branch radical (no. 65)"],
+	"meanings": [
+		"branch",
+		"support",
+		"sustain",
+		"branch radical (no. 65)"
+	],
 	"keyword": "branch",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ささ"],
+		"frequent": [
+			"ささ"
+		],
 		"common": [],
-		"rare": ["つか", "か"],
-		"okurigana": ["ささ.える", "つか.える", "か.う"]
+		"rare": [
+			"つか",
+			"か"
+		],
+		"okurigana": [
+			"ささ.える",
+			"つか.える",
+			"か.う"
+		]
 	},
 	"frequency": {
 		"mean": 343,

@@ -1,16 +1,24 @@
 {
 	"kanji": "幟",
-	"meanings": ["flag", "banner", "streamer"],
+	"meanings": [
+		"flag",
+		"banner",
+		"streamer"
+	],
 	"keyword": "pennant",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["のぼり"],
+		"rare": [
+			"のぼり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,33 @@
 {
 	"kanji": "塗",
-	"meanings": ["paint", "plaster", "daub", "smear", "coating"],
+	"meanings": [
+		"paint",
+		"plaster",
+		"daub",
+		"smear",
+		"coating"
+	],
 	"keyword": "paint",
 	"onyomi": {
-		"frequent": ["ト"],
+		"frequent": [
+			"ト"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ぬ"],
+		"frequent": [
+			"ぬ"
+		],
 		"common": [],
-		"rare": ["まみ"],
-		"okurigana": ["ぬ.る", "ぬ.り", "まみ.れる"]
+		"rare": [
+			"まみ"
+		],
+		"okurigana": [
+			"ぬ.る",
+			"ぬ.り",
+			"まみ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1470,

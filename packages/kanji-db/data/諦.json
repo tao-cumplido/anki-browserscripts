@@ -1,17 +1,33 @@
 {
 	"kanji": "諦",
-	"meanings": ["truth", "clarity", "abandon", "give up"],
+	"meanings": [
+		"truth",
+		"clarity",
+		"abandon",
+		"give up"
+	],
 	"keyword": "renunciation",
 	"onyomi": {
-		"frequent": ["テイ"],
+		"frequent": [
+			"テイ"
+		],
 		"common": [],
-		"rare": ["タイ"]
+		"rare": [
+			"タイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["あきら"],
+		"frequent": [
+			"あきら"
+		],
 		"common": [],
-		"rare": ["つまびらか", "まこと"],
-		"okurigana": ["あきら.める"]
+		"rare": [
+			"つまびらか",
+			"まこと"
+		],
+		"okurigana": [
+			"あきら.める"
+		]
 	},
 	"frequency": {
 		"mean": 2232,

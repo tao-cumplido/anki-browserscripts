@@ -1,17 +1,28 @@
 {
 	"kanji": "蟄",
-	"meanings": ["hibernation of insects"],
+	"meanings": [
+		"hibernation of insects"
+	],
 	"keyword": "hibernation",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チツ", "チュウ"]
+		"rare": [
+			"チツ",
+			"チュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ちっ", "かく"],
-		"okurigana": ["ちっ.する", "かく.れる"]
+		"rare": [
+			"ちっ",
+			"かく"
+		],
+		"okurigana": [
+			"ちっ.する",
+			"かく.れる"
+		]
 	},
 	"frequency": {
 		"mean": 3509,

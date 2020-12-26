@@ -1,17 +1,29 @@
 {
 	"kanji": "栖",
-	"meanings": ["nest", "rookery", "hive", "cobweb", "den"],
+	"meanings": [
+		"nest",
+		"rookery",
+		"hive",
+		"cobweb",
+		"den"
+	],
 	"keyword": "nestle",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セイ"]
+		"rare": [
+			"セイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["す"],
-		"okurigana": ["す.む"]
+		"rare": [
+			"す"
+		],
+		"okurigana": [
+			"す.む"
+		]
 	},
 	"frequency": {
 		"mean": 1860,

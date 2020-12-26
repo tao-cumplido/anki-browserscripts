@@ -1,17 +1,36 @@
 {
 	"kanji": "干",
-	"meanings": ["dry", "parch", "ebb", "recede", "interfere", "intercede"],
+	"meanings": [
+		"dry",
+		"parch",
+		"ebb",
+		"recede",
+		"interfere",
+		"intercede"
+	],
 	"keyword": "dry",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほ", "ひ"],
+		"frequent": [
+			"ほ",
+			"ひ"
+		],
 		"common": [],
-		"rare": ["ぼ"],
-		"okurigana": ["ほ.す", "ほ.し", "ぼ.し", "ひ.る"]
+		"rare": [
+			"ぼ"
+		],
+		"okurigana": [
+			"ほ.す",
+			"ほ.し",
+			"ぼ.し",
+			"ひ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1323,

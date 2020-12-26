@@ -1,17 +1,25 @@
 {
 	"kanji": "吃",
-	"meanings": ["stammer"],
+	"meanings": [
+		"stammer"
+	],
 	"keyword": "stammer",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キツ"]
+		"rare": [
+			"キツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ども"],
-		"okurigana": ["ども.る"]
+		"rare": [
+			"ども"
+		],
+		"okurigana": [
+			"ども.る"
+		]
 	},
 	"frequency": {
 		"mean": 2443,

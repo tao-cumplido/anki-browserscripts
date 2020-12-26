@@ -1,9 +1,17 @@
 {
 	"kanji": "像",
-	"meanings": ["statue", "picture", "image", "figure", "portrait"],
+	"meanings": [
+		"statue",
+		"picture",
+		"image",
+		"figure",
+		"portrait"
+	],
 	"keyword": "statue",
 	"onyomi": {
-		"frequent": ["ゾウ"],
+		"frequent": [
+			"ゾウ"
+		],
 		"common": [],
 		"rare": []
 	},

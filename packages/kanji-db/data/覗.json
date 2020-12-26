@@ -1,17 +1,29 @@
 {
 	"kanji": "覗",
-	"meanings": ["peep", "peek", "come in sight"],
+	"meanings": [
+		"peep",
+		"peek",
+		"come in sight"
+	],
 	"keyword": "peek",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["のぞ", "うかが"],
-		"okurigana": ["のぞ.く", "うかが.う"]
+		"rare": [
+			"のぞ",
+			"うかが"
+		],
+		"okurigana": [
+			"のぞ.く",
+			"うかが.う"
+		]
 	},
 	"frequency": {
 		"mean": 2212,

@@ -1,16 +1,30 @@
 {
 	"kanji": "末",
-	"meanings": ["end", "close", "tip", "powder", "posterity"],
+	"meanings": [
+		"end",
+		"close",
+		"tip",
+		"powder",
+		"posterity"
+	],
 	"keyword": "extremity",
 	"onyomi": {
-		"frequent": ["マツ", "バツ"],
+		"frequent": [
+			"マツ",
+			"バツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["すえ"],
+		"frequent": [
+			"すえ"
+		],
 		"common": [],
-		"rare": ["うら", "うれ"],
+		"rare": [
+			"うら",
+			"うれ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

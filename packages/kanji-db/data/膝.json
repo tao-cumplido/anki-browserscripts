@@ -1,14 +1,21 @@
 {
 	"kanji": "膝",
-	"meanings": ["knee", "lap"],
+	"meanings": [
+		"knee",
+		"lap"
+	],
 	"keyword": "knee",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シツ"]
+		"rare": [
+			"シツ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ひざ"],
+		"frequent": [
+			"ひざ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

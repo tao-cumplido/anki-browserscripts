@@ -1,17 +1,28 @@
 {
 	"kanji": "吸",
-	"meanings": ["suck", "imbibe", "inhale", "sip"],
+	"meanings": [
+		"suck",
+		"imbibe",
+		"inhale",
+		"sip"
+	],
 	"keyword": "suck",
 	"onyomi": {
-		"frequent": ["キュウ"],
+		"frequent": [
+			"キュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["す"],
+		"frequent": [
+			"す"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["す.う"]
+		"okurigana": [
+			"す.う"
+		]
 	},
 	"frequency": {
 		"mean": 1125,

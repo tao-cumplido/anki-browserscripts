@@ -1,17 +1,30 @@
 {
 	"kanji": "鋤",
-	"meanings": ["spade up", "plow"],
+	"meanings": [
+		"spade up",
+		"plow"
+	],
 	"keyword": "plow",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジョ", "ショ", "ソ"]
+		"rare": [
+			"ジョ",
+			"ショ",
+			"ソ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["す", "すき", "くわ"],
-		"okurigana": ["す.く"]
+		"rare": [
+			"す",
+			"すき",
+			"くわ"
+		],
+		"okurigana": [
+			"す.く"
+		]
 	},
 	"frequency": {
 		"mean": 3453,

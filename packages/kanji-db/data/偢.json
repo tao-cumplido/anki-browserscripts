@@ -1,16 +1,26 @@
 {
 	"kanji": "偢",
-	"meanings": ["to stare at"],
+	"meanings": [
+		"to stare at"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ショウ"],
+		"common": [
+			"ショウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["いつく", "うれ"],
+		"common": [
+			"いつく",
+			"うれ"
+		],
 		"rare": [],
-		"okurigana": ["いつく.しまない", "うれ.える"]
+		"okurigana": [
+			"いつく.しまない",
+			"うれ.える"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

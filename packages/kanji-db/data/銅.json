@@ -1,16 +1,22 @@
 {
 	"kanji": "銅",
-	"meanings": ["copper"],
+	"meanings": [
+		"copper"
+	],
 	"keyword": "copper",
 	"onyomi": {
-		"frequent": ["ドウ"],
+		"frequent": [
+			"ドウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あかがね"],
+		"rare": [
+			"あかがね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

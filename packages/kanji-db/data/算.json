@@ -1,16 +1,26 @@
 {
 	"kanji": "算",
-	"meanings": ["calculate", "divining", "number", "abacus", "probability"],
+	"meanings": [
+		"calculate",
+		"divining",
+		"number",
+		"abacus",
+		"probability"
+	],
 	"keyword": "calculate",
 	"onyomi": {
-		"frequent": ["サン"],
+		"frequent": [
+			"サン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["そろ"],
+		"rare": [
+			"そろ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

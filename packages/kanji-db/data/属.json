@@ -1,16 +1,29 @@
 {
 	"kanji": "属",
-	"meanings": ["belong", "genus", "subordinate official", "affiliated"],
+	"meanings": [
+		"belong",
+		"genus",
+		"subordinate official",
+		"affiliated"
+	],
 	"keyword": "belong",
 	"onyomi": {
-		"frequent": ["ゾク"],
+		"frequent": [
+			"ゾク"
+		],
 		"common": [],
-		"rare": ["ショク"]
+		"rare": [
+			"ショク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さかん", "つく", "やから"],
+		"rare": [
+			"さかん",
+			"つく",
+			"やから"
+		],
 		"okurigana": []
 	},
 	"frequency": {

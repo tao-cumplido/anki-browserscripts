@@ -1,16 +1,23 @@
 {
 	"kanji": "蛾",
-	"meanings": ["moth"],
+	"meanings": [
+		"moth"
+	],
 	"keyword": "moth",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ギ", "ガ"]
+		"rare": [
+			"ギ",
+			"ガ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひむし"],
+		"rare": [
+			"ひむし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,14 +1,21 @@
 {
 	"kanji": "媛",
-	"meanings": ["beautiful woman", "princess"],
+	"meanings": [
+		"beautiful woman",
+		"princess"
+	],
 	"keyword": "beautiful woman",
 	"onyomi": {
-		"frequent": ["エン"],
+		"frequent": [
+			"エン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひめ"],
+		"frequent": [
+			"ひめ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

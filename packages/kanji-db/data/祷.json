@@ -1,17 +1,28 @@
 {
 	"kanji": "祷",
-	"meanings": ["pray"],
+	"meanings": [
+		"pray"
+	],
 	"keyword": "beseech",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["トウ"]
+		"rare": [
+			"トウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いの", "まつ"],
-		"okurigana": ["いの.る", "いの.り", "まつ.る"]
+		"rare": [
+			"いの",
+			"まつ"
+		],
+		"okurigana": [
+			"いの.る",
+			"いの.り",
+			"まつ.る"
+		]
 	},
 	"frequency": {
 		"mean": 2501,

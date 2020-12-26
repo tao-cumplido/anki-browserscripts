@@ -1,16 +1,24 @@
 {
 	"kanji": "桶",
-	"meanings": ["tub", "bucket"],
+	"meanings": [
+		"tub",
+		"bucket"
+	],
 	"keyword": "bucket",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヨウ", "トウ"]
+		"rare": [
+			"ヨウ",
+			"トウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おけ"],
+		"rare": [
+			"おけ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

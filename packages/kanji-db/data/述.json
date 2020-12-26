@@ -1,17 +1,28 @@
 {
 	"kanji": "述",
-	"meanings": ["mention", "state", "speak", "relate"],
+	"meanings": [
+		"mention",
+		"state",
+		"speak",
+		"relate"
+	],
 	"keyword": "mention",
 	"onyomi": {
-		"frequent": ["ジュツ"],
+		"frequent": [
+			"ジュツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["の"],
+		"frequent": [
+			"の"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["の.べる"]
+		"okurigana": [
+			"の.べる"
+		]
 	},
 	"frequency": {
 		"mean": 584,

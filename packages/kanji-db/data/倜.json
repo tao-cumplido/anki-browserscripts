@@ -1,16 +1,31 @@
 {
 	"kanji": "倜",
-	"meanings": ["raise high", "unrestrained"],
+	"meanings": [
+		"raise high",
+		"unrestrained"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["テキ", "チャク", "チュウ"],
+		"common": [
+			"テキ",
+			"チャク",
+			"チュウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["すぐ", "おろ", "そむ"],
+		"common": [
+			"すぐ",
+			"おろ",
+			"そむ"
+		],
 		"rare": [],
-		"okurigana": ["すぐ.れる", "おろ.か", "そむ.く"]
+		"okurigana": [
+			"すぐ.れる",
+			"おろ.か",
+			"そむ.く"
+		]
 	},
 	"frequency": {
 		"mean": 4526,

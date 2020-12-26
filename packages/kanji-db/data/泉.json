@@ -1,14 +1,21 @@
 {
 	"kanji": "泉",
-	"meanings": ["spring", "fountain"],
+	"meanings": [
+		"spring",
+		"fountain"
+	],
 	"keyword": "spring",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いずみ"],
+		"frequent": [
+			"いずみ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

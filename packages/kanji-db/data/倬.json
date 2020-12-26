@@ -1,10 +1,16 @@
 {
 	"kanji": "倬",
-	"meanings": ["large", "clear", "remarkable"],
+	"meanings": [
+		"large",
+		"clear",
+		"remarkable"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["タク"]
+		"rare": [
+			"タク"
+		]
 	},
 	"frequency": {
 		"mean": 4482,

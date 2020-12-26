@@ -1,17 +1,29 @@
 {
 	"kanji": "痩",
-	"meanings": ["get thin"],
+	"meanings": [
+		"get thin"
+	],
 	"keyword": "lose weight",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
-		"rare": ["チュウ", "シュウ", "シュ"]
+		"rare": [
+			"チュウ",
+			"シュウ",
+			"シュ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["や"],
+		"frequent": [
+			"や"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["や.せる"]
+		"okurigana": [
+			"や.せる"
+		]
 	},
 	"frequency": {
 		"mean": 2376,

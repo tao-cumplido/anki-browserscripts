@@ -1,10 +1,14 @@
 {
 	"kanji": "亳",
-	"meanings": ["an ancient Chinese capital"],
+	"meanings": [
+		"an ancient Chinese capital"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハク"]
+		"rare": [
+			"ハク"
+		]
 	},
 	"frequency": {
 		"mean": 4261,

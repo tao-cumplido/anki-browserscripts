@@ -1,16 +1,28 @@
 {
 	"kanji": "脇",
-	"meanings": ["armpit", "the other way", "another place", "flank", "supporting role"],
+	"meanings": [
+		"armpit",
+		"the other way",
+		"another place",
+		"flank",
+		"supporting role"
+	],
 	"keyword": "armpit",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ"]
+		"rare": [
+			"キョウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["わき"],
+		"frequent": [
+			"わき"
+		],
 		"common": [],
-		"rare": ["わけ"],
+		"rare": [
+			"わけ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

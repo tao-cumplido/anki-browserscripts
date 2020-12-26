@@ -1,14 +1,22 @@
 {
 	"kanji": "乜",
-	"meanings": ["to squint", "what? huh? (Cant.)"],
+	"meanings": [
+		"to squint",
+		"what? huh? (Cant.)"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["バ", "メ"],
+		"common": [
+			"バ",
+			"メ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["やぶにらみ"],
+		"common": [
+			"やぶにらみ"
+		],
 		"rare": [],
 		"okurigana": []
 	},

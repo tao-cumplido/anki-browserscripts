@@ -1,17 +1,29 @@
 {
 	"kanji": "委",
-	"meanings": ["committee", "entrust to", "leave to", "devote", "discard"],
+	"meanings": [
+		"committee",
+		"entrust to",
+		"leave to",
+		"devote",
+		"discard"
+	],
 	"keyword": "committee",
 	"onyomi": {
-		"frequent": ["イ"],
+		"frequent": [
+			"イ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ゆだ"],
+		"frequent": [
+			"ゆだ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ゆだ.ねる"]
+		"okurigana": [
+			"ゆだ.ねる"
+		]
 	},
 	"frequency": {
 		"mean": 582,

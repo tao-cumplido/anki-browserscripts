@@ -1,17 +1,35 @@
 {
 	"kanji": "反",
-	"meanings": ["anti-"],
+	"meanings": [
+		"anti-"
+	],
 	"keyword": "anti-",
 	"onyomi": {
-		"frequent": ["ハン"],
-		"common": ["ホン", "タン"],
-		"rare": ["ホ"]
+		"frequent": [
+			"ハン"
+		],
+		"common": [
+			"ホン",
+			"タン"
+		],
+		"rare": [
+			"ホ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["そ"],
+		"frequent": [
+			"そ"
+		],
 		"common": [],
-		"rare": ["かえ"],
-		"okurigana": ["そ.る", "そ.らす", "かえ.す", "かえ.る"]
+		"rare": [
+			"かえ"
+		],
+		"okurigana": [
+			"そ.る",
+			"そ.らす",
+			"かえ.す",
+			"かえ.る"
+		]
 	},
 	"frequency": {
 		"mean": 434,

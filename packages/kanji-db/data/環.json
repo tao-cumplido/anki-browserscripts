@@ -1,16 +1,25 @@
 {
 	"kanji": "環",
-	"meanings": ["ring", "circle", "link", "wheel"],
+	"meanings": [
+		"ring",
+		"circle",
+		"link",
+		"wheel"
+	],
 	"keyword": "ring",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わ"],
+		"rare": [
+			"わ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

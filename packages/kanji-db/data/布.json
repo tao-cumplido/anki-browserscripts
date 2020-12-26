@@ -1,17 +1,33 @@
 {
 	"kanji": "布",
-	"meanings": ["linen", "cloth", "spread", "distribute"],
+	"meanings": [
+		"linen",
+		"cloth",
+		"spread",
+		"distribute"
+	],
 	"keyword": "linen",
 	"onyomi": {
-		"frequent": ["フ"],
+		"frequent": [
+			"フ"
+		],
 		"common": [],
-		"rare": ["ホ"]
+		"rare": [
+			"ホ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ぬの"],
+		"frequent": [
+			"ぬの"
+		],
 		"common": [],
-		"rare": ["し", "きれ"],
-		"okurigana": ["し.く"]
+		"rare": [
+			"し",
+			"きれ"
+		],
+		"okurigana": [
+			"し.く"
+		]
 	},
 	"frequency": {
 		"mean": 806,

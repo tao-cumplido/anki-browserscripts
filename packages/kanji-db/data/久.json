@@ -1,17 +1,28 @@
 {
 	"kanji": "久",
-	"meanings": ["long time", "old story"],
+	"meanings": [
+		"long time",
+		"old story"
+	],
 	"keyword": "long time",
 	"onyomi": {
-		"frequent": ["キュウ"],
-		"common": ["ク"],
+		"frequent": [
+			"キュウ"
+		],
+		"common": [
+			"ク"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひさ"],
+		"frequent": [
+			"ひさ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ひさ.しい"]
+		"okurigana": [
+			"ひさ.しい"
+		]
 	},
 	"frequency": {
 		"mean": 402,

@@ -1,14 +1,21 @@
 {
 	"kanji": "幅",
-	"meanings": ["hanging scroll", "width"],
+	"meanings": [
+		"hanging scroll",
+		"width"
+	],
 	"keyword": "hanging scroll",
 	"onyomi": {
-		"frequent": ["フク"],
+		"frequent": [
+			"フク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はば"],
+		"frequent": [
+			"はば"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,39 @@
 {
 	"kanji": "治",
-	"meanings": ["reign", "be at peace", "calm down", "subdue", "quell", "govt", "cure", "heal", "rule", "conserve"],
+	"meanings": [
+		"reign",
+		"be at peace",
+		"calm down",
+		"subdue",
+		"quell",
+		"govt",
+		"cure",
+		"heal",
+		"rule",
+		"conserve"
+	],
 	"keyword": "reign",
 	"onyomi": {
-		"frequent": ["ジ", "チ"],
+		"frequent": [
+			"ジ",
+			"チ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おさ", "なお"],
+		"frequent": [
+			"おさ",
+			"なお"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おさ.める", "おさ.まる", "なお.る", "なお.す"]
+		"okurigana": [
+			"おさ.める",
+			"おさ.まる",
+			"なお.る",
+			"なお.す"
+		]
 	},
 	"frequency": {
 		"mean": 158,

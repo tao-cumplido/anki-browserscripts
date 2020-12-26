@@ -1,14 +1,21 @@
 {
 	"kanji": "鶴",
-	"meanings": ["crane", "stork"],
+	"meanings": [
+		"crane",
+		"stork"
+	],
 	"keyword": "crane",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カク"]
+		"rare": [
+			"カク"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["つる"],
+		"frequent": [
+			"つる"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

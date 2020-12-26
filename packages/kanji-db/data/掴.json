@@ -1,17 +1,32 @@
 {
 	"kanji": "掴",
-	"meanings": ["catch", "seize", "grasp", "hold", "arrest", "capture"],
+	"meanings": [
+		"catch",
+		"seize",
+		"grasp",
+		"hold",
+		"arrest",
+		"capture"
+	],
 	"keyword": "clutch",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カク"]
+		"rare": [
+			"カク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つか"],
-		"okurigana": ["つか.む", "つか.まえる", "つか.まる"]
+		"rare": [
+			"つか"
+		],
+		"okurigana": [
+			"つか.む",
+			"つか.まえる",
+			"つか.まる"
+		]
 	},
 	"frequency": {
 		"mean": 2166,

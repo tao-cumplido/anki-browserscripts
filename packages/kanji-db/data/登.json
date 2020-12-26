@@ -1,17 +1,34 @@
 {
 	"kanji": "登",
-	"meanings": ["ascend", "climb up"],
+	"meanings": [
+		"ascend",
+		"climb up"
+	],
 	"keyword": "ascend",
 	"onyomi": {
-		"frequent": ["トウ", "ト"],
+		"frequent": [
+			"トウ",
+			"ト"
+		],
 		"common": [],
-		"rare": ["ドウ", "ショウ", "チョウ"]
+		"rare": [
+			"ドウ",
+			"ショウ",
+			"チョウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["のぼ"],
+		"frequent": [
+			"のぼ"
+		],
 		"common": [],
-		"rare": ["あ"],
-		"okurigana": ["のぼ.る", "あ.がる"]
+		"rare": [
+			"あ"
+		],
+		"okurigana": [
+			"のぼ.る",
+			"あ.がる"
+		]
 	},
 	"frequency": {
 		"mean": 275,

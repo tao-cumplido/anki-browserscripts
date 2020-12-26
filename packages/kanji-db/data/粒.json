@@ -1,14 +1,22 @@
 {
 	"kanji": "粒",
-	"meanings": ["grains", "drop", "counter for tiny particles"],
+	"meanings": [
+		"grains",
+		"drop",
+		"counter for tiny particles"
+	],
 	"keyword": "grains",
 	"onyomi": {
-		"frequent": ["リュウ"],
+		"frequent": [
+			"リュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つぶ"],
+		"frequent": [
+			"つぶ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

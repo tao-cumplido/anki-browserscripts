@@ -1,17 +1,31 @@
 {
 	"kanji": "疲",
-	"meanings": ["exhausted", "tire", "weary"],
+	"meanings": [
+		"exhausted",
+		"tire",
+		"weary"
+	],
 	"keyword": "tired",
 	"onyomi": {
-		"frequent": ["ヒ"],
+		"frequent": [
+			"ヒ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つか"],
+		"frequent": [
+			"つか"
+		],
 		"common": [],
-		"rare": ["づか"],
-		"okurigana": ["つか.れる", "づか.れ", "つか.らす"]
+		"rare": [
+			"づか"
+		],
+		"okurigana": [
+			"つか.れる",
+			"づか.れ",
+			"つか.らす"
+		]
 	},
 	"frequency": {
 		"mean": 1571,

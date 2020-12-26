@@ -1,17 +1,32 @@
 {
 	"kanji": "育",
-	"meanings": ["bring up", "grow up", "raise", "rear"],
+	"meanings": [
+		"bring up",
+		"grow up",
+		"raise",
+		"rear"
+	],
 	"keyword": "bring up",
 	"onyomi": {
-		"frequent": ["イク"],
+		"frequent": [
+			"イク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["そだ", "はぐく"],
+		"frequent": [
+			"そだ",
+			"はぐく"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["そだ.つ", "そだ.ち", "そだ.てる", "はぐく.む"]
+		"okurigana": [
+			"そだ.つ",
+			"そだ.ち",
+			"そだ.てる",
+			"はぐく.む"
+		]
 	},
 	"frequency": {
 		"mean": 318,

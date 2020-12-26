@@ -1,16 +1,26 @@
 {
 	"kanji": "錘",
-	"meanings": ["weight", "plumb bob", "sinker", "spindle"],
+	"meanings": [
+		"weight",
+		"plumb bob",
+		"sinker",
+		"spindle"
+	],
 	"keyword": "spindle",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["スイ"]
+		"rare": [
+			"スイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つむ", "おもり"],
+		"rare": [
+			"つむ",
+			"おもり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

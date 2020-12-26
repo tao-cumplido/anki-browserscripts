@@ -1,16 +1,26 @@
 {
 	"kanji": "英",
-	"meanings": ["England", "English", "hero", "outstanding", "calyx"],
+	"meanings": [
+		"England",
+		"English",
+		"hero",
+		"outstanding",
+		"calyx"
+	],
 	"keyword": "England",
 	"onyomi": {
-		"frequent": ["エイ"],
+		"frequent": [
+			"エイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はなぶさ"],
+		"rare": [
+			"はなぶさ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

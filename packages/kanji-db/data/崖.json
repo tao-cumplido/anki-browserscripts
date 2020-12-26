@@ -1,16 +1,30 @@
 {
 	"kanji": "崖",
-	"meanings": ["cliff", "bluff", "precipice"],
+	"meanings": [
+		"cliff",
+		"bluff",
+		"precipice"
+	],
 	"keyword": "bluffs",
 	"onyomi": {
-		"frequent": ["ガイ"],
+		"frequent": [
+			"ガイ"
+		],
 		"common": [],
-		"rare": ["ゲ", "ギ"]
+		"rare": [
+			"ゲ",
+			"ギ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["がけ"],
+		"frequent": [
+			"がけ"
+		],
 		"common": [],
-		"rare": ["きし", "はて"],
+		"rare": [
+			"きし",
+			"はて"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,14 +1,23 @@
 {
 	"kanji": "尾",
-	"meanings": ["tail", "end", "counter for fish", "lower slope of mountain"],
+	"meanings": [
+		"tail",
+		"end",
+		"counter for fish",
+		"lower slope of mountain"
+	],
 	"keyword": "tail",
 	"onyomi": {
-		"frequent": ["ビ"],
+		"frequent": [
+			"ビ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["お"],
+		"frequent": [
+			"お"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

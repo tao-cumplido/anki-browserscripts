@@ -1,17 +1,28 @@
 {
 	"kanji": "奥",
-	"meanings": ["heart", "interior"],
+	"meanings": [
+		"heart",
+		"interior"
+	],
 	"keyword": "core",
 	"onyomi": {
-		"frequent": ["オウ"],
+		"frequent": [
+			"オウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おく"],
+		"frequent": [
+			"おく"
+		],
 		"common": [],
-		"rare": ["くま"],
-		"okurigana": ["おく.まる"]
+		"rare": [
+			"くま"
+		],
+		"okurigana": [
+			"おく.まる"
+		]
 	},
 	"frequency": {
 		"mean": 854,

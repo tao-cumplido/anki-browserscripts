@@ -1,14 +1,23 @@
 {
 	"kanji": "針",
-	"meanings": ["needle", "pin", "staple", "stinger"],
+	"meanings": [
+		"needle",
+		"pin",
+		"staple",
+		"stinger"
+	],
 	"keyword": "needle",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はり"],
+		"frequent": [
+			"はり"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

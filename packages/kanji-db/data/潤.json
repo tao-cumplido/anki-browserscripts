@@ -1,17 +1,34 @@
 {
 	"kanji": "潤",
-	"meanings": ["wet", "be watered", "profit by", "receive benefits", "favor", "charm", "steep"],
+	"meanings": [
+		"wet",
+		"be watered",
+		"profit by",
+		"receive benefits",
+		"favor",
+		"charm",
+		"steep"
+	],
 	"keyword": "wet",
 	"onyomi": {
-		"frequent": ["ジュン"],
+		"frequent": [
+			"ジュン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うるお", "うる"],
+		"frequent": [
+			"うるお",
+			"うる"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["うるお.う", "うるお.す", "うる.む"]
+		"okurigana": [
+			"うるお.う",
+			"うるお.す",
+			"うる.む"
+		]
 	},
 	"frequency": {
 		"mean": 1619,

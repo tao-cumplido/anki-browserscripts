@@ -1,14 +1,22 @@
 {
 	"kanji": "波",
-	"meanings": ["waves", "billows", "Poland"],
+	"meanings": [
+		"waves",
+		"billows",
+		"Poland"
+	],
 	"keyword": "waves",
 	"onyomi": {
-		"frequent": ["ハ"],
+		"frequent": [
+			"ハ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["なみ"],
+		"frequent": [
+			"なみ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

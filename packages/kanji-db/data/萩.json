@@ -1,16 +1,22 @@
 {
 	"kanji": "萩",
-	"meanings": ["bush clover"],
+	"meanings": [
+		"bush clover"
+	],
 	"keyword": "bush clover",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュウ"]
+		"rare": [
+			"シュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はぎ"],
+		"rare": [
+			"はぎ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

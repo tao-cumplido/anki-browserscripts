@@ -1,15 +1,24 @@
 {
 	"kanji": "兒",
-	"meanings": ["child", "young of animals"],
+	"meanings": [
+		"child",
+		"young of animals"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジ", "ニ", "ゲイ"]
+		"rare": [
+			"ジ",
+			"ニ",
+			"ゲイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こ"],
+		"rare": [
+			"こ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,29 @@
 {
 	"kanji": "辣",
-	"meanings": ["pungent", "spicy", "harsh", "cruel", "severe"],
+	"meanings": [
+		"pungent",
+		"spicy",
+		"harsh",
+		"cruel",
+		"severe"
+	],
 	"keyword": "bitter",
 	"onyomi": {
-		"frequent": ["ラツ"],
+		"frequent": [
+			"ラツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["から"],
-		"okurigana": ["から.い"]
+		"rare": [
+			"から"
+		],
+		"okurigana": [
+			"から.い"
+		]
 	},
 	"frequency": {
 		"mean": 3031,

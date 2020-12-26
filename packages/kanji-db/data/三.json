@@ -1,17 +1,29 @@
 {
 	"kanji": "三",
-	"meanings": ["three"],
+	"meanings": [
+		"three"
+	],
 	"keyword": "three",
 	"onyomi": {
-		"frequent": ["サン"],
+		"frequent": [
+			"サン"
+		],
 		"common": [],
-		"rare": ["ゾウ"]
+		"rare": [
+			"ゾウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["み", "みっ"],
+		"frequent": [
+			"み",
+			"みっ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["み.つ", "みっ.つ"]
+		"okurigana": [
+			"み.つ",
+			"みっ.つ"
+		]
 	},
 	"frequency": {
 		"mean": 95,

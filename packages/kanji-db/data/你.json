@@ -1,14 +1,25 @@
 {
 	"kanji": "你",
-	"meanings": ["you", "second person pronoun"],
+	"meanings": [
+		"you",
+		"second person pronoun"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ジ", "ニ"],
+		"common": [
+			"ジ",
+			"ニ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["なんじ", "しかり", "その", "のみ"],
+		"common": [
+			"なんじ",
+			"しかり",
+			"その",
+			"のみ"
+		],
 		"rare": [],
 		"okurigana": []
 	},

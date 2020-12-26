@@ -1,17 +1,37 @@
 {
 	"kanji": "精",
-	"meanings": ["refined", "ghost", "fairy", "energy", "vitality", "semen", "excellence", "purity", "skill"],
+	"meanings": [
+		"refined",
+		"ghost",
+		"fairy",
+		"energy",
+		"vitality",
+		"semen",
+		"excellence",
+		"purity",
+		"skill"
+	],
 	"keyword": "refined",
 	"onyomi": {
-		"frequent": ["セイ"],
-		"common": ["ショウ"],
+		"frequent": [
+			"セイ"
+		],
+		"common": [
+			"ショウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しら", "くわ"],
-		"okurigana": ["しら.げる", "くわ.しい"]
+		"rare": [
+			"しら",
+			"くわ"
+		],
+		"okurigana": [
+			"しら.げる",
+			"くわ.しい"
+		]
 	},
 	"frequency": {
 		"mean": 732,

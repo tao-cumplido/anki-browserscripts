@@ -1,16 +1,25 @@
 {
 	"kanji": "蓬",
-	"meanings": ["sagebrush", "wormwood", "mugwort"],
+	"meanings": [
+		"sagebrush",
+		"wormwood",
+		"mugwort"
+	],
 	"keyword": "wormwood",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ホウ", "ブ"]
+		"rare": [
+			"ホウ",
+			"ブ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よもぎ"],
+		"rare": [
+			"よもぎ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

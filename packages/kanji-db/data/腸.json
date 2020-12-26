@@ -1,16 +1,26 @@
 {
 	"kanji": "腸",
-	"meanings": ["intestines", "guts", "bowels", "viscera"],
+	"meanings": [
+		"intestines",
+		"guts",
+		"bowels",
+		"viscera"
+	],
 	"keyword": "intestines",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はらわた", "わた"],
+		"rare": [
+			"はらわた",
+			"わた"
+		],
 		"okurigana": []
 	},
 	"frequency": {

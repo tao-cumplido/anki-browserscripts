@@ -1,14 +1,27 @@
 {
 	"kanji": "面",
-	"meanings": ["mask", "face", "features", "surface"],
+	"meanings": [
+		"mask",
+		"face",
+		"features",
+		"surface"
+	],
 	"keyword": "mask",
 	"onyomi": {
-		"frequent": ["メン"],
+		"frequent": [
+			"メン"
+		],
 		"common": [],
-		"rare": ["ベン"]
+		"rare": [
+			"ベン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["おも", "おもて", "つら"],
+		"frequent": [
+			"おも",
+			"おもて",
+			"つら"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

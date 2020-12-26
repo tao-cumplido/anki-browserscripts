@@ -1,9 +1,17 @@
 {
 	"kanji": "伯",
-	"meanings": ["chief", "count", "earl", "uncle", "Brazil"],
+	"meanings": [
+		"chief",
+		"count",
+		"earl",
+		"uncle",
+		"Brazil"
+	],
 	"keyword": "chief",
 	"onyomi": {
-		"frequent": ["ハク"],
+		"frequent": [
+			"ハク"
+		],
 		"common": [],
 		"rare": []
 	},

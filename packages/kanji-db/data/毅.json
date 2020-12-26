@@ -1,17 +1,26 @@
 {
 	"kanji": "毅",
-	"meanings": ["strong"],
+	"meanings": [
+		"strong"
+	],
 	"keyword": "stalwart",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キ", "ギ"]
+		"rare": [
+			"キ",
+			"ギ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つよ"],
-		"okurigana": ["つよ.い"]
+		"rare": [
+			"つよ"
+		],
+		"okurigana": [
+			"つよ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1876,

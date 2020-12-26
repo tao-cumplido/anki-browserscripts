@@ -1,17 +1,30 @@
 {
 	"kanji": "活",
-	"meanings": ["lively", "resuscitation", "being helped", "living"],
+	"meanings": [
+		"lively",
+		"resuscitation",
+		"being helped",
+		"living"
+	],
 	"keyword": "lively",
 	"onyomi": {
-		"frequent": ["カツ"],
+		"frequent": [
+			"カツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["い"],
-		"okurigana": ["い.きる", "い.かす", "い.ける"]
+		"rare": [
+			"い"
+		],
+		"okurigana": [
+			"い.きる",
+			"い.かす",
+			"い.ける"
+		]
 	},
 	"frequency": {
 		"mean": 211,

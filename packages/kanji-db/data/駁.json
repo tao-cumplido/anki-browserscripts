@@ -1,17 +1,29 @@
 {
 	"kanji": "駁",
-	"meanings": ["refutation", "contradiction"],
+	"meanings": [
+		"refutation",
+		"contradiction"
+	],
 	"keyword": "rebuttal",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハク", "バク"]
+		"rare": [
+			"ハク",
+			"バク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ぶち", "まじ", "まだら"],
-		"okurigana": ["まじ.る"]
+		"rare": [
+			"ぶち",
+			"まじ",
+			"まだら"
+		],
+		"okurigana": [
+			"まじ.る"
+		]
 	},
 	"frequency": {
 		"mean": 3336,

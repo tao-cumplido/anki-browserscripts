@@ -1,17 +1,34 @@
 {
 	"kanji": "荘",
-	"meanings": ["villa", "inn", "cottage", "feudal manor", "solemn", "dignified"],
+	"meanings": [
+		"villa",
+		"inn",
+		"cottage",
+		"feudal manor",
+		"solemn",
+		"dignified"
+	],
 	"keyword": "villa",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
-		"rare": ["ショウ", "チャン"]
+		"rare": [
+			"ショウ",
+			"チャン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほうき", "おごそ"],
-		"okurigana": ["おごそ.か"]
+		"rare": [
+			"ほうき",
+			"おごそ"
+		],
+		"okurigana": [
+			"おごそ.か"
+		]
 	},
 	"frequency": {
 		"mean": 1303,

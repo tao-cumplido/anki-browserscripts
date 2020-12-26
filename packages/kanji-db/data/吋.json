@@ -1,16 +1,24 @@
 {
 	"kanji": "吋",
-	"meanings": ["inch"],
+	"meanings": [
+		"inch"
+	],
 	"keyword": "inch",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["トウ", "ドウ", "スン"]
+		"rare": [
+			"トウ",
+			"ドウ",
+			"スン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["インチ"],
+		"rare": [
+			"インチ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,32 @@
 {
 	"kanji": "運",
-	"meanings": ["carry", "luck", "destiny", "fate", "lot", "transport", "progress", "advance"],
+	"meanings": [
+		"carry",
+		"luck",
+		"destiny",
+		"fate",
+		"lot",
+		"transport",
+		"progress",
+		"advance"
+	],
 	"keyword": "carry",
 	"onyomi": {
-		"frequent": ["ウン"],
+		"frequent": [
+			"ウン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はこ"],
+		"frequent": [
+			"はこ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["はこ.ぶ"]
+		"okurigana": [
+			"はこ.ぶ"
+		]
 	},
 	"frequency": {
 		"mean": 234,

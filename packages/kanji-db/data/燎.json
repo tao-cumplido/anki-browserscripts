@@ -1,16 +1,23 @@
 {
 	"kanji": "燎",
-	"meanings": ["burn", "bonfire"],
+	"meanings": [
+		"burn",
+		"bonfire"
+	],
 	"keyword": "watchfire",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リョウ"]
+		"rare": [
+			"リョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かがりび"],
+		"rare": [
+			"かがりび"
+		],
 		"okurigana": []
 	},
 	"frequency": {

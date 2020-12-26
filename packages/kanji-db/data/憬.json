@@ -1,17 +1,27 @@
 {
 	"kanji": "憬",
-	"meanings": ["yearn for", "aspire to", "admire"],
+	"meanings": [
+		"yearn for",
+		"aspire to",
+		"admire"
+	],
 	"keyword": "hanker",
 	"onyomi": {
-		"frequent": ["ケイ"],
+		"frequent": [
+			"ケイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あこが"],
-		"okurigana": ["あこが.れる"]
+		"rare": [
+			"あこが"
+		],
+		"okurigana": [
+			"あこが.れる"
+		]
 	},
 	"frequency": {
 		"mean": 3425,

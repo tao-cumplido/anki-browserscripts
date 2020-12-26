@@ -1,17 +1,30 @@
 {
 	"kanji": "烈",
-	"meanings": ["ardent", "violent", "vehement", "furious", "severe", "extreme"],
+	"meanings": [
+		"ardent",
+		"violent",
+		"vehement",
+		"furious",
+		"severe",
+		"extreme"
+	],
 	"keyword": "ardent",
 	"onyomi": {
-		"frequent": ["レツ"],
+		"frequent": [
+			"レツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はげ"],
-		"okurigana": ["はげ.しい"]
+		"rare": [
+			"はげ"
+		],
+		"okurigana": [
+			"はげ.しい"
+		]
 	},
 	"frequency": {
 		"mean": 1615,

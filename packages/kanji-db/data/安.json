@@ -1,17 +1,33 @@
 {
 	"kanji": "安",
-	"meanings": ["relax", "cheap", "low", "quiet", "rested", "contented", "peaceful"],
+	"meanings": [
+		"relax",
+		"cheap",
+		"low",
+		"quiet",
+		"rested",
+		"contented",
+		"peaceful"
+	],
 	"keyword": "relax",
 	"onyomi": {
-		"frequent": ["アン"],
+		"frequent": [
+			"アン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["やす"],
+		"frequent": [
+			"やす"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["やす.い", "やす.まる", "やす.らか"]
+		"okurigana": [
+			"やす.い",
+			"やす.まる",
+			"やす.らか"
+		]
 	},
 	"frequency": {
 		"mean": 276,

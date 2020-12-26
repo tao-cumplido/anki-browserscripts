@@ -1,17 +1,32 @@
 {
 	"kanji": "脹",
-	"meanings": ["dilate", "distend", "bulge", "fill out", "swell"],
+	"meanings": [
+		"dilate",
+		"distend",
+		"bulge",
+		"fill out",
+		"swell"
+	],
 	"keyword": "dilate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョウ"]
+		"rare": [
+			"チョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["は", "ふく"],
-		"okurigana": ["は.れる", "ふく.らむ", "ふく.れる"]
+		"rare": [
+			"は",
+			"ふく"
+		],
+		"okurigana": [
+			"は.れる",
+			"ふく.らむ",
+			"ふく.れる"
+		]
 	},
 	"frequency": {
 		"mean": 3523,

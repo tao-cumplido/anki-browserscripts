@@ -1,16 +1,25 @@
 {
 	"kanji": "苓",
-	"meanings": ["plant", "herb", "mushroom"],
+	"meanings": [
+		"plant",
+		"herb",
+		"mushroom"
+	],
 	"keyword": "cocklebur",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["レイ", "リョウ"]
+		"rare": [
+			"レイ",
+			"リョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みみなぐさ"],
+		"rare": [
+			"みみなぐさ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

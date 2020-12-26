@@ -1,17 +1,32 @@
 {
 	"kanji": "我",
-	"meanings": ["ego", "I", "selfish", "our", "oneself"],
+	"meanings": [
+		"ego",
+		"I",
+		"selfish",
+		"our",
+		"oneself"
+	],
 	"keyword": "ego",
 	"onyomi": {
-		"frequent": ["ガ"],
+		"frequent": [
+			"ガ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["われ", "わ"],
+		"frequent": [
+			"われ",
+			"わ"
+		],
 		"common": [],
-		"rare": ["わが"],
-		"okurigana": ["わ.が"]
+		"rare": [
+			"わが"
+		],
+		"okurigana": [
+			"わ.が"
+		]
 	},
 	"frequency": {
 		"mean": 913,

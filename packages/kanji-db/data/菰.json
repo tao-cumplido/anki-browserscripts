@@ -1,16 +1,23 @@
 {
 	"kanji": "菰",
-	"meanings": ["reed used for matting"],
+	"meanings": [
+		"reed used for matting"
+	],
 	"keyword": "rush mat",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コ"]
+		"rare": [
+			"コ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こも", "まこも"],
+		"rare": [
+			"こも",
+			"まこも"
+		],
 		"okurigana": []
 	},
 	"frequency": {

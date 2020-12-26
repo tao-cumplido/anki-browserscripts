@@ -1,14 +1,23 @@
 {
 	"kanji": "裸",
-	"meanings": ["naked", "nude", "uncovered", "partially clothed"],
+	"meanings": [
+		"naked",
+		"nude",
+		"uncovered",
+		"partially clothed"
+	],
 	"keyword": "naked",
 	"onyomi": {
-		"frequent": ["ラ"],
+		"frequent": [
+			"ラ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はだか"],
+		"frequent": [
+			"はだか"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

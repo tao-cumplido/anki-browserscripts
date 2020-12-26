@@ -1,16 +1,24 @@
 {
 	"kanji": "脈",
-	"meanings": ["vein", "pulse", "hope"],
+	"meanings": [
+		"vein",
+		"pulse",
+		"hope"
+	],
 	"keyword": "vein",
 	"onyomi": {
-		"frequent": ["ミャク"],
+		"frequent": [
+			"ミャク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すじ"],
+		"rare": [
+			"すじ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,14 +1,26 @@
 {
 	"kanji": "横",
-	"meanings": ["sideways", "side", "horizontal", "width", "woof", "unreasonable", "perverse"],
+	"meanings": [
+		"sideways",
+		"side",
+		"horizontal",
+		"width",
+		"woof",
+		"unreasonable",
+		"perverse"
+	],
 	"keyword": "sideways",
 	"onyomi": {
-		"frequent": ["オウ"],
+		"frequent": [
+			"オウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["よこ"],
+		"frequent": [
+			"よこ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

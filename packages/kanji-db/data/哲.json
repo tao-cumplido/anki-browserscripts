@@ -1,16 +1,24 @@
 {
 	"kanji": "哲",
-	"meanings": ["philosophy", "clear"],
+	"meanings": [
+		"philosophy",
+		"clear"
+	],
 	"keyword": "philosophy",
 	"onyomi": {
-		"frequent": ["テツ"],
+		"frequent": [
+			"テツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さとい", "あきらか"],
+		"rare": [
+			"さとい",
+			"あきらか"
+		],
 		"okurigana": []
 	},
 	"frequency": {

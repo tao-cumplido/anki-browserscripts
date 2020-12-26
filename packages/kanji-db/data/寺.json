@@ -1,14 +1,20 @@
 {
 	"kanji": "寺",
-	"meanings": ["Buddhist temple"],
+	"meanings": [
+		"Buddhist temple"
+	],
 	"keyword": "Buddhist temple",
 	"onyomi": {
-		"frequent": ["ジ"],
+		"frequent": [
+			"ジ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["てら"],
+		"frequent": [
+			"てら"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

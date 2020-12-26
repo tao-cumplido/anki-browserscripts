@@ -1,17 +1,27 @@
 {
 	"kanji": "賞",
-	"meanings": ["prize", "reward", "praise"],
+	"meanings": [
+		"prize",
+		"reward",
+		"praise"
+	],
 	"keyword": "prize",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほ"],
-		"okurigana": ["ほ.める"]
+		"rare": [
+			"ほ"
+		],
+		"okurigana": [
+			"ほ.める"
+		]
 	},
 	"frequency": {
 		"mean": 206,

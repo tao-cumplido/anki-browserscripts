@@ -1,14 +1,23 @@
 {
 	"kanji": "私",
-	"meanings": ["private", "I", "me"],
+	"meanings": [
+		"private",
+		"I",
+		"me"
+	],
 	"keyword": "private",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["わたくし", "わたし"],
+		"frequent": [
+			"わたくし",
+			"わたし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

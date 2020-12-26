@@ -1,16 +1,22 @@
 {
 	"kanji": "屍",
-	"meanings": ["corpse"],
+	"meanings": [
+		"corpse"
+	],
 	"keyword": "corpse",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しかばね"],
+		"rare": [
+			"しかばね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

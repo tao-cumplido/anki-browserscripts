@@ -1,17 +1,28 @@
 {
 	"kanji": "牢",
-	"meanings": ["prison", "jail", "hardness"],
+	"meanings": [
+		"prison",
+		"jail",
+		"hardness"
+	],
 	"keyword": "jail",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ロウ"]
+		"rare": [
+			"ロウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かた", "ひとや"],
-		"okurigana": ["かた.い"]
+		"rare": [
+			"かた",
+			"ひとや"
+		],
+		"okurigana": [
+			"かた.い"
+		]
 	},
 	"frequency": {
 		"mean": 2299,

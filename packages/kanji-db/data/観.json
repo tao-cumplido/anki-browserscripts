@@ -1,17 +1,31 @@
 {
 	"kanji": "観",
-	"meanings": ["outlook", "look", "appearance", "condition", "view"],
+	"meanings": [
+		"outlook",
+		"look",
+		"appearance",
+		"condition",
+		"view"
+	],
 	"keyword": "outlook",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["み", "しめ"],
-		"okurigana": ["み.る", "しめ.す"]
+		"rare": [
+			"み",
+			"しめ"
+		],
+		"okurigana": [
+			"み.る",
+			"しめ.す"
+		]
 	},
 	"frequency": {
 		"mean": 444,

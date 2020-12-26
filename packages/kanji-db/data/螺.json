@@ -1,16 +1,23 @@
 {
 	"kanji": "螺",
-	"meanings": ["small, edible, helical fresh-water mollusk"],
+	"meanings": [
+		"small, edible, helical fresh-water mollusk"
+	],
 	"keyword": "screw",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ラ"]
+		"rare": [
+			"ラ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["にし", "にな"],
+		"rare": [
+			"にし",
+			"にな"
+		],
 		"okurigana": []
 	},
 	"frequency": {

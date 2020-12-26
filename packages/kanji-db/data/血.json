@@ -1,14 +1,20 @@
 {
 	"kanji": "血",
-	"meanings": ["blood"],
+	"meanings": [
+		"blood"
+	],
 	"keyword": "blood",
 	"onyomi": {
-		"frequent": ["ケツ"],
+		"frequent": [
+			"ケツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ち"],
+		"frequent": [
+			"ち"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,32 @@
 {
 	"kanji": "脆",
-	"meanings": ["brittle", "fragile", "easy to beat", "sentimental", "susceptible"],
+	"meanings": [
+		"brittle",
+		"fragile",
+		"easy to beat",
+		"sentimental",
+		"susceptible"
+	],
 	"keyword": "fragile",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゼイ", "セイ", "セツ"]
+		"rare": [
+			"ゼイ",
+			"セイ",
+			"セツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["もろ", "よわい"],
-		"okurigana": ["もろ.い"]
+		"rare": [
+			"もろ",
+			"よわい"
+		],
+		"okurigana": [
+			"もろ.い"
+		]
 	},
 	"frequency": {
 		"mean": 2582,

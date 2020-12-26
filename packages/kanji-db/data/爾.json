@@ -1,16 +1,30 @@
 {
 	"kanji": "爾",
-	"meanings": ["you", "thou", "second person"],
+	"meanings": [
+		"you",
+		"thou",
+		"second person"
+	],
 	"keyword": "let it be",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジ", "ニ"]
+		"rare": [
+			"ジ",
+			"ニ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なんじ", "しかり", "その", "のみ", "おれ", "しか"],
+		"rare": [
+			"なんじ",
+			"しかり",
+			"その",
+			"のみ",
+			"おれ",
+			"しか"
+		],
 		"okurigana": []
 	},
 	"frequency": {

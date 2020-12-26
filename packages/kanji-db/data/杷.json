@@ -1,16 +1,23 @@
 {
 	"kanji": "杷",
-	"meanings": ["kind of rake", "loquat"],
+	"meanings": [
+		"kind of rake",
+		"loquat"
+	],
 	"keyword": "grain rake",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハ"]
+		"rare": [
+			"ハ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つか"],
+		"rare": [
+			"つか"
+		],
 		"okurigana": []
 	},
 	"frequency": {

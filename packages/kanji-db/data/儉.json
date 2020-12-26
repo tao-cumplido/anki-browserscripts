@@ -1,16 +1,26 @@
 {
 	"kanji": "儉",
-	"meanings": ["economy", "thrifty"],
+	"meanings": [
+		"economy",
+		"thrifty"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケン"]
+		"rare": [
+			"ケン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つま", "つづまやか"],
-		"okurigana": ["つま.しい"]
+		"rare": [
+			"つま",
+			"つづまやか"
+		],
+		"okurigana": [
+			"つま.しい"
+		]
 	},
 	"frequency": {
 		"mean": 4389,

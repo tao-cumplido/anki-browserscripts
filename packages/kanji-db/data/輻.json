@@ -1,16 +1,22 @@
 {
 	"kanji": "輻",
-	"meanings": ["spoke (wheel)"],
+	"meanings": [
+		"spoke (wheel)"
+	],
 	"keyword": "spoke",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フク"]
+		"rare": [
+			"フク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["や"],
+		"rare": [
+			"や"
+		],
 		"okurigana": []
 	},
 	"frequency": {

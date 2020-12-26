@@ -1,17 +1,29 @@
 {
 	"kanji": "鑑",
-	"meanings": ["specimen", "take warning from", "learn from"],
+	"meanings": [
+		"specimen",
+		"take warning from",
+		"learn from"
+	],
 	"keyword": "specimen",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かんが"],
+		"frequent": [
+			"かんが"
+		],
 		"common": [],
-		"rare": ["かがみ"],
-		"okurigana": ["かんが.みる"]
+		"rare": [
+			"かがみ"
+		],
+		"okurigana": [
+			"かんが.みる"
+		]
 	},
 	"frequency": {
 		"mean": 1068,

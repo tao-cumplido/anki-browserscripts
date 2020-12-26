@@ -1,17 +1,29 @@
 {
 	"kanji": "畢",
-	"meanings": ["the end", "finish"],
+	"meanings": [
+		"the end",
+		"finish"
+	],
 	"keyword": "lastly",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒツ"]
+		"rare": [
+			"ヒツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おわ", "あみ", "ことごとく"],
-		"okurigana": ["おわ.る", "おわ.り"]
+		"rare": [
+			"おわ",
+			"あみ",
+			"ことごとく"
+		],
+		"okurigana": [
+			"おわ.る",
+			"おわ.り"
+		]
 	},
 	"frequency": {
 		"mean": 3028,

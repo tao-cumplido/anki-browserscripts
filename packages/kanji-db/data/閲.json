@@ -1,17 +1,27 @@
 {
 	"kanji": "閲",
-	"meanings": ["review", "inspection", "revision"],
+	"meanings": [
+		"review",
+		"inspection",
+		"revision"
+	],
 	"keyword": "review",
 	"onyomi": {
-		"frequent": ["エツ"],
+		"frequent": [
+			"エツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["けみ"],
-		"okurigana": ["けみ.する"]
+		"rare": [
+			"けみ"
+		],
+		"okurigana": [
+			"けみ.する"
+		]
 	},
 	"frequency": {
 		"mean": 990,

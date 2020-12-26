@@ -1,0 +1,31 @@
+{
+	"kanji": "穸",
+	"meanings": [
+		"the gloom of the grave",
+		"tomb or grave",
+		"death"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"セキ",
+			"ジョク",
+			"キュウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"よ"
+		],
+		"rare": [],
+		"okurigana": [
+			"よ.る"
+		]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

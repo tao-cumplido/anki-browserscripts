@@ -1,14 +1,20 @@
 {
 	"kanji": "麓",
-	"meanings": ["foot of a mountain"],
+	"meanings": [
+		"foot of a mountain"
+	],
 	"keyword": "foot of a mountain",
 	"onyomi": {
-		"frequent": ["ロク"],
+		"frequent": [
+			"ロク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふもと"],
+		"frequent": [
+			"ふもと"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

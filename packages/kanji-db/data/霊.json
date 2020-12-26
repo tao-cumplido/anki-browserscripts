@@ -1,14 +1,22 @@
 {
 	"kanji": "霊",
-	"meanings": ["spirits", "soul"],
+	"meanings": [
+		"spirits",
+		"soul"
+	],
 	"keyword": "spirits",
 	"onyomi": {
-		"frequent": ["レイ", "リョウ"],
+		"frequent": [
+			"レイ",
+			"リョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たま"],
+		"frequent": [
+			"たま"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

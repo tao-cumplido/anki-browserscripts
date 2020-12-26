@@ -1,16 +1,27 @@
 {
 	"kanji": "佋",
-	"meanings": ["continue", "carry on", "hand down", "to join"],
+	"meanings": [
+		"continue",
+		"carry on",
+		"hand down",
+		"to join"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ショウ"],
+		"common": [
+			"ショウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["たす"],
+		"common": [
+			"たす"
+		],
 		"rare": [],
-		"okurigana": ["たす.ける"]
+		"okurigana": [
+			"たす.ける"
+		]
 	},
 	"frequency": {
 		"mean": 4537,

@@ -1,0 +1,29 @@
+{
+	"kanji": "隺",
+	"meanings": [
+		"bird flying",
+		"high ambition"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"コク",
+			"カク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"あ"
+		],
+		"rare": [],
+		"okurigana": [
+			"あ.がる"
+		]
+	},
+	"frequency": {
+		"mean": 4538,
+		"wikipedia": 4229
+	}
+}

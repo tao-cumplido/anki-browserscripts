@@ -1,17 +1,29 @@
 {
 	"kanji": "竪",
-	"meanings": ["length", "height", "warp"],
+	"meanings": [
+		"length",
+		"height",
+		"warp"
+	],
 	"keyword": "longness",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジュ"]
+		"rare": [
+			"ジュ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たて", "た", "こども"],
-		"okurigana": ["た.てる"]
+		"rare": [
+			"たて",
+			"た",
+			"こども"
+		],
+		"okurigana": [
+			"た.てる"
+		]
 	},
 	"frequency": {
 		"mean": 2795,

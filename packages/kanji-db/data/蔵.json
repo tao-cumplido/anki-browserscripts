@@ -1,17 +1,35 @@
 {
 	"kanji": "蔵",
-	"meanings": ["storehouse", "hide", "own", "have", "possess"],
+	"meanings": [
+		"storehouse",
+		"hide",
+		"own",
+		"have",
+		"possess"
+	],
 	"keyword": "storehouse",
 	"onyomi": {
-		"frequent": ["ゾウ"],
+		"frequent": [
+			"ゾウ"
+		],
 		"common": [],
-		"rare": ["ソウ"]
+		"rare": [
+			"ソウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["くら"],
+		"frequent": [
+			"くら"
+		],
 		"common": [],
-		"rare": ["おさ", "かく"],
-		"okurigana": ["おさ.める", "かく.れる"]
+		"rare": [
+			"おさ",
+			"かく"
+		],
+		"okurigana": [
+			"おさ.める",
+			"かく.れる"
+		]
 	},
 	"frequency": {
 		"mean": 612,

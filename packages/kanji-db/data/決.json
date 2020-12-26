@@ -1,17 +1,34 @@
 {
 	"kanji": "決",
-	"meanings": ["decide", "fix", "agree upon", "appoint"],
+	"meanings": [
+		"decide",
+		"fix",
+		"agree upon",
+		"appoint"
+	],
 	"keyword": "decide",
 	"onyomi": {
-		"frequent": ["ケツ"],
+		"frequent": [
+			"ケツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["き"],
+		"frequent": [
+			"き"
+		],
 		"common": [],
-		"rare": ["ぎ", "さ"],
-		"okurigana": ["き.める", "ぎ.め", "き.まる", "さ.く"]
+		"rare": [
+			"ぎ",
+			"さ"
+		],
+		"okurigana": [
+			"き.める",
+			"ぎ.め",
+			"き.まる",
+			"さ.く"
+		]
 	},
 	"frequency": {
 		"mean": 256,

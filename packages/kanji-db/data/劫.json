@@ -1,17 +1,28 @@
 {
 	"kanji": "劫",
-	"meanings": ["threat", "long ages"],
+	"meanings": [
+		"threat",
+		"long ages"
+	],
 	"keyword": "kalpa",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ", "ゴウ", "キョウ"]
+		"rare": [
+			"コウ",
+			"ゴウ",
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おびや"],
-		"okurigana": ["おびや.かす"]
+		"rare": [
+			"おびや"
+		],
+		"okurigana": [
+			"おびや.かす"
+		]
 	},
 	"frequency": {
 		"mean": 3060,

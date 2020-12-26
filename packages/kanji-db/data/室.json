@@ -1,14 +1,24 @@
 {
 	"kanji": "室",
-	"meanings": ["room", "apartment", "chamber", "greenhouse", "cellar"],
+	"meanings": [
+		"room",
+		"apartment",
+		"chamber",
+		"greenhouse",
+		"cellar"
+	],
 	"keyword": "room",
 	"onyomi": {
-		"frequent": ["シツ"],
+		"frequent": [
+			"シツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["むろ"],
+		"frequent": [
+			"むろ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

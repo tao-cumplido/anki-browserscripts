@@ -1,17 +1,27 @@
 {
 	"kanji": "蒐",
-	"meanings": ["gather"],
+	"meanings": [
+		"gather"
+	],
 	"keyword": "collector",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュウ"]
+		"rare": [
+			"シュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あかね", "あつ"],
-		"okurigana": ["あつ.まる", "あつ.める"]
+		"rare": [
+			"あかね",
+			"あつ"
+		],
+		"okurigana": [
+			"あつ.まる",
+			"あつ.める"
+		]
 	},
 	"frequency": {
 		"mean": 3118,

@@ -1,16 +1,30 @@
 {
 	"kanji": "僞",
-	"meanings": ["lie", "falsehood", "deceive", "pretend"],
+	"meanings": [
+		"lie",
+		"falsehood",
+		"deceive",
+		"pretend"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ギ", "カ"]
+		"rare": [
+			"ギ",
+			"カ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いつわ", "にせ"],
-		"okurigana": ["いつわ.る", "いつわ.り"]
+		"rare": [
+			"いつわ",
+			"にせ"
+		],
+		"okurigana": [
+			"いつわ.る",
+			"いつわ.り"
+		]
 	},
 	"frequency": {
 		"mean": 3840,

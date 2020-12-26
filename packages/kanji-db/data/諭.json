@@ -1,17 +1,29 @@
 {
 	"kanji": "諭",
-	"meanings": ["rebuke", "admonish", "charge", "warn", "persuade"],
+	"meanings": [
+		"rebuke",
+		"admonish",
+		"charge",
+		"warn",
+		"persuade"
+	],
 	"keyword": "rebuke",
 	"onyomi": {
-		"frequent": ["ユ"],
+		"frequent": [
+			"ユ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さと"],
+		"frequent": [
+			"さと"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["さと.す"]
+		"okurigana": [
+			"さと.す"
+		]
 	},
 	"frequency": {
 		"mean": 1898,

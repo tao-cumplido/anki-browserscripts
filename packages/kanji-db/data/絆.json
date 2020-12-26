@@ -1,17 +1,29 @@
 {
 	"kanji": "絆",
-	"meanings": ["bonds", "fetters"],
+	"meanings": [
+		"bonds",
+		"fetters"
+	],
 	"keyword": "ties",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハン"]
+		"rare": [
+			"ハン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きずな", "ほだ", "つな"],
-		"okurigana": ["ほだ.す", "つな.ぐ"]
+		"rare": [
+			"きずな",
+			"ほだ",
+			"つな"
+		],
+		"okurigana": [
+			"ほだ.す",
+			"つな.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 2118,

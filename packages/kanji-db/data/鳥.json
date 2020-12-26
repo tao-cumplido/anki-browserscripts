@@ -1,14 +1,21 @@
 {
 	"kanji": "鳥",
-	"meanings": ["bird", "chicken"],
+	"meanings": [
+		"bird",
+		"chicken"
+	],
 	"keyword": "bird",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["とり"],
+		"frequent": [
+			"とり"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

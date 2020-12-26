@@ -1,17 +1,45 @@
 {
 	"kanji": "懐",
-	"meanings": ["pocket", "feelings", "heart", "yearn", "miss someone", "become attached to", "bosom", "breast"],
+	"meanings": [
+		"pocket",
+		"feelings",
+		"heart",
+		"yearn",
+		"miss someone",
+		"become attached to",
+		"bosom",
+		"breast"
+	],
 	"keyword": "pocket",
 	"onyomi": {
-		"frequent": ["カイ"],
+		"frequent": [
+			"カイ"
+		],
 		"common": [],
-		"rare": ["エ"]
+		"rare": [
+			"エ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ふところ", "なつ"],
+		"frequent": [
+			"ふところ",
+			"なつ"
+		],
 		"common": [],
-		"rare": ["なず", "いだ", "おも"],
-		"okurigana": ["なつ.かしい", "なつ.かしむ", "なつ.く", "なつ.ける", "なず.ける", "いだ.く", "おも.う"]
+		"rare": [
+			"なず",
+			"いだ",
+			"おも"
+		],
+		"okurigana": [
+			"なつ.かしい",
+			"なつ.かしむ",
+			"なつ.く",
+			"なつ.ける",
+			"なず.ける",
+			"いだ.く",
+			"おも.う"
+		]
 	},
 	"frequency": {
 		"mean": 1616,

@@ -1,17 +1,36 @@
 {
 	"kanji": "傷",
-	"meanings": ["wound", "hurt", "injure", "impair", "pain", "injury", "cut", "gash", "scar", "weak point"],
+	"meanings": [
+		"wound",
+		"hurt",
+		"injure",
+		"impair",
+		"pain",
+		"injury",
+		"cut",
+		"gash",
+		"scar",
+		"weak point"
+	],
 	"keyword": "wound",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["きず", "いた"],
+		"frequent": [
+			"きず",
+			"いた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["いた.む", "いた.める"]
+		"okurigana": [
+			"いた.む",
+			"いた.める"
+		]
 	},
 	"frequency": {
 		"mean": 968,

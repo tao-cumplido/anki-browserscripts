@@ -1,14 +1,22 @@
 {
 	"kanji": "江",
-	"meanings": ["creek", "inlet", "bay"],
+	"meanings": [
+		"creek",
+		"inlet",
+		"bay"
+	],
 	"keyword": "creek",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["え"],
+		"frequent": [
+			"え"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

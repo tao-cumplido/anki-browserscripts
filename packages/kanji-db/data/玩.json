@@ -1,17 +1,30 @@
 {
 	"kanji": "玩",
-	"meanings": ["play", "take pleasure in", "trifle with", "make sport of"],
+	"meanings": [
+		"play",
+		"take pleasure in",
+		"trifle with",
+		"make sport of"
+	],
 	"keyword": "toy",
 	"onyomi": {
-		"frequent": ["ガン"],
+		"frequent": [
+			"ガン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["もちあそ", "もてあそ"],
-		"okurigana": ["もちあそ.ぶ", "もてあそ.ぶ"]
+		"rare": [
+			"もちあそ",
+			"もてあそ"
+		],
+		"okurigana": [
+			"もちあそ.ぶ",
+			"もてあそ.ぶ"
+		]
 	},
 	"frequency": {
 		"mean": 1959,

@@ -1,17 +1,35 @@
 {
 	"kanji": "狭",
-	"meanings": ["cramped", "narrow", "contract", "tight"],
+	"meanings": [
+		"cramped",
+		"narrow",
+		"contract",
+		"tight"
+	],
 	"keyword": "cramped",
 	"onyomi": {
-		"frequent": ["キョウ"],
+		"frequent": [
+			"キョウ"
+		],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["せま", "せば"],
+		"frequent": [
+			"せま",
+			"せば"
+		],
 		"common": [],
-		"rare": ["さ"],
-		"okurigana": ["せま.い", "せば.める", "せば.まる"]
+		"rare": [
+			"さ"
+		],
+		"okurigana": [
+			"せま.い",
+			"せば.める",
+			"せば.まる"
+		]
 	},
 	"frequency": {
 		"mean": 1316,

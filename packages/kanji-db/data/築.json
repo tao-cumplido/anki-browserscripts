@@ -1,17 +1,27 @@
 {
 	"kanji": "築",
-	"meanings": ["fabricate", "build", "construct"],
+	"meanings": [
+		"fabricate",
+		"build",
+		"construct"
+	],
 	"keyword": "fabricate",
 	"onyomi": {
-		"frequent": ["チク"],
+		"frequent": [
+			"チク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["きず"],
+		"frequent": [
+			"きず"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["きず.く"]
+		"okurigana": [
+			"きず.く"
+		]
 	},
 	"frequency": {
 		"mean": 667,

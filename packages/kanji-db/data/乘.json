@@ -1,16 +1,28 @@
 {
 	"kanji": "乘",
-	"meanings": ["power", "multiplication", "record", "counter for vehicles"],
+	"meanings": [
+		"power",
+		"multiplication",
+		"record",
+		"counter for vehicles"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジョウ"]
+		"rare": [
+			"ジョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["の"],
-		"okurigana": ["の.る", "の.せる"]
+		"rare": [
+			"の"
+		],
+		"okurigana": [
+			"の.る",
+			"の.せる"
+		]
 	},
 	"frequency": {
 		"mean": 2963,

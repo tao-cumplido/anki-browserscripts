@@ -1,17 +1,26 @@
 {
 	"kanji": "煉",
-	"meanings": ["refine metals", "kneading over fire"],
+	"meanings": [
+		"refine metals",
+		"kneading over fire"
+	],
 	"keyword": "firing",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["レン"]
+		"rare": [
+			"レン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ね"],
-		"okurigana": ["ね.る"]
+		"rare": [
+			"ね"
+		],
+		"okurigana": [
+			"ね.る"
+		]
 	},
 	"frequency": {
 		"mean": 2534,

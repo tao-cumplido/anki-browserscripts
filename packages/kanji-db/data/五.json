@@ -1,17 +1,25 @@
 {
 	"kanji": "五",
-	"meanings": ["five"],
+	"meanings": [
+		"five"
+	],
 	"keyword": "five",
 	"onyomi": {
-		"frequent": ["ゴ"],
+		"frequent": [
+			"ゴ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いつ"],
+		"frequent": [
+			"いつ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["いつ.つ"]
+		"okurigana": [
+			"いつ.つ"
+		]
 	},
 	"frequency": {
 		"mean": 413,

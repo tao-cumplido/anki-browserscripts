@@ -1,17 +1,28 @@
 {
 	"kanji": "逝",
-	"meanings": ["departed", "die"],
+	"meanings": [
+		"departed",
+		"die"
+	],
 	"keyword": "departed",
 	"onyomi": {
-		"frequent": ["セイ"],
+		"frequent": [
+			"セイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ゆ", "い"],
+		"frequent": [
+			"ゆ",
+			"い"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ゆ.く", "い.く"]
+		"okurigana": [
+			"ゆ.く",
+			"い.く"
+		]
 	},
 	"frequency": {
 		"mean": 2239,

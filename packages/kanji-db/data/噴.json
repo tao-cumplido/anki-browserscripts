@@ -1,17 +1,28 @@
 {
 	"kanji": "噴",
-	"meanings": ["erupt", "spout", "emit", "flush out"],
+	"meanings": [
+		"erupt",
+		"spout",
+		"emit",
+		"flush out"
+	],
 	"keyword": "erupt",
 	"onyomi": {
-		"frequent": ["フン"],
+		"frequent": [
+			"フン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふ"],
+		"frequent": [
+			"ふ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ふ.く"]
+		"okurigana": [
+			"ふ.く"
+		]
 	},
 	"frequency": {
 		"mean": 1623,

@@ -1,17 +1,27 @@
 {
 	"kanji": "夥",
-	"meanings": ["immense", "tremendous"],
+	"meanings": [
+		"immense",
+		"tremendous"
+	],
 	"keyword": "plentiful",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カ", "ワ"]
+		"rare": [
+			"カ",
+			"ワ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おびただ"],
-		"okurigana": ["おびただ.しい"]
+		"rare": [
+			"おびただ"
+		],
+		"okurigana": [
+			"おびただ.しい"
+		]
 	},
 	"frequency": {
 		"mean": 3395,

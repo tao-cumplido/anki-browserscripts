@@ -1,16 +1,26 @@
 {
 	"kanji": "所",
-	"meanings": ["place", "extent"],
+	"meanings": [
+		"place",
+		"extent"
+	],
 	"keyword": "place",
 	"onyomi": {
-		"frequent": ["ショ"],
+		"frequent": [
+			"ショ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ところ"],
+		"frequent": [
+			"ところ"
+		],
 		"common": [],
-		"rare": ["どころ", "とこ"],
+		"rare": [
+			"どころ",
+			"とこ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

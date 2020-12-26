@@ -1,17 +1,33 @@
 {
 	"kanji": "訪",
-	"meanings": ["call on", "visit", "look up", "offer sympathy"],
+	"meanings": [
+		"call on",
+		"visit",
+		"look up",
+		"offer sympathy"
+	],
 	"keyword": "call on",
 	"onyomi": {
-		"frequent": ["ホウ"],
+		"frequent": [
+			"ホウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おとず", "たず"],
+		"frequent": [
+			"おとず",
+			"たず"
+		],
 		"common": [],
-		"rare": ["と"],
-		"okurigana": ["おとず.れる", "たず.ねる", "と.う"]
+		"rare": [
+			"と"
+		],
+		"okurigana": [
+			"おとず.れる",
+			"たず.ねる",
+			"と.う"
+		]
 	},
 	"frequency": {
 		"mean": 992,

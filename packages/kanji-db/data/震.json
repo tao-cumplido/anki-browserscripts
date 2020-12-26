@@ -1,17 +1,30 @@
 {
 	"kanji": "震",
-	"meanings": ["quake", "shake", "tremble", "quiver", "shiver"],
+	"meanings": [
+		"quake",
+		"shake",
+		"tremble",
+		"quiver",
+		"shiver"
+	],
 	"keyword": "quake",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふる"],
+		"frequent": [
+			"ふる"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ふる.う", "ふる.える"]
+		"okurigana": [
+			"ふる.う",
+			"ふる.える"
+		]
 	},
 	"frequency": {
 		"mean": 853,

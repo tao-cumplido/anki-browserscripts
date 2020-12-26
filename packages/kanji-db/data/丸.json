@@ -1,17 +1,35 @@
 {
 	"kanji": "丸",
-	"meanings": ["round", "full (month)", "perfection", "-ship", "pills", "make round", "roll up", "curl up", "seduce", "explain away"],
+	"meanings": [
+		"round",
+		"full (month)",
+		"perfection",
+		"-ship",
+		"pills",
+		"make round",
+		"roll up",
+		"curl up",
+		"seduce",
+		"explain away"
+	],
 	"keyword": "round",
 	"onyomi": {
-		"frequent": ["ガン"],
+		"frequent": [
+			"ガン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まる"],
+		"frequent": [
+			"まる"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["まる.める", "まる.い"]
+		"okurigana": [
+			"まる.める",
+			"まる.い"
+		]
 	},
 	"frequency": {
 		"mean": 645,

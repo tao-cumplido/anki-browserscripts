@@ -1,16 +1,25 @@
 {
 	"kanji": "蕪",
-	"meanings": ["turnip"],
+	"meanings": [
+		"turnip"
+	],
 	"keyword": "turnip",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ブ", "ム"]
+		"rare": [
+			"ブ",
+			"ム"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かぶ", "かぶら", "あれる"],
+		"rare": [
+			"かぶ",
+			"かぶら",
+			"あれる"
+		],
 		"okurigana": []
 	},
 	"frequency": {

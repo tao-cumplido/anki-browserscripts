@@ -1,17 +1,29 @@
 {
 	"kanji": "耀",
-	"meanings": ["shine", "sparkle", "gleam", "twinkle"],
+	"meanings": [
+		"shine",
+		"sparkle",
+		"gleam",
+		"twinkle"
+	],
 	"keyword": "shimmering",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヨウ"]
+		"rare": [
+			"ヨウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かがや", "ひかり"],
-		"okurigana": ["かがや.く"]
+		"rare": [
+			"かがや",
+			"ひかり"
+		],
+		"okurigana": [
+			"かがや.く"
+		]
 	},
 	"frequency": {
 		"mean": 2712,

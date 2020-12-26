@@ -1,17 +1,28 @@
 {
 	"kanji": "例",
-	"meanings": ["example", "custom", "usage", "precedent"],
+	"meanings": [
+		"example",
+		"custom",
+		"usage",
+		"precedent"
+	],
 	"keyword": "example",
 	"onyomi": {
-		"frequent": ["レイ"],
+		"frequent": [
+			"レイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たと"],
+		"frequent": [
+			"たと"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["たと.える"]
+		"okurigana": [
+			"たと.える"
+		]
 	},
 	"frequency": {
 		"mean": 481,

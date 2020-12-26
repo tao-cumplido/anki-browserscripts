@@ -1,17 +1,26 @@
 {
 	"kanji": "暉",
-	"meanings": ["shine", "light"],
+	"meanings": [
+		"shine",
+		"light"
+	],
 	"keyword": "glitter",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キ"]
+		"rare": [
+			"キ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かが"],
-		"okurigana": ["かが.やく"]
+		"rare": [
+			"かが"
+		],
+		"okurigana": [
+			"かが.やく"
+		]
 	},
 	"frequency": {
 		"mean": 3068,

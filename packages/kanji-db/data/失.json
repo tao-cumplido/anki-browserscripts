@@ -1,17 +1,32 @@
 {
 	"kanji": "失",
-	"meanings": ["lose", "error", "fault", "disadvantage", "loss"],
+	"meanings": [
+		"lose",
+		"error",
+		"fault",
+		"disadvantage",
+		"loss"
+	],
 	"keyword": "lose",
 	"onyomi": {
-		"frequent": ["シツ"],
+		"frequent": [
+			"シツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うしな"],
+		"frequent": [
+			"うしな"
+		],
 		"common": [],
-		"rare": ["う"],
-		"okurigana": ["うしな.う", "う.せる"]
+		"rare": [
+			"う"
+		],
+		"okurigana": [
+			"うしな.う",
+			"う.せる"
+		]
 	},
 	"frequency": {
 		"mean": 619,

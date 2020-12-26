@@ -1,17 +1,29 @@
 {
 	"kanji": "噛",
-	"meanings": ["chew", "bite", "gnaw"],
+	"meanings": [
+		"chew",
+		"bite",
+		"gnaw"
+	],
 	"keyword": "chew",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ", "ゴウ"]
+		"rare": [
+			"コウ",
+			"ゴウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["か"],
-		"okurigana": ["か.む", "か.じる"]
+		"rare": [
+			"か"
+		],
+		"okurigana": [
+			"か.む",
+			"か.じる"
+		]
 	},
 	"frequency": {
 		"mean": 2138,

@@ -1,14 +1,22 @@
 {
 	"kanji": "漆",
-	"meanings": ["lacquer", "varnish", "seven"],
+	"meanings": [
+		"lacquer",
+		"varnish",
+		"seven"
+	],
 	"keyword": "lacquer",
 	"onyomi": {
-		"frequent": ["シツ"],
+		"frequent": [
+			"シツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うるし"],
+		"frequent": [
+			"うるし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,30 @@
 {
 	"kanji": "晒",
-	"meanings": ["bleach", "refine", "expose", "air"],
+	"meanings": [
+		"bleach",
+		"refine",
+		"expose",
+		"air"
+	],
 	"keyword": "bleaching",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サイ", "シ"]
+		"rare": [
+			"サイ",
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さら", "さらし"],
-		"okurigana": ["さら.す"]
+		"rare": [
+			"さら",
+			"さらし"
+		],
+		"okurigana": [
+			"さら.す"
+		]
 	},
 	"frequency": {
 		"mean": 2616,

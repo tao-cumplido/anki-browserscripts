@@ -1,14 +1,22 @@
 {
 	"kanji": "渦",
-	"meanings": ["whirlpool", "eddy", "vortex"],
+	"meanings": [
+		"whirlpool",
+		"eddy",
+		"vortex"
+	],
 	"keyword": "whirlpool",
 	"onyomi": {
-		"frequent": ["カ"],
+		"frequent": [
+			"カ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うず"],
+		"frequent": [
+			"うず"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,35 @@
 {
 	"kanji": "当",
-	"meanings": ["hit", "right", "appropriate", "himself"],
+	"meanings": [
+		"hit",
+		"right",
+		"appropriate",
+		"himself"
+	],
 	"keyword": "hit",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あ"],
+		"frequent": [
+			"あ"
+		],
 		"common": [],
-		"rare": ["まさ"],
-		"okurigana": ["あ.たる", "あ.たり", "あ.てる", "あ.て", "まさ.に", "まさ.にべし"]
+		"rare": [
+			"まさ"
+		],
+		"okurigana": [
+			"あ.たる",
+			"あ.たり",
+			"あ.てる",
+			"あ.て",
+			"まさ.に",
+			"まさ.にべし"
+		]
 	},
 	"frequency": {
 		"mean": 101,

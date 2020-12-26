@@ -1,17 +1,35 @@
 {
 	"kanji": "湛",
-	"meanings": ["fill", "wear (a smile)", "clear", "pure", "dense", "deep"],
+	"meanings": [
+		"fill",
+		"wear (a smile)",
+		"clear",
+		"pure",
+		"dense",
+		"deep"
+	],
 	"keyword": "inundate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["タン", "チン", "ジン", "セン"]
+		"rare": [
+			"タン",
+			"チン",
+			"ジン",
+			"セン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しず", "たた"],
-		"okurigana": ["しず.む", "たた.える"]
+		"rare": [
+			"しず",
+			"たた"
+		],
+		"okurigana": [
+			"しず.む",
+			"たた.える"
+		]
 	},
 	"frequency": {
 		"mean": 2721,

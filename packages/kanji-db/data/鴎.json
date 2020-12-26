@@ -1,16 +1,22 @@
 {
 	"kanji": "鴎",
-	"meanings": ["seagull"],
+	"meanings": [
+		"seagull"
+	],
 	"keyword": "seagull",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["オウ"]
+		"rare": [
+			"オウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かもめ"],
+		"rare": [
+			"かもめ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

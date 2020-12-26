@@ -1,17 +1,30 @@
 {
 	"kanji": "控",
-	"meanings": ["withdraw", "draw in", "hold back", "refrain from", "be moderate"],
+	"meanings": [
+		"withdraw",
+		"draw in",
+		"hold back",
+		"refrain from",
+		"be moderate"
+	],
 	"keyword": "withdraw",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひか"],
+		"frequent": [
+			"ひか"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ひか.える", "ひか.え"]
+		"okurigana": [
+			"ひか.える",
+			"ひか.え"
+		]
 	},
 	"frequency": {
 		"mean": 1641,

@@ -1,9 +1,15 @@
 {
 	"kanji": "准",
-	"meanings": ["quasi-", "semi-", "associate"],
+	"meanings": [
+		"quasi-",
+		"semi-",
+		"associate"
+	],
 	"keyword": "quasi-",
 	"onyomi": {
-		"frequent": ["ジュン"],
+		"frequent": [
+			"ジュン"
+		],
 		"common": [],
 		"rare": []
 	},

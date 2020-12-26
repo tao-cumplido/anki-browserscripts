@@ -1,16 +1,22 @@
 {
 	"kanji": "鉄",
-	"meanings": ["iron"],
+	"meanings": [
+		"iron"
+	],
 	"keyword": "iron",
 	"onyomi": {
-		"frequent": ["テツ"],
+		"frequent": [
+			"テツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くろがね"],
+		"rare": [
+			"くろがね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

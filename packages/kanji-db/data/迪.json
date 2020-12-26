@@ -1,17 +1,32 @@
 {
 	"kanji": "迪",
-	"meanings": ["edify", "way", "path"],
+	"meanings": [
+		"edify",
+		"way",
+		"path"
+	],
 	"keyword": "Way",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テキ"]
+		"rare": [
+			"テキ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みち", "みちび", "すす", "いた"],
-		"okurigana": ["みちび.く", "すす.む", "いた.る"]
+		"rare": [
+			"みち",
+			"みちび",
+			"すす",
+			"いた"
+		],
+		"okurigana": [
+			"みちび.く",
+			"すす.む",
+			"いた.る"
+		]
 	},
 	"frequency": {
 		"mean": 3201,

@@ -1,10 +1,15 @@
 {
 	"kanji": "凩",
-	"meanings": ["wintry wind", "(kokuji)"],
+	"meanings": [
+		"wintry wind",
+		"(kokuji)"
+	],
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こがらし"],
+		"rare": [
+			"こがらし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

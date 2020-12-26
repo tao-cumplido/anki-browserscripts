@@ -1,16 +1,28 @@
 {
 	"kanji": "儼",
-	"meanings": ["serious", "untouched", "solemnly", "majestically"],
+	"meanings": [
+		"serious",
+		"untouched",
+		"solemnly",
+		"majestically"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゲン"]
+		"rare": [
+			"ゲン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いかめ", "おごそか"],
-		"okurigana": ["いかめ.しい"]
+		"rare": [
+			"いかめ",
+			"おごそか"
+		],
+		"okurigana": [
+			"いかめ.しい"
+		]
 	},
 	"frequency": {
 		"mean": 4012,

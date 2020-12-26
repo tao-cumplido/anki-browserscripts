@@ -1,17 +1,28 @@
 {
 	"kanji": "錆",
-	"meanings": ["rust", "tarnish"],
+	"meanings": [
+		"rust",
+		"tarnish"
+	],
 	"keyword": "rust",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ", "セイ"]
+		"rare": [
+			"ショウ",
+			"セイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さび", "くわ"],
-		"okurigana": ["くわ.しい"]
+		"rare": [
+			"さび",
+			"くわ"
+		],
+		"okurigana": [
+			"くわ.しい"
+		]
 	},
 	"frequency": {
 		"mean": 2926,

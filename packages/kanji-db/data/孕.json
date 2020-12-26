@@ -1,17 +1,25 @@
 {
 	"kanji": "孕",
-	"meanings": ["become pregnant"],
+	"meanings": [
+		"become pregnant"
+	],
 	"keyword": "expecting",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヨウ"]
+		"rare": [
+			"ヨウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はら"],
-		"okurigana": ["はら.む"]
+		"rare": [
+			"はら"
+		],
+		"okurigana": [
+			"はら.む"
+		]
 	},
 	"frequency": {
 		"mean": 3103,

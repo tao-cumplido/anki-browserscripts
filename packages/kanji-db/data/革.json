@@ -1,14 +1,23 @@
 {
 	"kanji": "革",
-	"meanings": ["leather", "skin", "reform", "become serious"],
+	"meanings": [
+		"leather",
+		"skin",
+		"reform",
+		"become serious"
+	],
 	"keyword": "leather",
 	"onyomi": {
-		"frequent": ["カク"],
+		"frequent": [
+			"カク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かわ"],
+		"frequent": [
+			"かわ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,14 +1,20 @@
 {
 	"kanji": "糸",
-	"meanings": ["thread"],
+	"meanings": [
+		"thread"
+	],
 	"keyword": "thread",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いと"],
+		"frequent": [
+			"いと"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

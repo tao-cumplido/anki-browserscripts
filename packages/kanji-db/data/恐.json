@@ -1,17 +1,33 @@
 {
 	"kanji": "恐",
-	"meanings": ["fear", "dread", "awe"],
+	"meanings": [
+		"fear",
+		"dread",
+		"awe"
+	],
 	"keyword": "fear",
 	"onyomi": {
-		"frequent": ["キョウ"],
+		"frequent": [
+			"キョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おそ"],
+		"frequent": [
+			"おそ"
+		],
 		"common": [],
-		"rare": ["こわ"],
-		"okurigana": ["おそ.れる", "おそ.る", "おそ.ろしい", "こわ.い", "こわ.がる"]
+		"rare": [
+			"こわ"
+		],
+		"okurigana": [
+			"おそ.れる",
+			"おそ.る",
+			"おそ.ろしい",
+			"こわ.い",
+			"こわ.がる"
+		]
 	},
 	"frequency": {
 		"mean": 1013,

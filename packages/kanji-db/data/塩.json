@@ -1,14 +1,20 @@
 {
 	"kanji": "塩",
-	"meanings": ["salt"],
+	"meanings": [
+		"salt"
+	],
 	"keyword": "salt",
 	"onyomi": {
-		"frequent": ["エン"],
+		"frequent": [
+			"エン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["しお"],
+		"frequent": [
+			"しお"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

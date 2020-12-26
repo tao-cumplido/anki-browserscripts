@@ -1,17 +1,29 @@
 {
 	"kanji": "座",
-	"meanings": ["squat", "seat", "cushion", "gathering", "sit"],
+	"meanings": [
+		"squat",
+		"seat",
+		"cushion",
+		"gathering",
+		"sit"
+	],
 	"keyword": "sit",
 	"onyomi": {
-		"frequent": ["ザ"],
+		"frequent": [
+			"ザ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["すわ"],
+		"frequent": [
+			"すわ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["すわ.る"]
+		"okurigana": [
+			"すわ.る"
+		]
 	},
 	"frequency": {
 		"mean": 392,

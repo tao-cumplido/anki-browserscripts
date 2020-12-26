@@ -1,11 +1,24 @@
 {
 	"kanji": "仁",
-	"meanings": ["humanity", "virtue", "benevolence", "charity", "man", "kernel"],
+	"meanings": [
+		"humanity",
+		"virtue",
+		"benevolence",
+		"charity",
+		"man",
+		"kernel"
+	],
 	"keyword": "humanity",
 	"onyomi": {
-		"frequent": ["ジン"],
-		"common": ["ニ"],
-		"rare": ["ニン"]
+		"frequent": [
+			"ジン"
+		],
+		"common": [
+			"ニ"
+		],
+		"rare": [
+			"ニン"
+		]
 	},
 	"frequency": {
 		"mean": 890,

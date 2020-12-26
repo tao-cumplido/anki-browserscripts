@@ -1,16 +1,24 @@
 {
 	"kanji": "絃",
-	"meanings": ["string", "cord", "samisen music"],
+	"meanings": [
+		"string",
+		"cord",
+		"samisen music"
+	],
 	"keyword": "catgut",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゲン"]
+		"rare": [
+			"ゲン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いと"],
+		"rare": [
+			"いと"
+		],
 		"okurigana": []
 	},
 	"frequency": {

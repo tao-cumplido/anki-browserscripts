@@ -1,14 +1,20 @@
 {
 	"kanji": "尼",
-	"meanings": ["nun"],
+	"meanings": [
+		"nun"
+	],
 	"keyword": "nun",
 	"onyomi": {
-		"frequent": ["ニ"],
+		"frequent": [
+			"ニ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あま"],
+		"frequent": [
+			"あま"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

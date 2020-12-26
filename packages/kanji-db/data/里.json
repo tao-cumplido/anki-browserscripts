@@ -1,14 +1,23 @@
 {
 	"kanji": "里",
-	"meanings": ["ri", "village", "parent's home", "league"],
+	"meanings": [
+		"ri",
+		"village",
+		"parent's home",
+		"league"
+	],
 	"keyword": "ri",
 	"onyomi": {
-		"frequent": ["リ"],
+		"frequent": [
+			"リ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さと"],
+		"frequent": [
+			"さと"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

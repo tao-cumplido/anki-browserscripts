@@ -1,17 +1,30 @@
 {
 	"kanji": "説",
-	"meanings": ["opinion", "theory", "explanation", "rumor"],
+	"meanings": [
+		"opinion",
+		"theory",
+		"explanation",
+		"rumor"
+	],
 	"keyword": "explanation",
 	"onyomi": {
-		"frequent": ["セツ"],
-		"common": ["ゼイ"],
+		"frequent": [
+			"セツ"
+		],
+		"common": [
+			"ゼイ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["と"],
+		"frequent": [
+			"と"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["と.く"]
+		"okurigana": [
+			"と.く"
+		]
 	},
 	"frequency": {
 		"mean": 236,

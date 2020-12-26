@@ -1,16 +1,25 @@
 {
 	"kanji": "壕",
-	"meanings": ["trench", "dugout", "air raid shelter"],
+	"meanings": [
+		"trench",
+		"dugout",
+		"air raid shelter"
+	],
 	"keyword": "dugout",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ", "ゴウ"]
+		"rare": [
+			"コウ",
+			"ゴウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほり"],
+		"rare": [
+			"ほり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

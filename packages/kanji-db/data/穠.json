@@ -1,0 +1,30 @@
+{
+	"kanji": "穠",
+	"meanings": [
+		"thick",
+		"lush",
+		"in clusters"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ジョウ",
+			"ニュ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"しげ"
+		],
+		"rare": [],
+		"okurigana": [
+			"しげ.る"
+		]
+	},
+	"frequency": {
+		"mean": 4505,
+		"wikipedia": 4196
+	}
+}

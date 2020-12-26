@@ -1,17 +1,32 @@
 {
 	"kanji": "騒",
-	"meanings": ["boisterous", "make noise", "clamor", "disturb", "excite"],
+	"meanings": [
+		"boisterous",
+		"make noise",
+		"clamor",
+		"disturb",
+		"excite"
+	],
 	"keyword": "boisterous",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さわ"],
+		"frequent": [
+			"さわ"
+		],
 		"common": [],
-		"rare": ["うれい"],
-		"okurigana": ["さわ.ぐ", "さわ.がしい"]
+		"rare": [
+			"うれい"
+		],
+		"okurigana": [
+			"さわ.ぐ",
+			"さわ.がしい"
+		]
 	},
 	"frequency": {
 		"mean": 1397,

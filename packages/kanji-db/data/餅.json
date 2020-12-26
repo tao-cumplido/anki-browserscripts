@@ -1,16 +1,26 @@
 {
 	"kanji": "餅",
-	"meanings": ["mochi rice cake"],
+	"meanings": [
+		"mochi rice cake"
+	],
 	"keyword": "mochi",
 	"onyomi": {
-		"frequent": ["ヘイ"],
+		"frequent": [
+			"ヘイ"
+		],
 		"common": [],
-		"rare": ["ヒョウ"]
+		"rare": [
+			"ヒョウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["もち"],
+		"frequent": [
+			"もち"
+		],
 		"common": [],
-		"rare": ["もちい"],
+		"rare": [
+			"もちい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

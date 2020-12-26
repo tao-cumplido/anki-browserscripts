@@ -1,16 +1,26 @@
 {
 	"kanji": "之",
-	"meanings": ["of", "this"],
+	"meanings": [
+		"of",
+		"this"
+	],
 	"keyword": "of",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["の", "これ", "ゆく", "この"],
+		"rare": [
+			"の",
+			"これ",
+			"ゆく",
+			"この"
+		],
 		"okurigana": []
 	},
 	"frequency": {

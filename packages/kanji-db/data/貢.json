@@ -1,17 +1,29 @@
 {
 	"kanji": "貢",
-	"meanings": ["tribute", "support", "finance"],
+	"meanings": [
+		"tribute",
+		"support",
+		"finance"
+	],
 	"keyword": "tribute",
 	"onyomi": {
-		"frequent": ["コウ"],
-		"common": ["ク"],
+		"frequent": [
+			"コウ"
+		],
+		"common": [
+			"ク"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みつ"],
+		"frequent": [
+			"みつ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["みつ.ぐ"]
+		"okurigana": [
+			"みつ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 1403,

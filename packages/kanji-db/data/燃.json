@@ -1,17 +1,29 @@
 {
 	"kanji": "燃",
-	"meanings": ["burn", "blaze", "glow"],
+	"meanings": [
+		"burn",
+		"blaze",
+		"glow"
+	],
 	"keyword": "burn",
 	"onyomi": {
-		"frequent": ["ネン"],
+		"frequent": [
+			"ネン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["も"],
+		"frequent": [
+			"も"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["も.える", "も.やす", "も.す"]
+		"okurigana": [
+			"も.える",
+			"も.やす",
+			"も.す"
+		]
 	},
 	"frequency": {
 		"mean": 1122,

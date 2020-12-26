@@ -1,17 +1,30 @@
 {
 	"kanji": "浮",
-	"meanings": ["floating", "float", "rise to surface"],
+	"meanings": [
+		"floating",
+		"float",
+		"rise to surface"
+	],
 	"keyword": "floating",
 	"onyomi": {
-		"frequent": ["フ"],
+		"frequent": [
+			"フ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["う"],
+		"frequent": [
+			"う"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["う.く", "う.かれる", "う.かぶ", "う.かべる"]
+		"okurigana": [
+			"う.く",
+			"う.かれる",
+			"う.かぶ",
+			"う.かべる"
+		]
 	},
 	"frequency": {
 		"mean": 1117,

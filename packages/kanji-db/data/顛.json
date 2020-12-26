@@ -1,17 +1,28 @@
 {
 	"kanji": "顛",
-	"meanings": ["overturn", "summit", "origin"],
+	"meanings": [
+		"overturn",
+		"summit",
+		"origin"
+	],
 	"keyword": "overturn",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テン"]
+		"rare": [
+			"テン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いただき", "たお"],
-		"okurigana": ["たお.れる"]
+		"rare": [
+			"いただき",
+			"たお"
+		],
+		"okurigana": [
+			"たお.れる"
+		]
 	},
 	"frequency": {
 		"mean": 3005,

@@ -1,17 +1,32 @@
 {
 	"kanji": "保",
-	"meanings": ["protect", "guarantee", "keep", "preserve", "sustain", "support"],
+	"meanings": [
+		"protect",
+		"guarantee",
+		"keep",
+		"preserve",
+		"sustain",
+		"support"
+	],
 	"keyword": "protect",
 	"onyomi": {
-		"frequent": ["ホ"],
+		"frequent": [
+			"ホ"
+		],
 		"common": [],
-		"rare": ["ホウ"]
+		"rare": [
+			"ホウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["たも"],
+		"frequent": [
+			"たも"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["たも.つ"]
+		"okurigana": [
+			"たも.つ"
+		]
 	},
 	"frequency": {
 		"mean": 199,

@@ -1,17 +1,28 @@
 {
 	"kanji": "囚",
-	"meanings": ["captured", "criminal", "arrest", "catch"],
+	"meanings": [
+		"captured",
+		"criminal",
+		"arrest",
+		"catch"
+	],
 	"keyword": "captured",
 	"onyomi": {
-		"frequent": ["シュウ"],
+		"frequent": [
+			"シュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とら"],
-		"okurigana": ["とら.われる"]
+		"rare": [
+			"とら"
+		],
+		"okurigana": [
+			"とら.われる"
+		]
 	},
 	"frequency": {
 		"mean": 1963,

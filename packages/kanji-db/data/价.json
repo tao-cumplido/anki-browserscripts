@@ -1,10 +1,14 @@
 {
 	"kanji": "价",
-	"meanings": ["man with shellfish kanji"],
+	"meanings": [
+		"man with shellfish kanji"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カイ"]
+		"rare": [
+			"カイ"
+		]
 	},
 	"frequency": {
 		"mean": 4291,

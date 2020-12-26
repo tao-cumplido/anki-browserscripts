@@ -1,17 +1,33 @@
 {
 	"kanji": "漱",
-	"meanings": ["gargle", "rinse mouth"],
+	"meanings": [
+		"gargle",
+		"rinse mouth"
+	],
 	"keyword": "gargle",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ", "シュウ", "ス"]
+		"rare": [
+			"ソウ",
+			"シュウ",
+			"ス"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くちすす", "くちそそ", "うがい", "すす"],
-		"okurigana": ["くちすす.ぐ", "くちそそ.ぐ", "すす.ぐ"]
+		"rare": [
+			"くちすす",
+			"くちそそ",
+			"うがい",
+			"すす"
+		],
+		"okurigana": [
+			"くちすす.ぐ",
+			"くちそそ.ぐ",
+			"すす.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 2604,

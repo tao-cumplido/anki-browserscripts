@@ -1,16 +1,25 @@
 {
 	"kanji": "獣",
-	"meanings": ["animal", "beast"],
+	"meanings": [
+		"animal",
+		"beast"
+	],
 	"keyword": "animal",
 	"onyomi": {
-		"frequent": ["ジュウ"],
+		"frequent": [
+			"ジュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["けもの"],
+		"frequent": [
+			"けもの"
+		],
 		"common": [],
-		"rare": ["けだもの"],
+		"rare": [
+			"けだもの"
+		],
 		"okurigana": []
 	},
 	"frequency": {

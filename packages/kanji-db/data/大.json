@@ -1,17 +1,28 @@
 {
 	"kanji": "大",
-	"meanings": ["large", "big"],
+	"meanings": [
+		"large",
+		"big"
+	],
 	"keyword": "large",
 	"onyomi": {
-		"frequent": ["ダイ", "タイ"],
+		"frequent": [
+			"ダイ",
+			"タイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おお"],
+		"frequent": [
+			"おお"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おお.きい", "おお.いに"]
+		"okurigana": [
+			"おお.きい",
+			"おお.いに"
+		]
 	},
 	"frequency": {
 		"mean": 4,

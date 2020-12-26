@@ -1,16 +1,26 @@
 {
 	"kanji": "火",
-	"meanings": ["fire"],
+	"meanings": [
+		"fire"
+	],
 	"keyword": "fire",
 	"onyomi": {
-		"frequent": ["カ"],
+		"frequent": [
+			"カ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひ"],
-		"common": ["ほ"],
-		"rare": ["び"],
+		"frequent": [
+			"ひ"
+		],
+		"common": [
+			"ほ"
+		],
+		"rare": [
+			"び"
+		],
 		"okurigana": []
 	},
 	"frequency": {

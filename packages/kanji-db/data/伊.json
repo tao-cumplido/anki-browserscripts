@@ -1,16 +1,23 @@
 {
 	"kanji": "伊",
-	"meanings": ["Italy", "that one"],
+	"meanings": [
+		"Italy",
+		"that one"
+	],
 	"keyword": "Italy",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["イ"]
+		"rare": [
+			"イ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かれ"],
+		"rare": [
+			"かれ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

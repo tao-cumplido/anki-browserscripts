@@ -1,17 +1,28 @@
 {
 	"kanji": "専",
-	"meanings": ["specialty", "exclusive", "mainly", "solely"],
+	"meanings": [
+		"specialty",
+		"exclusive",
+		"mainly",
+		"solely"
+	],
 	"keyword": "specialty",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["もっぱ"],
+		"frequent": [
+			"もっぱ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["もっぱ.ら"]
+		"okurigana": [
+			"もっぱ.ら"
+		]
 	},
 	"frequency": {
 		"mean": 502,

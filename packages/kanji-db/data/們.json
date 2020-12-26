@@ -1,15 +1,21 @@
 {
 	"kanji": "們",
-	"meanings": ["plural suffix"],
+	"meanings": [
+		"plural suffix"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["モン"]
+		"rare": [
+			"モン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ともがら"],
+		"rare": [
+			"ともがら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

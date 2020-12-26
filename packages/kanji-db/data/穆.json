@@ -1,17 +1,28 @@
 {
 	"kanji": "穆",
-	"meanings": ["respectful", "mild", "beautiful"],
+	"meanings": [
+		"respectful",
+		"mild",
+		"beautiful"
+	],
 	"keyword": "obeisant",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ボク", "モク"]
+		"rare": [
+			"ボク",
+			"モク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["やわ"],
-		"okurigana": ["やわ.らぐ"]
+		"rare": [
+			"やわ"
+		],
+		"okurigana": [
+			"やわ.らぐ"
+		]
 	},
 	"frequency": {
 		"mean": 2938,

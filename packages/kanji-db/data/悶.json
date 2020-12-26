@@ -1,17 +1,28 @@
 {
 	"kanji": "悶",
-	"meanings": ["be in agony", "worry"],
+	"meanings": [
+		"be in agony",
+		"worry"
+	],
 	"keyword": "agony",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["モン"]
+		"rare": [
+			"モン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["もだ", "もだえ"],
-		"okurigana": ["もだ.える", "もだえ.る"]
+		"rare": [
+			"もだ",
+			"もだえ"
+		],
+		"okurigana": [
+			"もだ.える",
+			"もだえ.る"
+		]
 	},
 	"frequency": {
 		"mean": 2560,

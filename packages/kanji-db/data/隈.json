@@ -1,16 +1,26 @@
 {
 	"kanji": "隈",
-	"meanings": ["corner", "nook", "recess"],
+	"meanings": [
+		"corner",
+		"nook",
+		"recess"
+	],
 	"keyword": "nook",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ワイ", "エ"]
+		"rare": [
+			"ワイ",
+			"エ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くま", "すみ"],
+		"rare": [
+			"くま",
+			"すみ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

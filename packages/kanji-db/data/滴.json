@@ -1,17 +1,27 @@
 {
 	"kanji": "滴",
-	"meanings": ["drip", "drop"],
+	"meanings": [
+		"drip",
+		"drop"
+	],
 	"keyword": "drip",
 	"onyomi": {
-		"frequent": ["テキ"],
+		"frequent": [
+			"テキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["しずく", "したた"],
+		"frequent": [
+			"しずく",
+			"したた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["したた.る"]
+		"okurigana": [
+			"したた.る"
+		]
 	},
 	"frequency": {
 		"mean": 2392,

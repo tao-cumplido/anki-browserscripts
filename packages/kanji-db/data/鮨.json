@@ -1,16 +1,24 @@
 {
 	"kanji": "鮨",
-	"meanings": ["sushi", "seasoned rice"],
+	"meanings": [
+		"sushi",
+		"seasoned rice"
+	],
 	"keyword": "sushi",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ", "キ"]
+		"rare": [
+			"シ",
+			"キ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すし"],
+		"rare": [
+			"すし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

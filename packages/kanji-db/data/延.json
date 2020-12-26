@@ -1,17 +1,29 @@
 {
 	"kanji": "延",
-	"meanings": ["prolong", "stretching"],
+	"meanings": [
+		"prolong",
+		"stretching"
+	],
 	"keyword": "prolong",
 	"onyomi": {
-		"frequent": ["エン"],
+		"frequent": [
+			"エン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["の"],
+		"frequent": [
+			"の"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["の.びる", "の.べる", "の.べ", "の.ばす"]
+		"okurigana": [
+			"の.びる",
+			"の.べる",
+			"の.べ",
+			"の.ばす"
+		]
 	},
 	"frequency": {
 		"mean": 768,

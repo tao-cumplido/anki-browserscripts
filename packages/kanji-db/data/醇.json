@@ -1,16 +1,27 @@
 {
 	"kanji": "醇",
-	"meanings": ["pure sake", "purity", "affection"],
+	"meanings": [
+		"pure sake",
+		"purity",
+		"affection"
+	],
 	"keyword": "strong sake",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジュン", "シュン"]
+		"rare": [
+			"ジュン",
+			"シュン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["もっぱら", "こい", "あつい"],
+		"rare": [
+			"もっぱら",
+			"こい",
+			"あつい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

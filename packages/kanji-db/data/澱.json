@@ -1,17 +1,33 @@
 {
 	"kanji": "澱",
-	"meanings": ["sediment", "grounds", "dregs", "stagnant"],
+	"meanings": [
+		"sediment",
+		"grounds",
+		"dregs",
+		"stagnant"
+	],
 	"keyword": "sediment",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["デン", "テン"]
+		"rare": [
+			"デン",
+			"テン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おり", "ど", "よど"],
-		"okurigana": ["ど.ろ", "よど.み", "よど.む"]
+		"rare": [
+			"おり",
+			"ど",
+			"よど"
+		],
+		"okurigana": [
+			"ど.ろ",
+			"よど.み",
+			"よど.む"
+		]
 	},
 	"frequency": {
 		"mean": 3408,

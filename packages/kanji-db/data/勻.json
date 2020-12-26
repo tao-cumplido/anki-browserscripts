@@ -1,0 +1,29 @@
+{
+	"kanji": "勻",
+	"meanings": [
+		"equal",
+		"impartially",
+		"uniform",
+		"even"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"イン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"すくない",
+			"ひとしい"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4529,
+		"wikipedia": 4220
+	}
+}

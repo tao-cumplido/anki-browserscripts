@@ -1,0 +1,29 @@
+{
+	"kanji": "碞",
+	"meanings": [
+		"room made of stone",
+		"watch-tower"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ガン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"いわ",
+			"けわ"
+		],
+		"rare": [],
+		"okurigana": [
+			"けわ.しい"
+		]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

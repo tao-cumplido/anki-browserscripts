@@ -1,0 +1,30 @@
+{
+	"kanji": "寬",
+	"meanings": [
+		"broad",
+		"wide",
+		"spacious",
+		"vast"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": [
+			"カン"
+		]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": [
+			"ひろい",
+			"ゆるやか",
+			"くつろぐ"
+		],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4045,
+		"wikipedia": 3738
+	}
+}

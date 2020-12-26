@@ -1,0 +1,31 @@
+{
+	"kanji": "諟",
+	"meanings": [
+		"to examine",
+		"to consider",
+		"honest"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"シ",
+			"テイ",
+			"タイ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ただ"
+		],
+		"rare": [],
+		"okurigana": [
+			"ただ.す"
+		]
+	},
+	"frequency": {
+		"mean": 4503,
+		"wikipedia": 4194
+	}
+}

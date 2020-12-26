@@ -1,17 +1,32 @@
 {
 	"kanji": "可",
-	"meanings": ["can", "passable", "mustn't", "should not", "do not"],
+	"meanings": [
+		"can",
+		"passable",
+		"mustn't",
+		"should not",
+		"do not"
+	],
 	"keyword": "can",
 	"onyomi": {
-		"frequent": ["カ"],
+		"frequent": [
+			"カ"
+		],
 		"common": [],
-		"rare": ["コク"]
+		"rare": [
+			"コク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["べ"],
-		"okurigana": ["べ.き", "べ.し"]
+		"rare": [
+			"べ"
+		],
+		"okurigana": [
+			"べ.き",
+			"べ.し"
+		]
 	},
 	"frequency": {
 		"mean": 333,

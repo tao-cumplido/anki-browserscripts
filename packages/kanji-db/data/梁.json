@@ -1,16 +1,29 @@
 {
 	"kanji": "梁",
-	"meanings": ["weir", "fish trap", "beam", "girder"],
+	"meanings": [
+		"weir",
+		"fish trap",
+		"beam",
+		"girder"
+	],
 	"keyword": "roofbeam",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リョウ"]
+		"rare": [
+			"リョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はり", "うつばり", "うちばり", "やな", "はし"],
+		"rare": [
+			"はり",
+			"うつばり",
+			"うちばり",
+			"やな",
+			"はし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

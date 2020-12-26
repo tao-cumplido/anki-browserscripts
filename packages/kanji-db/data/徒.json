@@ -1,16 +1,33 @@
 {
 	"kanji": "徒",
-	"meanings": ["on foot", "junior", "emptiness", "vanity", "futility", "uselessness", "ephemeral thing", "gang", "set", "party", "people"],
+	"meanings": [
+		"on foot",
+		"junior",
+		"emptiness",
+		"vanity",
+		"futility",
+		"uselessness",
+		"ephemeral thing",
+		"gang",
+		"set",
+		"party",
+		"people"
+	],
 	"keyword": "junior",
 	"onyomi": {
-		"frequent": ["ト"],
+		"frequent": [
+			"ト"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いたずら", "あだ"],
+		"rare": [
+			"いたずら",
+			"あだ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

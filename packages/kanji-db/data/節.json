@@ -1,16 +1,40 @@
 {
 	"kanji": "節",
-	"meanings": ["node", "season", "period", "occasion", "verse", "clause", "stanza", "honor", "joint", "knuckle", "knob", "knot", "tune", "melody"],
+	"meanings": [
+		"node",
+		"season",
+		"period",
+		"occasion",
+		"verse",
+		"clause",
+		"stanza",
+		"honor",
+		"joint",
+		"knuckle",
+		"knob",
+		"knot",
+		"tune",
+		"melody"
+	],
 	"keyword": "node",
 	"onyomi": {
-		"frequent": ["セツ"],
-		"common": ["セチ"],
+		"frequent": [
+			"セツ"
+		],
+		"common": [
+			"セチ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふし"],
+		"frequent": [
+			"ふし"
+		],
 		"common": [],
-		"rare": ["ぶし", "のっと"],
+		"rare": [
+			"ぶし",
+			"のっと"
+		],
 		"okurigana": []
 	},
 	"frequency": {

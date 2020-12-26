@@ -1,16 +1,25 @@
 {
 	"kanji": "魂",
-	"meanings": ["soul", "spirit"],
+	"meanings": [
+		"soul",
+		"spirit"
+	],
 	"keyword": "soul",
 	"onyomi": {
-		"frequent": ["コン"],
+		"frequent": [
+			"コン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たましい"],
+		"frequent": [
+			"たましい"
+		],
 		"common": [],
-		"rare": ["たま"],
+		"rare": [
+			"たま"
+		],
 		"okurigana": []
 	},
 	"frequency": {

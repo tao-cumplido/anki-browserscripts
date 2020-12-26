@@ -1,0 +1,29 @@
+{
+	"kanji": "牓",
+	"meanings": [
+		"tablet",
+		"public notice",
+		"register"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ホウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"かじ",
+			"たてふだ",
+			"ふだ"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4492,
+		"wikipedia": 4183
+	}
+}

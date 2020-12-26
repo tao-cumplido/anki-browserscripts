@@ -1,17 +1,28 @@
 {
 	"kanji": "訴",
-	"meanings": ["accusation", "sue", "complain of pain", "appeal to"],
+	"meanings": [
+		"accusation",
+		"sue",
+		"complain of pain",
+		"appeal to"
+	],
 	"keyword": "accusation",
 	"onyomi": {
-		"frequent": ["ソ"],
+		"frequent": [
+			"ソ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うった"],
+		"frequent": [
+			"うった"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["うった.える"]
+		"okurigana": [
+			"うった.える"
+		]
 	},
 	"frequency": {
 		"mean": 1141,

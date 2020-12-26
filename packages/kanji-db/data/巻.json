@@ -1,17 +1,38 @@
 {
 	"kanji": "巻",
-	"meanings": ["scroll", "volume", "book", "part", "roll up", "wind up", "tie", "coil", "counter for texts (or book scrolls)"],
+	"meanings": [
+		"scroll",
+		"volume",
+		"book",
+		"part",
+		"roll up",
+		"wind up",
+		"tie",
+		"coil",
+		"counter for texts (or book scrolls)"
+	],
 	"keyword": "scroll",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
-		"rare": ["ケン"]
+		"rare": [
+			"ケン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ま"],
+		"frequent": [
+			"ま"
+		],
 		"common": [],
-		"rare": ["まき"],
-		"okurigana": ["ま.く", "ま.き"]
+		"rare": [
+			"まき"
+		],
+		"okurigana": [
+			"ま.く",
+			"ま.き"
+		]
 	},
 	"frequency": {
 		"mean": 433,

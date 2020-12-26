@@ -1,17 +1,30 @@
 {
 	"kanji": "飲",
-	"meanings": ["drink", "smoke", "take"],
+	"meanings": [
+		"drink",
+		"smoke",
+		"take"
+	],
 	"keyword": "drink",
 	"onyomi": {
-		"frequent": ["イン"],
+		"frequent": [
+			"イン"
+		],
 		"common": [],
-		"rare": ["オン"]
+		"rare": [
+			"オン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["の"],
+		"frequent": [
+			"の"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["の.む", "の.み"]
+		"okurigana": [
+			"の.む",
+			"の.み"
+		]
 	},
 	"frequency": {
 		"mean": 1107,

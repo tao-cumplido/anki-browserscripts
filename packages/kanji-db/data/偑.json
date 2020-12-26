@@ -4,7 +4,10 @@
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フウ", "フ"]
+		"rare": [
+			"フウ",
+			"フ"
+		]
 	},
 	"frequency": {
 		"mean": 4542,

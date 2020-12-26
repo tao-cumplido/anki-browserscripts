@@ -1,17 +1,33 @@
 {
 	"kanji": "縮",
-	"meanings": ["shrink", "contract", "shrivel", "wrinkle", "reduce"],
+	"meanings": [
+		"shrink",
+		"contract",
+		"shrivel",
+		"wrinkle",
+		"reduce"
+	],
 	"keyword": "shrink",
 	"onyomi": {
-		"frequent": ["シュク"],
+		"frequent": [
+			"シュク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ちぢ"],
+		"frequent": [
+			"ちぢ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ちぢ.む", "ちぢ.まる", "ちぢ.める", "ちぢ.れる", "ちぢ.らす"]
+		"okurigana": [
+			"ちぢ.む",
+			"ちぢ.まる",
+			"ちぢ.める",
+			"ちぢ.れる",
+			"ちぢ.らす"
+		]
 	},
 	"frequency": {
 		"mean": 1185,

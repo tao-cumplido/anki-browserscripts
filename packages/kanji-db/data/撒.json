@@ -1,17 +1,28 @@
 {
 	"kanji": "撒",
-	"meanings": ["scatter", "sprinkle", "give them the slip"],
+	"meanings": [
+		"scatter",
+		"sprinkle",
+		"give them the slip"
+	],
 	"keyword": "sprinkle",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サン", "サツ"]
+		"rare": [
+			"サン",
+			"サツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ま"],
-		"okurigana": ["ま.く"]
+		"rare": [
+			"ま"
+		],
+		"okurigana": [
+			"ま.く"
+		]
 	},
 	"frequency": {
 		"mean": 2651,

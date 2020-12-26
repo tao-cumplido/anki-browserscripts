@@ -1,14 +1,21 @@
 {
 	"kanji": "右",
-	"meanings": ["right"],
+	"meanings": [
+		"right"
+	],
 	"keyword": "right",
 	"onyomi": {
-		"frequent": ["ウ", "ユウ"],
+		"frequent": [
+			"ウ",
+			"ユウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みぎ"],
+		"frequent": [
+			"みぎ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

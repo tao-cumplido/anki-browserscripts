@@ -1,16 +1,23 @@
 {
 	"kanji": "蓑",
-	"meanings": ["straw raincoat"],
+	"meanings": [
+		"straw raincoat"
+	],
 	"keyword": "straw raincoat",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サ", "サイ"]
+		"rare": [
+			"サ",
+			"サイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みの"],
+		"rare": [
+			"みの"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,32 @@
 {
 	"kanji": "癒",
-	"meanings": ["healing", "cure", "quench (thirst)", "wreak"],
+	"meanings": [
+		"healing",
+		"cure",
+		"quench (thirst)",
+		"wreak"
+	],
 	"keyword": "healing",
 	"onyomi": {
-		"frequent": ["ユ"],
+		"frequent": [
+			"ユ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["い"],
+		"frequent": [
+			"い"
+		],
 		"common": [],
-		"rare": ["いや"],
-		"okurigana": ["い.える", "いや.す", "い.やす"]
+		"rare": [
+			"いや"
+		],
+		"okurigana": [
+			"い.える",
+			"いや.す",
+			"い.やす"
+		]
 	},
 	"frequency": {
 		"mean": 2048,

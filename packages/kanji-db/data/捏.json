@@ -1,17 +1,32 @@
 {
 	"kanji": "捏",
-	"meanings": ["knead", "mix"],
+	"meanings": [
+		"knead",
+		"mix"
+	],
 	"keyword": "fabrication",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ネツ", "テツ", "ネチ"]
+		"rare": [
+			"ネツ",
+			"テツ",
+			"ネチ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こ", "ね", "つく"],
-		"okurigana": ["こ.ねる", "ね.る", "つく.ねる"]
+		"rare": [
+			"こ",
+			"ね",
+			"つく"
+		],
+		"okurigana": [
+			"こ.ねる",
+			"ね.る",
+			"つく.ねる"
+		]
 	},
 	"frequency": {
 		"mean": 2769,

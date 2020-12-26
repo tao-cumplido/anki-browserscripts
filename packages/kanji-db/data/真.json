@@ -1,16 +1,25 @@
 {
 	"kanji": "真",
-	"meanings": ["reality", "Buddhist sect"],
+	"meanings": [
+		"reality",
+		"Buddhist sect"
+	],
 	"keyword": "true",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ま"],
+		"frequent": [
+			"ま"
+		],
 		"common": [],
-		"rare": ["まこと"],
+		"rare": [
+			"まこと"
+		],
 		"okurigana": []
 	},
 	"frequency": {

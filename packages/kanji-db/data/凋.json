@@ -1,17 +1,27 @@
 {
 	"kanji": "凋",
-	"meanings": ["wither", "droop", "lame"],
+	"meanings": [
+		"wither",
+		"droop",
+		"lame"
+	],
 	"keyword": "wilt",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョウ"]
+		"rare": [
+			"チョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しぼ"],
-		"okurigana": ["しぼ.む"]
+		"rare": [
+			"しぼ"
+		],
+		"okurigana": [
+			"しぼ.む"
+		]
 	},
 	"frequency": {
 		"mean": 3508,

@@ -1,17 +1,27 @@
 {
 	"kanji": "迎",
-	"meanings": ["welcome", "meet", "greet"],
+	"meanings": [
+		"welcome",
+		"meet",
+		"greet"
+	],
 	"keyword": "welcome",
 	"onyomi": {
-		"frequent": ["ゲイ"],
+		"frequent": [
+			"ゲイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["むか"],
+		"frequent": [
+			"むか"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["むか.える"]
+		"okurigana": [
+			"むか.える"
+		]
 	},
 	"frequency": {
 		"mean": 1098,

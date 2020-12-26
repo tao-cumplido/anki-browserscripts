@@ -1,16 +1,29 @@
 {
 	"kanji": "臆",
-	"meanings": ["timidity", "heart", "mind", "fear", "cowardly"],
+	"meanings": [
+		"timidity",
+		"heart",
+		"mind",
+		"fear",
+		"cowardly"
+	],
 	"keyword": "cowardice",
 	"onyomi": {
-		"frequent": ["オク"],
+		"frequent": [
+			"オク"
+		],
 		"common": [],
-		"rare": ["ヨク"]
+		"rare": [
+			"ヨク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["むね", "おくする"],
+		"rare": [
+			"むね",
+			"おくする"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,26 @@
 {
 	"kanji": "売",
-	"meanings": ["sell"],
+	"meanings": [
+		"sell"
+	],
 	"keyword": "sell",
 	"onyomi": {
-		"frequent": ["バイ"],
+		"frequent": [
+			"バイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["う"],
+		"frequent": [
+			"う"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["う.る", "う.れる"]
+		"okurigana": [
+			"う.る",
+			"う.れる"
+		]
 	},
 	"frequency": {
 		"mean": 205,

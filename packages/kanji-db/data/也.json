@@ -1,16 +1,25 @@
 {
 	"kanji": "也",
-	"meanings": ["to be (classical)"],
+	"meanings": [
+		"to be (classical)"
+	],
 	"keyword": "est",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヤ", "エ"]
+		"rare": [
+			"ヤ",
+			"エ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なり", "か", "また"],
+		"rare": [
+			"なり",
+			"か",
+			"また"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,27 @@
 {
 	"kanji": "憾",
-	"meanings": ["remorse", "regret", "be sorry"],
+	"meanings": [
+		"remorse",
+		"regret",
+		"be sorry"
+	],
 	"keyword": "remorse",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うら"],
-		"okurigana": ["うら.む"]
+		"rare": [
+			"うら"
+		],
+		"okurigana": [
+			"うら.む"
+		]
 	},
 	"frequency": {
 		"mean": 2905,

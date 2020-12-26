@@ -1,17 +1,29 @@
 {
 	"kanji": "聘",
-	"meanings": ["invite"],
+	"meanings": [
+		"invite"
+	],
 	"keyword": "summons",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヘイ"]
+		"rare": [
+			"ヘイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["へい", "と", "め"],
-		"okurigana": ["へい.する", "と.う", "め.す"]
+		"rare": [
+			"へい",
+			"と",
+			"め"
+		],
+		"okurigana": [
+			"へい.する",
+			"と.う",
+			"め.す"
+		]
 	},
 	"frequency": {
 		"mean": 2551,

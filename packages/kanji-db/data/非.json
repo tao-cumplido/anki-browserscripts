@@ -1,17 +1,29 @@
 {
 	"kanji": "非",
-	"meanings": ["un-", "mistake", "negative", "injustice", "non-"],
+	"meanings": [
+		"un-",
+		"mistake",
+		"negative",
+		"injustice",
+		"non-"
+	],
 	"keyword": "un-",
 	"onyomi": {
-		"frequent": ["ヒ"],
+		"frequent": [
+			"ヒ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あら"],
-		"okurigana": ["あら.ず"]
+		"rare": [
+			"あら"
+		],
+		"okurigana": [
+			"あら.ず"
+		]
 	},
 	"frequency": {
 		"mean": 626,

@@ -1,15 +1,23 @@
 {
 	"kanji": "儘",
-	"meanings": ["as it is", "because"],
+	"meanings": [
+		"as it is",
+		"because"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジン"]
+		"rare": [
+			"ジン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まま", "ことごとく"],
+		"rare": [
+			"まま",
+			"ことごとく"
+		],
 		"okurigana": []
 	},
 	"frequency": {

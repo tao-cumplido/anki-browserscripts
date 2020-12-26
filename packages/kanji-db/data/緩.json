@@ -1,17 +1,33 @@
 {
 	"kanji": "緩",
-	"meanings": ["slacken", "loosen", "relax", "lessen", "be moderate", "ease"],
+	"meanings": [
+		"slacken",
+		"loosen",
+		"relax",
+		"lessen",
+		"be moderate",
+		"ease"
+	],
 	"keyword": "slacken",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ゆる"],
+		"frequent": [
+			"ゆる"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ゆる.い", "ゆる.やか", "ゆる.む", "ゆる.める"]
+		"okurigana": [
+			"ゆる.い",
+			"ゆる.やか",
+			"ゆる.む",
+			"ゆる.める"
+		]
 	},
 	"frequency": {
 		"mean": 1658,

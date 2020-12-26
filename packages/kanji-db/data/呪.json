@@ -1,17 +1,37 @@
 {
 	"kanji": "呪",
-	"meanings": ["spell", "curse", "charm", "malediction"],
+	"meanings": [
+		"spell",
+		"curse",
+		"charm",
+		"malediction"
+	],
 	"keyword": "curse",
 	"onyomi": {
-		"frequent": ["ジュ"],
+		"frequent": [
+			"ジュ"
+		],
 		"common": [],
-		"rare": ["シュ", "シュウ", "ズ"]
+		"rare": [
+			"シュ",
+			"シュウ",
+			"ズ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["のろ"],
+		"frequent": [
+			"のろ"
+		],
 		"common": [],
-		"rare": ["まじな"],
-		"okurigana": ["まじな.う", "のろ.い", "まじな.い", "のろ.う"]
+		"rare": [
+			"まじな"
+		],
+		"okurigana": [
+			"まじな.う",
+			"のろ.い",
+			"まじな.い",
+			"のろ.う"
+		]
 	},
 	"frequency": {
 		"mean": 1636,

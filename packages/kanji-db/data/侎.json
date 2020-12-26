@@ -1,16 +1,28 @@
 {
 	"kanji": "侎",
-	"meanings": ["to soothe", "to pacify", "to settle", "to establish"],
+	"meanings": [
+		"to soothe",
+		"to pacify",
+		"to settle",
+		"to establish"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ビ", "ミ"],
+		"common": [
+			"ビ",
+			"ミ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["いつく"],
+		"common": [
+			"いつく"
+		],
 		"rare": [],
-		"okurigana": ["いつく.しむ"]
+		"okurigana": [
+			"いつく.しむ"
+		]
 	},
 	"frequency": {
 		"mean": 4542,

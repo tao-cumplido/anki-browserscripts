@@ -1,17 +1,29 @@
 {
 	"kanji": "禅",
-	"meanings": ["Zen", "silent meditation"],
+	"meanings": [
+		"Zen",
+		"silent meditation"
+	],
 	"keyword": "Zen",
 	"onyomi": {
-		"frequent": ["ゼン"],
+		"frequent": [
+			"ゼン"
+		],
 		"common": [],
-		"rare": ["セン"]
+		"rare": [
+			"セン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しずか", "ゆず"],
-		"okurigana": ["ゆず.る"]
+		"rare": [
+			"しずか",
+			"ゆず"
+		],
+		"okurigana": [
+			"ゆず.る"
+		]
 	},
 	"frequency": {
 		"mean": 1752,

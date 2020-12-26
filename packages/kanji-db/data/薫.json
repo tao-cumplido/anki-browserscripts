@@ -1,17 +1,28 @@
 {
 	"kanji": "薫",
-	"meanings": ["send forth fragrance", "fragrant", "be scented", "smoke (tobacco)"],
+	"meanings": [
+		"send forth fragrance",
+		"fragrant",
+		"be scented",
+		"smoke (tobacco)"
+	],
 	"keyword": "fragrant",
 	"onyomi": {
-		"frequent": ["クン"],
+		"frequent": [
+			"クン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かお"],
+		"frequent": [
+			"かお"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かお.る"]
+		"okurigana": [
+			"かお.る"
+		]
 	},
 	"frequency": {
 		"mean": 1683,

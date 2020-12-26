@@ -1,17 +1,26 @@
 {
 	"kanji": "翫",
-	"meanings": ["take pleasure in", "play instrument"],
+	"meanings": [
+		"take pleasure in",
+		"play instrument"
+	],
 	"keyword": "fiddle with",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ガン"]
+		"rare": [
+			"ガン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["もてあそ"],
-		"okurigana": ["もてあそ.ぶ"]
+		"rare": [
+			"もてあそ"
+		],
+		"okurigana": [
+			"もてあそ.ぶ"
+		]
 	},
 	"frequency": {
 		"mean": 3527,

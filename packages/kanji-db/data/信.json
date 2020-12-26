@@ -1,9 +1,16 @@
 {
 	"kanji": "信",
-	"meanings": ["faith", "truth", "fidelity", "trust"],
+	"meanings": [
+		"faith",
+		"truth",
+		"fidelity",
+		"trust"
+	],
 	"keyword": "faith",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},

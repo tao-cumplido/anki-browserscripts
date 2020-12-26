@@ -1,14 +1,21 @@
 {
 	"kanji": "林",
-	"meanings": ["grove", "forest"],
+	"meanings": [
+		"grove",
+		"forest"
+	],
 	"keyword": "grove",
 	"onyomi": {
-		"frequent": ["リン"],
+		"frequent": [
+			"リン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はやし"],
+		"frequent": [
+			"はやし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

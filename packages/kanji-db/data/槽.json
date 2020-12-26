@@ -1,16 +1,24 @@
 {
 	"kanji": "槽",
-	"meanings": ["vat", "tub", "tank"],
+	"meanings": [
+		"vat",
+		"tub",
+		"tank"
+	],
 	"keyword": "vat",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふね"],
+		"rare": [
+			"ふね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

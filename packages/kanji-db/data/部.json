@@ -1,16 +1,29 @@
 {
 	"kanji": "部",
-	"meanings": ["section", "bureau", "dept", "class", "copy", "part", "portion", "counter for copies of a newspaper or magazine"],
+	"meanings": [
+		"section",
+		"bureau",
+		"dept",
+		"class",
+		"copy",
+		"part",
+		"portion",
+		"counter for copies of a newspaper or magazine"
+	],
 	"keyword": "section",
 	"onyomi": {
-		"frequent": ["ブ"],
+		"frequent": [
+			"ブ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["べ"],
+		"rare": [
+			"べ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

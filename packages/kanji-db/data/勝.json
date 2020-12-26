@@ -1,17 +1,36 @@
 {
 	"kanji": "勝",
-	"meanings": ["victory", "win", "prevail", "excel"],
+	"meanings": [
+		"victory",
+		"win",
+		"prevail",
+		"excel"
+	],
 	"keyword": "victory",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["か", "まさ"],
+		"frequent": [
+			"か",
+			"まさ"
+		],
 		"common": [],
-		"rare": ["が", "すぐ", "かつ"],
-		"okurigana": ["か.つ", "が.ち", "まさ.る", "すぐ.れる"]
+		"rare": [
+			"が",
+			"すぐ",
+			"かつ"
+		],
+		"okurigana": [
+			"か.つ",
+			"が.ち",
+			"まさ.る",
+			"すぐ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 163,

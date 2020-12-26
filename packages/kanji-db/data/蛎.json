@@ -1,16 +1,22 @@
 {
 	"kanji": "蛎",
-	"meanings": ["oyster"],
+	"meanings": [
+		"oyster"
+	],
 	"keyword": "oyster",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["レイ"]
+		"rare": [
+			"レイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かき"],
+		"rare": [
+			"かき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

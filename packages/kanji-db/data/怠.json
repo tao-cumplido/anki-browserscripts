@@ -1,17 +1,28 @@
 {
 	"kanji": "怠",
-	"meanings": ["neglect", "laziness"],
+	"meanings": [
+		"neglect",
+		"laziness"
+	],
 	"keyword": "neglect",
 	"onyomi": {
-		"frequent": ["タイ"],
+		"frequent": [
+			"タイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おこた", "なま"],
+		"frequent": [
+			"おこた",
+			"なま"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おこた.る", "なま.ける"]
+		"okurigana": [
+			"おこた.る",
+			"なま.ける"
+		]
 	},
 	"frequency": {
 		"mean": 2348,

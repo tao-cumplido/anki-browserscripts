@@ -1,17 +1,31 @@
 {
 	"kanji": "備",
-	"meanings": ["equip", "provision", "preparation"],
+	"meanings": [
+		"equip",
+		"provision",
+		"preparation"
+	],
 	"keyword": "equip",
 	"onyomi": {
-		"frequent": ["ビ"],
+		"frequent": [
+			"ビ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["そな"],
+		"frequent": [
+			"そな"
+		],
 		"common": [],
-		"rare": ["つぶさ"],
-		"okurigana": ["そな.える", "そな.わる", "つぶさ.に"]
+		"rare": [
+			"つぶさ"
+		],
+		"okurigana": [
+			"そな.える",
+			"そな.わる",
+			"つぶさ.に"
+		]
 	},
 	"frequency": {
 		"mean": 305,

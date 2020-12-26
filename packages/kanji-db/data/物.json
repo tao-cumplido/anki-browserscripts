@@ -1,14 +1,23 @@
 {
 	"kanji": "物",
-	"meanings": ["thing", "object", "matter"],
+	"meanings": [
+		"thing",
+		"object",
+		"matter"
+	],
 	"keyword": "thing",
 	"onyomi": {
-		"frequent": ["ブツ", "モツ"],
+		"frequent": [
+			"ブツ",
+			"モツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["もの"],
+		"frequent": [
+			"もの"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

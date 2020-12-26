@@ -1,16 +1,23 @@
 {
 	"kanji": "巴",
-	"meanings": ["comma-design"],
+	"meanings": [
+		"comma-design"
+	],
 	"keyword": "comma-design",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハ"]
+		"rare": [
+			"ハ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ともえ", "うずまき"],
+		"rare": [
+			"ともえ",
+			"うずまき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

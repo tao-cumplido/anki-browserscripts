@@ -1,17 +1,30 @@
 {
 	"kanji": "吠",
-	"meanings": ["bark", "howl", "cry"],
+	"meanings": [
+		"bark",
+		"howl",
+		"cry"
+	],
 	"keyword": "barking",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハイ", "ベイ"]
+		"rare": [
+			"ハイ",
+			"ベイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほえ", "ほ"],
-		"okurigana": ["ほえ.る", "ほ.える"]
+		"rare": [
+			"ほえ",
+			"ほ"
+		],
+		"okurigana": [
+			"ほえ.る",
+			"ほ.える"
+		]
 	},
 	"frequency": {
 		"mean": 2727,

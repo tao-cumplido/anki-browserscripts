@@ -1,17 +1,28 @@
 {
 	"kanji": "在",
-	"meanings": ["exist", "outskirts", "suburbs", "located in"],
+	"meanings": [
+		"exist",
+		"outskirts",
+		"suburbs",
+		"located in"
+	],
 	"keyword": "exist",
 	"onyomi": {
-		"frequent": ["ザイ"],
+		"frequent": [
+			"ザイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あ"],
+		"frequent": [
+			"あ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あ.る"]
+		"okurigana": [
+			"あ.る"
+		]
 	},
 	"frequency": {
 		"mean": 118,

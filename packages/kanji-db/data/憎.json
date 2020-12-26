@@ -1,17 +1,29 @@
 {
 	"kanji": "憎",
-	"meanings": ["hate", "detest"],
+	"meanings": [
+		"hate",
+		"detest"
+	],
 	"keyword": "hate",
 	"onyomi": {
-		"frequent": ["ゾウ"],
+		"frequent": [
+			"ゾウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["にく"],
+		"frequent": [
+			"にく"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["にく.む", "にく.い", "にく.らしい", "にく.しみ"]
+		"okurigana": [
+			"にく.む",
+			"にく.い",
+			"にく.らしい",
+			"にく.しみ"
+		]
 	},
 	"frequency": {
 		"mean": 1869,

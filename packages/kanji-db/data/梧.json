@@ -1,16 +1,23 @@
 {
 	"kanji": "梧",
-	"meanings": ["Chinese parasol tree", "phoenix tree"],
+	"meanings": [
+		"Chinese parasol tree",
+		"phoenix tree"
+	],
 	"keyword": "parasol tree",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゴ"]
+		"rare": [
+			"ゴ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あおぎり"],
+		"rare": [
+			"あおぎり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,14 +1,21 @@
 {
 	"kanji": "枕",
-	"meanings": ["pillow"],
+	"meanings": [
+		"pillow"
+	],
 	"keyword": "pillow",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チン", "シン"]
+		"rare": [
+			"チン",
+			"シン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["まくら"],
+		"frequent": [
+			"まくら"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

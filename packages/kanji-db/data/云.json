@@ -1,17 +1,26 @@
 {
 	"kanji": "云",
-	"meanings": ["say"],
+	"meanings": [
+		"say"
+	],
 	"keyword": "quote",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ウン"]
+		"rare": [
+			"ウン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["い", "ここに"],
-		"okurigana": ["い.う"]
+		"rare": [
+			"い",
+			"ここに"
+		],
+		"okurigana": [
+			"い.う"
+		]
 	},
 	"frequency": {
 		"mean": 823,

@@ -1,16 +1,23 @@
 {
 	"kanji": "蚤",
-	"meanings": ["flea"],
+	"meanings": [
+		"flea"
+	],
 	"keyword": "flea",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ"]
+		"rare": [
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["のみ", "はやい"],
+		"rare": [
+			"のみ",
+			"はやい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

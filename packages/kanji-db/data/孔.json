@@ -1,16 +1,29 @@
 {
 	"kanji": "孔",
-	"meanings": ["cavity", "hole", "slit", "very", "great", "exceedingly"],
+	"meanings": [
+		"cavity",
+		"hole",
+		"slit",
+		"very",
+		"great",
+		"exceedingly"
+	],
 	"keyword": "cavity",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
-		"rare": ["ク"]
+		"rare": [
+			"ク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あな"],
+		"rare": [
+			"あな"
+		],
 		"okurigana": []
 	},
 	"frequency": {

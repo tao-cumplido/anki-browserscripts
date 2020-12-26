@@ -1,17 +1,34 @@
 {
 	"kanji": "束",
-	"meanings": ["bundle", "sheaf", "ream", "tie in bundles", "govern", "manage", "control"],
+	"meanings": [
+		"bundle",
+		"sheaf",
+		"ream",
+		"tie in bundles",
+		"govern",
+		"manage",
+		"control"
+	],
 	"keyword": "bundle",
 	"onyomi": {
-		"frequent": ["ソク"],
+		"frequent": [
+			"ソク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たば"],
+		"frequent": [
+			"たば"
+		],
 		"common": [],
-		"rare": ["つか"],
-		"okurigana": ["たば.ねる", "つか.ねる"]
+		"rare": [
+			"つか"
+		],
+		"okurigana": [
+			"たば.ねる",
+			"つか.ねる"
+		]
 	},
 	"frequency": {
 		"mean": 1162,

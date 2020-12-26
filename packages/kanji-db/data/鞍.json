@@ -1,16 +1,22 @@
 {
 	"kanji": "鞍",
-	"meanings": ["saddle"],
+	"meanings": [
+		"saddle"
+	],
 	"keyword": "saddle",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["アン"]
+		"rare": [
+			"アン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くら"],
+		"rare": [
+			"くら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

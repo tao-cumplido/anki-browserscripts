@@ -1,16 +1,25 @@
 {
 	"kanji": "偃",
-	"meanings": ["dam", "weir"],
+	"meanings": [
+		"dam",
+		"weir"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["エン"]
+		"rare": [
+			"エン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふ"],
-		"okurigana": ["ふ.せる"]
+		"rare": [
+			"ふ"
+		],
+		"okurigana": [
+			"ふ.せる"
+		]
 	},
 	"frequency": {
 		"mean": 3614,

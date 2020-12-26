@@ -1,17 +1,30 @@
 {
 	"kanji": "穿",
-	"meanings": ["put on (to the feet)", "dig", "pierce", "drill"],
+	"meanings": [
+		"put on (to the feet)",
+		"dig",
+		"pierce",
+		"drill"
+	],
 	"keyword": "drill",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セン"]
+		"rare": [
+			"セン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うが", "は"],
-		"okurigana": ["うが.つ", "は.く"]
+		"rare": [
+			"うが",
+			"は"
+		],
+		"okurigana": [
+			"うが.つ",
+			"は.く"
+		]
 	},
 	"frequency": {
 		"mean": 2574,

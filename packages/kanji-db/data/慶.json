@@ -1,17 +1,28 @@
 {
 	"kanji": "慶",
-	"meanings": ["jubilation", "congratulate", "rejoice", "be happy"],
+	"meanings": [
+		"jubilation",
+		"congratulate",
+		"rejoice",
+		"be happy"
+	],
 	"keyword": "jubilation",
 	"onyomi": {
-		"frequent": ["ケイ"],
+		"frequent": [
+			"ケイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よろこ"],
-		"okurigana": ["よろこ.び"]
+		"rare": [
+			"よろこ"
+		],
+		"okurigana": [
+			"よろこ.び"
+		]
 	},
 	"frequency": {
 		"mean": 950,

@@ -1,17 +1,30 @@
 {
 	"kanji": "卑",
-	"meanings": ["lowly", "base", "vile", "vulgar"],
+	"meanings": [
+		"lowly",
+		"base",
+		"vile",
+		"vulgar"
+	],
 	"keyword": "lowly",
 	"onyomi": {
-		"frequent": ["ヒ"],
+		"frequent": [
+			"ヒ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いや"],
+		"frequent": [
+			"いや"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["いや.しい", "いや.しむ", "いや.しめる"]
+		"okurigana": [
+			"いや.しい",
+			"いや.しむ",
+			"いや.しめる"
+		]
 	},
 	"frequency": {
 		"mean": 2020,

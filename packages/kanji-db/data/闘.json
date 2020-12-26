@@ -1,17 +1,29 @@
 {
 	"kanji": "闘",
-	"meanings": ["fight", "war"],
+	"meanings": [
+		"fight",
+		"war"
+	],
 	"keyword": "fight",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たたか"],
+		"frequent": [
+			"たたか"
+		],
 		"common": [],
-		"rare": ["あらそ"],
-		"okurigana": ["たたか.う", "あらそ.う"]
+		"rare": [
+			"あらそ"
+		],
+		"okurigana": [
+			"たたか.う",
+			"あらそ.う"
+		]
 	},
 	"frequency": {
 		"mean": 603,

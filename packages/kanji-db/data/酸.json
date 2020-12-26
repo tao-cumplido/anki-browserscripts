@@ -1,17 +1,28 @@
 {
 	"kanji": "酸",
-	"meanings": ["acid", "bitterness", "sour", "tart"],
+	"meanings": [
+		"acid",
+		"bitterness",
+		"sour",
+		"tart"
+	],
 	"keyword": "acid",
 	"onyomi": {
-		"frequent": ["サン"],
+		"frequent": [
+			"サン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["す"],
+		"frequent": [
+			"す"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["す.い"]
+		"okurigana": [
+			"す.い"
+		]
 	},
 	"frequency": {
 		"mean": 892,

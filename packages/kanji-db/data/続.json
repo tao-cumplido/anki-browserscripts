@@ -1,17 +1,35 @@
 {
 	"kanji": "続",
-	"meanings": ["continue", "series", "sequel"],
+	"meanings": [
+		"continue",
+		"series",
+		"sequel"
+	],
 	"keyword": "continue",
 	"onyomi": {
-		"frequent": ["ゾク"],
+		"frequent": [
+			"ゾク"
+		],
 		"common": [],
-		"rare": ["ショク", "コウ", "キョウ"]
+		"rare": [
+			"ショク",
+			"コウ",
+			"キョウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["つづ"],
+		"frequent": [
+			"つづ"
+		],
 		"common": [],
-		"rare": ["つぐ"],
-		"okurigana": ["つづ.く", "つづ.ける", "つぐ.ない"]
+		"rare": [
+			"つぐ"
+		],
+		"okurigana": [
+			"つづ.く",
+			"つづ.ける",
+			"つぐ.ない"
+		]
 	},
 	"frequency": {
 		"mean": 251,

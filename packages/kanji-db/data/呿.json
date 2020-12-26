@@ -1,0 +1,33 @@
+{
+	"kanji": "呿",
+	"meanings": [
+		"to yawn"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"カ",
+			"キョ",
+			"コ",
+			"キョウ",
+			"コウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ひら",
+			"あくび"
+		],
+		"rare": [],
+		"okurigana": [
+			"ひら.く",
+			"あくび.する"
+		]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

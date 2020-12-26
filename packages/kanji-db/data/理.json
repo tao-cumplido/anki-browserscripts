@@ -1,16 +1,26 @@
 {
 	"kanji": "理",
-	"meanings": ["logic", "arrangement", "reason", "justice", "truth"],
+	"meanings": [
+		"logic",
+		"arrangement",
+		"reason",
+		"justice",
+		"truth"
+	],
 	"keyword": "logic",
 	"onyomi": {
-		"frequent": ["リ"],
+		"frequent": [
+			"リ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ことわり"],
+		"rare": [
+			"ことわり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

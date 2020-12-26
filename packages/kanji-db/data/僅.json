@@ -1,17 +1,27 @@
 {
 	"kanji": "僅",
-	"meanings": ["a wee bit"],
+	"meanings": [
+		"a wee bit"
+	],
 	"keyword": "trifle",
 	"onyomi": {
-		"frequent": ["キン"],
+		"frequent": [
+			"キン"
+		],
 		"common": [],
-		"rare": ["ゴン"]
+		"rare": [
+			"ゴン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["わず"],
+		"frequent": [
+			"わず"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["わず.か"]
+		"okurigana": [
+			"わず.か"
+		]
 	},
 	"frequency": {
 		"mean": 1986,

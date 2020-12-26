@@ -1,17 +1,31 @@
 {
 	"kanji": "逆",
-	"meanings": ["inverted", "reverse", "opposite", "wicked"],
+	"meanings": [
+		"inverted",
+		"reverse",
+		"opposite",
+		"wicked"
+	],
 	"keyword": "inverted",
 	"onyomi": {
-		"frequent": ["ギャク"],
+		"frequent": [
+			"ギャク"
+		],
 		"common": [],
-		"rare": ["ゲキ"]
+		"rare": [
+			"ゲキ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["さか"],
+		"frequent": [
+			"さか"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["さか.さ", "さか.らう"]
+		"okurigana": [
+			"さか.さ",
+			"さか.らう"
+		]
 	},
 	"frequency": {
 		"mean": 962,

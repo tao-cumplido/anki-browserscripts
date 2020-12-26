@@ -1,16 +1,22 @@
 {
 	"kanji": "莨",
-	"meanings": ["tobacco"],
+	"meanings": [
+		"tobacco"
+	],
 	"keyword": "tobacco",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ロウ"]
+		"rare": [
+			"ロウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たばこ"],
+		"rare": [
+			"たばこ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

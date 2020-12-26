@@ -1,17 +1,32 @@
 {
 	"kanji": "澄",
-	"meanings": ["lucidity", "be clear", "clear", "clarify", "settle", "strain", "look grave"],
+	"meanings": [
+		"lucidity",
+		"be clear",
+		"clear",
+		"clarify",
+		"settle",
+		"strain",
+		"look grave"
+	],
 	"keyword": "lucidity",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["す"],
+		"frequent": [
+			"す"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["す.む", "す.ます"]
+		"okurigana": [
+			"す.む",
+			"す.ます"
+		]
 	},
 	"frequency": {
 		"mean": 1570,

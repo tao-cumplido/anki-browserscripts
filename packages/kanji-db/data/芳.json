@@ -1,17 +1,28 @@
 {
 	"kanji": "芳",
-	"meanings": ["perfume", "balmy", "favorable", "fragrant"],
+	"meanings": [
+		"perfume",
+		"balmy",
+		"favorable",
+		"fragrant"
+	],
 	"keyword": "perfumed",
 	"onyomi": {
-		"frequent": ["ホウ"],
+		"frequent": [
+			"ホウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かんば"],
+		"frequent": [
+			"かんば"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かんば.しい"]
+		"okurigana": [
+			"かんば.しい"
+		]
 	},
 	"frequency": {
 		"mean": 1277,

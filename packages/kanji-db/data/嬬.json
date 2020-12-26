@@ -1,17 +1,26 @@
 {
 	"kanji": "嬬",
-	"meanings": ["mistress", "weak"],
+	"meanings": [
+		"mistress",
+		"weak"
+	],
 	"keyword": "mistress",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジュ"]
+		"rare": [
+			"ジュ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よわ"],
-		"okurigana": ["よわ.い"]
+		"rare": [
+			"よわ"
+		],
+		"okurigana": [
+			"よわ.い"
+		]
 	},
 	"frequency": {
 		"mean": 3373,

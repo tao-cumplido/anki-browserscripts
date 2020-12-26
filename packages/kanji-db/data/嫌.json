@@ -1,17 +1,31 @@
 {
 	"kanji": "嫌",
-	"meanings": ["dislike", "detest", "hate"],
+	"meanings": [
+		"dislike",
+		"detest",
+		"hate"
+	],
 	"keyword": "dislike",
 	"onyomi": {
-		"frequent": ["ケン"],
-		"common": ["ゲン"],
+		"frequent": [
+			"ケン"
+		],
+		"common": [
+			"ゲン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["きら", "いや"],
+		"frequent": [
+			"きら",
+			"いや"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["きら.う", "きら.い"]
+		"okurigana": [
+			"きら.う",
+			"きら.い"
+		]
 	},
 	"frequency": {
 		"mean": 1198,

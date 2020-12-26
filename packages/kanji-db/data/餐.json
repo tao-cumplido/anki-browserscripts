@@ -1,17 +1,30 @@
 {
 	"kanji": "餐",
-	"meanings": ["eat", "drink", "swallow"],
+	"meanings": [
+		"eat",
+		"drink",
+		"swallow"
+	],
 	"keyword": "repast",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サン", "ソン"]
+		"rare": [
+			"サン",
+			"ソン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["の", "くら"],
-		"okurigana": ["の.む", "くら.う"]
+		"rare": [
+			"の",
+			"くら"
+		],
+		"okurigana": [
+			"の.む",
+			"くら.う"
+		]
 	},
 	"frequency": {
 		"mean": 2722,

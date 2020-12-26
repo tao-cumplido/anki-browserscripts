@@ -1,17 +1,30 @@
 {
 	"kanji": "営",
-	"meanings": ["occupation", "camp", "perform", "build", "conduct (business)"],
+	"meanings": [
+		"occupation",
+		"camp",
+		"perform",
+		"build",
+		"conduct (business)"
+	],
 	"keyword": "occupation",
 	"onyomi": {
-		"frequent": ["エイ"],
+		"frequent": [
+			"エイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いとな"],
+		"frequent": [
+			"いとな"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["いとな.む", "いとな.み"]
+		"okurigana": [
+			"いとな.む",
+			"いとな.み"
+		]
 	},
 	"frequency": {
 		"mean": 341,

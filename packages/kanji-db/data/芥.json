@@ -1,16 +1,29 @@
 {
 	"kanji": "芥",
-	"meanings": ["mustard", "rape", "dust", "trash", "rubbish"],
+	"meanings": [
+		"mustard",
+		"rape",
+		"dust",
+		"trash",
+		"rubbish"
+	],
 	"keyword": "mustard",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カイ", "ケ"]
+		"rare": [
+			"カイ",
+			"ケ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["からし", "ごみ", "あくた"],
+		"rare": [
+			"からし",
+			"ごみ",
+			"あくた"
+		],
 		"okurigana": []
 	},
 	"frequency": {

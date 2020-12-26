@@ -1,17 +1,34 @@
 {
 	"kanji": "暴",
-	"meanings": ["outburst", "rave", "fret", "force", "violence", "cruelty", "outrage"],
+	"meanings": [
+		"outburst",
+		"rave",
+		"fret",
+		"force",
+		"violence",
+		"cruelty",
+		"outrage"
+	],
 	"keyword": "outburst",
 	"onyomi": {
-		"frequent": ["ボウ"],
-		"common": ["バク"],
+		"frequent": [
+			"ボウ"
+		],
+		"common": [
+			"バク"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あば"],
+		"frequent": [
+			"あば"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あば.く", "あば.れる"]
+		"okurigana": [
+			"あば.く",
+			"あば.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1011,

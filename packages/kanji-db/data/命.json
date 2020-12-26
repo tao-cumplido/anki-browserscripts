@@ -1,14 +1,26 @@
 {
 	"kanji": "命",
-	"meanings": ["fate", "command", "decree", "destiny", "life", "appoint"],
+	"meanings": [
+		"fate",
+		"command",
+		"decree",
+		"destiny",
+		"life",
+		"appoint"
+	],
 	"keyword": "fate",
 	"onyomi": {
-		"frequent": ["メイ", "ミョウ"],
+		"frequent": [
+			"メイ",
+			"ミョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いのち"],
+		"frequent": [
+			"いのち"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

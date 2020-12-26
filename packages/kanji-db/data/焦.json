@@ -1,17 +1,39 @@
 {
 	"kanji": "焦",
-	"meanings": ["char", "hurry", "impatient", "irritate", "burn", "scorch", "singe"],
+	"meanings": [
+		"char",
+		"hurry",
+		"impatient",
+		"irritate",
+		"burn",
+		"scorch",
+		"singe"
+	],
 	"keyword": "char",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こ", "あせ"],
+		"frequent": [
+			"こ",
+			"あせ"
+		],
 		"common": [],
-		"rare": ["じ"],
-		"okurigana": ["こ.げる", "こ.がす", "こ.がれる", "あせ.る", "じ.れる", "じ.らす"]
+		"rare": [
+			"じ"
+		],
+		"okurigana": [
+			"こ.げる",
+			"こ.がす",
+			"こ.がれる",
+			"あせ.る",
+			"じ.れる",
+			"じ.らす"
+		]
 	},
 	"frequency": {
 		"mean": 1874,

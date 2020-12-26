@@ -1,14 +1,23 @@
 {
 	"kanji": "毛",
-	"meanings": ["fur", "hair", "feather", "down"],
+	"meanings": [
+		"fur",
+		"hair",
+		"feather",
+		"down"
+	],
 	"keyword": "fur",
 	"onyomi": {
-		"frequent": ["モウ"],
+		"frequent": [
+			"モウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["け"],
+		"frequent": [
+			"け"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

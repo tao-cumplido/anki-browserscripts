@@ -1,16 +1,28 @@
 {
 	"kanji": "天",
-	"meanings": ["heavens", "sky", "imperial"],
+	"meanings": [
+		"heavens",
+		"sky",
+		"imperial"
+	],
 	"keyword": "heavens",
 	"onyomi": {
-		"frequent": ["テン"],
+		"frequent": [
+			"テン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あめ"],
-		"common": ["あま"],
-		"rare": ["あまつ"],
+		"frequent": [
+			"あめ"
+		],
+		"common": [
+			"あま"
+		],
+		"rare": [
+			"あまつ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

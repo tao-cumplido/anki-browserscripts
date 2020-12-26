@@ -1,16 +1,23 @@
 {
 	"kanji": "蝋",
-	"meanings": ["wax"],
+	"meanings": [
+		"wax"
+	],
 	"keyword": "wax",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ロウ"]
+		"rare": [
+			"ロウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みつろう", "ろうそく"],
+		"rare": [
+			"みつろう",
+			"ろうそく"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,14 +1,21 @@
 {
 	"kanji": "砂",
-	"meanings": ["sand"],
+	"meanings": [
+		"sand"
+	],
 	"keyword": "sand",
 	"onyomi": {
-		"frequent": ["サ", "シャ"],
+		"frequent": [
+			"サ",
+			"シャ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["すな"],
+		"frequent": [
+			"すな"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

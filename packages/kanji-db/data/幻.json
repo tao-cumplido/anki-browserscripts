@@ -1,14 +1,24 @@
 {
 	"kanji": "幻",
-	"meanings": ["phantasm", "vision", "dream", "illusion", "apparition"],
+	"meanings": [
+		"phantasm",
+		"vision",
+		"dream",
+		"illusion",
+		"apparition"
+	],
 	"keyword": "phantasm",
 	"onyomi": {
-		"frequent": ["ゲン"],
+		"frequent": [
+			"ゲン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まぼろし"],
+		"frequent": [
+			"まぼろし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

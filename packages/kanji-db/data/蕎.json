@@ -1,16 +1,22 @@
 {
 	"kanji": "蕎",
-	"meanings": ["buckwheat"],
+	"meanings": [
+		"buckwheat"
+	],
 	"keyword": "buckwheat",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ"]
+		"rare": [
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["そば"],
+		"rare": [
+			"そば"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,27 @@
 {
 	"kanji": "鹸",
-	"meanings": ["saltiness"],
+	"meanings": [
+		"saltiness"
+	],
 	"keyword": "lye",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケン", "カン", "セン"]
+		"rare": [
+			"ケン",
+			"カン",
+			"セン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あ"],
-		"okurigana": ["あ.く"]
+		"rare": [
+			"あ"
+		],
+		"okurigana": [
+			"あ.く"
+		]
 	},
 	"frequency": {
 		"mean": 2904,

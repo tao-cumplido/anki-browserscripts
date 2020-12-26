@@ -1,16 +1,27 @@
 {
 	"kanji": "間",
-	"meanings": ["interval", "space"],
+	"meanings": [
+		"interval",
+		"space"
+	],
 	"keyword": "interval",
 	"onyomi": {
-		"frequent": ["カン", "ケン"],
+		"frequent": [
+			"カン",
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あいだ", "ま"],
+		"frequent": [
+			"あいだ",
+			"ま"
+		],
 		"common": [],
-		"rare": ["あい"],
+		"rare": [
+			"あい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

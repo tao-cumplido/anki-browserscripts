@@ -1,17 +1,31 @@
 {
 	"kanji": "六",
-	"meanings": ["six"],
+	"meanings": [
+		"six"
+	],
 	"keyword": "six",
 	"onyomi": {
-		"frequent": ["ロク"],
+		"frequent": [
+			"ロク"
+		],
 		"common": [],
-		"rare": ["リク"]
+		"rare": [
+			"リク"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["む", "むっ"],
-		"common": ["むい"],
+		"frequent": [
+			"む",
+			"むっ"
+		],
+		"common": [
+			"むい"
+		],
 		"rare": [],
-		"okurigana": ["む.つ", "むっ.つ"]
+		"okurigana": [
+			"む.つ",
+			"むっ.つ"
+		]
 	},
 	"frequency": {
 		"mean": 661,

@@ -1,17 +1,28 @@
 {
 	"kanji": "較",
-	"meanings": ["contrast", "compare"],
+	"meanings": [
+		"contrast",
+		"compare"
+	],
 	"keyword": "contrast",
 	"onyomi": {
-		"frequent": ["カク"],
+		"frequent": [
+			"カク"
+		],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くら"],
-		"okurigana": ["くら.べる"]
+		"rare": [
+			"くら"
+		],
+		"okurigana": [
+			"くら.べる"
+		]
 	},
 	"frequency": {
 		"mean": 1179,

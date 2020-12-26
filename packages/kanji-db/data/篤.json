@@ -1,17 +1,29 @@
 {
 	"kanji": "篤",
-	"meanings": ["fervent", "kind", "cordial", "serious", "deliberate"],
+	"meanings": [
+		"fervent",
+		"kind",
+		"cordial",
+		"serious",
+		"deliberate"
+	],
 	"keyword": "fervent",
 	"onyomi": {
-		"frequent": ["トク"],
+		"frequent": [
+			"トク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あつ"],
-		"okurigana": ["あつ.い"]
+		"rare": [
+			"あつ"
+		],
+		"okurigana": [
+			"あつ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1772,

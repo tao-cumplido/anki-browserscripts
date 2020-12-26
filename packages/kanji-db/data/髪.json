@@ -1,14 +1,20 @@
 {
 	"kanji": "髪",
-	"meanings": ["hair of the head"],
+	"meanings": [
+		"hair of the head"
+	],
 	"keyword": "hair of the head",
 	"onyomi": {
-		"frequent": ["ハツ"],
+		"frequent": [
+			"ハツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かみ"],
+		"frequent": [
+			"かみ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

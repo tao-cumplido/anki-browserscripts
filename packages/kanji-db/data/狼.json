@@ -1,16 +1,22 @@
 {
 	"kanji": "狼",
-	"meanings": ["wolf"],
+	"meanings": [
+		"wolf"
+	],
 	"keyword": "wolf",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ロウ"]
+		"rare": [
+			"ロウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おおかみ"],
+		"rare": [
+			"おおかみ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

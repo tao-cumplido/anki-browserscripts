@@ -1,17 +1,31 @@
 {
 	"kanji": "辞",
-	"meanings": ["resign", "word", "term", "expression"],
+	"meanings": [
+		"resign",
+		"word",
+		"term",
+		"expression"
+	],
 	"keyword": "resign",
 	"onyomi": {
-		"frequent": ["ジ"],
+		"frequent": [
+			"ジ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["や"],
+		"frequent": [
+			"や"
+		],
 		"common": [],
-		"rare": ["いな"],
-		"okurigana": ["や.める", "いな.む"]
+		"rare": [
+			"いな"
+		],
+		"okurigana": [
+			"や.める",
+			"いな.む"
+		]
 	},
 	"frequency": {
 		"mean": 879,

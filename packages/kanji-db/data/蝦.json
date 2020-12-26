@@ -1,16 +1,25 @@
 {
 	"kanji": "蝦",
-	"meanings": ["shrimp", "prawn", "lobster"],
+	"meanings": [
+		"shrimp",
+		"prawn",
+		"lobster"
+	],
 	"keyword": "shrimp",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カ", "ゲ"]
+		"rare": [
+			"カ",
+			"ゲ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["えび"],
+		"rare": [
+			"えび"
+		],
 		"okurigana": []
 	},
 	"frequency": {

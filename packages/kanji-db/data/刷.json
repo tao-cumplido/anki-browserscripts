@@ -1,17 +1,33 @@
 {
 	"kanji": "刷",
-	"meanings": ["printing", "print", "brush"],
+	"meanings": [
+		"printing",
+		"print",
+		"brush"
+	],
 	"keyword": "printing",
 	"onyomi": {
-		"frequent": ["サツ"],
+		"frequent": [
+			"サツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["す"],
+		"frequent": [
+			"す"
+		],
 		"common": [],
-		"rare": ["ず", "ずり", "は"],
-		"okurigana": ["す.る", "ず.り", "は.く"]
+		"rare": [
+			"ず",
+			"ずり",
+			"は"
+		],
+		"okurigana": [
+			"す.る",
+			"ず.り",
+			"は.く"
+		]
 	},
 	"frequency": {
 		"mean": 1363,

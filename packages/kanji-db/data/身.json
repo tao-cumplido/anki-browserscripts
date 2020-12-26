@@ -1,14 +1,22 @@
 {
 	"kanji": "身",
-	"meanings": ["somebody", "person", "one's station in life"],
+	"meanings": [
+		"somebody",
+		"person",
+		"one's station in life"
+	],
 	"keyword": "somebody",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["み"],
+		"frequent": [
+			"み"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

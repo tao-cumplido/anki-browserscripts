@@ -1,17 +1,40 @@
 {
 	"kanji": "通",
-	"meanings": ["traffic", "pass through", "avenue", "commute", "counter for letters, notes, documents, etc."],
+	"meanings": [
+		"traffic",
+		"pass through",
+		"avenue",
+		"commute",
+		"counter for letters, notes, documents, etc."
+	],
 	"keyword": "traffic",
 	"onyomi": {
-		"frequent": ["ツウ"],
-		"common": ["ツ"],
+		"frequent": [
+			"ツウ"
+		],
+		"common": [
+			"ツ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["とお", "かよ"],
+		"frequent": [
+			"とお",
+			"かよ"
+		],
 		"common": [],
-		"rare": ["どお"],
-		"okurigana": ["とお.る", "とお.り", "どお.り", "とお.す", "とお.し", "どお.し", "かよ.う"]
+		"rare": [
+			"どお"
+		],
+		"okurigana": [
+			"とお.る",
+			"とお.り",
+			"どお.り",
+			"とお.す",
+			"とお.し",
+			"どお.し",
+			"かよ.う"
+		]
 	},
 	"frequency": {
 		"mean": 77,

@@ -1,14 +1,24 @@
 {
 	"kanji": "霧",
-	"meanings": ["fog", "mist"],
+	"meanings": [
+		"fog",
+		"mist"
+	],
 	"keyword": "fog",
 	"onyomi": {
-		"frequent": ["ム"],
+		"frequent": [
+			"ム"
+		],
 		"common": [],
-		"rare": ["ボウ", "ブ"]
+		"rare": [
+			"ボウ",
+			"ブ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["きり"],
+		"frequent": [
+			"きり"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

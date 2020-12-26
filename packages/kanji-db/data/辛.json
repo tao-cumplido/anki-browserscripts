@@ -1,17 +1,34 @@
 {
 	"kanji": "辛",
-	"meanings": ["spicy", "bitter", "hot", "acrid"],
+	"meanings": [
+		"spicy",
+		"bitter",
+		"hot",
+		"acrid"
+	],
 	"keyword": "spicy",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["から"],
+		"frequent": [
+			"から"
+		],
 		"common": [],
-		"rare": ["つら", "づら", "かのと"],
-		"okurigana": ["から.い", "つら.い", "づら.い"]
+		"rare": [
+			"つら",
+			"づら",
+			"かのと"
+		],
+		"okurigana": [
+			"から.い",
+			"つら.い",
+			"づら.い"
+		]
 	},
 	"frequency": {
 		"mean": 1567,

@@ -1,14 +1,21 @@
 {
 	"kanji": "旅",
-	"meanings": ["trip", "travel"],
+	"meanings": [
+		"trip",
+		"travel"
+	],
 	"keyword": "trip",
 	"onyomi": {
-		"frequent": ["リョ"],
+		"frequent": [
+			"リョ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たび"],
+		"frequent": [
+			"たび"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,9 +1,14 @@
 {
 	"kanji": "俳",
-	"meanings": ["haiku", "actor"],
+	"meanings": [
+		"haiku",
+		"actor"
+	],
 	"keyword": "haiku",
 	"onyomi": {
-		"frequent": ["ハイ"],
+		"frequent": [
+			"ハイ"
+		],
 		"common": [],
 		"rare": []
 	},

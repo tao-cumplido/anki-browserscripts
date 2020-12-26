@@ -1,17 +1,27 @@
 {
 	"kanji": "葬",
-	"meanings": ["interment", "bury", "shelve"],
+	"meanings": [
+		"interment",
+		"bury",
+		"shelve"
+	],
 	"keyword": "interment",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほうむ"],
+		"frequent": [
+			"ほうむ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ほうむ.る"]
+		"okurigana": [
+			"ほうむ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1420,

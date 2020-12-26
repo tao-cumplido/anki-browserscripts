@@ -1,14 +1,22 @@
 {
 	"kanji": "扉",
-	"meanings": ["front door", "title page", "front page"],
+	"meanings": [
+		"front door",
+		"title page",
+		"front page"
+	],
 	"keyword": "front door",
 	"onyomi": {
-		"frequent": ["ヒ"],
+		"frequent": [
+			"ヒ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["とびら"],
+		"frequent": [
+			"とびら"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

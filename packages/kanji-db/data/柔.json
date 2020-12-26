@@ -1,17 +1,31 @@
 {
 	"kanji": "柔",
-	"meanings": ["tender", "weakness", "gentleness", "softness"],
+	"meanings": [
+		"tender",
+		"weakness",
+		"gentleness",
+		"softness"
+	],
 	"keyword": "tender",
 	"onyomi": {
-		"frequent": ["ジュウ", "ニュウ"],
+		"frequent": [
+			"ジュウ",
+			"ニュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["やわ"],
+		"frequent": [
+			"やわ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["やわ.らか", "やわ.らかい", "やわ.ら"]
+		"okurigana": [
+			"やわ.らか",
+			"やわ.らかい",
+			"やわ.ら"
+		]
 	},
 	"frequency": {
 		"mean": 1218,

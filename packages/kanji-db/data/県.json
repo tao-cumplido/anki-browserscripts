@@ -1,17 +1,25 @@
 {
 	"kanji": "県",
-	"meanings": ["prefecture"],
+	"meanings": [
+		"prefecture"
+	],
 	"keyword": "prefecture",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["か"],
-		"okurigana": ["か.ける"]
+		"rare": [
+			"か"
+		],
+		"okurigana": [
+			"か.ける"
+		]
 	},
 	"frequency": {
 		"mean": 30,

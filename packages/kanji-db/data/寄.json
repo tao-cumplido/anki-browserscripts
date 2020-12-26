@@ -1,17 +1,33 @@
 {
 	"kanji": "寄",
-	"meanings": ["draw near", "stop in", "bring near", "gather", "collect", "send", "forward"],
+	"meanings": [
+		"draw near",
+		"stop in",
+		"bring near",
+		"gather",
+		"collect",
+		"send",
+		"forward"
+	],
 	"keyword": "draw near",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["よ"],
+		"frequent": [
+			"よ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["よ.る", "よ.り", "よ.せる"]
+		"okurigana": [
+			"よ.る",
+			"よ.り",
+			"よ.せる"
+		]
 	},
 	"frequency": {
 		"mean": 764,

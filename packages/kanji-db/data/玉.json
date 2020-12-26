@@ -1,16 +1,25 @@
 {
 	"kanji": "玉",
-	"meanings": ["jewel", "ball"],
+	"meanings": [
+		"jewel",
+		"ball"
+	],
 	"keyword": "jewel",
 	"onyomi": {
-		"frequent": ["ギョク"],
+		"frequent": [
+			"ギョク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たま"],
+		"frequent": [
+			"たま"
+		],
 		"common": [],
-		"rare": ["だま"],
+		"rare": [
+			"だま"
+		],
 		"okurigana": []
 	},
 	"frequency": {

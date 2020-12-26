@@ -1,16 +1,27 @@
 {
 	"kanji": "哉",
-	"meanings": ["how", "what", "alas", "question mark", "exclamation mark"],
+	"meanings": [
+		"how",
+		"what",
+		"alas",
+		"question mark",
+		"exclamation mark"
+	],
 	"keyword": "I wonder",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サイ"]
+		"rare": [
+			"サイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かな", "や"],
+		"rare": [
+			"かな",
+			"や"
+		],
 		"okurigana": []
 	},
 	"frequency": {

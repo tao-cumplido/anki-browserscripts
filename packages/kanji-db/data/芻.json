@@ -1,16 +1,25 @@
 {
 	"kanji": "芻",
-	"meanings": ["grass cutting", "hay"],
+	"meanings": [
+		"grass cutting",
+		"hay"
+	],
 	"keyword": "hay",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["スウ", "シュウ", "ス"]
+		"rare": [
+			"スウ",
+			"シュウ",
+			"ス"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まぐさ"],
+		"rare": [
+			"まぐさ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

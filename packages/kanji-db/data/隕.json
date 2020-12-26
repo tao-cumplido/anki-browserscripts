@@ -1,17 +1,27 @@
 {
 	"kanji": "隕",
-	"meanings": ["fall"],
+	"meanings": [
+		"fall"
+	],
 	"keyword": "falling",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["イン", "エン", "ウン"]
+		"rare": [
+			"イン",
+			"エン",
+			"ウン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おち"],
-		"okurigana": ["おち.る"]
+		"rare": [
+			"おち"
+		],
+		"okurigana": [
+			"おち.る"
+		]
 	},
 	"frequency": {
 		"mean": 2587,

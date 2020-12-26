@@ -1,17 +1,31 @@
 {
 	"kanji": "嵩",
-	"meanings": ["be aggravated", "grow worse", "grow bulky", "swell"],
+	"meanings": [
+		"be aggravated",
+		"grow worse",
+		"grow bulky",
+		"swell"
+	],
 	"keyword": "high-reaching",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["スウ", "シュウ"]
+		"rare": [
+			"スウ",
+			"シュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かさ", "たか"],
-		"okurigana": ["かさ.む", "たか.い"]
+		"rare": [
+			"かさ",
+			"たか"
+		],
+		"okurigana": [
+			"かさ.む",
+			"たか.い"
+		]
 	},
 	"frequency": {
 		"mean": 2598,

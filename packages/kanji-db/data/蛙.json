@@ -1,16 +1,24 @@
 {
 	"kanji": "蛙",
-	"meanings": ["frog"],
+	"meanings": [
+		"frog"
+	],
 	"keyword": "frog",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ア", "ワ"]
+		"rare": [
+			"ア",
+			"ワ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かえる", "かわず"],
+		"rare": [
+			"かえる",
+			"かわず"
+		],
 		"okurigana": []
 	},
 	"frequency": {

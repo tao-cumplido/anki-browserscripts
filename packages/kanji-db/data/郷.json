@@ -1,16 +1,26 @@
 {
 	"kanji": "郷",
-	"meanings": ["home town", "village", "native place", "district"],
+	"meanings": [
+		"home town",
+		"village",
+		"native place",
+		"district"
+	],
 	"keyword": "hometown",
 	"onyomi": {
-		"frequent": ["キョウ", "ゴウ"],
+		"frequent": [
+			"キョウ",
+			"ゴウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さと"],
+		"rare": [
+			"さと"
+		],
 		"okurigana": []
 	},
 	"frequency": {

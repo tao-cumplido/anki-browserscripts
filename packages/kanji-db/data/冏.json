@@ -1,15 +1,25 @@
 {
 	"kanji": "冏",
-	"meanings": ["light", "clear", "bright"],
+	"meanings": [
+		"light",
+		"clear",
+		"bright"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケイ", "キョウ", "ソウ"]
+		"rare": [
+			"ケイ",
+			"キョウ",
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あきらか"],
+		"rare": [
+			"あきらか"
+		],
 		"okurigana": []
 	},
 	"frequency": {

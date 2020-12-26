@@ -1,14 +1,22 @@
 {
 	"kanji": "山",
-	"meanings": ["mountain"],
+	"meanings": [
+		"mountain"
+	],
 	"keyword": "mountain",
 	"onyomi": {
-		"frequent": ["サン"],
+		"frequent": [
+			"サン"
+		],
 		"common": [],
-		"rare": ["セン"]
+		"rare": [
+			"セン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["やま"],
+		"frequent": [
+			"やま"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

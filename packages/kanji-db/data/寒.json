@@ -1,17 +1,25 @@
 {
 	"kanji": "寒",
-	"meanings": ["cold"],
+	"meanings": [
+		"cold"
+	],
 	"keyword": "cold",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さむ"],
+		"frequent": [
+			"さむ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["さむ.い"]
+		"okurigana": [
+			"さむ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1378,

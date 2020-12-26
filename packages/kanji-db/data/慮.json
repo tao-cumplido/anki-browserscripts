@@ -1,17 +1,32 @@
 {
 	"kanji": "慮",
-	"meanings": ["prudence", "thought", "concern", "consider", "deliberate", "fear"],
+	"meanings": [
+		"prudence",
+		"thought",
+		"concern",
+		"consider",
+		"deliberate",
+		"fear"
+	],
 	"keyword": "prudence",
 	"onyomi": {
-		"frequent": ["リョ"],
+		"frequent": [
+			"リョ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おもんぱく", "おもんぱか"],
-		"okurigana": ["おもんぱく.る", "おもんぱか.る"]
+		"rare": [
+			"おもんぱく",
+			"おもんぱか"
+		],
+		"okurigana": [
+			"おもんぱく.る",
+			"おもんぱか.る"
+		]
 	},
 	"frequency": {
 		"mean": 1401,

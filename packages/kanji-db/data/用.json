@@ -1,17 +1,29 @@
 {
 	"kanji": "用",
-	"meanings": ["utilize", "business", "service", "use", "employ"],
+	"meanings": [
+		"utilize",
+		"business",
+		"service",
+		"use",
+		"employ"
+	],
 	"keyword": "utilize",
 	"onyomi": {
-		"frequent": ["ヨウ"],
+		"frequent": [
+			"ヨウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["もち"],
+		"frequent": [
+			"もち"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["もち.いる"]
+		"okurigana": [
+			"もち.いる"
+		]
 	},
 	"frequency": {
 		"mean": 21,

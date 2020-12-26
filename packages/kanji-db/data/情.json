@@ -1,17 +1,32 @@
 {
 	"kanji": "情",
-	"meanings": ["feelings", "emotion", "passion", "sympathy", "circumstances", "facts"],
+	"meanings": [
+		"feelings",
+		"emotion",
+		"passion",
+		"sympathy",
+		"circumstances",
+		"facts"
+	],
 	"keyword": "feelings",
 	"onyomi": {
-		"frequent": ["ジョウ"],
-		"common": ["セイ"],
+		"frequent": [
+			"ジョウ"
+		],
+		"common": [
+			"セイ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["なさ"],
+		"frequent": [
+			"なさ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["なさ.け"]
+		"okurigana": [
+			"なさ.け"
+		]
 	},
 	"frequency": {
 		"mean": 277,

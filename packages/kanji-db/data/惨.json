@@ -1,17 +1,34 @@
 {
 	"kanji": "惨",
-	"meanings": ["wretched", "disaster", "cruelty", "harsh"],
+	"meanings": [
+		"wretched",
+		"disaster",
+		"cruelty",
+		"harsh"
+	],
 	"keyword": "wretched",
 	"onyomi": {
-		"frequent": ["サン", "ザン"],
+		"frequent": [
+			"サン",
+			"ザン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みじ"],
+		"frequent": [
+			"みじ"
+		],
 		"common": [],
-		"rare": ["いた", "むご"],
-		"okurigana": ["みじ.め", "いた.む", "むご.い"]
+		"rare": [
+			"いた",
+			"むご"
+		],
+		"okurigana": [
+			"みじ.め",
+			"いた.む",
+			"むご.い"
+		]
 	},
 	"frequency": {
 		"mean": 1936,

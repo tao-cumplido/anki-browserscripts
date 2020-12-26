@@ -1,17 +1,26 @@
 {
 	"kanji": "唄",
-	"meanings": ["song", "ballad"],
+	"meanings": [
+		"song",
+		"ballad"
+	],
 	"keyword": "pop song",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["バイ"]
+		"rare": [
+			"バイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["うた"],
+		"frequent": [
+			"うた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["うた.う"]
+		"okurigana": [
+			"うた.う"
+		]
 	},
 	"frequency": {
 		"mean": 1638,

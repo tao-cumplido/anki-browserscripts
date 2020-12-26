@@ -1,14 +1,20 @@
 {
 	"kanji": "肩",
-	"meanings": ["shoulder"],
+	"meanings": [
+		"shoulder"
+	],
 	"keyword": "shoulder",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かた"],
+		"frequent": [
+			"かた"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

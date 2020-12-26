@@ -1,17 +1,28 @@
 {
 	"kanji": "牽",
-	"meanings": ["pull", "tug", "drag", "lead by hand"],
+	"meanings": [
+		"pull",
+		"tug",
+		"drag",
+		"lead by hand"
+	],
 	"keyword": "tug",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケン"]
+		"rare": [
+			"ケン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひ"],
-		"okurigana": ["ひ.く"]
+		"rare": [
+			"ひ"
+		],
+		"okurigana": [
+			"ひ.く"
+		]
 	},
 	"frequency": {
 		"mean": 1952,

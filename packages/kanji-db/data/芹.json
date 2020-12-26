@@ -1,16 +1,22 @@
 {
 	"kanji": "芹",
-	"meanings": ["parsley"],
+	"meanings": [
+		"parsley"
+	],
 	"keyword": "parsley",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キン"]
+		"rare": [
+			"キン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["せり"],
+		"rare": [
+			"せり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

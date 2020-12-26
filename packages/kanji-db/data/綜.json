@@ -1,17 +1,28 @@
 {
 	"kanji": "綜",
-	"meanings": ["rule", "synthesize"],
+	"meanings": [
+		"rule",
+		"synthesize"
+	],
 	"keyword": "synthesis",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ"]
+		"rare": [
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おさ", "す"],
-		"okurigana": ["おさ.める", "す.べる"]
+		"rare": [
+			"おさ",
+			"す"
+		],
+		"okurigana": [
+			"おさ.める",
+			"す.べる"
+		]
 	},
 	"frequency": {
 		"mean": 2617,

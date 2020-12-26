@@ -1,16 +1,24 @@
 {
 	"kanji": "鍬",
-	"meanings": ["hoe with long blade at acute angle"],
+	"meanings": [
+		"hoe with long blade at acute angle"
+	],
 	"keyword": "hoe",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ", "シュウ"]
+		"rare": [
+			"ショウ",
+			"シュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くわ", "すき"],
+		"rare": [
+			"くわ",
+			"すき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

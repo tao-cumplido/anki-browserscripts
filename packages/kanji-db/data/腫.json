@@ -1,17 +1,32 @@
 {
 	"kanji": "腫",
-	"meanings": ["tumor", "swelling"],
+	"meanings": [
+		"tumor",
+		"swelling"
+	],
 	"keyword": "tumor",
 	"onyomi": {
-		"frequent": ["シュ"],
+		"frequent": [
+			"シュ"
+		],
 		"common": [],
-		"rare": ["ショウ"]
+		"rare": [
+			"ショウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["は"],
+		"frequent": [
+			"は"
+		],
 		"common": [],
-		"rare": ["はれもの"],
-		"okurigana": ["は.れる", "は.れ", "は.らす"]
+		"rare": [
+			"はれもの"
+		],
+		"okurigana": [
+			"は.れる",
+			"は.れ",
+			"は.らす"
+		]
 	},
 	"frequency": {
 		"mean": 1901,

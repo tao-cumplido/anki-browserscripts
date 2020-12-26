@@ -1,17 +1,32 @@
 {
 	"kanji": "跨",
-	"meanings": ["be", "sit or stand astride", "extend over", "straddle"],
+	"meanings": [
+		"be",
+		"sit or stand astride",
+		"extend over",
+		"straddle"
+	],
 	"keyword": "straddle",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コ", "カ"]
+		"rare": [
+			"コ",
+			"カ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["また", "またが"],
-		"okurigana": ["また.がる", "またが.る", "また.ぐ"]
+		"rare": [
+			"また",
+			"またが"
+		],
+		"okurigana": [
+			"また.がる",
+			"またが.る",
+			"また.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 2281,

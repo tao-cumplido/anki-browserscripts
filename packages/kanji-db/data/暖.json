@@ -1,17 +1,30 @@
 {
 	"kanji": "暖",
-	"meanings": ["warmth"],
+	"meanings": [
+		"warmth"
+	],
 	"keyword": "warmth",
 	"onyomi": {
-		"frequent": ["ダン"],
+		"frequent": [
+			"ダン"
+		],
 		"common": [],
-		"rare": ["ノン"]
+		"rare": [
+			"ノン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["あたた"],
+		"frequent": [
+			"あたた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あたた.か", "あたた.かい", "あたた.まる", "あたた.める"]
+		"okurigana": [
+			"あたた.か",
+			"あたた.かい",
+			"あたた.まる",
+			"あたた.める"
+		]
 	},
 	"frequency": {
 		"mean": 1736,

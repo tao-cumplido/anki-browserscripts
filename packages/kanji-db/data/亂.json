@@ -1,16 +1,35 @@
 {
 	"kanji": "亂",
-	"meanings": ["war", "disorder", "riot", "disturb"],
+	"meanings": [
+		"war",
+		"disorder",
+		"riot",
+		"disturb"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ラン", "ロン"]
+		"rare": [
+			"ラン",
+			"ロン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みだ", "おさ", "わた"],
-		"okurigana": ["みだ.れる", "みだ.る", "みだ.す", "みだ.れ", "おさ.める", "わた.る"]
+		"rare": [
+			"みだ",
+			"おさ",
+			"わた"
+		],
+		"okurigana": [
+			"みだ.れる",
+			"みだ.る",
+			"みだ.す",
+			"みだ.れ",
+			"おさ.める",
+			"わた.る"
+		]
 	},
 	"frequency": {
 		"mean": 3061,

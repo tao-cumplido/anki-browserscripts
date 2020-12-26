@@ -1,17 +1,30 @@
 {
 	"kanji": "叛",
-	"meanings": ["disobey", "defy", "go back on", "rebel", "rebellion"],
+	"meanings": [
+		"disobey",
+		"defy",
+		"go back on",
+		"rebel",
+		"rebellion"
+	],
 	"keyword": "rebellion",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハン", "ホン"]
+		"rare": [
+			"ハン",
+			"ホン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["そむ"],
-		"okurigana": ["そむ.く"]
+		"rare": [
+			"そむ"
+		],
+		"okurigana": [
+			"そむ.く"
+		]
 	},
 	"frequency": {
 		"mean": 2693,

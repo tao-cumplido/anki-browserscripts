@@ -1,16 +1,27 @@
 {
 	"kanji": "傜",
-	"meanings": ["minority tribe"],
+	"meanings": [
+		"minority tribe"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ヨウ"],
+		"common": [
+			"ヨウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["えだち", "ふぞろ", "つか"],
+		"common": [
+			"えだち",
+			"ふぞろ",
+			"つか"
+		],
 		"rare": [],
-		"okurigana": ["ふぞろ.い", "つか.い"]
+		"okurigana": [
+			"ふぞろ.い",
+			"つか.い"
+		]
 	},
 	"frequency": {
 		"mean": 4541,

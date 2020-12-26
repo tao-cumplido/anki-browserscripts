@@ -1,0 +1,32 @@
+{
+	"kanji": "閡",
+	"meanings": [
+		"blocked",
+		"separated",
+		"to prevent"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"カイ",
+			"コク",
+			"ガイ",
+			"ゲ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"し"
+		],
+		"rare": [],
+		"okurigana": [
+			"し.める"
+		]
+	},
+	"frequency": {
+		"mean": 4537,
+		"wikipedia": 4228
+	}
+}

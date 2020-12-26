@@ -1,17 +1,28 @@
 {
 	"kanji": "醒",
-	"meanings": ["awake", "be disillusioned", "sober up"],
+	"meanings": [
+		"awake",
+		"be disillusioned",
+		"sober up"
+	],
 	"keyword": "awakening",
 	"onyomi": {
-		"frequent": ["セイ"],
+		"frequent": [
+			"セイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さ"],
-		"okurigana": ["さ.ます", "さ.める"]
+		"rare": [
+			"さ"
+		],
+		"okurigana": [
+			"さ.ます",
+			"さ.める"
+		]
 	},
 	"frequency": {
 		"mean": 2001,

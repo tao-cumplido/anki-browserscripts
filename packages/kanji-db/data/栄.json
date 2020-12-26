@@ -1,17 +1,38 @@
 {
 	"kanji": "栄",
-	"meanings": ["flourish", "prosperity", "honor", "glory", "splendor"],
+	"meanings": [
+		"flourish",
+		"prosperity",
+		"honor",
+		"glory",
+		"splendor"
+	],
 	"keyword": "flourish",
 	"onyomi": {
-		"frequent": ["エイ"],
+		"frequent": [
+			"エイ"
+		],
 		"common": [],
-		"rare": ["ヨウ"]
+		"rare": [
+			"ヨウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["さか", "は"],
+		"frequent": [
+			"さか",
+			"は"
+		],
 		"common": [],
-		"rare": ["ば", "え"],
-		"okurigana": ["さか.える", "は.え", "ば.え", "は.える"]
+		"rare": [
+			"ば",
+			"え"
+		],
+		"okurigana": [
+			"さか.える",
+			"は.え",
+			"ば.え",
+			"は.える"
+		]
 	},
 	"frequency": {
 		"mean": 849,

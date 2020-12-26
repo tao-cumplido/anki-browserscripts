@@ -1,17 +1,27 @@
 {
 	"kanji": "撹",
-	"meanings": ["disturb", "throw into confusion"],
+	"meanings": [
+		"disturb",
+		"throw into confusion"
+	],
 	"keyword": "churn up",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カク", "コウ"]
+		"rare": [
+			"カク",
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みだ"],
-		"okurigana": ["みだ.す"]
+		"rare": [
+			"みだ"
+		],
+		"okurigana": [
+			"みだ.す"
+		]
 	},
 	"frequency": {
 		"mean": 3394,

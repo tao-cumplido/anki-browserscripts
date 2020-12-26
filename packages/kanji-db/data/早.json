@@ -1,17 +1,32 @@
 {
 	"kanji": "早",
-	"meanings": ["early", "fast"],
+	"meanings": [
+		"early",
+		"fast"
+	],
 	"keyword": "early",
 	"onyomi": {
-		"frequent": ["ソウ"],
-		"common": ["サッ"],
+		"frequent": [
+			"ソウ"
+		],
+		"common": [
+			"サッ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はや"],
+		"frequent": [
+			"はや"
+		],
 		"common": [],
-		"rare": ["さ"],
-		"okurigana": ["はや.い", "はや.まる", "はや.める"]
+		"rare": [
+			"さ"
+		],
+		"okurigana": [
+			"はや.い",
+			"はや.まる",
+			"はや.める"
+		]
 	},
 	"frequency": {
 		"mean": 613,

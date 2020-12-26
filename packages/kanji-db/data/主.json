@@ -1,16 +1,33 @@
 {
 	"kanji": "主",
-	"meanings": ["lord", "chief", "master", "main thing", "principal"],
+	"meanings": [
+		"lord",
+		"chief",
+		"master",
+		"main thing",
+		"principal"
+	],
 	"keyword": "lord",
 	"onyomi": {
-		"frequent": ["シュ"],
-		"common": ["ス"],
-		"rare": ["シュウ"]
+		"frequent": [
+			"シュ"
+		],
+		"common": [
+			"ス"
+		],
+		"rare": [
+			"シュウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ぬし", "おも"],
+		"frequent": [
+			"ぬし",
+			"おも"
+		],
 		"common": [],
-		"rare": ["あるじ"],
+		"rare": [
+			"あるじ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

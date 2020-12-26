@@ -1,16 +1,29 @@
 {
 	"kanji": "星",
-	"meanings": ["star", "spot", "dot", "mark"],
+	"meanings": [
+		"star",
+		"spot",
+		"dot",
+		"mark"
+	],
 	"keyword": "star",
 	"onyomi": {
-		"frequent": ["セイ"],
-		"common": ["ショウ"],
+		"frequent": [
+			"セイ"
+		],
+		"common": [
+			"ショウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほし"],
+		"frequent": [
+			"ほし"
+		],
 		"common": [],
-		"rare": ["ぼし"],
+		"rare": [
+			"ぼし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

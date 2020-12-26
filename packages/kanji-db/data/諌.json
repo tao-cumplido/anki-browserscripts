@@ -1,17 +1,27 @@
 {
 	"kanji": "諌",
-	"meanings": ["admonish", "dissuade"],
+	"meanings": [
+		"admonish",
+		"dissuade"
+	],
 	"keyword": "remonstrate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カン"]
+		"rare": [
+			"カン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いさ"],
-		"okurigana": ["いさ.め", "いさ.める"]
+		"rare": [
+			"いさ"
+		],
+		"okurigana": [
+			"いさ.め",
+			"いさ.める"
+		]
 	},
 	"frequency": {
 		"mean": 3319,

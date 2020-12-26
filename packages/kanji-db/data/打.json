@@ -1,17 +1,35 @@
 {
 	"kanji": "打",
-	"meanings": ["strike", "hit", "knock", "pound", "dozen"],
+	"meanings": [
+		"strike",
+		"hit",
+		"knock",
+		"pound",
+		"dozen"
+	],
 	"keyword": "strike",
 	"onyomi": {
-		"frequent": ["ダ"],
+		"frequent": [
+			"ダ"
+		],
 		"common": [],
-		"rare": ["ダース"]
+		"rare": [
+			"ダース"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["う"],
+		"frequent": [
+			"う"
+		],
 		"common": [],
-		"rare": ["ぶ"],
-		"okurigana": ["う.つ", "う.ち", "ぶ.つ"]
+		"rare": [
+			"ぶ"
+		],
+		"okurigana": [
+			"う.つ",
+			"う.ち",
+			"ぶ.つ"
+		]
 	},
 	"frequency": {
 		"mean": 458,

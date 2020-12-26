@@ -1,17 +1,39 @@
 {
 	"kanji": "悪",
-	"meanings": ["bad", "vice", "rascal", "evil", "wrong"],
+	"meanings": [
+		"bad",
+		"vice",
+		"rascal",
+		"evil",
+		"wrong"
+	],
 	"keyword": "bad",
 	"onyomi": {
-		"frequent": ["アク", "オ"],
+		"frequent": [
+			"アク",
+			"オ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["わる"],
+		"frequent": [
+			"わる"
+		],
 		"common": [],
-		"rare": ["あ", "にく", "ああ", "いずくに", "いずくんぞ"],
-		"okurigana": ["わる.い", "あ.し", "にく.い", "にく.む"]
+		"rare": [
+			"あ",
+			"にく",
+			"ああ",
+			"いずくに",
+			"いずくんぞ"
+		],
+		"okurigana": [
+			"わる.い",
+			"あ.し",
+			"にく.い",
+			"にく.む"
+		]
 	},
 	"frequency": {
 		"mean": 593,

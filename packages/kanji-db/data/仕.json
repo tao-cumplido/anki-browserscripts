@@ -1,17 +1,30 @@
 {
 	"kanji": "仕",
-	"meanings": ["attend", "doing", "official", "serve"],
+	"meanings": [
+		"attend",
+		"doing",
+		"official",
+		"serve"
+	],
 	"keyword": "attend",
 	"onyomi": {
-		"frequent": ["シ"],
-		"common": ["ジ"],
+		"frequent": [
+			"シ"
+		],
+		"common": [
+			"ジ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つか"],
+		"frequent": [
+			"つか"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["つか.える"]
+		"okurigana": [
+			"つか.える"
+		]
 	},
 	"frequency": {
 		"mean": 552,

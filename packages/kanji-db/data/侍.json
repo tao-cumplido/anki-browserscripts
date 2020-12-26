@@ -1,17 +1,32 @@
 {
 	"kanji": "侍",
-	"meanings": ["waiter", "samurai", "wait upon", "serve"],
+	"meanings": [
+		"waiter",
+		"samurai",
+		"wait upon",
+		"serve"
+	],
 	"keyword": "waiter",
 	"onyomi": {
-		"frequent": ["ジ"],
+		"frequent": [
+			"ジ"
+		],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["さむらい"],
+		"frequent": [
+			"さむらい"
+		],
 		"common": [],
-		"rare": ["はべ"],
-		"okurigana": ["はべ.る"]
+		"rare": [
+			"はべ"
+		],
+		"okurigana": [
+			"はべ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1521,

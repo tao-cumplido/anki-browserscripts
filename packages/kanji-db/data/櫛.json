@@ -1,17 +1,26 @@
 {
 	"kanji": "櫛",
-	"meanings": ["comb"],
+	"meanings": [
+		"comb"
+	],
 	"keyword": "comb",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シツ"]
+		"rare": [
+			"シツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くし", "くしけず"],
-		"okurigana": ["くしけず.る"]
+		"rare": [
+			"くし",
+			"くしけず"
+		],
+		"okurigana": [
+			"くしけず.る"
+		]
 	},
 	"frequency": {
 		"mean": 2346,

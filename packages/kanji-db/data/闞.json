@@ -1,0 +1,31 @@
+{
+	"kanji": "闞",
+	"meanings": [
+		"glance",
+		"peep",
+		"roar",
+		"growl"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"カン",
+			"ケン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"のぞ"
+		],
+		"rare": [],
+		"okurigana": [
+			"のぞ.む"
+		]
+	},
+	"frequency": {
+		"mean": 4435,
+		"wikipedia": 4126
+	}
+}

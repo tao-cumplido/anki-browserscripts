@@ -1,14 +1,23 @@
 {
 	"kanji": "匹",
-	"meanings": ["equal", "head", "counter for small animals", "roll of cloth"],
+	"meanings": [
+		"equal",
+		"head",
+		"counter for small animals",
+		"roll of cloth"
+	],
 	"keyword": "equal",
 	"onyomi": {
-		"frequent": ["ヒツ"],
+		"frequent": [
+			"ヒツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひき"],
+		"frequent": [
+			"ひき"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

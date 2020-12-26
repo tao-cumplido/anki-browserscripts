@@ -1,16 +1,24 @@
 {
 	"kanji": "伮",
-	"meanings": ["to make a great effort"],
+	"meanings": [
+		"to make a great effort"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ド"],
+		"common": [
+			"ド"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["つと"],
+		"common": [
+			"つと"
+		],
 		"rare": [],
-		"okurigana": ["つと.める"]
+		"okurigana": [
+			"つと.める"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

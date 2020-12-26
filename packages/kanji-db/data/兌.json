@@ -1,16 +1,27 @@
 {
 	"kanji": "兌",
-	"meanings": ["exchange"],
+	"meanings": [
+		"exchange"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ダ", "エイ", "エツ", "タイ"]
+		"rare": [
+			"ダ",
+			"エイ",
+			"エツ",
+			"タイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よろこ"],
-		"okurigana": ["よろこ.ぶ"]
+		"rare": [
+			"よろこ"
+		],
+		"okurigana": [
+			"よろこ.ぶ"
+		]
 	},
 	"frequency": {
 		"mean": 3551,

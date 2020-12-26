@@ -1,17 +1,27 @@
 {
 	"kanji": "顕",
-	"meanings": ["appear", "existing"],
+	"meanings": [
+		"appear",
+		"existing"
+	],
 	"keyword": "appear",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あきらか", "あらわ"],
-		"okurigana": ["あらわ.れる"]
+		"rare": [
+			"あきらか",
+			"あらわ"
+		],
+		"okurigana": [
+			"あらわ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1439,

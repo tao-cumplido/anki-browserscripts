@@ -1,16 +1,24 @@
 {
 	"kanji": "仭",
-	"meanings": ["fathom"],
+	"meanings": [
+		"fathom"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジン"]
+		"rare": [
+			"ジン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はか"],
-		"okurigana": ["はか.る"]
+		"rare": [
+			"はか"
+		],
+		"okurigana": [
+			"はか.る"
+		]
 	},
 	"frequency": {
 		"mean": 4354,

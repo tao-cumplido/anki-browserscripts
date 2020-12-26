@@ -1,16 +1,28 @@
 {
 	"kanji": "从",
-	"meanings": ["two people"],
+	"meanings": [
+		"two people"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ", "ジュウ", "ジュ"]
+		"rare": [
+			"ショウ",
+			"ジュウ",
+			"ジュ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["したが", "より"],
-		"okurigana": ["したが.う", "したが.える"]
+		"rare": [
+			"したが",
+			"より"
+		],
+		"okurigana": [
+			"したが.う",
+			"したが.える"
+		]
 	},
 	"frequency": {
 		"mean": 4355,

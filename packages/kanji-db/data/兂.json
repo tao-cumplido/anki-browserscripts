@@ -1,14 +1,23 @@
 {
 	"kanji": "兂",
-	"meanings": ["hairpin", "clasp", "wear in hair"],
+	"meanings": [
+		"hairpin",
+		"clasp",
+		"wear in hair"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["シン", "サン"],
+		"common": [
+			"シン",
+			"サン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["かんざし"],
+		"common": [
+			"かんざし"
+		],
 		"rare": [],
 		"okurigana": []
 	},

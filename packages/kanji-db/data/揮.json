@@ -1,17 +1,29 @@
 {
 	"kanji": "揮",
-	"meanings": ["brandish", "wave", "wag", "swing", "shake"],
+	"meanings": [
+		"brandish",
+		"wave",
+		"wag",
+		"swing",
+		"shake"
+	],
 	"keyword": "brandish",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふる"],
-		"okurigana": ["ふる.う"]
+		"rare": [
+			"ふる"
+		],
+		"okurigana": [
+			"ふる.う"
+		]
 	},
 	"frequency": {
 		"mean": 914,

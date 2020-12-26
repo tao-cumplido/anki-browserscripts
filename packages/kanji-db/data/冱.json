@@ -1,16 +1,32 @@
 {
 	"kanji": "冱",
-	"meanings": ["freeze", "be cold", "be clear", "attain skill"],
+	"meanings": [
+		"freeze",
+		"be cold",
+		"be clear",
+		"attain skill"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゴ", "コ"]
+		"rare": [
+			"ゴ",
+			"コ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さ", "こお", "ひ"],
-		"okurigana": ["さ.える", "こお.る", "ひ.える"]
+		"rare": [
+			"さ",
+			"こお",
+			"ひ"
+		],
+		"okurigana": [
+			"さ.える",
+			"こお.る",
+			"ひ.える"
+		]
 	},
 	"frequency": {
 		"mean": 4501,

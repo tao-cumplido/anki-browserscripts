@@ -1,17 +1,25 @@
 {
 	"kanji": "琢",
-	"meanings": ["polish"],
+	"meanings": [
+		"polish"
+	],
 	"keyword": "hone",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["タク"]
+		"rare": [
+			"タク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みが"],
-		"okurigana": ["みが.く"]
+		"rare": [
+			"みが"
+		],
+		"okurigana": [
+			"みが.く"
+		]
 	},
 	"frequency": {
 		"mean": 2419,

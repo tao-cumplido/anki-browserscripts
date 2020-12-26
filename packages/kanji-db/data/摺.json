@@ -1,17 +1,30 @@
 {
 	"kanji": "摺",
-	"meanings": ["rub", "fold", "print (on cloth)"],
+	"meanings": [
+		"rub",
+		"fold",
+		"print (on cloth)"
+	],
 	"keyword": "rubbing",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ", "シュウ", "ロウ"]
+		"rare": [
+			"ショウ",
+			"シュウ",
+			"ロウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["す", "ひだ"],
-		"okurigana": ["す.る"]
+		"rare": [
+			"す",
+			"ひだ"
+		],
+		"okurigana": [
+			"す.る"
+		]
 	},
 	"frequency": {
 		"mean": 2503,

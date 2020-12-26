@@ -1,17 +1,33 @@
 {
 	"kanji": "見",
-	"meanings": ["see", "hopes", "chances", "idea", "opinion", "look at", "visible"],
+	"meanings": [
+		"see",
+		"hopes",
+		"chances",
+		"idea",
+		"opinion",
+		"look at",
+		"visible"
+	],
 	"keyword": "see",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["み"],
+		"frequent": [
+			"み"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["み.る", "み.える", "み.せる"]
+		"okurigana": [
+			"み.る",
+			"み.える",
+			"み.せる"
+		]
 	},
 	"frequency": {
 		"mean": 75,

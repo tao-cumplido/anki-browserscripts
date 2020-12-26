@@ -1,17 +1,26 @@
 {
 	"kanji": "番",
-	"meanings": ["turn", "number in a series"],
+	"meanings": [
+		"turn",
+		"number in a series"
+	],
 	"keyword": "turn",
 	"onyomi": {
-		"frequent": ["バン"],
+		"frequent": [
+			"バン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つが"],
-		"okurigana": ["つが.い"]
+		"rare": [
+			"つが"
+		],
+		"okurigana": [
+			"つが.い"
+		]
 	},
 	"frequency": {
 		"mean": 104,

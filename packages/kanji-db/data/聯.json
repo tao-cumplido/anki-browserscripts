@@ -1,17 +1,28 @@
 {
 	"kanji": "聯",
-	"meanings": ["party", "gang", "clique"],
+	"meanings": [
+		"party",
+		"gang",
+		"clique"
+	],
 	"keyword": "strung together",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["レン"]
+		"rare": [
+			"レン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つら"],
-		"okurigana": ["つら.なる", "つら.ねる"]
+		"rare": [
+			"つら"
+		],
+		"okurigana": [
+			"つら.なる",
+			"つら.ねる"
+		]
 	},
 	"frequency": {
 		"mean": 2214,

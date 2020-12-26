@@ -1,17 +1,34 @@
 {
 	"kanji": "召",
-	"meanings": ["seduce", "call", "send for", "wear", "put on", "ride in", "buy", "eat", "drink", "catch (cold)"],
+	"meanings": [
+		"seduce",
+		"call",
+		"send for",
+		"wear",
+		"put on",
+		"ride in",
+		"buy",
+		"eat",
+		"drink",
+		"catch (cold)"
+	],
 	"keyword": "seduce",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["め"],
+		"frequent": [
+			"め"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["め.す"]
+		"okurigana": [
+			"め.す"
+		]
 	},
 	"frequency": {
 		"mean": 1597,

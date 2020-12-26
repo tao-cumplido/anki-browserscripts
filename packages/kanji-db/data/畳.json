@@ -1,17 +1,35 @@
 {
 	"kanji": "畳",
-	"meanings": ["tatami mat", "counter for tatami mats", "fold", "shut up", "do away with"],
+	"meanings": [
+		"tatami mat",
+		"counter for tatami mats",
+		"fold",
+		"shut up",
+		"do away with"
+	],
 	"keyword": "tatami mat",
 	"onyomi": {
-		"frequent": ["ジョウ"],
+		"frequent": [
+			"ジョウ"
+		],
 		"common": [],
-		"rare": ["チョウ"]
+		"rare": [
+			"チョウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["たた", "たたみ"],
+		"frequent": [
+			"たた",
+			"たたみ"
+		],
 		"common": [],
-		"rare": ["かさ"],
-		"okurigana": ["たた.む", "かさ.なる"]
+		"rare": [
+			"かさ"
+		],
+		"okurigana": [
+			"たた.む",
+			"かさ.なる"
+		]
 	},
 	"frequency": {
 		"mean": 1889,

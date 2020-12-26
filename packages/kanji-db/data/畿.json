@@ -1,16 +1,23 @@
 {
 	"kanji": "畿",
-	"meanings": ["capital", "suburbs of capital"],
+	"meanings": [
+		"capital",
+		"suburbs of capital"
+	],
 	"keyword": "capital suburbs",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みやこ"],
+		"rare": [
+			"みやこ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

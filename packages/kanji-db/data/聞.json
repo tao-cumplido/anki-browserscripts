@@ -1,17 +1,29 @@
 {
 	"kanji": "聞",
-	"meanings": ["hear", "ask", "listen"],
+	"meanings": [
+		"hear",
+		"ask",
+		"listen"
+	],
 	"keyword": "hear",
 	"onyomi": {
-		"frequent": ["ブン", "モン"],
+		"frequent": [
+			"ブン",
+			"モン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["き"],
+		"frequent": [
+			"き"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["き.く", "き.こえる"]
+		"okurigana": [
+			"き.く",
+			"き.こえる"
+		]
 	},
 	"frequency": {
 		"mean": 370,

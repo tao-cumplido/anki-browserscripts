@@ -1,17 +1,35 @@
 {
 	"kanji": "荒",
-	"meanings": ["laid waste", "rough", "rude", "wild"],
+	"meanings": [
+		"laid waste",
+		"rough",
+		"rude",
+		"wild"
+	],
 	"keyword": "laid waste",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あら", "あ"],
+		"frequent": [
+			"あら",
+			"あ"
+		],
 		"common": [],
-		"rare": ["すさ"],
-		"okurigana": ["あら.い", "あ.れる", "あ.らす", "あ.らし", "すさ.む"]
+		"rare": [
+			"すさ"
+		],
+		"okurigana": [
+			"あら.い",
+			"あ.れる",
+			"あ.らす",
+			"あ.らし",
+			"すさ.む"
+		]
 	},
 	"frequency": {
 		"mean": 932,

@@ -1,17 +1,29 @@
 {
 	"kanji": "喚",
-	"meanings": ["yell", "cry", "call", "scream", "summon"],
+	"meanings": [
+		"yell",
+		"cry",
+		"call",
+		"scream",
+		"summon"
+	],
 	"keyword": "yell",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わめ"],
-		"okurigana": ["わめ.く"]
+		"rare": [
+			"わめ"
+		],
+		"okurigana": [
+			"わめ.く"
+		]
 	},
 	"frequency": {
 		"mean": 1887,

@@ -1,16 +1,29 @@
 {
 	"kanji": "日",
-	"meanings": ["day", "sun", "Japan", "counter for days"],
+	"meanings": [
+		"day",
+		"sun",
+		"Japan",
+		"counter for days"
+	],
 	"keyword": "day",
 	"onyomi": {
-		"frequent": ["ニチ", "ジツ"],
+		"frequent": [
+			"ニチ",
+			"ジツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひ", "か"],
+		"frequent": [
+			"ひ",
+			"か"
+		],
 		"common": [],
-		"rare": ["び"],
+		"rare": [
+			"び"
+		],
 		"okurigana": []
 	},
 	"frequency": {

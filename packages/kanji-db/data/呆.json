@@ -1,17 +1,32 @@
 {
 	"kanji": "呆",
-	"meanings": ["be amazed", "disgusted", "shocked"],
+	"meanings": [
+		"be amazed",
+		"disgusted",
+		"shocked"
+	],
 	"keyword": "dumbfounded",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ホウ"]
+		"rare": [
+			"ホウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほけ", "ぼ", "あき", "おろか"],
-		"okurigana": ["ほけ.る", "ぼ.ける", "あき.れる"]
+		"rare": [
+			"ほけ",
+			"ぼ",
+			"あき",
+			"おろか"
+		],
+		"okurigana": [
+			"ほけ.る",
+			"ぼ.ける",
+			"あき.れる"
+		]
 	},
 	"frequency": {
 		"mean": 2298,

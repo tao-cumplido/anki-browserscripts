@@ -1,17 +1,29 @@
 {
 	"kanji": "薙",
-	"meanings": ["mow down (the enemy)"],
+	"meanings": [
+		"mow down (the enemy)"
+	],
 	"keyword": "trim",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テイ", "チ"]
+		"rare": [
+			"テイ",
+			"チ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["な", "なぎ", "か"],
-		"okurigana": ["な.ぐ", "か.る"]
+		"rare": [
+			"な",
+			"なぎ",
+			"か"
+		],
+		"okurigana": [
+			"な.ぐ",
+			"か.る"
+		]
 	},
 	"frequency": {
 		"mean": 2386,

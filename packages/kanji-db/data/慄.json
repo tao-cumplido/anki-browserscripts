@@ -1,17 +1,29 @@
 {
 	"kanji": "慄",
-	"meanings": ["fear"],
+	"meanings": [
+		"fear"
+	],
 	"keyword": "shudder",
 	"onyomi": {
-		"frequent": ["リツ"],
+		"frequent": [
+			"リツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふる", "おそ", "おのの"],
-		"okurigana": ["ふる.える", "おそ.れる", "おのの.く"]
+		"rare": [
+			"ふる",
+			"おそ",
+			"おのの"
+		],
+		"okurigana": [
+			"ふる.える",
+			"おそ.れる",
+			"おのの.く"
+		]
 	},
 	"frequency": {
 		"mean": 2672,

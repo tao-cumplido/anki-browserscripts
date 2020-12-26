@@ -1,17 +1,36 @@
 {
 	"kanji": "存",
-	"meanings": ["exist", "suppose", "be aware of", "believe", "feel"],
+	"meanings": [
+		"exist",
+		"suppose",
+		"be aware of",
+		"believe",
+		"feel"
+	],
 	"keyword": "suppose",
 	"onyomi": {
-		"frequent": ["ソン", "ゾン"],
+		"frequent": [
+			"ソン",
+			"ゾン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ながら", "あ", "たも", "と"],
-		"okurigana": ["ながら.える", "あ.る", "たも.つ", "と.う"]
+		"rare": [
+			"ながら",
+			"あ",
+			"たも",
+			"と"
+		],
+		"okurigana": [
+			"ながら.える",
+			"あ.る",
+			"たも.つ",
+			"と.う"
+		]
 	},
 	"frequency": {
 		"mean": 202,

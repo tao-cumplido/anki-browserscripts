@@ -1,16 +1,24 @@
 {
 	"kanji": "朔",
-	"meanings": ["conjunction (astronomy)", "first day of month", "north"],
+	"meanings": [
+		"conjunction (astronomy)",
+		"first day of month",
+		"north"
+	],
 	"keyword": "first day of the month",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サク"]
+		"rare": [
+			"サク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ついたち"],
+		"rare": [
+			"ついたち"
+		],
 		"okurigana": []
 	},
 	"frequency": {

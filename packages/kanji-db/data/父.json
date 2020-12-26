@@ -1,14 +1,20 @@
 {
 	"kanji": "父",
-	"meanings": ["father"],
+	"meanings": [
+		"father"
+	],
 	"keyword": "father",
 	"onyomi": {
-		"frequent": ["フ"],
+		"frequent": [
+			"フ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ちち"],
+		"frequent": [
+			"ちち"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

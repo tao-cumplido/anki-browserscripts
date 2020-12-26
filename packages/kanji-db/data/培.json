@@ -1,17 +1,26 @@
 {
 	"kanji": "培",
-	"meanings": ["cultivate", "foster"],
+	"meanings": [
+		"cultivate",
+		"foster"
+	],
 	"keyword": "cultivate",
 	"onyomi": {
-		"frequent": ["バイ"],
+		"frequent": [
+			"バイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つちか"],
+		"frequent": [
+			"つちか"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["つちか.う"]
+		"okurigana": [
+			"つちか.う"
+		]
 	},
 	"frequency": {
 		"mean": 1668,

@@ -1,0 +1,34 @@
+{
+	"kanji": "汧",
+	"meanings": [
+		"name of a river in Shandong",
+		"marsh",
+		"float"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ケン",
+			"ケイ",
+			"キョウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"さわ",
+			"ただよ",
+			"きよ"
+		],
+		"rare": [],
+		"okurigana": [
+			"ただよ.う",
+			"きよ.い"
+		]
+	},
+	"frequency": {
+		"mean": 4500,
+		"wikipedia": 4191
+	}
+}

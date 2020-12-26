@@ -1,17 +1,37 @@
 {
 	"kanji": "果",
-	"meanings": ["fruit", "reward", "carry out", "achieve", "complete", "end", "finish", "succeed"],
+	"meanings": [
+		"fruit",
+		"reward",
+		"carry out",
+		"achieve",
+		"complete",
+		"end",
+		"finish",
+		"succeed"
+	],
 	"keyword": "fruit",
 	"onyomi": {
-		"frequent": ["カ"],
+		"frequent": [
+			"カ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["は"],
+		"frequent": [
+			"は"
+		],
 		"common": [],
-		"rare": ["はた"],
-		"okurigana": ["は.たす", "はた.す", "は.てる", "は.て"]
+		"rare": [
+			"はた"
+		],
+		"okurigana": [
+			"は.たす",
+			"はた.す",
+			"は.てる",
+			"は.て"
+		]
 	},
 	"frequency": {
 		"mean": 352,

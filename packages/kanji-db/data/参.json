@@ -15,15 +15,26 @@
 	],
 	"keyword": "visit",
 	"onyomi": {
-		"frequent": ["サン"],
+		"frequent": [
+			"サン"
+		],
 		"common": [],
-		"rare": ["シン"]
+		"rare": [
+			"シン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["まい"],
+		"frequent": [
+			"まい"
+		],
 		"common": [],
-		"rare": ["まじわる", "みつ"],
-		"okurigana": ["まい.る"]
+		"rare": [
+			"まじわる",
+			"みつ"
+		],
+		"okurigana": [
+			"まい.る"
+		]
 	},
 	"frequency": {
 		"mean": 186,

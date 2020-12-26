@@ -1,17 +1,30 @@
 {
 	"kanji": "陰",
-	"meanings": ["shade", "yin", "negative", "sex organs", "secret", "shadow"],
+	"meanings": [
+		"shade",
+		"yin",
+		"negative",
+		"sex organs",
+		"secret",
+		"shadow"
+	],
 	"keyword": "shade",
 	"onyomi": {
-		"frequent": ["イン"],
+		"frequent": [
+			"イン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かげ"],
+		"frequent": [
+			"かげ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かげ.る"]
+		"okurigana": [
+			"かげ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1228,

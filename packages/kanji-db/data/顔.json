@@ -1,14 +1,21 @@
 {
 	"kanji": "顔",
-	"meanings": ["face", "expression"],
+	"meanings": [
+		"face",
+		"expression"
+	],
 	"keyword": "face",
 	"onyomi": {
-		"frequent": ["ガン"],
+		"frequent": [
+			"ガン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かお"],
+		"frequent": [
+			"かお"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,9 +1,15 @@
 {
 	"kanji": "儍",
-	"meanings": ["foolish", "silly", "imbecile"],
+	"meanings": [
+		"foolish",
+		"silly",
+		"imbecile"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["サ"],
+		"common": [
+			"サ"
+		],
 		"rare": []
 	},
 	"frequency": {

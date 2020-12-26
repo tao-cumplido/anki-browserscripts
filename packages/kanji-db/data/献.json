@@ -1,17 +1,30 @@
 {
 	"kanji": "献",
-	"meanings": ["offering", "counter for drinks", "present", "offer"],
+	"meanings": [
+		"offering",
+		"counter for drinks",
+		"present",
+		"offer"
+	],
 	"keyword": "offering",
 	"onyomi": {
-		"frequent": ["ケン"],
-		"common": ["コン"],
+		"frequent": [
+			"ケン"
+		],
+		"common": [
+			"コン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たてまつ"],
-		"okurigana": ["たてまつ.る"]
+		"rare": [
+			"たてまつ"
+		],
+		"okurigana": [
+			"たてまつ.る"
+		]
 	},
 	"frequency": {
 		"mean": 655,

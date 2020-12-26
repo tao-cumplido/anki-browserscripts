@@ -1,16 +1,24 @@
 {
 	"kanji": "侠",
-	"meanings": ["tomboy", "chivalry"],
+	"meanings": [
+		"tomboy",
+		"chivalry"
+	],
 	"keyword": "chivalry",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ"]
+		"rare": [
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きゃん", "おとこだて"],
+		"rare": [
+			"きゃん",
+			"おとこだて"
+		],
 		"okurigana": []
 	},
 	"frequency": {

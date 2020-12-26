@@ -1,14 +1,23 @@
 {
 	"kanji": "乑",
-	"meanings": ["stand side by side", "assemble"],
+	"meanings": [
+		"stand side by side",
+		"assemble"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ギン", "ゴン", "シュウ"],
+		"common": [
+			"ギン",
+			"ゴン",
+			"シュウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["ならびたつ"],
+		"common": [
+			"ならびたつ"
+		],
 		"rare": [],
 		"okurigana": []
 	},

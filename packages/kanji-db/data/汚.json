@@ -1,17 +1,36 @@
 {
 	"kanji": "汚",
-	"meanings": ["dirty", "pollute", "disgrace", "rape", "defile"],
+	"meanings": [
+		"dirty",
+		"pollute",
+		"disgrace",
+		"rape",
+		"defile"
+	],
 	"keyword": "dirty",
 	"onyomi": {
-		"frequent": ["オ"],
+		"frequent": [
+			"オ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["けが", "よご", "きたな"],
+		"frequent": [
+			"けが",
+			"よご",
+			"きたな"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["けが.す", "けが.れる", "けが.らわしい", "よご.す", "よご.れる", "きたな.い"]
+		"okurigana": [
+			"けが.す",
+			"けが.れる",
+			"けが.らわしい",
+			"よご.す",
+			"よご.れる",
+			"きたな.い"
+		]
 	},
 	"frequency": {
 		"mean": 1599,

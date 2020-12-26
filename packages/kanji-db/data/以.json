@@ -1,17 +1,28 @@
 {
 	"kanji": "以",
-	"meanings": ["by means of", "because", "in view of", "compared with"],
+	"meanings": [
+		"by means of",
+		"because",
+		"in view of",
+		"compared with"
+	],
 	"keyword": "by means of",
 	"onyomi": {
-		"frequent": ["イ"],
+		"frequent": [
+			"イ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["もっ"],
-		"okurigana": ["もっ.て"]
+		"rare": [
+			"もっ"
+		],
+		"okurigana": [
+			"もっ.て"
+		]
 	},
 	"frequency": {
 		"mean": 129,

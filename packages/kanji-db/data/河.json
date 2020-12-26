@@ -1,14 +1,20 @@
 {
 	"kanji": "河",
-	"meanings": ["river"],
+	"meanings": [
+		"river"
+	],
 	"keyword": "river",
 	"onyomi": {
-		"frequent": ["カ"],
+		"frequent": [
+			"カ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かわ"],
+		"frequent": [
+			"かわ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

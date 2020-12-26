@@ -1,17 +1,29 @@
 {
 	"kanji": "充",
-	"meanings": ["allot", "fill"],
+	"meanings": [
+		"allot",
+		"fill"
+	],
 	"keyword": "allot",
 	"onyomi": {
-		"frequent": ["ジュウ"],
+		"frequent": [
+			"ジュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あ"],
+		"frequent": [
+			"あ"
+		],
 		"common": [],
-		"rare": ["み"],
-		"okurigana": ["あ.てる", "み.たす"]
+		"rare": [
+			"み"
+		],
+		"okurigana": [
+			"あ.てる",
+			"み.たす"
+		]
 	},
 	"frequency": {
 		"mean": 1197,

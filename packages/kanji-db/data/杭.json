@@ -1,16 +1,24 @@
 {
 	"kanji": "杭",
-	"meanings": ["stake", "post", "picket"],
+	"meanings": [
+		"stake",
+		"post",
+		"picket"
+	],
 	"keyword": "picket",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くい"],
+		"rare": [
+			"くい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

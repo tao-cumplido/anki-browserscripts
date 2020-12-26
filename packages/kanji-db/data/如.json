@@ -1,17 +1,32 @@
 {
 	"kanji": "如",
-	"meanings": ["likeness", "like", "such as", "as if", "better", "best", "equal"],
+	"meanings": [
+		"likeness",
+		"like",
+		"such as",
+		"as if",
+		"better",
+		"best",
+		"equal"
+	],
 	"keyword": "likeness",
 	"onyomi": {
-		"frequent": ["ジョ", "ニョ"],
+		"frequent": [
+			"ジョ",
+			"ニョ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ごと"],
-		"okurigana": ["ごと.し"]
+		"rare": [
+			"ごと"
+		],
+		"okurigana": [
+			"ごと.し"
+		]
 	},
 	"frequency": {
 		"mean": 1074,

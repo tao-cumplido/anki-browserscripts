@@ -1,17 +1,29 @@
 {
 	"kanji": "嘱",
-	"meanings": ["entrust", "request", "send a message"],
+	"meanings": [
+		"entrust",
+		"request",
+		"send a message"
+	],
 	"keyword": "entrust",
 	"onyomi": {
-		"frequent": ["ショク"],
+		"frequent": [
+			"ショク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しょく", "たの"],
-		"okurigana": ["しょく.する", "たの.む"]
+		"rare": [
+			"しょく",
+			"たの"
+		],
+		"okurigana": [
+			"しょく.する",
+			"たの.む"
+		]
 	},
 	"frequency": {
 		"mean": 2477,

@@ -1,17 +1,36 @@
 {
 	"kanji": "倒",
-	"meanings": ["overthrow", "fall", "collapse", "drop", "break down"],
+	"meanings": [
+		"overthrow",
+		"fall",
+		"collapse",
+		"drop",
+		"break down"
+	],
 	"keyword": "overthrow",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たお"],
+		"frequent": [
+			"たお"
+		],
 		"common": [],
-		"rare": ["だお", "さかさま", "さかさ", "さかしま"],
-		"okurigana": ["たお.れる", "だお.れ", "たお.す"]
+		"rare": [
+			"だお",
+			"さかさま",
+			"さかさ",
+			"さかしま"
+		],
+		"okurigana": [
+			"たお.れる",
+			"だお.れ",
+			"たお.す"
+		]
 	},
 	"frequency": {
 		"mean": 917,

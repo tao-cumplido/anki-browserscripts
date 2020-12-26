@@ -1,16 +1,25 @@
 {
 	"kanji": "雀",
-	"meanings": ["sparrow"],
+	"meanings": [
+		"sparrow"
+	],
 	"keyword": "sparrow",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジャク", "ジャン", "サク", "シャク"]
+		"rare": [
+			"ジャク",
+			"ジャン",
+			"サク",
+			"シャク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すずめ"],
+		"rare": [
+			"すずめ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

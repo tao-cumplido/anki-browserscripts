@@ -1,17 +1,28 @@
 {
 	"kanji": "患",
-	"meanings": ["afflicted", "disease", "suffer from", "be ill"],
+	"meanings": [
+		"afflicted",
+		"disease",
+		"suffer from",
+		"be ill"
+	],
 	"keyword": "afflicted",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["わずら"],
+		"frequent": [
+			"わずら"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["わずら.う"]
+		"okurigana": [
+			"わずら.う"
+		]
 	},
 	"frequency": {
 		"mean": 1360,

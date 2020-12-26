@@ -1,17 +1,32 @@
 {
 	"kanji": "敢",
-	"meanings": ["daring", "brave", "bold", "sad", "tragic", "pitiful"],
+	"meanings": [
+		"daring",
+		"brave",
+		"bold",
+		"sad",
+		"tragic",
+		"pitiful"
+	],
 	"keyword": "daring",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あ"],
-		"okurigana": ["あ.えて", "あ.えない", "あ.えず"]
+		"rare": [
+			"あ"
+		],
+		"okurigana": [
+			"あ.えて",
+			"あ.えない",
+			"あ.えず"
+		]
 	},
 	"frequency": {
 		"mean": 1903,

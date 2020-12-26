@@ -1,17 +1,26 @@
 {
 	"kanji": "燿",
-	"meanings": ["shine"],
+	"meanings": [
+		"shine"
+	],
 	"keyword": "twinkle",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヨウ"]
+		"rare": [
+			"ヨウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かがや", "ひかり"],
-		"okurigana": ["かがや.く"]
+		"rare": [
+			"かがや",
+			"ひかり"
+		],
+		"okurigana": [
+			"かがや.く"
+		]
 	},
 	"frequency": {
 		"mean": 3135,

@@ -1,16 +1,25 @@
 {
 	"kanji": "篠",
-	"meanings": ["bamboo grass"],
+	"meanings": [
+		"bamboo grass"
+	],
 	"keyword": "slender bamboo",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゾウ", "ショウ"]
+		"rare": [
+			"ゾウ",
+			"ショウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しの", "ささ", "すず"],
+		"rare": [
+			"しの",
+			"ささ",
+			"すず"
+		],
 		"okurigana": []
 	},
 	"frequency": {

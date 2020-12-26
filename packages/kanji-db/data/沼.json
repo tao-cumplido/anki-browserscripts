@@ -1,14 +1,24 @@
 {
 	"kanji": "沼",
-	"meanings": ["marsh", "lake", "bog", "swamp", "pond"],
+	"meanings": [
+		"marsh",
+		"lake",
+		"bog",
+		"swamp",
+		"pond"
+	],
 	"keyword": "marsh",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ぬま"],
+		"frequent": [
+			"ぬま"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

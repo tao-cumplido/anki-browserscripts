@@ -1,15 +1,24 @@
 {
 	"kanji": "酒",
-	"meanings": ["sake", "alcohol"],
+	"meanings": [
+		"sake",
+		"alcohol"
+	],
 	"keyword": "sake",
 	"onyomi": {
-		"frequent": ["シュ"],
+		"frequent": [
+			"シュ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さけ"],
-		"common": ["さか"],
+		"frequent": [
+			"さけ"
+		],
+		"common": [
+			"さか"
+		],
 		"rare": [],
 		"okurigana": []
 	},

@@ -1,17 +1,29 @@
 {
 	"kanji": "普",
-	"meanings": ["universal", "wide(ly)", "generally", "Prussia"],
+	"meanings": [
+		"universal",
+		"wide(ly)",
+		"generally",
+		"Prussia"
+	],
 	"keyword": "universal",
 	"onyomi": {
-		"frequent": ["フ"],
+		"frequent": [
+			"フ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あまね", "あまねし"],
-		"okurigana": ["あまね.く"]
+		"rare": [
+			"あまね",
+			"あまねし"
+		],
+		"okurigana": [
+			"あまね.く"
+		]
 	},
 	"frequency": {
 		"mean": 778,

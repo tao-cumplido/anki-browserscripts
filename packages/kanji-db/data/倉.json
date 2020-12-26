@@ -1,14 +1,24 @@
 {
 	"kanji": "倉",
-	"meanings": ["godown", "warehouse", "storehouse", "cellar", "treasury"],
+	"meanings": [
+		"godown",
+		"warehouse",
+		"storehouse",
+		"cellar",
+		"treasury"
+	],
 	"keyword": "godown",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くら"],
+		"frequent": [
+			"くら"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

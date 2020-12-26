@@ -1,17 +1,26 @@
 {
 	"kanji": "虐",
-	"meanings": ["tyrannize", "oppress"],
+	"meanings": [
+		"tyrannize",
+		"oppress"
+	],
 	"keyword": "tyrannize",
 	"onyomi": {
-		"frequent": ["ギャク"],
+		"frequent": [
+			"ギャク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["しいた"],
+		"frequent": [
+			"しいた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["しいた.げる"]
+		"okurigana": [
+			"しいた.げる"
+		]
 	},
 	"frequency": {
 		"mean": 1693,

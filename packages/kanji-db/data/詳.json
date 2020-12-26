@@ -1,17 +1,32 @@
 {
 	"kanji": "詳",
-	"meanings": ["detailed", "full", "minute", "accurate", "well-informed"],
+	"meanings": [
+		"detailed",
+		"full",
+		"minute",
+		"accurate",
+		"well-informed"
+	],
 	"keyword": "detailed",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くわ"],
+		"frequent": [
+			"くわ"
+		],
 		"common": [],
-		"rare": ["つまび"],
-		"okurigana": ["くわ.しい", "つまび.らか"]
+		"rare": [
+			"つまび"
+		],
+		"okurigana": [
+			"くわ.しい",
+			"つまび.らか"
+		]
 	},
 	"frequency": {
 		"mean": 851,

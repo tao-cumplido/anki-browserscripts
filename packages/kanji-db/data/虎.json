@@ -1,14 +1,21 @@
 {
 	"kanji": "虎",
-	"meanings": ["tiger", "drunkard"],
+	"meanings": [
+		"tiger",
+		"drunkard"
+	],
 	"keyword": "tiger",
 	"onyomi": {
-		"frequent": ["コ"],
+		"frequent": [
+			"コ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["とら"],
+		"frequent": [
+			"とら"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

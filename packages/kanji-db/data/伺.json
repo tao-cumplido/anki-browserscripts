@@ -1,17 +1,30 @@
 {
 	"kanji": "伺",
-	"meanings": ["pay respects", "visit", "ask", "inquire", "question", "implore"],
+	"meanings": [
+		"pay respects",
+		"visit",
+		"ask",
+		"inquire",
+		"question",
+		"implore"
+	],
 	"keyword": "pay respects",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うかが"],
+		"frequent": [
+			"うかが"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["うかが.う"]
+		"okurigana": [
+			"うかが.う"
+		]
 	},
 	"frequency": {
 		"mean": 2233,

@@ -1,17 +1,29 @@
 {
 	"kanji": "頼",
-	"meanings": ["trust", "request"],
+	"meanings": [
+		"trust",
+		"request"
+	],
 	"keyword": "trust",
 	"onyomi": {
-		"frequent": ["ライ"],
+		"frequent": [
+			"ライ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たの", "たよ"],
+		"frequent": [
+			"たの",
+			"たよ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["たの.む", "たの.もしい", "たよ.る"]
+		"okurigana": [
+			"たの.む",
+			"たの.もしい",
+			"たよ.る"
+		]
 	},
 	"frequency": {
 		"mean": 108,

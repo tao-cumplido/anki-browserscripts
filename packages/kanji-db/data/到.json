@@ -1,17 +1,29 @@
 {
 	"kanji": "到",
-	"meanings": ["arrival", "proceed", "reach", "attain", "result in"],
+	"meanings": [
+		"arrival",
+		"proceed",
+		"reach",
+		"attain",
+		"result in"
+	],
 	"keyword": "arrival",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いた"],
-		"okurigana": ["いた.る"]
+		"rare": [
+			"いた"
+		],
+		"okurigana": [
+			"いた.る"
+		]
 	},
 	"frequency": {
 		"mean": 1234,

@@ -1,17 +1,28 @@
 {
 	"kanji": "淡",
-	"meanings": ["thin", "faint", "pale", "fleeting"],
+	"meanings": [
+		"thin",
+		"faint",
+		"pale",
+		"fleeting"
+	],
 	"keyword": "thin",
 	"onyomi": {
-		"frequent": ["タン"],
+		"frequent": [
+			"タン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あわ"],
+		"frequent": [
+			"あわ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あわ.い"]
+		"okurigana": [
+			"あわ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1499,

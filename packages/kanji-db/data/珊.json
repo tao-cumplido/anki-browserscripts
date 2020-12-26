@@ -1,16 +1,24 @@
 {
 	"kanji": "珊",
-	"meanings": ["coral", "centimeter"],
+	"meanings": [
+		"coral",
+		"centimeter"
+	],
 	"keyword": "coral",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サン"]
+		"rare": [
+			"サン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["センチ", "さんち"],
+		"rare": [
+			"センチ",
+			"さんち"
+		],
 		"okurigana": []
 	},
 	"frequency": {

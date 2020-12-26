@@ -1,16 +1,23 @@
 {
 	"kanji": "鯖",
-	"meanings": ["mackerel"],
+	"meanings": [
+		"mackerel"
+	],
 	"keyword": "mackerel",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セイ", "ショウ"]
+		"rare": [
+			"セイ",
+			"ショウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さば"],
+		"rare": [
+			"さば"
+		],
 		"okurigana": []
 	},
 	"frequency": {

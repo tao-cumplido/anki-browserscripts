@@ -1,17 +1,26 @@
 {
 	"kanji": "曖",
-	"meanings": ["dark", "not clear"],
+	"meanings": [
+		"dark",
+		"not clear"
+	],
 	"keyword": "unclear",
 	"onyomi": {
-		"frequent": ["アイ"],
+		"frequent": [
+			"アイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くら"],
-		"okurigana": ["くら.い"]
+		"rare": [
+			"くら"
+		],
+		"okurigana": [
+			"くら.い"
+		]
 	},
 	"frequency": {
 		"mean": 1073,

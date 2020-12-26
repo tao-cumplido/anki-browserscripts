@@ -1,14 +1,20 @@
 {
 	"kanji": "冬",
-	"meanings": ["winter"],
+	"meanings": [
+		"winter"
+	],
 	"keyword": "winter",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふゆ"],
+		"frequent": [
+			"ふゆ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

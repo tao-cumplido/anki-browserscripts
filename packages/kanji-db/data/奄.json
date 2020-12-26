@@ -1,17 +1,28 @@
 {
 	"kanji": "奄",
-	"meanings": ["cover", "suffocate", "obstruct"],
+	"meanings": [
+		"cover",
+		"suffocate",
+		"obstruct"
+	],
 	"keyword": "encompassing",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["エン"]
+		"rare": [
+			"エン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おお", "たちまち"],
-		"okurigana": ["おお.う"]
+		"rare": [
+			"おお",
+			"たちまち"
+		],
+		"okurigana": [
+			"おお.う"
+		]
 	},
 	"frequency": {
 		"mean": 2430,

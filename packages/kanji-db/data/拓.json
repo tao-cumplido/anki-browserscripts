@@ -1,17 +1,27 @@
 {
 	"kanji": "拓",
-	"meanings": ["clear (the land)", "open", "break up (land)"],
+	"meanings": [
+		"clear (the land)",
+		"open",
+		"break up (land)"
+	],
 	"keyword": "clear the land",
 	"onyomi": {
-		"frequent": ["タク"],
+		"frequent": [
+			"タク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひら"],
-		"okurigana": ["ひら.く"]
+		"rare": [
+			"ひら"
+		],
+		"okurigana": [
+			"ひら.く"
+		]
 	},
 	"frequency": {
 		"mean": 1298,

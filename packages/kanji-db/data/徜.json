@@ -1,0 +1,29 @@
+{
+	"kanji": "徜",
+	"meanings": [
+		"walking and fro",
+		"lingering",
+		"wander"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ショウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"さまよ"
+		],
+		"rare": [],
+		"okurigana": [
+			"さまよ.う"
+		]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

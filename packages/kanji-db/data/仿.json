@@ -1,16 +1,32 @@
 {
 	"kanji": "仿",
-	"meanings": ["imitate", "copy", "as if", "stand still", "wander"],
+	"meanings": [
+		"imitate",
+		"copy",
+		"as if",
+		"stand still",
+		"wander"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ホウ"],
+		"common": [
+			"ホウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["さまよ", "なら", "くら"],
+		"common": [
+			"さまよ",
+			"なら",
+			"くら"
+		],
 		"rare": [],
-		"okurigana": ["さまよ.う", "なら.う", "くら.べる"]
+		"okurigana": [
+			"さまよ.う",
+			"なら.う",
+			"くら.べる"
+		]
 	},
 	"frequency": {
 		"mean": 4419,

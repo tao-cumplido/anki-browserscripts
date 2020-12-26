@@ -1,14 +1,25 @@
 {
 	"kanji": "浦",
-	"meanings": ["bay", "creek", "inlet", "gulf", "beach", "seacoast"],
+	"meanings": [
+		"bay",
+		"creek",
+		"inlet",
+		"gulf",
+		"beach",
+		"seacoast"
+	],
 	"keyword": "bay",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ホ"]
+		"rare": [
+			"ホ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["うら"],
+		"frequent": [
+			"うら"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

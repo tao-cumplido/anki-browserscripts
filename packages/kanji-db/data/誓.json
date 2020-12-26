@@ -1,17 +1,27 @@
 {
 	"kanji": "誓",
-	"meanings": ["vow", "swear", "pledge"],
+	"meanings": [
+		"vow",
+		"swear",
+		"pledge"
+	],
 	"keyword": "vow",
 	"onyomi": {
-		"frequent": ["セイ"],
+		"frequent": [
+			"セイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ちか"],
+		"frequent": [
+			"ちか"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ちか.う"]
+		"okurigana": [
+			"ちか.う"
+		]
 	},
 	"frequency": {
 		"mean": 1782,

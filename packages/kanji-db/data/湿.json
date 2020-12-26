@@ -1,17 +1,34 @@
 {
 	"kanji": "湿",
-	"meanings": ["damp", "wet", "moist"],
+	"meanings": [
+		"damp",
+		"wet",
+		"moist"
+	],
 	"keyword": "damp",
 	"onyomi": {
-		"frequent": ["シツ"],
+		"frequent": [
+			"シツ"
+		],
 		"common": [],
-		"rare": ["シュウ"]
+		"rare": [
+			"シュウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["しめ"],
+		"frequent": [
+			"しめ"
+		],
 		"common": [],
-		"rare": ["うるお"],
-		"okurigana": ["しめ.る", "しめ.す", "うるお.う", "うるお.す"]
+		"rare": [
+			"うるお"
+		],
+		"okurigana": [
+			"しめ.る",
+			"しめ.す",
+			"うるお.う",
+			"うるお.す"
+		]
 	},
 	"frequency": {
 		"mean": 1754,

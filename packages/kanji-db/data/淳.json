@@ -1,17 +1,26 @@
 {
 	"kanji": "淳",
-	"meanings": ["pure"],
+	"meanings": [
+		"pure"
+	],
 	"keyword": "immaculate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジュン", "シュン"]
+		"rare": [
+			"ジュン",
+			"シュン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あつ"],
-		"okurigana": ["あつ.い"]
+		"rare": [
+			"あつ"
+		],
+		"okurigana": [
+			"あつ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1392,

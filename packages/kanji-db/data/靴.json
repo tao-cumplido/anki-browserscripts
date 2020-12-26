@@ -1,14 +1,20 @@
 {
 	"kanji": "靴",
-	"meanings": ["shoes"],
+	"meanings": [
+		"shoes"
+	],
 	"keyword": "shoes",
 	"onyomi": {
-		"frequent": ["カ"],
+		"frequent": [
+			"カ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くつ"],
+		"frequent": [
+			"くつ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

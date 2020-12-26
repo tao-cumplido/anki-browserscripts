@@ -1,17 +1,28 @@
 {
 	"kanji": "沃",
-	"meanings": ["fertility"],
+	"meanings": [
+		"fertility"
+	],
 	"keyword": "irrigate",
 	"onyomi": {
-		"frequent": ["ヨク"],
+		"frequent": [
+			"ヨク"
+		],
 		"common": [],
-		"rare": ["ヨウ", "オク"]
+		"rare": [
+			"ヨウ",
+			"オク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["そそ"],
-		"okurigana": ["そそ.ぐ"]
+		"rare": [
+			"そそ"
+		],
+		"okurigana": [
+			"そそ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 3013,

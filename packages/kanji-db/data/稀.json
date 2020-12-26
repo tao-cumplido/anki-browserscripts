@@ -1,16 +1,26 @@
 {
 	"kanji": "稀",
-	"meanings": ["rare", "phenomenal", "dilute (acid)"],
+	"meanings": [
+		"rare",
+		"phenomenal",
+		"dilute (acid)"
+	],
 	"keyword": "sparse",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キ", "ケ"]
+		"rare": [
+			"キ",
+			"ケ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まれ", "まばら"],
+		"rare": [
+			"まれ",
+			"まばら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

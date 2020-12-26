@@ -1,17 +1,33 @@
 {
 	"kanji": "触",
-	"meanings": ["contact", "touch", "feel", "hit", "proclaim", "announce", "conflict"],
+	"meanings": [
+		"contact",
+		"touch",
+		"feel",
+		"hit",
+		"proclaim",
+		"announce",
+		"conflict"
+	],
 	"keyword": "contact",
 	"onyomi": {
-		"frequent": ["ショク"],
+		"frequent": [
+			"ショク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふ", "さわ"],
+		"frequent": [
+			"ふ",
+			"さわ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ふ.れる", "さわ.る"]
+		"okurigana": [
+			"ふ.れる",
+			"さわ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1154,

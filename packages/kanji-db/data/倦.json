@@ -1,17 +1,33 @@
 {
 	"kanji": "倦",
-	"meanings": ["lose interest in", "tire of"],
+	"meanings": [
+		"lose interest in",
+		"tire of"
+	],
 	"keyword": "fed up",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケン"]
+		"rare": [
+			"ケン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あき", "あぐ", "う", "つか"],
-		"okurigana": ["あき.る", "あぐ.む", "あぐ.ねる", "う.む", "つか.れる"]
+		"rare": [
+			"あき",
+			"あぐ",
+			"う",
+			"つか"
+		],
+		"okurigana": [
+			"あき.る",
+			"あぐ.む",
+			"あぐ.ねる",
+			"う.む",
+			"つか.れる"
+		]
 	},
 	"frequency": {
 		"mean": 3187,

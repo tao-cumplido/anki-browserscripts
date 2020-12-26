@@ -1,16 +1,23 @@
 {
 	"kanji": "郡",
-	"meanings": ["county", "district"],
+	"meanings": [
+		"county",
+		"district"
+	],
 	"keyword": "county",
 	"onyomi": {
-		"frequent": ["グン"],
+		"frequent": [
+			"グン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こおり"],
+		"rare": [
+			"こおり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

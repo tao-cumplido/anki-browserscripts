@@ -1,16 +1,25 @@
 {
 	"kanji": "郎",
-	"meanings": ["son", "counter for sons"],
+	"meanings": [
+		"son",
+		"counter for sons"
+	],
 	"keyword": "son",
 	"onyomi": {
-		"frequent": ["ロウ"],
+		"frequent": [
+			"ロウ"
+		],
 		"common": [],
-		"rare": ["リョウ"]
+		"rare": [
+			"リョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おとこ"],
+		"rare": [
+			"おとこ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

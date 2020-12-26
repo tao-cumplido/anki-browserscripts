@@ -1,14 +1,22 @@
 {
 	"kanji": "湯",
-	"meanings": ["hot water", "bath", "hot spring"],
+	"meanings": [
+		"hot water",
+		"bath",
+		"hot spring"
+	],
 	"keyword": "hot water",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ゆ"],
+		"frequent": [
+			"ゆ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

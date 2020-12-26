@@ -1,17 +1,29 @@
 {
 	"kanji": "適",
-	"meanings": ["suitable", "occasional", "rare", "qualified", "capable"],
+	"meanings": [
+		"suitable",
+		"occasional",
+		"rare",
+		"qualified",
+		"capable"
+	],
 	"keyword": "suitable",
 	"onyomi": {
-		"frequent": ["テキ"],
+		"frequent": [
+			"テキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かな"],
-		"okurigana": ["かな.う"]
+		"rare": [
+			"かな"
+		],
+		"okurigana": [
+			"かな.う"
+		]
 	},
 	"frequency": {
 		"mean": 832,

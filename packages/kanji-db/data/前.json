@@ -1,14 +1,21 @@
 {
 	"kanji": "前",
-	"meanings": ["in front", "before"],
+	"meanings": [
+		"in front",
+		"before"
+	],
 	"keyword": "in front",
 	"onyomi": {
-		"frequent": ["ゼン"],
+		"frequent": [
+			"ゼン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まえ"],
+		"frequent": [
+			"まえ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

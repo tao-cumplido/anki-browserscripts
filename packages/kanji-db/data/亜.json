@@ -1,17 +1,28 @@
 {
 	"kanji": "亜",
-	"meanings": ["Asia", "rank next", "come after", "-ous"],
+	"meanings": [
+		"Asia",
+		"rank next",
+		"come after",
+		"-ous"
+	],
 	"keyword": "Asia",
 	"onyomi": {
-		"frequent": ["ア"],
+		"frequent": [
+			"ア"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つ"],
-		"okurigana": ["つ.ぐ"]
+		"rare": [
+			"つ"
+		],
+		"okurigana": [
+			"つ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 867,

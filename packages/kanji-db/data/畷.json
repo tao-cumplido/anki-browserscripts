@@ -1,16 +1,24 @@
 {
 	"kanji": "畷",
-	"meanings": ["rice field ridge path"],
+	"meanings": [
+		"rice field ridge path"
+	],
 	"keyword": "rice-field footpath",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テツ", "テイ", "セイ"]
+		"rare": [
+			"テツ",
+			"テイ",
+			"セイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なわて"],
+		"rare": [
+			"なわて"
+		],
 		"okurigana": []
 	},
 	"frequency": {

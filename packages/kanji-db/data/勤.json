@@ -1,17 +1,35 @@
 {
 	"kanji": "勤",
-	"meanings": ["diligence", "become employed", "serve"],
+	"meanings": [
+		"diligence",
+		"become employed",
+		"serve"
+	],
 	"keyword": "diligence",
 	"onyomi": {
-		"frequent": ["キン"],
-		"common": ["ゴン"],
+		"frequent": [
+			"キン"
+		],
+		"common": [
+			"ゴン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つと"],
+		"frequent": [
+			"つと"
+		],
 		"common": [],
-		"rare": ["づと", "いそ"],
-		"okurigana": ["つと.める", "づと.め", "つと.まる", "いそ.しむ"]
+		"rare": [
+			"づと",
+			"いそ"
+		],
+		"okurigana": [
+			"つと.める",
+			"づと.め",
+			"つと.まる",
+			"いそ.しむ"
+		]
 	},
 	"frequency": {
 		"mean": 1048,

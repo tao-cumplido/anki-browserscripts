@@ -1,0 +1,33 @@
+{
+	"kanji": "呦",
+	"meanings": [
+		"the bleating of the deer"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ユ",
+			"オウ",
+			"ユウ",
+			"ヨウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"むせ",
+			"さけ"
+		],
+		"rare": [],
+		"okurigana": [
+			"むせ.ぶ",
+			"さけ.ぶ"
+		]
+	},
+	"frequency": {
+		"mean": 4536,
+		"twitter": 1727,
+		"wikipedia": 4228
+	}
+}

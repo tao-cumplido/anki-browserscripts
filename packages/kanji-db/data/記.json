@@ -1,17 +1,27 @@
 {
 	"kanji": "記",
-	"meanings": ["scribe", "account", "narrative"],
+	"meanings": [
+		"scribe",
+		"account",
+		"narrative"
+	],
 	"keyword": "scribe",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["しる"],
+		"frequent": [
+			"しる"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["しる.す"]
+		"okurigana": [
+			"しる.す"
+		]
 	},
 	"frequency": {
 		"mean": 50,

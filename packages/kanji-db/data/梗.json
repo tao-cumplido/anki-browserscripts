@@ -1,16 +1,28 @@
 {
 	"kanji": "梗",
-	"meanings": ["for the most part", "close up", "flower stem"],
+	"meanings": [
+		"for the most part",
+		"close up",
+		"flower stem"
+	],
 	"keyword": "spiny",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
-		"rare": ["キョウ"]
+		"rare": [
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふさぐ", "やまにれ", "おおむね"],
+		"rare": [
+			"ふさぐ",
+			"やまにれ",
+			"おおむね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

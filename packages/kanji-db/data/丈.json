@@ -1,16 +1,34 @@
 {
 	"kanji": "丈",
-	"meanings": ["length", "ten shaku", "measure", "Mr.", "Ms.", "height", "stature", "all (one has)", "only", "that's all", "merely"],
+	"meanings": [
+		"length",
+		"ten shaku",
+		"measure",
+		"Mr.",
+		"Ms.",
+		"height",
+		"stature",
+		"all (one has)",
+		"only",
+		"that's all",
+		"merely"
+	],
 	"keyword": "length",
 	"onyomi": {
-		"frequent": ["ジョウ"],
+		"frequent": [
+			"ジョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たけ"],
+		"frequent": [
+			"たけ"
+		],
 		"common": [],
-		"rare": ["だけ"],
+		"rare": [
+			"だけ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

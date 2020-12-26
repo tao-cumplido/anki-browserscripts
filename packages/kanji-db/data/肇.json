@@ -1,17 +1,28 @@
 {
 	"kanji": "肇",
-	"meanings": ["beginning"],
+	"meanings": [
+		"beginning"
+	],
 	"keyword": "founding",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョウ", "ジョウ", "トウ"]
+		"rare": [
+			"チョウ",
+			"ジョウ",
+			"トウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はじ", "はじめ"],
-		"okurigana": ["はじ.める"]
+		"rare": [
+			"はじ",
+			"はじめ"
+		],
+		"okurigana": [
+			"はじ.める"
+		]
 	},
 	"frequency": {
 		"mean": 2380,

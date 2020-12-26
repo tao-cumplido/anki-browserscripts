@@ -1,17 +1,29 @@
 {
 	"kanji": "貪",
-	"meanings": ["covet", "indulge in"],
+	"meanings": [
+		"covet",
+		"indulge in"
+	],
 	"keyword": "covet",
 	"onyomi": {
-		"frequent": ["ドン"],
+		"frequent": [
+			"ドン"
+		],
 		"common": [],
-		"rare": ["タン", "トン"]
+		"rare": [
+			"タン",
+			"トン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["むさぼ"],
+		"frequent": [
+			"むさぼ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["むさぼ.る"]
+		"okurigana": [
+			"むさぼ.る"
+		]
 	},
 	"frequency": {
 		"mean": 2935,

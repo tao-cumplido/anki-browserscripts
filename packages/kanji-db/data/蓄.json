@@ -1,17 +1,28 @@
 {
 	"kanji": "蓄",
-	"meanings": ["amass", "raise", "hoard", "store"],
+	"meanings": [
+		"amass",
+		"raise",
+		"hoard",
+		"store"
+	],
 	"keyword": "amass",
 	"onyomi": {
-		"frequent": ["チク"],
+		"frequent": [
+			"チク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たくわ"],
+		"frequent": [
+			"たくわ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["たくわ.える"]
+		"okurigana": [
+			"たくわ.える"
+		]
 	},
 	"frequency": {
 		"mean": 1888,

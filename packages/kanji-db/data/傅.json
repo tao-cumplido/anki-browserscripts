@@ -1,16 +1,26 @@
 {
 	"kanji": "傅",
-	"meanings": ["tutor"],
+	"meanings": [
+		"tutor"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フ"]
+		"rare": [
+			"フ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かしず", "つく", "もり"],
-		"okurigana": ["かしず.く"]
+		"rare": [
+			"かしず",
+			"つく",
+			"もり"
+		],
+		"okurigana": [
+			"かしず.く"
+		]
 	},
 	"frequency": {
 		"mean": 3009,

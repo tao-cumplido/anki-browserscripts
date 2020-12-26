@@ -1,17 +1,29 @@
 {
 	"kanji": "奨",
-	"meanings": ["exhort", "urge", "encourage"],
+	"meanings": [
+		"exhort",
+		"urge",
+		"encourage"
+	],
 	"keyword": "exhort",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
-		"rare": ["ソウ"]
+		"rare": [
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すす"],
-		"okurigana": ["すす.める"]
+		"rare": [
+			"すす"
+		],
+		"okurigana": [
+			"すす.める"
+		]
 	},
 	"frequency": {
 		"mean": 1591,

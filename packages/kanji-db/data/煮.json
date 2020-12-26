@@ -1,17 +1,28 @@
 {
 	"kanji": "煮",
-	"meanings": ["boil", "cook"],
+	"meanings": [
+		"boil",
+		"cook"
+	],
 	"keyword": "boil",
 	"onyomi": {
-		"frequent": ["シャ"],
+		"frequent": [
+			"シャ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["に"],
+		"frequent": [
+			"に"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["に.る", "に.える", "に.やす"]
+		"okurigana": [
+			"に.る",
+			"に.える",
+			"に.やす"
+		]
 	},
 	"frequency": {
 		"mean": 1979,

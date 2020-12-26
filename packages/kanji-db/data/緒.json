@@ -1,16 +1,32 @@
 {
 	"kanji": "緒",
-	"meanings": ["thong", "beginning", "inception", "end", "cord", "strap", "mental or emotional state"],
+	"meanings": [
+		"thong",
+		"beginning",
+		"inception",
+		"end",
+		"cord",
+		"strap",
+		"mental or emotional state"
+	],
 	"keyword": "thong",
 	"onyomi": {
-		"frequent": ["ショ"],
-		"common": ["チョ"],
+		"frequent": [
+			"ショ"
+		],
+		"common": [
+			"チョ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["お"],
+		"frequent": [
+			"お"
+		],
 		"common": [],
-		"rare": ["いとぐち"],
+		"rare": [
+			"いとぐち"
+		],
 		"okurigana": []
 	},
 	"frequency": {

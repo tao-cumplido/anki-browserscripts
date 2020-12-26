@@ -1,16 +1,26 @@
 {
 	"kanji": "朱",
-	"meanings": ["vermilion", "cinnabar", "scarlet", "red", "bloody"],
+	"meanings": [
+		"vermilion",
+		"cinnabar",
+		"scarlet",
+		"red",
+		"bloody"
+	],
 	"keyword": "vermilion",
 	"onyomi": {
-		"frequent": ["シュ"],
+		"frequent": [
+			"シュ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あけ"],
+		"rare": [
+			"あけ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,28 @@
 {
 	"kanji": "屠",
-	"meanings": ["slaughter", "butcher", "slay"],
+	"meanings": [
+		"slaughter",
+		"butcher",
+		"slay"
+	],
 	"keyword": "butchering",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ト", "チョ"]
+		"rare": [
+			"ト",
+			"チョ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほふ"],
-		"okurigana": ["ほふ.る"]
+		"rare": [
+			"ほふ"
+		],
+		"okurigana": [
+			"ほふ.る"
+		]
 	},
 	"frequency": {
 		"mean": 2913,

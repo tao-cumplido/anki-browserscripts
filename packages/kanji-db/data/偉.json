@@ -1,17 +1,30 @@
 {
 	"kanji": "偉",
-	"meanings": ["admirable", "greatness", "remarkable", "conceited", "famous", "excellent"],
+	"meanings": [
+		"admirable",
+		"greatness",
+		"remarkable",
+		"conceited",
+		"famous",
+		"excellent"
+	],
 	"keyword": "admirable",
 	"onyomi": {
-		"frequent": ["イ"],
+		"frequent": [
+			"イ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["えら"],
+		"frequent": [
+			"えら"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["えら.い"]
+		"okurigana": [
+			"えら.い"
+		]
 	},
 	"frequency": {
 		"mean": 1758,

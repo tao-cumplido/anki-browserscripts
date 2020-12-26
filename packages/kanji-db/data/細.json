@@ -1,17 +1,35 @@
 {
 	"kanji": "細",
-	"meanings": ["dainty", "get thin", "taper", "slender", "narrow", "detailed", "precise"],
+	"meanings": [
+		"dainty",
+		"get thin",
+		"taper",
+		"slender",
+		"narrow",
+		"detailed",
+		"precise"
+	],
 	"keyword": "dainty",
 	"onyomi": {
-		"frequent": ["サイ"],
+		"frequent": [
+			"サイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほそ", "こま"],
+		"frequent": [
+			"ほそ",
+			"こま"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ほそ.い", "ほそ.る", "こま.か", "こま.かい"]
+		"okurigana": [
+			"ほそ.い",
+			"ほそ.る",
+			"こま.か",
+			"こま.かい"
+		]
 	},
 	"frequency": {
 		"mean": 586,

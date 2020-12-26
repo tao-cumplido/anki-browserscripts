@@ -1,14 +1,20 @@
 {
 	"kanji": "夕",
-	"meanings": ["evening"],
+	"meanings": [
+		"evening"
+	],
 	"keyword": "evening",
 	"onyomi": {
-		"frequent": ["セキ"],
+		"frequent": [
+			"セキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ゆう"],
+		"frequent": [
+			"ゆう"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

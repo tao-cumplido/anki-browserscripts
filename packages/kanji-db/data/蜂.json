@@ -1,14 +1,22 @@
 {
 	"kanji": "蜂",
-	"meanings": ["bee", "wasp", "hornet"],
+	"meanings": [
+		"bee",
+		"wasp",
+		"hornet"
+	],
 	"keyword": "bee",
 	"onyomi": {
-		"frequent": ["ホウ"],
+		"frequent": [
+			"ホウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はち"],
+		"frequent": [
+			"はち"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

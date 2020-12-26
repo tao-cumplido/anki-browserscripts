@@ -1,17 +1,30 @@
 {
 	"kanji": "凹",
-	"meanings": ["concave", "hollow", "sunken"],
+	"meanings": [
+		"concave",
+		"hollow",
+		"sunken"
+	],
 	"keyword": "concave",
 	"onyomi": {
-		"frequent": ["オウ"],
+		"frequent": [
+			"オウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くぼ", "へこ", "ぼこ"],
-		"okurigana": ["くぼ.む", "へこ.む"]
+		"rare": [
+			"くぼ",
+			"へこ",
+			"ぼこ"
+		],
+		"okurigana": [
+			"くぼ.む",
+			"へこ.む"
+		]
 	},
 	"frequency": {
 		"mean": 2612,

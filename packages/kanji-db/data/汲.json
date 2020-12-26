@@ -1,17 +1,28 @@
 {
 	"kanji": "汲",
-	"meanings": ["draw (water)", "ladle", "scoop", "pump"],
+	"meanings": [
+		"draw (water)",
+		"ladle",
+		"scoop",
+		"pump"
+	],
 	"keyword": "draw water",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キュウ"]
+		"rare": [
+			"キュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["く"],
-		"okurigana": ["く.む"]
+		"rare": [
+			"く"
+		],
+		"okurigana": [
+			"く.む"
+		]
 	},
 	"frequency": {
 		"mean": 2173,

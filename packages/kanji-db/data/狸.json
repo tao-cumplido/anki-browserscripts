@@ -1,16 +1,24 @@
 {
 	"kanji": "狸",
-	"meanings": ["tanuki", "raccoon"],
+	"meanings": [
+		"tanuki",
+		"raccoon"
+	],
 	"keyword": "racoon dog",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リ", "ライ"]
+		"rare": [
+			"リ",
+			"ライ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たぬき"],
+		"rare": [
+			"たぬき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,30 @@
 {
 	"kanji": "刈",
-	"meanings": ["reap", "cut", "clip", "trim", "prune"],
+	"meanings": [
+		"reap",
+		"cut",
+		"clip",
+		"trim",
+		"prune"
+	],
 	"keyword": "reap",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ガイ", "カイ"]
+		"rare": [
+			"ガイ",
+			"カイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["か"],
+		"frequent": [
+			"か"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["か.る"]
+		"okurigana": [
+			"か.る"
+		]
 	},
 	"frequency": {
 		"mean": 1760,

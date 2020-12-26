@@ -1,17 +1,32 @@
 {
 	"kanji": "貫",
-	"meanings": ["pierce", "8 1/3lbs", "penetrate", "brace"],
+	"meanings": [
+		"pierce",
+		"8 1/3lbs",
+		"penetrate",
+		"brace"
+	],
 	"keyword": "pierce",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つらぬ"],
+		"frequent": [
+			"つらぬ"
+		],
 		"common": [],
-		"rare": ["ぬ", "ぬき"],
-		"okurigana": ["つらぬ.く", "ぬ.く"]
+		"rare": [
+			"ぬ",
+			"ぬき"
+		],
+		"okurigana": [
+			"つらぬ.く",
+			"ぬ.く"
+		]
 	},
 	"frequency": {
 		"mean": 1130,

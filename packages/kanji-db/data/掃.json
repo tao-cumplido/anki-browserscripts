@@ -1,17 +1,28 @@
 {
 	"kanji": "掃",
-	"meanings": ["sweep", "brush"],
+	"meanings": [
+		"sweep",
+		"brush"
+	],
 	"keyword": "sweep",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
-		"rare": ["シュ"]
+		"rare": [
+			"シュ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["は"],
+		"frequent": [
+			"は"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["は.く"]
+		"okurigana": [
+			"は.く"
+		]
 	},
 	"frequency": {
 		"mean": 1630,

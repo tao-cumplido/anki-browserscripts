@@ -1,17 +1,34 @@
 {
 	"kanji": "残",
-	"meanings": ["remainder", "leftover", "balance"],
+	"meanings": [
+		"remainder",
+		"leftover",
+		"balance"
+	],
 	"keyword": "remainder",
 	"onyomi": {
-		"frequent": ["ザン"],
+		"frequent": [
+			"ザン"
+		],
 		"common": [],
-		"rare": ["サン"]
+		"rare": [
+			"サン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["のこ"],
+		"frequent": [
+			"のこ"
+		],
 		"common": [],
-		"rare": ["そこな"],
-		"okurigana": ["のこ.る", "のこ.す", "そこな.う", "のこ.り"]
+		"rare": [
+			"そこな"
+		],
+		"okurigana": [
+			"のこ.る",
+			"のこ.す",
+			"そこな.う",
+			"のこ.り"
+		]
 	},
 	"frequency": {
 		"mean": 569,

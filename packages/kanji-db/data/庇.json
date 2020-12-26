@@ -1,17 +1,34 @@
 {
 	"kanji": "庇",
-	"meanings": ["protect", "shield", "defend", "eaves", "canopy", "penthouse", "visor"],
+	"meanings": [
+		"protect",
+		"shield",
+		"defend",
+		"eaves",
+		"canopy",
+		"penthouse",
+		"visor"
+	],
 	"keyword": "overhang",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒ"]
+		"rare": [
+			"ヒ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひさし", "おお", "かば"],
-		"okurigana": ["おお.う", "かば.う"]
+		"rare": [
+			"ひさし",
+			"おお",
+			"かば"
+		],
+		"okurigana": [
+			"おお.う",
+			"かば.う"
+		]
 	},
 	"frequency": {
 		"mean": 2414,

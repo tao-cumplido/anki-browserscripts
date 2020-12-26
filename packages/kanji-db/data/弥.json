@@ -1,17 +1,32 @@
 {
 	"kanji": "弥",
-	"meanings": ["all the more", "increasingly"],
+	"meanings": [
+		"all the more",
+		"increasingly"
+	],
 	"keyword": "more and more",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ミ", "ビ"]
+		"rare": [
+			"ミ",
+			"ビ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["や"],
+		"frequent": [
+			"や"
+		],
 		"common": [],
-		"rare": ["いや", "いよ", "わた"],
-		"okurigana": ["いよ.いよ", "わた.る"]
+		"rare": [
+			"いや",
+			"いよ",
+			"わた"
+		],
+		"okurigana": [
+			"いよ.いよ",
+			"わた.る"
+		]
 	},
 	"frequency": {
 		"mean": 1159,

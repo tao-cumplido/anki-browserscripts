@@ -1,16 +1,29 @@
 {
 	"kanji": "財",
-	"meanings": ["property", "money", "wealth", "assets"],
+	"meanings": [
+		"property",
+		"money",
+		"wealth",
+		"assets"
+	],
 	"keyword": "property",
 	"onyomi": {
-		"frequent": ["ザイ"],
-		"common": ["サイ"],
-		"rare": ["ゾク"]
+		"frequent": [
+			"ザイ"
+		],
+		"common": [
+			"サイ"
+		],
+		"rare": [
+			"ゾク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たから"],
+		"rare": [
+			"たから"
+		],
 		"okurigana": []
 	},
 	"frequency": {

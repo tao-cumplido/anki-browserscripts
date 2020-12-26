@@ -1,16 +1,24 @@
 {
 	"kanji": "樺",
-	"meanings": ["birch", "dark red"],
+	"meanings": [
+		"birch",
+		"dark red"
+	],
 	"keyword": "birch",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カ"]
+		"rare": [
+			"カ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かば", "かんば"],
+		"rare": [
+			"かば",
+			"かんば"
+		],
 		"okurigana": []
 	},
 	"frequency": {

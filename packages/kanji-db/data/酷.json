@@ -1,17 +1,28 @@
 {
 	"kanji": "酷",
-	"meanings": ["cruel", "severe", "atrocious", "unjust"],
+	"meanings": [
+		"cruel",
+		"severe",
+		"atrocious",
+		"unjust"
+	],
 	"keyword": "cruel",
 	"onyomi": {
-		"frequent": ["コク"],
+		"frequent": [
+			"コク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひど"],
-		"okurigana": ["ひど.い"]
+		"rare": [
+			"ひど"
+		],
+		"okurigana": [
+			"ひど.い"
+		]
 	},
 	"frequency": {
 		"mean": 1657,

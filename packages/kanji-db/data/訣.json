@@ -1,17 +1,27 @@
 {
 	"kanji": "訣",
-	"meanings": ["separation", "part", "secret"],
+	"meanings": [
+		"separation",
+		"part",
+		"secret"
+	],
 	"keyword": "split up",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケツ"]
+		"rare": [
+			"ケツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わかれ"],
-		"okurigana": ["わかれ.る"]
+		"rare": [
+			"わかれ"
+		],
+		"okurigana": [
+			"わかれ.る"
+		]
 	},
 	"frequency": {
 		"mean": 2807,

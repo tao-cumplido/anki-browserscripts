@@ -1,17 +1,28 @@
 {
 	"kanji": "慣",
-	"meanings": ["accustomed", "get used to", "become experienced"],
+	"meanings": [
+		"accustomed",
+		"get used to",
+		"become experienced"
+	],
 	"keyword": "accustomed",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["な"],
+		"frequent": [
+			"な"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["な.れる", "な.らす"]
+		"okurigana": [
+			"な.れる",
+			"な.らす"
+		]
 	},
 	"frequency": {
 		"mean": 1504,

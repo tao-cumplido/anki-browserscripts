@@ -1,17 +1,35 @@
 {
 	"kanji": "浸",
-	"meanings": ["immersed", "soak", "dip", "steep", "moisten", "wet", "dunk"],
+	"meanings": [
+		"immersed",
+		"soak",
+		"dip",
+		"steep",
+		"moisten",
+		"wet",
+		"dunk"
+	],
 	"keyword": "immersed",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひた"],
+		"frequent": [
+			"ひた"
+		],
 		"common": [],
-		"rare": ["つ"],
-		"okurigana": ["ひた.す", "ひた.る", "つ.かる"]
+		"rare": [
+			"つ"
+		],
+		"okurigana": [
+			"ひた.す",
+			"ひた.る",
+			"つ.かる"
+		]
 	},
 	"frequency": {
 		"mean": 1833,

@@ -1,15 +1,25 @@
 {
 	"kanji": "声",
-	"meanings": ["voice"],
+	"meanings": [
+		"voice"
+	],
 	"keyword": "voice",
 	"onyomi": {
-		"frequent": ["セイ"],
-		"common": ["ショウ"],
+		"frequent": [
+			"セイ"
+		],
+		"common": [
+			"ショウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こえ"],
-		"common": ["こわ"],
+		"frequent": [
+			"こえ"
+		],
+		"common": [
+			"こわ"
+		],
 		"rare": [],
 		"okurigana": []
 	},

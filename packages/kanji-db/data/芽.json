@@ -1,14 +1,23 @@
 {
 	"kanji": "芽",
-	"meanings": ["bud", "sprout", "spear", "germ"],
+	"meanings": [
+		"bud",
+		"sprout",
+		"spear",
+		"germ"
+	],
 	"keyword": "bud",
 	"onyomi": {
-		"frequent": ["ガ"],
+		"frequent": [
+			"ガ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["め"],
+		"frequent": [
+			"め"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

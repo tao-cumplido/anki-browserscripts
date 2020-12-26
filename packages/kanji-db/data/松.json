@@ -1,14 +1,20 @@
 {
 	"kanji": "松",
-	"meanings": ["pine tree"],
+	"meanings": [
+		"pine tree"
+	],
 	"keyword": "pine tree",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まつ"],
+		"frequent": [
+			"まつ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

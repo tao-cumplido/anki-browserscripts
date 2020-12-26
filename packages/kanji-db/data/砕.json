@@ -1,17 +1,30 @@
 {
 	"kanji": "砕",
-	"meanings": ["smash", "break", "crush", "familiar", "popular"],
+	"meanings": [
+		"smash",
+		"break",
+		"crush",
+		"familiar",
+		"popular"
+	],
 	"keyword": "smash",
 	"onyomi": {
-		"frequent": ["サイ"],
+		"frequent": [
+			"サイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くだ"],
+		"frequent": [
+			"くだ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["くだ.く", "くだ.ける"]
+		"okurigana": [
+			"くだ.く",
+			"くだ.ける"
+		]
 	},
 	"frequency": {
 		"mean": 1950,

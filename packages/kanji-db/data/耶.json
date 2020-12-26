@@ -1,16 +1,23 @@
 {
 	"kanji": "耶",
-	"meanings": ["question mark"],
+	"meanings": [
+		"question mark"
+	],
 	"keyword": "exclamation",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヤ", "ジャ"]
+		"rare": [
+			"ヤ",
+			"ジャ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["か"],
+		"rare": [
+			"か"
+		],
 		"okurigana": []
 	},
 	"frequency": {

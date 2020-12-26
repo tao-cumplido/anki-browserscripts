@@ -1,17 +1,35 @@
 {
 	"kanji": "背",
-	"meanings": ["stature", "height", "back", "behind", "disobey", "defy", "go back on", "rebel"],
+	"meanings": [
+		"stature",
+		"height",
+		"back",
+		"behind",
+		"disobey",
+		"defy",
+		"go back on",
+		"rebel"
+	],
 	"keyword": "stature",
 	"onyomi": {
-		"frequent": ["ハイ"],
+		"frequent": [
+			"ハイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["せ", "せい", "そむ"],
+		"frequent": [
+			"せ",
+			"せい",
+			"そむ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["そむ.く", "そむ.ける"]
+		"okurigana": [
+			"そむ.く",
+			"そむ.ける"
+		]
 	},
 	"frequency": {
 		"mean": 742,

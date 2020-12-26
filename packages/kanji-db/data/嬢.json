@@ -1,16 +1,25 @@
 {
 	"kanji": "嬢",
-	"meanings": ["lass", "girl", "Miss", "daughter"],
+	"meanings": [
+		"lass",
+		"girl",
+		"Miss",
+		"daughter"
+	],
 	"keyword": "lass",
 	"onyomi": {
-		"frequent": ["ジョウ"],
+		"frequent": [
+			"ジョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["むすめ"],
+		"rare": [
+			"むすめ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

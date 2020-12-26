@@ -1,17 +1,32 @@
 {
 	"kanji": "贈",
-	"meanings": ["presents", "send", "give to", "award to", "confer on", "presenting something"],
+	"meanings": [
+		"presents",
+		"send",
+		"give to",
+		"award to",
+		"confer on",
+		"presenting something"
+	],
 	"keyword": "presents",
 	"onyomi": {
-		"frequent": ["ゾウ"],
-		"common": ["ソウ"],
+		"frequent": [
+			"ゾウ"
+		],
+		"common": [
+			"ソウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おく"],
+		"frequent": [
+			"おく"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おく.る"]
+		"okurigana": [
+			"おく.る"
+		]
 	},
 	"frequency": {
 		"mean": 1522,

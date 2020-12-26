@@ -1,17 +1,31 @@
 {
 	"kanji": "恋",
-	"meanings": ["romance", "in love", "yearn for", "miss", "darling"],
+	"meanings": [
+		"romance",
+		"in love",
+		"yearn for",
+		"miss",
+		"darling"
+	],
 	"keyword": "romance",
 	"onyomi": {
-		"frequent": ["レン"],
+		"frequent": [
+			"レン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こ", "こい"],
+		"frequent": [
+			"こ",
+			"こい"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["こ.う", "こい.しい"]
+		"okurigana": [
+			"こ.う",
+			"こい.しい"
+		]
 	},
 	"frequency": {
 		"mean": 739,

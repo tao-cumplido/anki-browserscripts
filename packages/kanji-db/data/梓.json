@@ -1,16 +1,23 @@
 {
 	"kanji": "梓",
-	"meanings": ["catalpa tree", "woodblock printing"],
+	"meanings": [
+		"catalpa tree",
+		"woodblock printing"
+	],
 	"keyword": "catalpa",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あずさ"],
+		"rare": [
+			"あずさ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

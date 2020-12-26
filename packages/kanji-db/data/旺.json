@@ -1,17 +1,34 @@
 {
 	"kanji": "旺",
-	"meanings": ["flourishing", "successful", "beautiful", "vigorous"],
+	"meanings": [
+		"flourishing",
+		"successful",
+		"beautiful",
+		"vigorous"
+	],
 	"keyword": "effulgent",
 	"onyomi": {
-		"frequent": ["オウ"],
+		"frequent": [
+			"オウ"
+		],
 		"common": [],
-		"rare": ["キョウ", "ゴウ"]
+		"rare": [
+			"キョウ",
+			"ゴウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かがや", "うつくし", "さかん"],
-		"okurigana": ["かがや.き", "うつくし.い"]
+		"rare": [
+			"かがや",
+			"うつくし",
+			"さかん"
+		],
+		"okurigana": [
+			"かがや.き",
+			"うつくし.い"
+		]
 	},
 	"frequency": {
 		"mean": 2320,

@@ -1,17 +1,29 @@
 {
 	"kanji": "伴",
-	"meanings": ["consort", "accompany", "bring with", "companion"],
+	"meanings": [
+		"consort",
+		"accompany",
+		"bring with",
+		"companion"
+	],
 	"keyword": "consort",
 	"onyomi": {
-		"frequent": ["ハン", "バン"],
+		"frequent": [
+			"ハン",
+			"バン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ともな"],
+		"frequent": [
+			"ともな"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ともな.う"]
+		"okurigana": [
+			"ともな.う"
+		]
 	},
 	"frequency": {
 		"mean": 796,

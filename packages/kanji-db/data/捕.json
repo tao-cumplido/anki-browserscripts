@@ -1,17 +1,35 @@
 {
 	"kanji": "捕",
-	"meanings": ["catch", "capture"],
+	"meanings": [
+		"catch",
+		"capture"
+	],
 	"keyword": "catch",
 	"onyomi": {
-		"frequent": ["ホ"],
+		"frequent": [
+			"ホ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["と", "つか"],
+		"frequent": [
+			"と",
+			"つか"
+		],
 		"common": [],
-		"rare": ["とら"],
-		"okurigana": ["と.らえる", "と.らわれる", "と.る", "とら.える", "とら.われる", "つか.まえる", "つか.まる"]
+		"rare": [
+			"とら"
+		],
+		"okurigana": [
+			"と.らえる",
+			"と.らわれる",
+			"と.る",
+			"とら.える",
+			"とら.われる",
+			"つか.まえる",
+			"つか.まる"
+		]
 	},
 	"frequency": {
 		"mean": 886,

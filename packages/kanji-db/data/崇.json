@@ -1,17 +1,28 @@
 {
 	"kanji": "崇",
-	"meanings": ["adore", "respect", "revere", "worship"],
+	"meanings": [
+		"adore",
+		"respect",
+		"revere",
+		"worship"
+	],
 	"keyword": "adore",
 	"onyomi": {
-		"frequent": ["スウ"],
+		"frequent": [
+			"スウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あが"],
-		"okurigana": ["あが.める"]
+		"rare": [
+			"あが"
+		],
+		"okurigana": [
+			"あが.める"
+		]
 	},
 	"frequency": {
 		"mean": 1568,

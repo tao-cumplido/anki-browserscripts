@@ -1,17 +1,29 @@
 {
 	"kanji": "欣",
-	"meanings": ["take pleasure in", "rejoice"],
+	"meanings": [
+		"take pleasure in",
+		"rejoice"
+	],
 	"keyword": "elation",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キン", "ゴン", "コン"]
+		"rare": [
+			"キン",
+			"ゴン",
+			"コン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よろこ"],
-		"okurigana": ["よろこ.ぶ", "よろこ.び"]
+		"rare": [
+			"よろこ"
+		],
+		"okurigana": [
+			"よろこ.ぶ",
+			"よろこ.び"
+		]
 	},
 	"frequency": {
 		"mean": 2413,

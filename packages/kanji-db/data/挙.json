@@ -1,17 +1,33 @@
 {
 	"kanji": "挙",
-	"meanings": ["raise", "plan", "project", "behavior", "actions"],
+	"meanings": [
+		"raise",
+		"plan",
+		"project",
+		"behavior",
+		"actions"
+	],
 	"keyword": "raise",
 	"onyomi": {
-		"frequent": ["キョ"],
+		"frequent": [
+			"キョ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あ"],
+		"frequent": [
+			"あ"
+		],
 		"common": [],
-		"rare": ["こぞ"],
-		"okurigana": ["あ.げる", "あ.がる", "こぞ.る"]
+		"rare": [
+			"こぞ"
+		],
+		"okurigana": [
+			"あ.げる",
+			"あ.がる",
+			"こぞ.る"
+		]
 	},
 	"frequency": {
 		"mean": 511,

@@ -1,17 +1,35 @@
 {
 	"kanji": "怖",
-	"meanings": ["dreadful", "be frightened", "fearful"],
+	"meanings": [
+		"dreadful",
+		"be frightened",
+		"fearful"
+	],
 	"keyword": "dreadful",
 	"onyomi": {
-		"frequent": ["フ"],
+		"frequent": [
+			"フ"
+		],
 		"common": [],
-		"rare": ["ホ"]
+		"rare": [
+			"ホ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["こわ"],
+		"frequent": [
+			"こわ"
+		],
 		"common": [],
-		"rare": ["お", "おそ"],
-		"okurigana": ["こわ.い", "こわ.がる", "お.じる", "おそ.れる"]
+		"rare": [
+			"お",
+			"おそ"
+		],
+		"okurigana": [
+			"こわ.い",
+			"こわ.がる",
+			"お.じる",
+			"おそ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1400,

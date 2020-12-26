@@ -1,16 +1,25 @@
 {
 	"kanji": "庫",
-	"meanings": ["warehouse", "storehouse"],
+	"meanings": [
+		"warehouse",
+		"storehouse"
+	],
 	"keyword": "warehouse",
 	"onyomi": {
-		"frequent": ["コ"],
-		"common": ["ク"],
+		"frequent": [
+			"コ"
+		],
+		"common": [
+			"ク"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くら"],
+		"rare": [
+			"くら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

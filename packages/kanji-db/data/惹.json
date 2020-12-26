@@ -1,17 +1,27 @@
 {
 	"kanji": "惹",
-	"meanings": ["attract", "captivate"],
+	"meanings": [
+		"attract",
+		"captivate"
+	],
 	"keyword": "attract",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジャク", "ジャ"]
+		"rare": [
+			"ジャク",
+			"ジャ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひ"],
-		"okurigana": ["ひ.く"]
+		"rare": [
+			"ひ"
+		],
+		"okurigana": [
+			"ひ.く"
+		]
 	},
 	"frequency": {
 		"mean": 2293,

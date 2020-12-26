@@ -1,17 +1,28 @@
 {
 	"kanji": "超",
-	"meanings": ["transcend", "super-", "ultra-"],
+	"meanings": [
+		"transcend",
+		"super-",
+		"ultra-"
+	],
 	"keyword": "transcend",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こ"],
+		"frequent": [
+			"こ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["こ.える", "こ.す"]
+		"okurigana": [
+			"こ.える",
+			"こ.す"
+		]
 	},
 	"frequency": {
 		"mean": 709,

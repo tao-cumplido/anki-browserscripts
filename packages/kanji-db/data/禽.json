@@ -1,16 +1,25 @@
 {
 	"kanji": "禽",
-	"meanings": ["bird", "captive", "capture"],
+	"meanings": [
+		"bird",
+		"captive",
+		"capture"
+	],
 	"keyword": "fowl",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キン"]
+		"rare": [
+			"キン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とり", "とりこ"],
+		"rare": [
+			"とり",
+			"とりこ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

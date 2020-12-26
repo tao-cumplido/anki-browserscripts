@@ -1,17 +1,31 @@
 {
 	"kanji": "腐",
-	"meanings": ["rot", "decay", "sour"],
+	"meanings": [
+		"rot",
+		"decay",
+		"sour"
+	],
 	"keyword": "rot",
 	"onyomi": {
-		"frequent": ["フ"],
+		"frequent": [
+			"フ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くさ"],
+		"frequent": [
+			"くさ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["くさ.る", "くさ.れる", "くさ.れ", "くさ.らす", "くさ.す"]
+		"okurigana": [
+			"くさ.る",
+			"くさ.れる",
+			"くさ.れ",
+			"くさ.らす",
+			"くさ.す"
+		]
 	},
 	"frequency": {
 		"mean": 1749,

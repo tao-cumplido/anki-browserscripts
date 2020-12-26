@@ -1,0 +1,30 @@
+{
+	"kanji": "縈",
+	"meanings": [
+		"entangle",
+		"entwine",
+		"coil"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"エイ",
+			"ヨウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"めぐ"
+		],
+		"rare": [],
+		"okurigana": [
+			"めぐ.る"
+		]
+	},
+	"frequency": {
+		"mean": 4530,
+		"wikipedia": 4221
+	}
+}

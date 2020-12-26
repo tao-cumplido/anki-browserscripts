@@ -1,17 +1,40 @@
 {
 	"kanji": "頓",
-	"meanings": ["suddenly", "immediately", "in a hurry", "arrange", "stay in place", "bow", "kowtow"],
+	"meanings": [
+		"suddenly",
+		"immediately",
+		"in a hurry",
+		"arrange",
+		"stay in place",
+		"bow",
+		"kowtow"
+	],
 	"keyword": "immediate",
 	"onyomi": {
-		"frequent": ["トン"],
+		"frequent": [
+			"トン"
+		],
 		"common": [],
-		"rare": ["トツ"]
+		"rare": [
+			"トツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["にわか", "とん", "つまず", "とみ", "ぬかずく"],
-		"okurigana": ["にわか.に", "とん.と", "つまず.く", "とみ.に"]
+		"rare": [
+			"にわか",
+			"とん",
+			"つまず",
+			"とみ",
+			"ぬかずく"
+		],
+		"okurigana": [
+			"にわか.に",
+			"とん.と",
+			"つまず.く",
+			"とみ.に"
+		]
 	},
 	"frequency": {
 		"mean": 2103,

@@ -1,17 +1,30 @@
 {
 	"kanji": "忌",
-	"meanings": ["mourning", "abhor", "detestable", "death anniversary"],
+	"meanings": [
+		"mourning",
+		"abhor",
+		"detestable",
+		"death anniversary"
+	],
 	"keyword": "mourning",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["い"],
+		"frequent": [
+			"い"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["い.む", "い.み", "い.まわしい"]
+		"okurigana": [
+			"い.む",
+			"い.み",
+			"い.まわしい"
+		]
 	},
 	"frequency": {
 		"mean": 1923,

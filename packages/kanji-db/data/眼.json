@@ -1,16 +1,26 @@
 {
 	"kanji": "眼",
-	"meanings": ["eyeball"],
+	"meanings": [
+		"eyeball"
+	],
 	"keyword": "eyeball",
 	"onyomi": {
-		"frequent": ["ガン"],
-		"common": ["ゲン"],
+		"frequent": [
+			"ガン"
+		],
+		"common": [
+			"ゲン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まなこ"],
+		"frequent": [
+			"まなこ"
+		],
 		"common": [],
-		"rare": ["め"],
+		"rare": [
+			"め"
+		],
 		"okurigana": []
 	},
 	"frequency": {

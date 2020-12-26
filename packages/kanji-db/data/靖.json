@@ -1,17 +1,26 @@
 {
 	"kanji": "靖",
-	"meanings": ["peaceful"],
+	"meanings": [
+		"peaceful"
+	],
 	"keyword": "repose",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セイ", "ジョウ"]
+		"rare": [
+			"セイ",
+			"ジョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["やす"],
-		"okurigana": ["やす.んじる"]
+		"rare": [
+			"やす"
+		],
+		"okurigana": [
+			"やす.んじる"
+		]
 	},
 	"frequency": {
 		"mean": 1653,

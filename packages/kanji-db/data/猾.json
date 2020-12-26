@@ -1,17 +1,25 @@
 {
 	"kanji": "猾",
-	"meanings": ["crafty"],
+	"meanings": [
+		"crafty"
+	],
 	"keyword": "sly",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カツ"]
+		"rare": [
+			"カツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わるがしこ"],
-		"okurigana": ["わるがしこ.い"]
+		"rare": [
+			"わるがしこ"
+		],
+		"okurigana": [
+			"わるがしこ.い"
+		]
 	},
 	"frequency": {
 		"mean": 3322,

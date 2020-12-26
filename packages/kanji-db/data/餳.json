@@ -1,0 +1,29 @@
+{
+	"kanji": "餳",
+	"meanings": [
+		"sugar",
+		"syrup",
+		"malt sugar",
+		"sticky"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"トウ",
+			"セイ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"あめ"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4537,
+		"wikipedia": 4228
+	}
+}

@@ -1,17 +1,30 @@
 {
 	"kanji": "織",
-	"meanings": ["weave", "fabric"],
+	"meanings": [
+		"weave",
+		"fabric"
+	],
 	"keyword": "weave",
 	"onyomi": {
-		"frequent": ["ショク", "シキ"],
+		"frequent": [
+			"ショク",
+			"シキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["お"],
+		"frequent": [
+			"お"
+		],
 		"common": [],
-		"rare": ["おり"],
-		"okurigana": ["お.る", "お.り"]
+		"rare": [
+			"おり"
+		],
+		"okurigana": [
+			"お.る",
+			"お.り"
+		]
 	},
 	"frequency": {
 		"mean": 650,

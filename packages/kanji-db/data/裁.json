@@ -1,17 +1,30 @@
 {
 	"kanji": "裁",
-	"meanings": ["tailor", "judge", "decision", "cut out (pattern)"],
+	"meanings": [
+		"tailor",
+		"judge",
+		"decision",
+		"cut out (pattern)"
+	],
 	"keyword": "tailor",
 	"onyomi": {
-		"frequent": ["サイ"],
+		"frequent": [
+			"サイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["た", "さば"],
+		"frequent": [
+			"た",
+			"さば"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["た.つ", "さば.く"]
+		"okurigana": [
+			"た.つ",
+			"さば.く"
+		]
 	},
 	"frequency": {
 		"mean": 766,

@@ -1,16 +1,26 @@
 {
 	"kanji": "骸",
-	"meanings": ["bone", "body", "corpse"],
+	"meanings": [
+		"bone",
+		"body",
+		"corpse"
+	],
 	"keyword": "remains",
 	"onyomi": {
-		"frequent": ["ガイ"],
+		"frequent": [
+			"ガイ"
+		],
 		"common": [],
-		"rare": ["カイ"]
+		"rare": [
+			"カイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["むくろ"],
+		"rare": [
+			"むくろ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

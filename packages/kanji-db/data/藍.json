@@ -1,14 +1,20 @@
 {
 	"kanji": "藍",
-	"meanings": ["indigo"],
+	"meanings": [
+		"indigo"
+	],
 	"keyword": "indigo",
 	"onyomi": {
-		"frequent": ["ラン"],
+		"frequent": [
+			"ラン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あい"],
+		"frequent": [
+			"あい"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

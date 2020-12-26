@@ -1,17 +1,36 @@
 {
 	"kanji": "疎",
-	"meanings": ["alienate", "rough", "neglect", "shun", "sparse", "penetrate"],
+	"meanings": [
+		"alienate",
+		"rough",
+		"neglect",
+		"shun",
+		"sparse",
+		"penetrate"
+	],
 	"keyword": "alienate",
 	"onyomi": {
-		"frequent": ["ソ"],
+		"frequent": [
+			"ソ"
+		],
 		"common": [],
-		"rare": ["ショ"]
+		"rare": [
+			"ショ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["うと"],
+		"frequent": [
+			"うと"
+		],
 		"common": [],
-		"rare": ["まば"],
-		"okurigana": ["うと.い", "うと.む", "まば.ら"]
+		"rare": [
+			"まば"
+		],
+		"okurigana": [
+			"うと.い",
+			"うと.む",
+			"まば.ら"
+		]
 	},
 	"frequency": {
 		"mean": 1971,

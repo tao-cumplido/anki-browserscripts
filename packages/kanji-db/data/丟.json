@@ -1,16 +1,28 @@
 {
 	"kanji": "丟",
-	"meanings": ["discard", "reject", "lose"],
+	"meanings": [
+		"discard",
+		"reject",
+		"lose"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["チュウ", "チュ"],
+		"common": [
+			"チュウ",
+			"チュ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["さる", "なげう"],
+		"common": [
+			"さる",
+			"なげう"
+		],
 		"rare": [],
-		"okurigana": ["なげう.つ"]
+		"okurigana": [
+			"なげう.つ"
+		]
 	},
 	"frequency": {
 		"mean": 4536,

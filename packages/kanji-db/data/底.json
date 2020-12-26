@@ -1,14 +1,26 @@
 {
 	"kanji": "底",
-	"meanings": ["bottom", "sole", "depth", "bottom price", "base", "kind", "sort"],
+	"meanings": [
+		"bottom",
+		"sole",
+		"depth",
+		"bottom price",
+		"base",
+		"kind",
+		"sort"
+	],
 	"keyword": "bottom",
 	"onyomi": {
-		"frequent": ["テイ"],
+		"frequent": [
+			"テイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["そこ"],
+		"frequent": [
+			"そこ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

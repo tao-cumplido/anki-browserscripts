@@ -1,16 +1,25 @@
 {
 	"kanji": "脳",
-	"meanings": ["brain", "memory"],
+	"meanings": [
+		"brain",
+		"memory"
+	],
 	"keyword": "brain",
 	"onyomi": {
-		"frequent": ["ノウ"],
+		"frequent": [
+			"ノウ"
+		],
 		"common": [],
-		"rare": ["ドウ"]
+		"rare": [
+			"ドウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["のうずる"],
+		"rare": [
+			"のうずる"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,28 @@
 {
 	"kanji": "比",
-	"meanings": ["compare", "race", "ratio", "Philippines"],
+	"meanings": [
+		"compare",
+		"race",
+		"ratio",
+		"Philippines"
+	],
 	"keyword": "compare",
 	"onyomi": {
-		"frequent": ["ヒ"],
+		"frequent": [
+			"ヒ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くら"],
+		"frequent": [
+			"くら"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["くら.べる"]
+		"okurigana": [
+			"くら.べる"
+		]
 	},
 	"frequency": {
 		"mean": 570,

@@ -1,16 +1,28 @@
 {
 	"kanji": "僇",
-	"meanings": ["humiliate", "treat with contempt"],
+	"meanings": [
+		"humiliate",
+		"treat with contempt"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["リク", "ロク", "ル"],
+		"common": [
+			"リク",
+			"ロク",
+			"ル"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["はじ", "はずかし"],
+		"common": [
+			"はじ",
+			"はずかし"
+		],
 		"rare": [],
-		"okurigana": ["はずかし.める"]
+		"okurigana": [
+			"はずかし.める"
+		]
 	},
 	"frequency": {
 		"mean": 4542,

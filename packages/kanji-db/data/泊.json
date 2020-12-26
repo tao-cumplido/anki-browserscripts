@@ -1,17 +1,28 @@
 {
 	"kanji": "泊",
-	"meanings": ["overnight stay", "put up at", "ride at anchor"],
+	"meanings": [
+		"overnight stay",
+		"put up at",
+		"ride at anchor"
+	],
 	"keyword": "overnight",
 	"onyomi": {
-		"frequent": ["ハク"],
+		"frequent": [
+			"ハク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["と"],
+		"frequent": [
+			"と"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["と.まる", "と.める"]
+		"okurigana": [
+			"と.まる",
+			"と.める"
+		]
 	},
 	"frequency": {
 		"mean": 1410,

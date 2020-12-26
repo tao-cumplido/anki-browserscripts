@@ -1,16 +1,22 @@
 {
 	"kanji": "翁",
-	"meanings": ["venerable old man"],
+	"meanings": [
+		"venerable old man"
+	],
 	"keyword": "venerable old man",
 	"onyomi": {
-		"frequent": ["オウ"],
+		"frequent": [
+			"オウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おきな"],
+		"rare": [
+			"おきな"
+		],
 		"okurigana": []
 	},
 	"frequency": {

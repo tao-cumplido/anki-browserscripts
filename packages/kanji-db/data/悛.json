@@ -1,17 +1,26 @@
 {
 	"kanji": "悛",
-	"meanings": ["amend"],
+	"meanings": [
+		"amend"
+	],
 	"keyword": "make amends",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュン", "セン"]
+		"rare": [
+			"シュン",
+			"セン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あらた"],
-		"okurigana": ["あらた.める"]
+		"rare": [
+			"あらた"
+		],
+		"okurigana": [
+			"あらた.める"
+		]
 	},
 	"frequency": {
 		"mean": 4272,

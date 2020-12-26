@@ -1,16 +1,26 @@
 {
 	"kanji": "佾",
-	"meanings": ["row or file of dancers"],
+	"meanings": [
+		"row or file of dancers"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["イツ", "イチ"],
+		"common": [
+			"イツ",
+			"イチ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["やす"],
+		"common": [
+			"やす"
+		],
 		"rare": [],
-		"okurigana": ["やす.い", "やす.んずる"]
+		"okurigana": [
+			"やす.い",
+			"やす.んずる"
+		]
 	},
 	"frequency": {
 		"mean": 4506,

@@ -1,16 +1,24 @@
 {
 	"kanji": "櫓",
-	"meanings": ["oar", "tower"],
+	"meanings": [
+		"oar",
+		"tower"
+	],
 	"keyword": "turret",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ロ"]
+		"rare": [
+			"ロ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["やぐら", "おおだて"],
+		"rare": [
+			"やぐら",
+			"おおだて"
+		],
 		"okurigana": []
 	},
 	"frequency": {

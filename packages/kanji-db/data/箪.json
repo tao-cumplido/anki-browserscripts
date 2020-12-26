@@ -1,16 +1,22 @@
 {
 	"kanji": "箪",
-	"meanings": ["bamboo rice basket"],
+	"meanings": [
+		"bamboo rice basket"
+	],
 	"keyword": "rattan box",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["タン"]
+		"rare": [
+			"タン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はこ"],
+		"rare": [
+			"はこ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,16 +1,23 @@
 {
 	"kanji": "鰐",
-	"meanings": ["alligator", "crocodile"],
+	"meanings": [
+		"alligator",
+		"crocodile"
+	],
 	"keyword": "alligator",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ガク"]
+		"rare": [
+			"ガク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わに"],
+		"rare": [
+			"わに"
+		],
 		"okurigana": []
 	},
 	"frequency": {

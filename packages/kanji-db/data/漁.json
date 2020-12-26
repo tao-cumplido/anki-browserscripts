@@ -1,17 +1,27 @@
 {
 	"kanji": "漁",
-	"meanings": ["fishing", "fishery"],
+	"meanings": [
+		"fishing",
+		"fishery"
+	],
 	"keyword": "fishing",
 	"onyomi": {
-		"frequent": ["ギョ", "リョウ"],
+		"frequent": [
+			"ギョ",
+			"リョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あさ"],
-		"okurigana": ["あさ.る"]
+		"rare": [
+			"あさ"
+		],
+		"okurigana": [
+			"あさ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1375,

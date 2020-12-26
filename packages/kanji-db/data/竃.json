@@ -1,16 +1,27 @@
 {
 	"kanji": "竃",
-	"meanings": ["kitchen stove", "furnace", "oven", "hearth"],
+	"meanings": [
+		"kitchen stove",
+		"furnace",
+		"oven",
+		"hearth"
+	],
 	"keyword": "kitchen stove",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ"]
+		"rare": [
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かまど", "かま", "へっつい"],
+		"rare": [
+			"かまど",
+			"かま",
+			"へっつい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,28 @@
 {
 	"kanji": "颯",
-	"meanings": ["sudden", "quick", "sound of the wind"],
+	"meanings": [
+		"sudden",
+		"quick",
+		"sound of the wind"
+	],
 	"keyword": "rustling",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サツ", "ソウ"]
+		"rare": [
+			"サツ",
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さっ"],
-		"okurigana": ["さっ.と"]
+		"rare": [
+			"さっ"
+		],
+		"okurigana": [
+			"さっ.と"
+		]
 	},
 	"frequency": {
 		"mean": 2945,

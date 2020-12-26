@@ -1,0 +1,30 @@
+{
+	"kanji": "炤",
+	"meanings": [
+		"illumine",
+		"light up",
+		"reflect"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ショウ",
+			"シャク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"て"
+		],
+		"rare": [],
+		"okurigana": [
+			"て.る"
+		]
+	},
+	"frequency": {
+		"mean": 4482,
+		"wikipedia": 4173
+	}
+}

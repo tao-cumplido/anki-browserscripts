@@ -1,14 +1,24 @@
 {
 	"kanji": "境",
-	"meanings": ["boundary", "border", "region"],
+	"meanings": [
+		"boundary",
+		"border",
+		"region"
+	],
 	"keyword": "boundary",
 	"onyomi": {
-		"frequent": ["キョウ"],
-		"common": ["ケイ"],
+		"frequent": [
+			"キョウ"
+		],
+		"common": [
+			"ケイ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さかい"],
+		"frequent": [
+			"さかい"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

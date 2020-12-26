@@ -1,14 +1,26 @@
 {
 	"kanji": "仮",
-	"meanings": ["sham", "temporary", "interim", "assumed (name)", "informal"],
+	"meanings": [
+		"sham",
+		"temporary",
+		"interim",
+		"assumed (name)",
+		"informal"
+	],
 	"keyword": "provisional",
 	"onyomi": {
-		"frequent": ["カ"],
-		"common": ["ケ"],
+		"frequent": [
+			"カ"
+		],
+		"common": [
+			"ケ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かり"],
+		"frequent": [
+			"かり"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

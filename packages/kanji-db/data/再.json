@@ -1,17 +1,29 @@
 {
 	"kanji": "再",
-	"meanings": ["again", "twice", "second time"],
+	"meanings": [
+		"again",
+		"twice",
+		"second time"
+	],
 	"keyword": "again",
 	"onyomi": {
-		"frequent": ["サイ"],
-		"common": ["サ"],
+		"frequent": [
+			"サイ"
+		],
+		"common": [
+			"サ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふたた"],
+		"frequent": [
+			"ふたた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ふたた.び"]
+		"okurigana": [
+			"ふたた.び"
+		]
 	},
 	"frequency": {
 		"mean": 327,

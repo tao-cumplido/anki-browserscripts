@@ -1,17 +1,30 @@
 {
 	"kanji": "冒",
-	"meanings": ["risk", "face", "defy", "dare", "damage", "assume (a name)"],
+	"meanings": [
+		"risk",
+		"face",
+		"defy",
+		"dare",
+		"damage",
+		"assume (a name)"
+	],
 	"keyword": "risk",
 	"onyomi": {
-		"frequent": ["ボウ"],
+		"frequent": [
+			"ボウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おか"],
+		"frequent": [
+			"おか"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おか.す"]
+		"okurigana": [
+			"おか.す"
+		]
 	},
 	"frequency": {
 		"mean": 1241,

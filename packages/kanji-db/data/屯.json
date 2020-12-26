@@ -1,16 +1,25 @@
 {
 	"kanji": "屯",
-	"meanings": ["barracks", "police station", "camp", "ton"],
+	"meanings": [
+		"barracks",
+		"police station",
+		"camp",
+		"ton"
+	],
 	"keyword": "barracks",
 	"onyomi": {
-		"frequent": ["トン"],
+		"frequent": [
+			"トン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たむろ"],
+		"rare": [
+			"たむろ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

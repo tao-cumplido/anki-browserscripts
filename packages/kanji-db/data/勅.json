@@ -1,17 +1,26 @@
 {
 	"kanji": "勅",
-	"meanings": ["imperial order"],
+	"meanings": [
+		"imperial order"
+	],
 	"keyword": "imperial order",
 	"onyomi": {
-		"frequent": ["チョク"],
+		"frequent": [
+			"チョク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いまし", "みことのり"],
-		"okurigana": ["いまし.める"]
+		"rare": [
+			"いまし",
+			"みことのり"
+		],
+		"okurigana": [
+			"いまし.める"
+		]
 	},
 	"frequency": {
 		"mean": 1778,

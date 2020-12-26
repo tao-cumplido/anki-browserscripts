@@ -1,17 +1,27 @@
 {
 	"kanji": "肯",
-	"meanings": ["agreement", "consent", "comply with"],
+	"meanings": [
+		"agreement",
+		"consent",
+		"comply with"
+	],
 	"keyword": "agreement",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["がえんじ"],
-		"okurigana": ["がえんじ.る"]
+		"rare": [
+			"がえんじ"
+		],
+		"okurigana": [
+			"がえんじ.る"
+		]
 	},
 	"frequency": {
 		"mean": 2365,

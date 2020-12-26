@@ -1,14 +1,24 @@
 {
 	"kanji": "基",
-	"meanings": ["fundamentals", "radical (chem)", "counter for machines", "foundation"],
+	"meanings": [
+		"fundamentals",
+		"radical (chem)",
+		"counter for machines",
+		"foundation"
+	],
 	"keyword": "fundamentals",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["もと", "もとい"],
+		"frequent": [
+			"もと",
+			"もとい"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,29 @@
 {
 	"kanji": "悔",
-	"meanings": ["repent", "regret"],
+	"meanings": [
+		"repent",
+		"regret"
+	],
 	"keyword": "repent",
 	"onyomi": {
-		"frequent": ["カイ"],
+		"frequent": [
+			"カイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["く", "くや"],
+		"frequent": [
+			"く",
+			"くや"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["く.いる", "く.やむ", "くや.しい"]
+		"okurigana": [
+			"く.いる",
+			"く.やむ",
+			"くや.しい"
+		]
 	},
 	"frequency": {
 		"mean": 1942,

@@ -1,16 +1,26 @@
 {
 	"kanji": "秤",
-	"meanings": ["balances", "scales", "steelyard"],
+	"meanings": [
+		"balances",
+		"scales",
+		"steelyard"
+	],
 	"keyword": "balancing scales",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ", "ヒン", "ビン"]
+		"rare": [
+			"ショウ",
+			"ヒン",
+			"ビン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はかり"],
+		"rare": [
+			"はかり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

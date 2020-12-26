@@ -1,17 +1,29 @@
 {
 	"kanji": "按",
-	"meanings": ["hold", "consider", "investigate"],
+	"meanings": [
+		"hold",
+		"consider",
+		"investigate"
+	],
 	"keyword": "press down on",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["アン"]
+		"rare": [
+			"アン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おさ", "しら"],
-		"okurigana": ["おさ.える", "しら.べる"]
+		"rare": [
+			"おさ",
+			"しら"
+		],
+		"okurigana": [
+			"おさ.える",
+			"しら.べる"
+		]
 	},
 	"frequency": {
 		"mean": 2701,

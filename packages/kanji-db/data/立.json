@@ -1,17 +1,40 @@
 {
 	"kanji": "立",
-	"meanings": ["stand up", "rise", "set up", "erect"],
+	"meanings": [
+		"stand up",
+		"rise",
+		"set up",
+		"erect"
+	],
 	"keyword": "stand up",
 	"onyomi": {
-		"frequent": ["リツ"],
-		"common": ["リュウ"],
-		"rare": ["リットル"]
+		"frequent": [
+			"リツ"
+		],
+		"common": [
+			"リュウ"
+		],
+		"rare": [
+			"リットル"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["た"],
+		"frequent": [
+			"た"
+		],
 		"common": [],
-		"rare": ["たて", "だ"],
-		"okurigana": ["た.つ", "た.ち", "た.てる", "た.て", "だ.て", "だ.てる"]
+		"rare": [
+			"たて",
+			"だ"
+		],
+		"okurigana": [
+			"た.つ",
+			"た.ち",
+			"た.てる",
+			"た.て",
+			"だ.て",
+			"だ.てる"
+		]
 	},
 	"frequency": {
 		"mean": 47,

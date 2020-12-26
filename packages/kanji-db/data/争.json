@@ -1,17 +1,30 @@
 {
 	"kanji": "争",
-	"meanings": ["contend", "dispute", "argue"],
+	"meanings": [
+		"contend",
+		"dispute",
+		"argue"
+	],
 	"keyword": "contend",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あらそ"],
+		"frequent": [
+			"あらそ"
+		],
 		"common": [],
-		"rare": ["いか"],
-		"okurigana": ["あらそ.う", "いか.でか"]
+		"rare": [
+			"いか"
+		],
+		"okurigana": [
+			"あらそ.う",
+			"いか.でか"
+		]
 	},
 	"frequency": {
 		"mean": 520,

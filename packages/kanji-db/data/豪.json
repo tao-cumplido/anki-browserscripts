@@ -1,17 +1,29 @@
 {
 	"kanji": "豪",
-	"meanings": ["overpowering", "great", "powerful", "excelling", "Australia"],
+	"meanings": [
+		"overpowering",
+		"great",
+		"powerful",
+		"excelling",
+		"Australia"
+	],
 	"keyword": "overpowering",
 	"onyomi": {
-		"frequent": ["ゴウ"],
+		"frequent": [
+			"ゴウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["えら"],
-		"okurigana": ["えら.い"]
+		"rare": [
+			"えら"
+		],
+		"okurigana": [
+			"えら.い"
+		]
 	},
 	"frequency": {
 		"mean": 1160,

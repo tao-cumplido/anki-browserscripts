@@ -1,17 +1,33 @@
 {
 	"kanji": "損",
-	"meanings": ["damage", "loss", "disadvantage", "hurt", "injure"],
+	"meanings": [
+		"damage",
+		"loss",
+		"disadvantage",
+		"hurt",
+		"injure"
+	],
 	"keyword": "damage",
 	"onyomi": {
-		"frequent": ["ソン"],
+		"frequent": [
+			"ソン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["そこ"],
+		"frequent": [
+			"そこ"
+		],
 		"common": [],
-		"rare": ["そこな"],
-		"okurigana": ["そこ.なう", "そこな.う", "そこ.ねる"]
+		"rare": [
+			"そこな"
+		],
+		"okurigana": [
+			"そこ.なう",
+			"そこな.う",
+			"そこ.ねる"
+		]
 	},
 	"frequency": {
 		"mean": 1193,

@@ -1,16 +1,24 @@
 {
 	"kanji": "噂",
-	"meanings": ["rumor", "gossip", "hearsay"],
+	"meanings": [
+		"rumor",
+		"gossip",
+		"hearsay"
+	],
 	"keyword": "gossip",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソン"]
+		"rare": [
+			"ソン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うわさ"],
+		"rare": [
+			"うわさ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

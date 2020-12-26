@@ -1,14 +1,22 @@
 {
 	"kanji": "鈴",
-	"meanings": ["small bell", "buzzer"],
+	"meanings": [
+		"small bell",
+		"buzzer"
+	],
 	"keyword": "small bell",
 	"onyomi": {
-		"frequent": ["レイ", "リン"],
+		"frequent": [
+			"レイ",
+			"リン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["すず"],
+		"frequent": [
+			"すず"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

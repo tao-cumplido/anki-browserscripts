@@ -1,16 +1,24 @@
 {
 	"kanji": "壌",
-	"meanings": ["lot", "earth", "soil"],
+	"meanings": [
+		"lot",
+		"earth",
+		"soil"
+	],
 	"keyword": "lot",
 	"onyomi": {
-		"frequent": ["ジョウ"],
+		"frequent": [
+			"ジョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つち"],
+		"rare": [
+			"つち"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,16 +1,29 @@
 {
 	"kanji": "位",
-	"meanings": ["rank", "grade", "throne", "crown", "about", "some"],
+	"meanings": [
+		"rank",
+		"grade",
+		"throne",
+		"crown",
+		"about",
+		"some"
+	],
 	"keyword": "rank",
 	"onyomi": {
-		"frequent": ["イ"],
+		"frequent": [
+			"イ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くらい"],
+		"frequent": [
+			"くらい"
+		],
 		"common": [],
-		"rare": ["ぐらい"],
+		"rare": [
+			"ぐらい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

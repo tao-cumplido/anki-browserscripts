@@ -1,17 +1,28 @@
 {
 	"kanji": "駈",
-	"meanings": ["run", "gallop", "advance"],
+	"meanings": [
+		"run",
+		"gallop",
+		"advance"
+	],
 	"keyword": "gallop",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ク"]
+		"rare": [
+			"ク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["か"],
-		"okurigana": ["か.ける", "か.る"]
+		"rare": [
+			"か"
+		],
+		"okurigana": [
+			"か.ける",
+			"か.る"
+		]
 	},
 	"frequency": {
 		"mean": 2359,

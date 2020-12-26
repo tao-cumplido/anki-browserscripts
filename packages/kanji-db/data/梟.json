@@ -1,16 +1,23 @@
 {
 	"kanji": "梟",
-	"meanings": ["owl", "expose"],
+	"meanings": [
+		"owl",
+		"expose"
+	],
 	"keyword": "owl",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ"]
+		"rare": [
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふくろう"],
+		"rare": [
+			"ふくろう"
+		],
 		"okurigana": []
 	},
 	"frequency": {

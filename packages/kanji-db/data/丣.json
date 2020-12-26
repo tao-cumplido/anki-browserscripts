@@ -1,14 +1,20 @@
 {
 	"kanji": "丣",
-	"meanings": ["the tenth of the twelve Terrestrial Branches (ancient form)"],
+	"meanings": [
+		"the tenth of the twelve Terrestrial Branches (ancient form)"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ユウ"],
+		"common": [
+			"ユウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["とり"],
+		"common": [
+			"とり"
+		],
 		"rare": [],
 		"okurigana": []
 	},

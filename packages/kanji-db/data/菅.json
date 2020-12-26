@@ -1,16 +1,23 @@
 {
 	"kanji": "菅",
-	"meanings": ["sedge"],
+	"meanings": [
+		"sedge"
+	],
 	"keyword": "sedge",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カン", "ケン"]
+		"rare": [
+			"カン",
+			"ケン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すげ"],
+		"rare": [
+			"すげ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

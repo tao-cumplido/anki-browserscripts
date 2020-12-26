@@ -1,16 +1,29 @@
 {
 	"kanji": "米",
-	"meanings": ["rice", "USA", "metre"],
+	"meanings": [
+		"rice",
+		"USA",
+		"metre"
+	],
 	"keyword": "rice",
 	"onyomi": {
-		"frequent": ["ベイ", "マイ"],
+		"frequent": [
+			"ベイ",
+			"マイ"
+		],
 		"common": [],
-		"rare": ["メエトル"]
+		"rare": [
+			"メエトル"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["こめ"],
+		"frequent": [
+			"こめ"
+		],
 		"common": [],
-		"rare": ["よね"],
+		"rare": [
+			"よね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

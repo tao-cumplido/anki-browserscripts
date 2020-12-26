@@ -1,9 +1,14 @@
 {
 	"kanji": "傈",
-	"meanings": ["tribe"],
+	"meanings": [
+		"tribe"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["リツ", "リチ"],
+		"common": [
+			"リツ",
+			"リチ"
+		],
 		"rare": []
 	},
 	"frequency": {

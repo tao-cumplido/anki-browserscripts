@@ -1,14 +1,24 @@
 {
 	"kanji": "麻",
-	"meanings": ["hemp", "flax", "numb"],
+	"meanings": [
+		"hemp",
+		"flax",
+		"numb"
+	],
 	"keyword": "hemp",
 	"onyomi": {
-		"frequent": ["マ"],
+		"frequent": [
+			"マ"
+		],
 		"common": [],
-		"rare": ["マア"]
+		"rare": [
+			"マア"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["あさ"],
+		"frequent": [
+			"あさ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

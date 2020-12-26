@@ -1,14 +1,23 @@
 {
 	"kanji": "涙",
-	"meanings": ["tears", "sympathy"],
+	"meanings": [
+		"tears",
+		"sympathy"
+	],
 	"keyword": "tears",
 	"onyomi": {
-		"frequent": ["ルイ"],
+		"frequent": [
+			"ルイ"
+		],
 		"common": [],
-		"rare": ["レイ"]
+		"rare": [
+			"レイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["なみだ"],
+		"frequent": [
+			"なみだ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

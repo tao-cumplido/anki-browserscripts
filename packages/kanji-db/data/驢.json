@@ -1,16 +1,23 @@
 {
 	"kanji": "驢",
-	"meanings": ["donkey"],
+	"meanings": [
+		"donkey"
+	],
 	"keyword": "donkey",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ロ", "リョ"]
+		"rare": [
+			"ロ",
+			"リョ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うさぎうま"],
+		"rare": [
+			"うさぎうま"
+		],
 		"okurigana": []
 	},
 	"frequency": {

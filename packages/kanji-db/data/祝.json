@@ -1,17 +1,28 @@
 {
 	"kanji": "祝",
-	"meanings": ["celebrate", "congratulate"],
+	"meanings": [
+		"celebrate",
+		"congratulate"
+	],
 	"keyword": "celebrate",
 	"onyomi": {
-		"frequent": ["シュク"],
-		"common": ["シュウ"],
+		"frequent": [
+			"シュク"
+		],
+		"common": [
+			"シュウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いわ"],
+		"frequent": [
+			"いわ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["いわ.う"]
+		"okurigana": [
+			"いわ.う"
+		]
 	},
 	"frequency": {
 		"mean": 1405,

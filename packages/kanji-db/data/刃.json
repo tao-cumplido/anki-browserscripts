@@ -1,17 +1,32 @@
 {
 	"kanji": "刃",
-	"meanings": ["blade", "sword", "edge"],
+	"meanings": [
+		"blade",
+		"sword",
+		"edge"
+	],
 	"keyword": "blade",
 	"onyomi": {
-		"frequent": ["ジン"],
+		"frequent": [
+			"ジン"
+		],
 		"common": [],
-		"rare": ["ニン"]
+		"rare": [
+			"ニン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["は"],
+		"frequent": [
+			"は"
+		],
 		"common": [],
-		"rare": ["やいば", "き"],
-		"okurigana": ["き.る"]
+		"rare": [
+			"やいば",
+			"き"
+		],
+		"okurigana": [
+			"き.る"
+		]
 	},
 	"frequency": {
 		"mean": 1822,

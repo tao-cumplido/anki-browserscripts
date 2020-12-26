@@ -1,14 +1,28 @@
 {
 	"kanji": "宮",
-	"meanings": ["Shinto shrine", "constellations", "palace", "princess"],
+	"meanings": [
+		"Shinto shrine",
+		"constellations",
+		"palace",
+		"princess"
+	],
 	"keyword": "Shinto shrine",
 	"onyomi": {
-		"frequent": ["キュウ", "グウ"],
-		"common": ["ク"],
-		"rare": ["クウ"]
+		"frequent": [
+			"キュウ",
+			"グウ"
+		],
+		"common": [
+			"ク"
+		],
+		"rare": [
+			"クウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["みや"],
+		"frequent": [
+			"みや"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

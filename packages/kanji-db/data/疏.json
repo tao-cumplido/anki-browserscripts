@@ -1,17 +1,39 @@
 {
 	"kanji": "疏",
-	"meanings": ["pass through", "note", "commentary", "estrangement", "sparseness", "neglect", "penetrate"],
+	"meanings": [
+		"pass through",
+		"note",
+		"commentary",
+		"estrangement",
+		"sparseness",
+		"neglect",
+		"penetrate"
+	],
 	"keyword": "transcription",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソ", "ショ"]
+		"rare": [
+			"ソ",
+			"ショ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あら", "うと", "とお", "まばら"],
-		"okurigana": ["あら.い", "うと.い", "うと.む", "とお.る", "とお.す"]
+		"rare": [
+			"あら",
+			"うと",
+			"とお",
+			"まばら"
+		],
+		"okurigana": [
+			"あら.い",
+			"うと.い",
+			"うと.む",
+			"とお.る",
+			"とお.す"
+		]
 	},
 	"frequency": {
 		"mean": 2947,

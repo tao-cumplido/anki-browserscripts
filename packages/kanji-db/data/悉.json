@@ -1,17 +1,39 @@
 {
 	"kanji": "悉",
-	"meanings": ["all", "entirely", "altogether", "completely", "use up", "run out of", "exhaust", "befriend", "serve"],
+	"meanings": [
+		"all",
+		"entirely",
+		"altogether",
+		"completely",
+		"use up",
+		"run out of",
+		"exhaust",
+		"befriend",
+		"serve"
+	],
 	"keyword": "without exception",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シツ", "シチ"]
+		"rare": [
+			"シツ",
+			"シチ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つ", "ことごと", "つぶさ"],
-		"okurigana": ["つ.きる", "ことごと.く", "つ.くす", "つぶさ.に"]
+		"rare": [
+			"つ",
+			"ことごと",
+			"つぶさ"
+		],
+		"okurigana": [
+			"つ.きる",
+			"ことごと.く",
+			"つ.くす",
+			"つぶさ.に"
+		]
 	},
 	"frequency": {
 		"mean": 2723,

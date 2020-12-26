@@ -1,17 +1,29 @@
 {
 	"kanji": "潅",
-	"meanings": ["pour into", "irrigate", "shed (tears", "flow into", "concentrate on"],
+	"meanings": [
+		"pour into",
+		"irrigate",
+		"shed (tears",
+		"flow into",
+		"concentrate on"
+	],
 	"keyword": "souse",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カン"]
+		"rare": [
+			"カン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["そそ"],
-		"okurigana": ["そそ.ぐ"]
+		"rare": [
+			"そそ"
+		],
+		"okurigana": [
+			"そそ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 4124,

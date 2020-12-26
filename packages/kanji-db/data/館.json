@@ -1,16 +1,27 @@
 {
 	"kanji": "館",
-	"meanings": ["building", "mansion", "large building", "palace"],
+	"meanings": [
+		"building",
+		"mansion",
+		"large building",
+		"palace"
+	],
 	"keyword": "Bldg.",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["やかた"],
+		"frequent": [
+			"やかた"
+		],
 		"common": [],
-		"rare": ["たて"],
+		"rare": [
+			"たて"
+		],
 		"okurigana": []
 	},
 	"frequency": {

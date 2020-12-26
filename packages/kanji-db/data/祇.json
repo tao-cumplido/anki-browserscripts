@@ -1,16 +1,28 @@
 {
 	"kanji": "祇",
-	"meanings": ["national or local god", "peaceful", "great"],
+	"meanings": [
+		"national or local god",
+		"peaceful",
+		"great"
+	],
 	"keyword": "local god",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ギ", "キ", "シ"]
+		"rare": [
+			"ギ",
+			"キ",
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くにつかみ", "ただ", "まさに"],
+		"rare": [
+			"くにつかみ",
+			"ただ",
+			"まさに"
+		],
 		"okurigana": []
 	},
 	"frequency": {

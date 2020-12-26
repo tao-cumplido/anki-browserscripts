@@ -1,10 +1,16 @@
 {
 	"kanji": "俥",
-	"meanings": ["jinricksha", "rickshaw", "(kokuji)"],
+	"meanings": [
+		"jinricksha",
+		"rickshaw",
+		"(kokuji)"
+	],
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くるま"],
+		"rare": [
+			"くるま"
+		],
 		"okurigana": []
 	},
 	"frequency": {

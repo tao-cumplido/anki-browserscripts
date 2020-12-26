@@ -1,16 +1,25 @@
 {
 	"kanji": "薮",
-	"meanings": ["thicket", "bush", "underbrush", "grove"],
+	"meanings": [
+		"thicket",
+		"bush",
+		"underbrush",
+		"grove"
+	],
 	"keyword": "quack",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ"]
+		"rare": [
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["やぶ"],
+		"rare": [
+			"やぶ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,34 @@
 {
 	"kanji": "凄",
-	"meanings": ["uncanny", "weird", "threatening", "horrible"],
+	"meanings": [
+		"uncanny",
+		"weird",
+		"threatening",
+		"horrible"
+	],
 	"keyword": "nifty",
 	"onyomi": {
-		"frequent": ["セイ"],
+		"frequent": [
+			"セイ"
+		],
 		"common": [],
-		"rare": ["サイ"]
+		"rare": [
+			"サイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さむ", "すご", "すさ"],
-		"okurigana": ["さむ.い", "すご.い", "すさ.まじい"]
+		"rare": [
+			"さむ",
+			"すご",
+			"すさ"
+		],
+		"okurigana": [
+			"さむ.い",
+			"すご.い",
+			"すさ.まじい"
+		]
 	},
 	"frequency": {
 		"mean": 2008,

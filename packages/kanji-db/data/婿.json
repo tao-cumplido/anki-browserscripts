@@ -1,14 +1,21 @@
 {
 	"kanji": "婿",
-	"meanings": ["bridegroom", "son-in-law"],
+	"meanings": [
+		"bridegroom",
+		"son-in-law"
+	],
 	"keyword": "bridegroom",
 	"onyomi": {
-		"frequent": ["セイ"],
+		"frequent": [
+			"セイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["むこ"],
+		"frequent": [
+			"むこ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

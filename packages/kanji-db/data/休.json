@@ -1,17 +1,30 @@
 {
 	"kanji": "休",
-	"meanings": ["rest", "day off", "retire", "sleep"],
+	"meanings": [
+		"rest",
+		"day off",
+		"retire",
+		"sleep"
+	],
 	"keyword": "rest",
 	"onyomi": {
-		"frequent": ["キュウ"],
+		"frequent": [
+			"キュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["やす"],
+		"frequent": [
+			"やす"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["やす.む", "やす.まる", "やす.める"]
+		"okurigana": [
+			"やす.む",
+			"やす.まる",
+			"やす.める"
+		]
 	},
 	"frequency": {
 		"mean": 785,

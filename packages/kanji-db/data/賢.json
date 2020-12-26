@@ -1,17 +1,28 @@
 {
 	"kanji": "賢",
-	"meanings": ["intelligent", "wise", "wisdom", "cleverness"],
+	"meanings": [
+		"intelligent",
+		"wise",
+		"wisdom",
+		"cleverness"
+	],
 	"keyword": "intelligent",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かしこ"],
+		"frequent": [
+			"かしこ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かしこ.い"]
+		"okurigana": [
+			"かしこ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1263,

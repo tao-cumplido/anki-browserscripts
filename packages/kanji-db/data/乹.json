@@ -1,16 +1,36 @@
 {
 	"kanji": "乹",
-	"meanings": ["drought", "dry", "dessicate", "drink up", "heaven", "emperor"],
+	"meanings": [
+		"drought",
+		"dry",
+		"dessicate",
+		"drink up",
+		"heaven",
+		"emperor"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["カン", "ケン"],
+		"common": [
+			"カン",
+			"ケン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["かわ", "ほ", "ひ", "いぬい"],
+		"common": [
+			"かわ",
+			"ほ",
+			"ひ",
+			"いぬい"
+		],
 		"rare": [],
-		"okurigana": ["かわ.く", "かわ.かす", "ほ.す", "ひ.る"]
+		"okurigana": [
+			"かわ.く",
+			"かわ.かす",
+			"ほ.す",
+			"ひ.る"
+		]
 	},
 	"frequency": {
 		"mean": 4541,

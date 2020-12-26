@@ -1,16 +1,24 @@
 {
 	"kanji": "鱒",
-	"meanings": ["salmon trout"],
+	"meanings": [
+		"salmon trout"
+	],
 	"keyword": "trout",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソン", "セン", "ザン"]
+		"rare": [
+			"ソン",
+			"セン",
+			"ザン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ます"],
+		"rare": [
+			"ます"
+		],
 		"okurigana": []
 	},
 	"frequency": {

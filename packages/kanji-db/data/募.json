@@ -1,17 +1,29 @@
 {
 	"kanji": "募",
-	"meanings": ["recruit", "campaign", "gather (contributions)", "enlist", "grow violent"],
+	"meanings": [
+		"recruit",
+		"campaign",
+		"gather (contributions)",
+		"enlist",
+		"grow violent"
+	],
 	"keyword": "recruit",
 	"onyomi": {
-		"frequent": ["ボ"],
+		"frequent": [
+			"ボ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つの"],
+		"frequent": [
+			"つの"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["つの.る"]
+		"okurigana": [
+			"つの.る"
+		]
 	},
 	"frequency": {
 		"mean": 1214,

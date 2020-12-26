@@ -1,17 +1,38 @@
 {
 	"kanji": "略",
-	"meanings": ["abbreviation", "omission", "outline", "shorten", "capture", "plunder"],
+	"meanings": [
+		"abbreviation",
+		"omission",
+		"outline",
+		"shorten",
+		"capture",
+		"plunder"
+	],
 	"keyword": "abbreviation",
 	"onyomi": {
-		"frequent": ["リャク"],
+		"frequent": [
+			"リャク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほぼ", "はぶ", "おか", "おさ", "はかりごと", "はか"],
-		"okurigana": ["はぶ.く", "おか.す", "おさ.める", "はか.る"]
+		"rare": [
+			"ほぼ",
+			"はぶ",
+			"おか",
+			"おさ",
+			"はかりごと",
+			"はか"
+		],
+		"okurigana": [
+			"はぶ.く",
+			"おか.す",
+			"おさ.める",
+			"はか.る"
+		]
 	},
 	"frequency": {
 		"mean": 598,

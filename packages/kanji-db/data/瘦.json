@@ -1,0 +1,34 @@
+{
+	"kanji": "瘦",
+	"meanings": [
+		"thin",
+		"emaciated",
+		"lean",
+		"meager"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": [
+			"ソウ",
+			"チュウ",
+			"シュウ",
+			"チュ"
+		]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": [
+			"やせ"
+		],
+		"okurigana": [
+			"やせ.る"
+		]
+	},
+	"frequency": {
+		"mean": 4477,
+		"twitter": 1725,
+		"wikipedia": 4171
+	}
+}

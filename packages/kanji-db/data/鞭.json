@@ -1,16 +1,26 @@
 {
 	"kanji": "鞭",
-	"meanings": ["whip", "rod", "counter for whippings"],
+	"meanings": [
+		"whip",
+		"rod",
+		"counter for whippings"
+	],
 	"keyword": "whip",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ベン", "ヘン"]
+		"rare": [
+			"ベン",
+			"ヘン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["むち", "むちうつ"],
+		"rare": [
+			"むち",
+			"むちうつ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

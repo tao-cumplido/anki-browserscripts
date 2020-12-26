@@ -1,17 +1,34 @@
 {
 	"kanji": "溜",
-	"meanings": ["collect", "gather", "be in arrears"],
+	"meanings": [
+		"collect",
+		"gather",
+		"be in arrears"
+	],
 	"keyword": "cumulation",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リュウ"]
+		"rare": [
+			"リュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["た", "たま", "したた", "たまり", "ため"],
-		"okurigana": ["た.まる", "たま.る", "た.める", "したた.る"]
+		"rare": [
+			"た",
+			"たま",
+			"したた",
+			"たまり",
+			"ため"
+		],
+		"okurigana": [
+			"た.まる",
+			"たま.る",
+			"た.める",
+			"したた.る"
+		]
 	},
 	"frequency": {
 		"mean": 2003,

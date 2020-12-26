@@ -1,17 +1,30 @@
 {
 	"kanji": "臨",
-	"meanings": ["look to", "face", "meet", "confront", "attend", "call on"],
+	"meanings": [
+		"look to",
+		"face",
+		"meet",
+		"confront",
+		"attend",
+		"call on"
+	],
 	"keyword": "look to",
 	"onyomi": {
-		"frequent": ["リン"],
+		"frequent": [
+			"リン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["のぞ"],
+		"frequent": [
+			"のぞ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["のぞ.む"]
+		"okurigana": [
+			"のぞ.む"
+		]
 	},
 	"frequency": {
 		"mean": 1015,

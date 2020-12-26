@@ -1,14 +1,21 @@
 {
 	"kanji": "倌",
-	"meanings": ["assistant in wine shop", "groom"],
+	"meanings": [
+		"assistant in wine shop",
+		"groom"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["カン"],
+		"common": [
+			"カン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["とねり"],
+		"common": [
+			"とねり"
+		],
 		"rare": [],
 		"okurigana": []
 	},

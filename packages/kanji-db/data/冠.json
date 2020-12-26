@@ -1,14 +1,22 @@
 {
 	"kanji": "冠",
-	"meanings": ["crown", "best", "peerless"],
+	"meanings": [
+		"crown",
+		"best",
+		"peerless"
+	],
 	"keyword": "crown",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かんむり"],
+		"frequent": [
+			"かんむり"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,29 @@
 {
 	"kanji": "謡",
-	"meanings": ["song", "sing", "ballad", "noh chanting"],
+	"meanings": [
+		"song",
+		"sing",
+		"ballad",
+		"noh chanting"
+	],
 	"keyword": "Noh chanting",
 	"onyomi": {
-		"frequent": ["ヨウ"],
+		"frequent": [
+			"ヨウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うた"],
+		"frequent": [
+			"うた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["うた.い", "うた.う"]
+		"okurigana": [
+			"うた.い",
+			"うた.う"
+		]
 	},
 	"frequency": {
 		"mean": 1572,

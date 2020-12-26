@@ -1,16 +1,23 @@
 {
 	"kanji": "樒",
-	"meanings": ["tree whose branches are placed on Buddhist graves"],
+	"meanings": [
+		"tree whose branches are placed on Buddhist graves"
+	],
 	"keyword": "star-anise",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ミツ"]
+		"rare": [
+			"ミツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しきみ", "じんこう"],
+		"rare": [
+			"しきみ",
+			"じんこう"
+		],
 		"okurigana": []
 	},
 	"frequency": {

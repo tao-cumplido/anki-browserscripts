@@ -1,17 +1,33 @@
 {
 	"kanji": "共",
-	"meanings": ["together", "both", "neither", "all", "and", "alike", "with"],
+	"meanings": [
+		"together",
+		"both",
+		"neither",
+		"all",
+		"and",
+		"alike",
+		"with"
+	],
 	"keyword": "together",
 	"onyomi": {
-		"frequent": ["キョウ"],
+		"frequent": [
+			"キョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["とも"],
+		"frequent": [
+			"とも"
+		],
 		"common": [],
-		"rare": ["ども"],
-		"okurigana": ["とも.に"]
+		"rare": [
+			"ども"
+		],
+		"okurigana": [
+			"とも.に"
+		]
 	},
 	"frequency": {
 		"mean": 192,

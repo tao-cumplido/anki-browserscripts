@@ -1,17 +1,33 @@
 {
 	"kanji": "蒸",
-	"meanings": ["steam", "heat", "sultry", "foment", "get musty"],
+	"meanings": [
+		"steam",
+		"heat",
+		"sultry",
+		"foment",
+		"get musty"
+	],
 	"keyword": "steam",
 	"onyomi": {
-		"frequent": ["ジョウ"],
+		"frequent": [
+			"ジョウ"
+		],
 		"common": [],
-		"rare": ["セイ"]
+		"rare": [
+			"セイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["む"],
+		"frequent": [
+			"む"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["む.す", "む.れる", "む.らす"]
+		"okurigana": [
+			"む.す",
+			"む.れる",
+			"む.らす"
+		]
 	},
 	"frequency": {
 		"mean": 1368,

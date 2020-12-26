@@ -1,16 +1,25 @@
 {
 	"kanji": "頁",
-	"meanings": ["page", "leaf"],
+	"meanings": [
+		"page",
+		"leaf"
+	],
 	"keyword": "page",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケツ"]
+		"rare": [
+			"ケツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ぺえじ", "おおがい", "かしら"],
+		"rare": [
+			"ぺえじ",
+			"おおがい",
+			"かしら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

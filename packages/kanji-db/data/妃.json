@@ -1,16 +1,23 @@
 {
 	"kanji": "妃",
-	"meanings": ["queen", "princess"],
+	"meanings": [
+		"queen",
+		"princess"
+	],
 	"keyword": "queen",
 	"onyomi": {
-		"frequent": ["ヒ"],
+		"frequent": [
+			"ヒ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きさき"],
+		"rare": [
+			"きさき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

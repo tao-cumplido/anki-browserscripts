@@ -1,17 +1,29 @@
 {
 	"kanji": "遷",
-	"meanings": ["transition", "move", "change"],
+	"meanings": [
+		"transition",
+		"move",
+		"change"
+	],
 	"keyword": "transition",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うつ", "みやこがえ"],
-		"okurigana": ["うつ.る", "うつ.す"]
+		"rare": [
+			"うつ",
+			"みやこがえ"
+		],
+		"okurigana": [
+			"うつ.る",
+			"うつ.す"
+		]
 	},
 	"frequency": {
 		"mean": 1482,

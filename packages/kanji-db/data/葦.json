@@ -1,17 +1,34 @@
 {
 	"kanji": "葦",
-	"meanings": ["reed", "bullrush"],
+	"meanings": [
+		"reed",
+		"bullrush"
+	],
 	"keyword": "ditch reed",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["イ"]
+		"rare": [
+			"イ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あし", "よし", "しお", "しな", "しぼ", "な"],
-		"okurigana": ["しお.れる", "しな.びる", "しぼ.む", "な.える"]
+		"rare": [
+			"あし",
+			"よし",
+			"しお",
+			"しな",
+			"しぼ",
+			"な"
+		],
+		"okurigana": [
+			"しお.れる",
+			"しな.びる",
+			"しぼ.む",
+			"な.える"
+		]
 	},
 	"frequency": {
 		"mean": 2586,

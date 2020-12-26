@@ -1,14 +1,21 @@
 {
 	"kanji": "升",
-	"meanings": ["measuring box", "1.8 liter"],
+	"meanings": [
+		"measuring box",
+		"1.8 liter"
+	],
 	"keyword": "measuring box",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ます"],
+		"frequent": [
+			"ます"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

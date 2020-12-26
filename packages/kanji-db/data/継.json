@@ -1,17 +1,31 @@
 {
 	"kanji": "継",
-	"meanings": ["inherit", "succeed", "continue", "patch", "graft (tree)"],
+	"meanings": [
+		"inherit",
+		"succeed",
+		"continue",
+		"patch",
+		"graft (tree)"
+	],
 	"keyword": "inherit",
 	"onyomi": {
-		"frequent": ["ケイ"],
+		"frequent": [
+			"ケイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つ"],
+		"frequent": [
+			"つ"
+		],
 		"common": [],
-		"rare": ["まま"],
-		"okurigana": ["つ.ぐ"]
+		"rare": [
+			"まま"
+		],
+		"okurigana": [
+			"つ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 508,

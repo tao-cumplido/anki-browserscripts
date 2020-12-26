@@ -1,14 +1,28 @@
 {
 	"kanji": "脚",
-	"meanings": ["skids", "leg", "undercarriage", "lower part", "base"],
+	"meanings": [
+		"skids",
+		"leg",
+		"undercarriage",
+		"lower part",
+		"base"
+	],
 	"keyword": "shins",
 	"onyomi": {
-		"frequent": ["キャク"],
-		"common": ["キャ"],
-		"rare": ["カク"]
+		"frequent": [
+			"キャク"
+		],
+		"common": [
+			"キャ"
+		],
+		"rare": [
+			"カク"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["あし"],
+		"frequent": [
+			"あし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

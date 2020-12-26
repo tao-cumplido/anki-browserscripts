@@ -1,14 +1,24 @@
 {
 	"kanji": "街",
-	"meanings": ["boulevard", "street", "town"],
+	"meanings": [
+		"boulevard",
+		"street",
+		"town"
+	],
 	"keyword": "boulevard",
 	"onyomi": {
-		"frequent": ["ガイ"],
-		"common": ["カイ"],
+		"frequent": [
+			"ガイ"
+		],
+		"common": [
+			"カイ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まち"],
+		"frequent": [
+			"まち"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

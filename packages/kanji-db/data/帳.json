@@ -1,16 +1,28 @@
 {
 	"kanji": "帳",
-	"meanings": ["notebook", "account book", "album", "curtain", "veil", "net", "tent"],
+	"meanings": [
+		"notebook",
+		"account book",
+		"album",
+		"curtain",
+		"veil",
+		"net",
+		"tent"
+	],
 	"keyword": "notebook",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とばり"],
+		"rare": [
+			"とばり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

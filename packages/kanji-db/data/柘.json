@@ -1,16 +1,25 @@
 {
 	"kanji": "柘",
-	"meanings": ["wild mulberry"],
+	"meanings": [
+		"wild mulberry"
+	],
 	"keyword": "wild mulberry",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シャ", "ジャク"]
+		"rare": [
+			"シャ",
+			"ジャク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["そ", "つげ", "やまぐわ"],
+		"rare": [
+			"そ",
+			"つげ",
+			"やまぐわ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

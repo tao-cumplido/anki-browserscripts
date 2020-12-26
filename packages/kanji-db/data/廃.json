@@ -1,17 +1,30 @@
 {
 	"kanji": "廃",
-	"meanings": ["abolish", "obsolete", "cessation", "discarding", "abandon"],
+	"meanings": [
+		"abolish",
+		"obsolete",
+		"cessation",
+		"discarding",
+		"abandon"
+	],
 	"keyword": "abolish",
 	"onyomi": {
-		"frequent": ["ハイ"],
+		"frequent": [
+			"ハイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["すた"],
+		"frequent": [
+			"すた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["すた.れる", "すた.る"]
+		"okurigana": [
+			"すた.れる",
+			"すた.る"
+		]
 	},
 	"frequency": {
 		"mean": 468,

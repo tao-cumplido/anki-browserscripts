@@ -1,17 +1,29 @@
 {
 	"kanji": "苑",
-	"meanings": ["garden", "farm", "park"],
+	"meanings": [
+		"garden",
+		"farm",
+		"park"
+	],
 	"keyword": "garden",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["エン", "オン"]
+		"rare": [
+			"エン",
+			"オン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["その", "う"],
-		"okurigana": ["う.つ"]
+		"rare": [
+			"その",
+			"う"
+		],
+		"okurigana": [
+			"う.つ"
+		]
 	},
 	"frequency": {
 		"mean": 1962,

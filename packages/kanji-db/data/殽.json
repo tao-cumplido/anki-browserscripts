@@ -1,0 +1,30 @@
+{
+	"kanji": "殽",
+	"meanings": [
+		"mixed up",
+		"confused",
+		"cooked"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"コウ",
+			"ギョウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ま"
+		],
+		"rare": [],
+		"okurigana": [
+			"ま.じる"
+		]
+	},
+	"frequency": {
+		"mean": 4529,
+		"wikipedia": 4220
+	}
+}

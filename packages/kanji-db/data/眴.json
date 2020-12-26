@@ -1,0 +1,32 @@
+{
+	"kanji": "眴",
+	"meanings": [
+		"dazzled",
+		"signal with eyes"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ケン",
+			"シュン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"またた",
+			"めくわ"
+		],
+		"rare": [],
+		"okurigana": [
+			"またた.く",
+			"めくわ.す",
+			"めくわ.せる"
+		]
+	},
+	"frequency": {
+		"mean": 4538,
+		"wikipedia": 4229
+	}
+}

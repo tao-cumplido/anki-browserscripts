@@ -1,15 +1,22 @@
 {
 	"kanji": "冕",
-	"meanings": ["crown"],
+	"meanings": [
+		"crown"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ベン", "メン"]
+		"rare": [
+			"ベン",
+			"メン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かんむり"],
+		"rare": [
+			"かんむり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

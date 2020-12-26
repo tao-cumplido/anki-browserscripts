@@ -1,17 +1,29 @@
 {
 	"kanji": "附",
-	"meanings": ["affixed", "attach", "refer to", "append"],
+	"meanings": [
+		"affixed",
+		"attach",
+		"refer to",
+		"append"
+	],
 	"keyword": "affixed",
 	"onyomi": {
-		"frequent": ["フ"],
+		"frequent": [
+			"フ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つ"],
-		"okurigana": ["つ.ける", "つ.く"]
+		"rare": [
+			"つ"
+		],
+		"okurigana": [
+			"つ.ける",
+			"つ.く"
+		]
 	},
 	"frequency": {
 		"mean": 1136,

@@ -1,17 +1,32 @@
 {
 	"kanji": "翻",
-	"meanings": ["flip", "turn over", "wave", "flutter", "change (mind)"],
+	"meanings": [
+		"flip",
+		"turn over",
+		"wave",
+		"flutter",
+		"change (mind)"
+	],
 	"keyword": "flip",
 	"onyomi": {
-		"frequent": ["ホン"],
+		"frequent": [
+			"ホン"
+		],
 		"common": [],
-		"rare": ["ハン"]
+		"rare": [
+			"ハン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ひるがえ"],
+		"frequent": [
+			"ひるがえ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ひるがえ.る", "ひるがえ.す"]
+		"okurigana": [
+			"ひるがえ.る",
+			"ひるがえ.す"
+		]
 	},
 	"frequency": {
 		"mean": 1172,

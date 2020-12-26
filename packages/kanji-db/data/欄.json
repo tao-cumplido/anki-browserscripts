@@ -1,16 +1,25 @@
 {
 	"kanji": "欄",
-	"meanings": ["column", "handrail", "blank", "space"],
+	"meanings": [
+		"column",
+		"handrail",
+		"blank",
+		"space"
+	],
 	"keyword": "column",
 	"onyomi": {
-		"frequent": ["ラン"],
+		"frequent": [
+			"ラン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["てすり"],
+		"rare": [
+			"てすり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

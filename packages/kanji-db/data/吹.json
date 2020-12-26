@@ -1,17 +1,29 @@
 {
 	"kanji": "吹",
-	"meanings": ["blow", "breathe", "puff", "emit", "smoke"],
+	"meanings": [
+		"blow",
+		"breathe",
+		"puff",
+		"emit",
+		"smoke"
+	],
 	"keyword": "blow",
 	"onyomi": {
-		"frequent": ["スイ"],
+		"frequent": [
+			"スイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふ"],
+		"frequent": [
+			"ふ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ふ.く"]
+		"okurigana": [
+			"ふ.く"
+		]
 	},
 	"frequency": {
 		"mean": 928,

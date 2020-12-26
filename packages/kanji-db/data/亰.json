@@ -1,15 +1,23 @@
 {
 	"kanji": "亰",
-	"meanings": ["capital city"],
+	"meanings": [
+		"capital city"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ", "ケイ", "キン"]
+		"rare": [
+			"キョウ",
+			"ケイ",
+			"キン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みやこ"],
+		"rare": [
+			"みやこ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

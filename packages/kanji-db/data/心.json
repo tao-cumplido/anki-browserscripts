@@ -1,16 +1,27 @@
 {
 	"kanji": "心",
-	"meanings": ["heart", "mind", "spirit", "heart radical (no. 61)"],
+	"meanings": [
+		"heart",
+		"mind",
+		"spirit",
+		"heart radical (no. 61)"
+	],
 	"keyword": "heart",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こころ"],
+		"frequent": [
+			"こころ"
+		],
 		"common": [],
-		"rare": ["ごころ"],
+		"rare": [
+			"ごころ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

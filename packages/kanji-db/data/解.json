@@ -1,17 +1,48 @@
 {
 	"kanji": "解",
-	"meanings": ["unravel", "notes", "key", "explanation", "understanding", "untie", "undo", "solve", "answer", "cancel", "absolve", "explain", "minute"],
+	"meanings": [
+		"unravel",
+		"notes",
+		"key",
+		"explanation",
+		"understanding",
+		"untie",
+		"undo",
+		"solve",
+		"answer",
+		"cancel",
+		"absolve",
+		"explain",
+		"minute"
+	],
 	"keyword": "unravel",
 	"onyomi": {
-		"frequent": ["カイ", "ゲ"],
+		"frequent": [
+			"カイ",
+			"ゲ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["と"],
+		"frequent": [
+			"と"
+		],
 		"common": [],
-		"rare": ["ほど", "わか", "さと"],
-		"okurigana": ["と.く", "と.かす", "と.ける", "ほど.く", "ほど.ける", "わか.る", "さと.る"]
+		"rare": [
+			"ほど",
+			"わか",
+			"さと"
+		],
+		"okurigana": [
+			"と.く",
+			"と.かす",
+			"と.ける",
+			"ほど.く",
+			"ほど.ける",
+			"わか.る",
+			"さと.る"
+		]
 	},
 	"frequency": {
 		"mean": 278,

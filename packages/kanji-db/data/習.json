@@ -1,17 +1,28 @@
 {
 	"kanji": "習",
-	"meanings": ["learn"],
+	"meanings": [
+		"learn"
+	],
 	"keyword": "learn",
 	"onyomi": {
-		"frequent": ["シュウ"],
+		"frequent": [
+			"シュウ"
+		],
 		"common": [],
-		"rare": ["ジュ"]
+		"rare": [
+			"ジュ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["なら"],
+		"frequent": [
+			"なら"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["なら.う", "なら.い"]
+		"okurigana": [
+			"なら.う",
+			"なら.い"
+		]
 	},
 	"frequency": {
 		"mean": 752,

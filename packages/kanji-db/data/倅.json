@@ -1,16 +1,25 @@
 {
 	"kanji": "倅",
-	"meanings": ["son", "my son"],
+	"meanings": [
+		"son",
+		"my son"
+	],
 	"keyword": "my son",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サイ", "ソツ", "ソチ"]
+		"rare": [
+			"サイ",
+			"ソツ",
+			"ソチ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["せがれ"],
+		"rare": [
+			"せがれ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

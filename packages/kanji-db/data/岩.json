@@ -1,14 +1,22 @@
 {
 	"kanji": "岩",
-	"meanings": ["boulder", "rock", "cliff"],
+	"meanings": [
+		"boulder",
+		"rock",
+		"cliff"
+	],
 	"keyword": "boulder",
 	"onyomi": {
-		"frequent": ["ガン"],
+		"frequent": [
+			"ガン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いわ"],
+		"frequent": [
+			"いわ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

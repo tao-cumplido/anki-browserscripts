@@ -1,14 +1,21 @@
 {
 	"kanji": "紫",
-	"meanings": ["purple", "violet"],
+	"meanings": [
+		"purple",
+		"violet"
+	],
 	"keyword": "purple",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["むらさき"],
+		"frequent": [
+			"むらさき"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

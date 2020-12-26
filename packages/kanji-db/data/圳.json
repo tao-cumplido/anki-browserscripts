@@ -1,0 +1,31 @@
+{
+	"kanji": "圳",
+	"meanings": [
+		"furrow in field",
+		"small drainage"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ショウ",
+			"シュ",
+			"シン",
+			"ソン",
+			"シュン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"みぞ"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 3032,
+		"news": 1694,
+		"wikipedia": 2852
+	}
+}

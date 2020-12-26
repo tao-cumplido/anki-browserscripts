@@ -1,17 +1,29 @@
 {
 	"kanji": "愁",
-	"meanings": ["distress", "grieve", "lament", "be anxious"],
+	"meanings": [
+		"distress",
+		"grieve",
+		"lament",
+		"be anxious"
+	],
 	"keyword": "distress",
 	"onyomi": {
-		"frequent": ["シュウ"],
+		"frequent": [
+			"シュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うれ"],
+		"frequent": [
+			"うれ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["うれ.える", "うれ.い"]
+		"okurigana": [
+			"うれ.える",
+			"うれ.い"
+		]
 	},
 	"frequency": {
 		"mean": 2416,

@@ -1,17 +1,26 @@
 {
 	"kanji": "植",
-	"meanings": ["plant"],
+	"meanings": [
+		"plant"
+	],
 	"keyword": "plant",
 	"onyomi": {
-		"frequent": ["ショク"],
+		"frequent": [
+			"ショク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["う"],
+		"frequent": [
+			"う"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["う.える", "う.わる"]
+		"okurigana": [
+			"う.える",
+			"う.わる"
+		]
 	},
 	"frequency": {
 		"mean": 759,

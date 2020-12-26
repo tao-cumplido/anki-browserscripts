@@ -1,17 +1,30 @@
 {
 	"kanji": "怪",
-	"meanings": ["suspicious", "mystery", "apparition"],
+	"meanings": [
+		"suspicious",
+		"mystery",
+		"apparition"
+	],
 	"keyword": "suspicious",
 	"onyomi": {
-		"frequent": ["カイ"],
+		"frequent": [
+			"カイ"
+		],
 		"common": [],
-		"rare": ["ケ"]
+		"rare": [
+			"ケ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["あや"],
+		"frequent": [
+			"あや"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あや.しい", "あや.しむ"]
+		"okurigana": [
+			"あや.しい",
+			"あや.しむ"
+		]
 	},
 	"frequency": {
 		"mean": 841,

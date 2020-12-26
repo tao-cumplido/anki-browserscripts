@@ -1,16 +1,29 @@
 {
 	"kanji": "后",
-	"meanings": ["empress", "queen", "after", "behind", "back", "later"],
+	"meanings": [
+		"empress",
+		"queen",
+		"after",
+		"behind",
+		"back",
+		"later"
+	],
 	"keyword": "empress",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
-		"rare": ["ゴ"]
+		"rare": [
+			"ゴ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きさき"],
+		"rare": [
+			"きさき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

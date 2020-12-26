@@ -1,16 +1,27 @@
 {
 	"kanji": "枢",
-	"meanings": ["hinge", "pivot", "door"],
+	"meanings": [
+		"hinge",
+		"pivot",
+		"door"
+	],
 	"keyword": "hinge",
 	"onyomi": {
-		"frequent": ["スウ"],
+		"frequent": [
+			"スウ"
+		],
 		"common": [],
-		"rare": ["シュ"]
+		"rare": [
+			"シュ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とぼそ", "からくり"],
+		"rare": [
+			"とぼそ",
+			"からくり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

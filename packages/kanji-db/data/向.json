@@ -1,17 +1,42 @@
 {
 	"kanji": "向",
-	"meanings": ["yonder", "facing", "beyond", "confront", "defy", "tend toward", "approach"],
+	"meanings": [
+		"yonder",
+		"facing",
+		"beyond",
+		"confront",
+		"defy",
+		"tend toward",
+		"approach"
+	],
 	"keyword": "yonder",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["む"],
+		"frequent": [
+			"む"
+		],
 		"common": [],
-		"rare": ["むこ", "むか"],
-		"okurigana": ["む.く", "む.い", "む.き", "む.ける", "む.け", "む.かう", "む.かい", "む.こう", "むか.い"]
+		"rare": [
+			"むこ",
+			"むか"
+		],
+		"okurigana": [
+			"む.く",
+			"む.い",
+			"む.き",
+			"む.ける",
+			"む.け",
+			"む.かう",
+			"む.かい",
+			"む.こう",
+			"むか.い"
+		]
 	},
 	"frequency": {
 		"mean": 310,

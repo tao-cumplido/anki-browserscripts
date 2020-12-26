@@ -1,15 +1,23 @@
 {
 	"kanji": "馬",
-	"meanings": ["horse"],
+	"meanings": [
+		"horse"
+	],
 	"keyword": "horse",
 	"onyomi": {
-		"frequent": ["バ"],
+		"frequent": [
+			"バ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うま"],
-		"common": ["ま"],
+		"frequent": [
+			"うま"
+		],
+		"common": [
+			"ま"
+		],
 		"rare": [],
 		"okurigana": []
 	},

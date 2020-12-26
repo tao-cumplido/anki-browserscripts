@@ -1,9 +1,17 @@
 {
 	"kanji": "儀",
-	"meanings": ["ceremony", "rule", "affair", "case", "a matter"],
+	"meanings": [
+		"ceremony",
+		"rule",
+		"affair",
+		"case",
+		"a matter"
+	],
 	"keyword": "ceremony",
 	"onyomi": {
-		"frequent": ["ギ"],
+		"frequent": [
+			"ギ"
+		],
 		"common": [],
 		"rare": []
 	},

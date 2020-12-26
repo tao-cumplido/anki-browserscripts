@@ -1,14 +1,24 @@
 {
 	"kanji": "綱",
-	"meanings": ["hawser", "class (genus)", "rope", "cord", "cable"],
+	"meanings": [
+		"hawser",
+		"class (genus)",
+		"rope",
+		"cord",
+		"cable"
+	],
 	"keyword": "hawser",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つな"],
+		"frequent": [
+			"つな"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

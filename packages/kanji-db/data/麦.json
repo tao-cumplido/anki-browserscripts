@@ -1,14 +1,21 @@
 {
 	"kanji": "麦",
-	"meanings": ["barley", "wheat"],
+	"meanings": [
+		"barley",
+		"wheat"
+	],
 	"keyword": "barley",
 	"onyomi": {
-		"frequent": ["バク"],
+		"frequent": [
+			"バク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["むぎ"],
+		"frequent": [
+			"むぎ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

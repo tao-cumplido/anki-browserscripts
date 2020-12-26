@@ -1,14 +1,26 @@
 {
 	"kanji": "荷",
-	"meanings": ["baggage", "shoulder-pole load", "bear (a burden)", "shoulder (a gun)", "load", "cargo", "freight"],
+	"meanings": [
+		"baggage",
+		"shoulder-pole load",
+		"bear (a burden)",
+		"shoulder (a gun)",
+		"load",
+		"cargo",
+		"freight"
+	],
 	"keyword": "baggage",
 	"onyomi": {
-		"frequent": ["カ"],
+		"frequent": [
+			"カ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["に"],
+		"frequent": [
+			"に"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

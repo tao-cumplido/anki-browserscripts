@@ -1,16 +1,25 @@
 {
 	"kanji": "亞",
-	"meanings": ["rank", "follow"],
+	"meanings": [
+		"rank",
+		"follow"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ア"]
+		"rare": [
+			"ア"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つ"],
-		"okurigana": ["つ.ぐ"]
+		"rare": [
+			"つ"
+		],
+		"okurigana": [
+			"つ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 2921,

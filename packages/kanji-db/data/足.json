@@ -1,17 +1,31 @@
 {
 	"kanji": "足",
-	"meanings": ["leg", "foot", "be sufficient", "counter for pairs of footwear"],
+	"meanings": [
+		"leg",
+		"foot",
+		"be sufficient",
+		"counter for pairs of footwear"
+	],
 	"keyword": "leg",
 	"onyomi": {
-		"frequent": ["ソク"],
+		"frequent": [
+			"ソク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あし", "た"],
+		"frequent": [
+			"あし",
+			"た"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["た.りる", "た.る", "た.す"]
+		"okurigana": [
+			"た.りる",
+			"た.る",
+			"た.す"
+		]
 	},
 	"frequency": {
 		"mean": 451,

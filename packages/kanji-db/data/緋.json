@@ -1,16 +1,24 @@
 {
 	"kanji": "緋",
-	"meanings": ["scarlet", "cardinal"],
+	"meanings": [
+		"scarlet",
+		"cardinal"
+	],
 	"keyword": "scarlet",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒ"]
+		"rare": [
+			"ヒ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あけ", "あか"],
+		"rare": [
+			"あけ",
+			"あか"
+		],
 		"okurigana": []
 	},
 	"frequency": {

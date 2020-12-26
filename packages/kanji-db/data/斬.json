@@ -1,17 +1,31 @@
 {
 	"kanji": "斬",
-	"meanings": ["beheading", "kill", "murder"],
+	"meanings": [
+		"beheading",
+		"kill",
+		"murder"
+	],
 	"keyword": "chop off",
 	"onyomi": {
-		"frequent": ["ザン"],
+		"frequent": [
+			"ザン"
+		],
 		"common": [],
-		"rare": ["サン", "セン", "ゼン"]
+		"rare": [
+			"サン",
+			"セン",
+			"ゼン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["き"],
+		"frequent": [
+			"き"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["き.る"]
+		"okurigana": [
+			"き.る"
+		]
 	},
 	"frequency": {
 		"mean": 1555,

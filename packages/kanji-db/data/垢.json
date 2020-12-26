@@ -1,16 +1,26 @@
 {
 	"kanji": "垢",
-	"meanings": ["dirt", "grime", "earwax"],
+	"meanings": [
+		"dirt",
+		"grime",
+		"earwax"
+	],
 	"keyword": "blemish",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ", "ク"]
+		"rare": [
+			"コウ",
+			"ク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あか", "はじ"],
+		"rare": [
+			"あか",
+			"はじ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

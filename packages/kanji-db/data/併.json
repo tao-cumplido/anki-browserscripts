@@ -1,17 +1,28 @@
 {
 	"kanji": "併",
-	"meanings": ["join", "get together", "unite", "collective"],
+	"meanings": [
+		"join",
+		"get together",
+		"unite",
+		"collective"
+	],
 	"keyword": "join",
 	"onyomi": {
-		"frequent": ["ヘイ"],
+		"frequent": [
+			"ヘイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あわ"],
+		"frequent": [
+			"あわ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あわ.せる"]
+		"okurigana": [
+			"あわ.せる"
+		]
 	},
 	"frequency": {
 		"mean": 688,

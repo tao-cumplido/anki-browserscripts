@@ -1,16 +1,26 @@
 {
 	"kanji": "樹",
-	"meanings": ["timber", "trees", "wood", "establish", "set up"],
+	"meanings": [
+		"timber",
+		"trees",
+		"wood",
+		"establish",
+		"set up"
+	],
 	"keyword": "timber-trees",
 	"onyomi": {
-		"frequent": ["ジュ"],
+		"frequent": [
+			"ジュ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["き"],
+		"rare": [
+			"き"
+		],
 		"okurigana": []
 	},
 	"frequency": {

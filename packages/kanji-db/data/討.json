@@ -1,17 +1,29 @@
 {
 	"kanji": "討",
-	"meanings": ["chastise", "attack", "defeat", "destroy", "conquer"],
+	"meanings": [
+		"chastise",
+		"attack",
+		"defeat",
+		"destroy",
+		"conquer"
+	],
 	"keyword": "chastise",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["う"],
+		"frequent": [
+			"う"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["う.つ"]
+		"okurigana": [
+			"う.つ"
+		]
 	},
 	"frequency": {
 		"mean": 1102,

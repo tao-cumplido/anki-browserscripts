@@ -1,16 +1,25 @@
 {
 	"kanji": "牒",
-	"meanings": ["label", "genealogy", "circular"],
+	"meanings": [
+		"label",
+		"genealogy",
+		"circular"
+	],
 	"keyword": "label",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョウ", "ジョウ"]
+		"rare": [
+			"チョウ",
+			"ジョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふだ"],
+		"rare": [
+			"ふだ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

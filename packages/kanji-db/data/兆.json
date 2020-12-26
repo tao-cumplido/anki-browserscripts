@@ -1,17 +1,31 @@
 {
 	"kanji": "兆",
-	"meanings": ["portent", "10**12", "trillion", "sign", "omen", "symptoms"],
+	"meanings": [
+		"portent",
+		"10**12",
+		"trillion",
+		"sign",
+		"omen",
+		"symptoms"
+	],
 	"keyword": "portent",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["きざ"],
+		"frequent": [
+			"きざ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["きざ.す", "きざ.し"]
+		"okurigana": [
+			"きざ.す",
+			"きざ.し"
+		]
 	},
 	"frequency": {
 		"mean": 1850,

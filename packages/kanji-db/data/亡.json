@@ -1,17 +1,36 @@
 {
 	"kanji": "亡",
-	"meanings": ["deceased", "the late", "dying", "perish"],
+	"meanings": [
+		"deceased",
+		"the late",
+		"dying",
+		"perish"
+	],
 	"keyword": "deceased",
 	"onyomi": {
-		"frequent": ["ボウ"],
-		"common": ["モウ"],
+		"frequent": [
+			"ボウ"
+		],
+		"common": [
+			"モウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["な"],
+		"frequent": [
+			"な"
+		],
 		"common": [],
-		"rare": ["ほろ"],
-		"okurigana": ["な.い", "な.き", "ほろ.びる", "ほろ.ぶ", "ほろ.ぼす"]
+		"rare": [
+			"ほろ"
+		],
+		"okurigana": [
+			"な.い",
+			"な.き",
+			"ほろ.びる",
+			"ほろ.ぶ",
+			"ほろ.ぼす"
+		]
 	},
 	"frequency": {
 		"mean": 777,

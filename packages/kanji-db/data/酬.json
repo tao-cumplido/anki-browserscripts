@@ -1,17 +1,30 @@
 {
 	"kanji": "酬",
-	"meanings": ["repay", "reward", "retribution"],
+	"meanings": [
+		"repay",
+		"reward",
+		"retribution"
+	],
 	"keyword": "repay",
 	"onyomi": {
-		"frequent": ["シュウ"],
+		"frequent": [
+			"シュウ"
+		],
 		"common": [],
-		"rare": ["シュ", "トウ"]
+		"rare": [
+			"シュ",
+			"トウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["むく"],
-		"okurigana": ["むく.いる"]
+		"rare": [
+			"むく"
+		],
+		"okurigana": [
+			"むく.いる"
+		]
 	},
 	"frequency": {
 		"mean": 2139,

@@ -1,16 +1,23 @@
 {
 	"kanji": "笠",
-	"meanings": ["bamboo hat", "one's influence"],
+	"meanings": [
+		"bamboo hat",
+		"one's influence"
+	],
 	"keyword": "bamboo hat",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リュウ"]
+		"rare": [
+			"リュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かさ"],
+		"rare": [
+			"かさ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

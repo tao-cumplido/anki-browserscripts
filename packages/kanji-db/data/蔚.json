@@ -1,16 +1,24 @@
 {
 	"kanji": "蔚",
-	"meanings": ["dense growth"],
+	"meanings": [
+		"dense growth"
+	],
 	"keyword": "grow plentiful",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ウツ", "イ"]
+		"rare": [
+			"ウツ",
+			"イ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うち", "おとこよもぎ"],
+		"rare": [
+			"うち",
+			"おとこよもぎ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

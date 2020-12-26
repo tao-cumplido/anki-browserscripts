@@ -1,16 +1,23 @@
 {
 	"kanji": "鷹",
-	"meanings": ["hawk"],
+	"meanings": [
+		"hawk"
+	],
 	"keyword": "hawk",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヨウ", "オウ"]
+		"rare": [
+			"ヨウ",
+			"オウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たか"],
+		"rare": [
+			"たか"
+		],
 		"okurigana": []
 	},
 	"frequency": {

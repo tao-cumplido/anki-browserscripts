@@ -1,16 +1,22 @@
 {
 	"kanji": "哩",
-	"meanings": ["mile"],
+	"meanings": [
+		"mile"
+	],
 	"keyword": "mile",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リ"]
+		"rare": [
+			"リ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まいる"],
+		"rare": [
+			"まいる"
+		],
 		"okurigana": []
 	},
 	"frequency": {

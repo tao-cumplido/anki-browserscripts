@@ -1,14 +1,22 @@
 {
 	"kanji": "腕",
-	"meanings": ["arm", "ability", "talent"],
+	"meanings": [
+		"arm",
+		"ability",
+		"talent"
+	],
 	"keyword": "arm",
 	"onyomi": {
-		"frequent": ["ワン"],
+		"frequent": [
+			"ワン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うで"],
+		"frequent": [
+			"うで"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

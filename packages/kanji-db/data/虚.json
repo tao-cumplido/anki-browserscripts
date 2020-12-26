@@ -1,17 +1,34 @@
 {
 	"kanji": "虚",
-	"meanings": ["void", "emptiness", "unpreparedness", "crack", "fissure", "untruth"],
+	"meanings": [
+		"void",
+		"emptiness",
+		"unpreparedness",
+		"crack",
+		"fissure",
+		"untruth"
+	],
 	"keyword": "void",
 	"onyomi": {
-		"frequent": ["キョ"],
-		"common": ["コ"],
+		"frequent": [
+			"キョ"
+		],
+		"common": [
+			"コ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["むな", "うつ"],
-		"okurigana": ["むな.しい", "うつ.ろ"]
+		"rare": [
+			"むな",
+			"うつ"
+		],
+		"okurigana": [
+			"むな.しい",
+			"うつ.ろ"
+		]
 	},
 	"frequency": {
 		"mean": 1620,

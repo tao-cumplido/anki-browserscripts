@@ -1,14 +1,21 @@
 {
 	"kanji": "春",
-	"meanings": ["springtime", "spring (season)"],
+	"meanings": [
+		"springtime",
+		"spring (season)"
+	],
 	"keyword": "springtime",
 	"onyomi": {
-		"frequent": ["シュン"],
+		"frequent": [
+			"シュン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はる"],
+		"frequent": [
+			"はる"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

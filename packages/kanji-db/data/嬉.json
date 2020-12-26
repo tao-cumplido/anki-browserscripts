@@ -1,17 +1,29 @@
 {
 	"kanji": "嬉",
-	"meanings": ["glad", "pleased", "rejoice"],
+	"meanings": [
+		"glad",
+		"pleased",
+		"rejoice"
+	],
 	"keyword": "overjoyed",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キ"]
+		"rare": [
+			"キ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うれ", "たの"],
-		"okurigana": ["うれ.しい", "たの.しむ"]
+		"rare": [
+			"うれ",
+			"たの"
+		],
+		"okurigana": [
+			"うれ.しい",
+			"たの.しむ"
+		]
 	},
 	"frequency": {
 		"mean": 1849,

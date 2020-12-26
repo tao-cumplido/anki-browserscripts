@@ -1,16 +1,26 @@
 {
 	"kanji": "丹",
-	"meanings": ["rust-colored", "red", "red lead", "pills", "sincerity"],
+	"meanings": [
+		"rust-colored",
+		"red",
+		"red lead",
+		"pills",
+		"sincerity"
+	],
 	"keyword": "cinnabar",
 	"onyomi": {
-		"frequent": ["タン"],
+		"frequent": [
+			"タン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["に"],
+		"rare": [
+			"に"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,40 @@
 {
 	"kanji": "和",
-	"meanings": ["harmony", "Japanese style", "peace", "soften", "Japan"],
+	"meanings": [
+		"harmony",
+		"Japanese style",
+		"peace",
+		"soften",
+		"Japan"
+	],
 	"keyword": "harmony",
 	"onyomi": {
-		"frequent": ["ワ"],
-		"common": ["オ"],
-		"rare": ["カ"]
+		"frequent": [
+			"ワ"
+		],
+		"common": [
+			"オ"
+		],
+		"rare": [
+			"カ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["やわ", "なご"],
+		"frequent": [
+			"やわ",
+			"なご"
+		],
 		"common": [],
-		"rare": ["あ"],
-		"okurigana": ["やわ.らぐ", "やわ.らげる", "なご.む", "なご.やか", "あ.える"]
+		"rare": [
+			"あ"
+		],
+		"okurigana": [
+			"やわ.らぐ",
+			"やわ.らげる",
+			"なご.む",
+			"なご.やか",
+			"あ.える"
+		]
 	},
 	"frequency": {
 		"mean": 74,

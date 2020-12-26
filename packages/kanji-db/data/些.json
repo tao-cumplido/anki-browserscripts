@@ -1,17 +1,29 @@
 {
 	"kanji": "些",
-	"meanings": ["a little bit", "sometimes"],
+	"meanings": [
+		"a little bit",
+		"sometimes"
+	],
 	"keyword": "whit",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サ", "シャ"]
+		"rare": [
+			"サ",
+			"シャ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ち", "いささか"],
-		"okurigana": ["ち.と", "ち.っと"]
+		"rare": [
+			"ち",
+			"いささか"
+		],
+		"okurigana": [
+			"ち.と",
+			"ち.っと"
+		]
 	},
 	"frequency": {
 		"mean": 2629,

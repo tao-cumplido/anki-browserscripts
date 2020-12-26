@@ -1,17 +1,34 @@
 {
 	"kanji": "潰",
-	"meanings": ["crush", "smash", "break", "dissipate"],
+	"meanings": [
+		"crush",
+		"smash",
+		"break",
+		"dissipate"
+	],
 	"keyword": "defile",
 	"onyomi": {
-		"frequent": ["カイ"],
+		"frequent": [
+			"カイ"
+		],
 		"common": [],
-		"rare": ["エ"]
+		"rare": [
+			"エ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["つぶ"],
+		"frequent": [
+			"つぶ"
+		],
 		"common": [],
-		"rare": ["つい"],
-		"okurigana": ["つぶ.す", "つぶ.れる", "つい.える"]
+		"rare": [
+			"つい"
+		],
+		"okurigana": [
+			"つぶ.す",
+			"つぶ.れる",
+			"つい.える"
+		]
 	},
 	"frequency": {
 		"mean": 2028,

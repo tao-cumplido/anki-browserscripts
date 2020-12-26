@@ -1,17 +1,30 @@
 {
 	"kanji": "踏",
-	"meanings": ["step", "trample", "carry through", "appraise", "evade payment"],
+	"meanings": [
+		"step",
+		"trample",
+		"carry through",
+		"appraise",
+		"evade payment"
+	],
 	"keyword": "step",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふ"],
+		"frequent": [
+			"ふ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ふ.む", "ふ.まえる"]
+		"okurigana": [
+			"ふ.む",
+			"ふ.まえる"
+		]
 	},
 	"frequency": {
 		"mean": 1254,

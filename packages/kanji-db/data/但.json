@@ -1,17 +1,26 @@
 {
 	"kanji": "但",
-	"meanings": ["however", "but"],
+	"meanings": [
+		"however",
+		"but"
+	],
 	"keyword": "however",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["タン"]
+		"rare": [
+			"タン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ただ"],
+		"frequent": [
+			"ただ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ただ.し"]
+		"okurigana": [
+			"ただ.し"
+		]
 	},
 	"frequency": {
 		"mean": 1661,

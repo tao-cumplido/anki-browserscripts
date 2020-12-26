@@ -1,14 +1,21 @@
 {
 	"kanji": "机",
-	"meanings": ["desk", "table"],
+	"meanings": [
+		"desk",
+		"table"
+	],
 	"keyword": "desk",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つくえ"],
+		"frequent": [
+			"つくえ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

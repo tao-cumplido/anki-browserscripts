@@ -1,17 +1,29 @@
 {
 	"kanji": "宥",
-	"meanings": ["soothe", "calm", "pacify"],
+	"meanings": [
+		"soothe",
+		"calm",
+		"pacify"
+	],
 	"keyword": "soothe",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ユウ"]
+		"rare": [
+			"ユウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なだ", "ゆる"],
-		"okurigana": ["なだ.める", "ゆる.す"]
+		"rare": [
+			"なだ",
+			"ゆる"
+		],
+		"okurigana": [
+			"なだ.める",
+			"ゆる.す"
+		]
 	},
 	"frequency": {
 		"mean": 3059,

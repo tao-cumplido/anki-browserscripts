@@ -1,17 +1,28 @@
 {
 	"kanji": "殴",
-	"meanings": ["assault", "hit", "beat", "thrash"],
+	"meanings": [
+		"assault",
+		"hit",
+		"beat",
+		"thrash"
+	],
 	"keyword": "assault",
 	"onyomi": {
-		"frequent": ["オウ"],
+		"frequent": [
+			"オウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["なぐ"],
+		"frequent": [
+			"なぐ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["なぐ.る"]
+		"okurigana": [
+			"なぐ.る"
+		]
 	},
 	"frequency": {
 		"mean": 2100,

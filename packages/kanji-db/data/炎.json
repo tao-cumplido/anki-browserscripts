@@ -1,14 +1,22 @@
 {
 	"kanji": "炎",
-	"meanings": ["inflammation", "flame", "blaze"],
+	"meanings": [
+		"inflammation",
+		"flame",
+		"blaze"
+	],
 	"keyword": "inflammation",
 	"onyomi": {
-		"frequent": ["エン"],
+		"frequent": [
+			"エン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほのお"],
+		"frequent": [
+			"ほのお"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

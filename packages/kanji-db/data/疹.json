@@ -1,16 +1,24 @@
 {
 	"kanji": "疹",
-	"meanings": ["measles", "sickness"],
+	"meanings": [
+		"measles",
+		"sickness"
+	],
 	"keyword": "measles",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シン", "チン"]
+		"rare": [
+			"シン",
+			"チン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はしか"],
+		"rare": [
+			"はしか"
+		],
 		"okurigana": []
 	},
 	"frequency": {

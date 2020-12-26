@@ -1,0 +1,32 @@
+{
+	"kanji": "陁",
+	"meanings": [
+		"steep bank",
+		"declivity"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"タ",
+			"イ",
+			"チ",
+			"ジ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"けわ",
+			"ななめ"
+		],
+		"rare": [],
+		"okurigana": [
+			"けわ.しい"
+		]
+	},
+	"frequency": {
+		"mean": 4499,
+		"wikipedia": 4190
+	}
+}

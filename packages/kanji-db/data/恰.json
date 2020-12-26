@@ -1,17 +1,30 @@
 {
 	"kanji": "恰",
-	"meanings": ["just as", "as though", "fortunately"],
+	"meanings": [
+		"just as",
+		"as though",
+		"fortunately"
+	],
 	"keyword": "as if",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ", "カッ", "チョウ", "キョウ"]
+		"rare": [
+			"コウ",
+			"カッ",
+			"チョウ",
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あたか"],
-		"okurigana": ["あたか.も"]
+		"rare": [
+			"あたか"
+		],
+		"okurigana": [
+			"あたか.も"
+		]
 	},
 	"frequency": {
 		"mean": 2518,

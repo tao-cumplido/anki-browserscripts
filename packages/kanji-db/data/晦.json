@@ -1,17 +1,29 @@
 {
 	"kanji": "晦",
-	"meanings": ["dark", "disappear"],
+	"meanings": [
+		"dark",
+		"disappear"
+	],
 	"keyword": "last day of the month",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カイ"]
+		"rare": [
+			"カイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つごもり", "くら", "みそか"],
-		"okurigana": ["くら.い", "くら.む"]
+		"rare": [
+			"つごもり",
+			"くら",
+			"みそか"
+		],
+		"okurigana": [
+			"くら.い",
+			"くら.む"
+		]
 	},
 	"frequency": {
 		"mean": 2686,

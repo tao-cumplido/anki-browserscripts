@@ -1,14 +1,22 @@
 {
 	"kanji": "岳",
-	"meanings": ["point", "peak", "mountain"],
+	"meanings": [
+		"point",
+		"peak",
+		"mountain"
+	],
 	"keyword": "Point",
 	"onyomi": {
-		"frequent": ["ガク"],
+		"frequent": [
+			"ガク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たけ"],
+		"frequent": [
+			"たけ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

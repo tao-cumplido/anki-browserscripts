@@ -1,17 +1,27 @@
 {
 	"kanji": "掘",
-	"meanings": ["dig", "delve", "excavate"],
+	"meanings": [
+		"dig",
+		"delve",
+		"excavate"
+	],
 	"keyword": "dig",
 	"onyomi": {
-		"frequent": ["クツ"],
+		"frequent": [
+			"クツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほ"],
+		"frequent": [
+			"ほ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ほ.る"]
+		"okurigana": [
+			"ほ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1459,

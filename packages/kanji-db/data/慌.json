@@ -1,17 +1,28 @@
 {
 	"kanji": "慌",
-	"meanings": ["disconcerted", "be confused", "lose one's head"],
+	"meanings": [
+		"disconcerted",
+		"be confused",
+		"lose one's head"
+	],
 	"keyword": "disconcerted",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あわ"],
+		"frequent": [
+			"あわ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あわ.てる", "あわ.ただしい"]
+		"okurigana": [
+			"あわ.てる",
+			"あわ.ただしい"
+		]
 	},
 	"frequency": {
 		"mean": 2266,

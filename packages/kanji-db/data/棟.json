@@ -1,15 +1,24 @@
 {
 	"kanji": "棟",
-	"meanings": ["ridgepole", "ridge"],
+	"meanings": [
+		"ridgepole",
+		"ridge"
+	],
 	"keyword": "ridgepole",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["むね"],
-		"common": ["むな"],
+		"frequent": [
+			"むね"
+		],
+		"common": [
+			"むな"
+		],
 		"rare": [],
 		"okurigana": []
 	},

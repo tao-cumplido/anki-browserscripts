@@ -1,9 +1,13 @@
 {
 	"kanji": "兕",
-	"meanings": ["female rhinoceros"],
+	"meanings": [
+		"female rhinoceros"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["シ"],
+		"common": [
+			"シ"
+		],
 		"rare": []
 	},
 	"frequency": {

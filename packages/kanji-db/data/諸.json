@@ -1,16 +1,25 @@
 {
 	"kanji": "諸",
-	"meanings": ["various", "many", "several", "together"],
+	"meanings": [
+		"various",
+		"many",
+		"several",
+		"together"
+	],
 	"keyword": "various",
 	"onyomi": {
-		"frequent": ["ショ"],
+		"frequent": [
+			"ショ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["もろ"],
+		"rare": [
+			"もろ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

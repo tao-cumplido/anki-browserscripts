@@ -1,17 +1,27 @@
 {
 	"kanji": "叶",
-	"meanings": ["grant", "answer"],
+	"meanings": [
+		"grant",
+		"answer"
+	],
 	"keyword": "within my ability",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ"]
+		"rare": [
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かな"],
-		"okurigana": ["かな.える", "かな.う"]
+		"rare": [
+			"かな"
+		],
+		"okurigana": [
+			"かな.える",
+			"かな.う"
+		]
 	},
 	"frequency": {
 		"mean": 2120,

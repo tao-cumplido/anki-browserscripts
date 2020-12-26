@@ -1,17 +1,42 @@
 {
 	"kanji": "数",
-	"meanings": ["number", "strength", "fate", "law", "figures"],
+	"meanings": [
+		"number",
+		"strength",
+		"fate",
+		"law",
+		"figures"
+	],
 	"keyword": "number",
 	"onyomi": {
-		"frequent": ["スウ"],
-		"common": ["ス"],
-		"rare": ["サク", "ソク", "シュ"]
+		"frequent": [
+			"スウ"
+		],
+		"common": [
+			"ス"
+		],
+		"rare": [
+			"サク",
+			"ソク",
+			"シュ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["かず", "かぞ"],
+		"frequent": [
+			"かず",
+			"かぞ"
+		],
 		"common": [],
-		"rare": ["しばしば", "せ", "わずらわ"],
-		"okurigana": ["かぞ.える", "せ.める", "わずらわ.しい"]
+		"rare": [
+			"しばしば",
+			"せ",
+			"わずらわ"
+		],
+		"okurigana": [
+			"かぞ.える",
+			"せ.める",
+			"わずらわ.しい"
+		]
 	},
 	"frequency": {
 		"mean": 121,

@@ -1,16 +1,23 @@
 {
 	"kanji": "蝉",
-	"meanings": ["cicada"],
+	"meanings": [
+		"cicada"
+	],
 	"keyword": "cicada",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セン", "ゼン"]
+		"rare": [
+			"セン",
+			"ゼン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["せみ"],
+		"rare": [
+			"せみ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

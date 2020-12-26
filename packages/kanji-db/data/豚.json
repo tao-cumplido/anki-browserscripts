@@ -1,14 +1,21 @@
 {
 	"kanji": "豚",
-	"meanings": ["pork", "pig"],
+	"meanings": [
+		"pork",
+		"pig"
+	],
 	"keyword": "pork",
 	"onyomi": {
-		"frequent": ["トン"],
+		"frequent": [
+			"トン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ぶた"],
+		"frequent": [
+			"ぶた"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

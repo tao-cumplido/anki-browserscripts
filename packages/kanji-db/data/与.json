@@ -1,17 +1,39 @@
 {
 	"kanji": "与",
-	"meanings": ["bestow", "participate in", "give", "award", "impart", "provide", "cause", "gift", "godsend"],
+	"meanings": [
+		"bestow",
+		"participate in",
+		"give",
+		"award",
+		"impart",
+		"provide",
+		"cause",
+		"gift",
+		"godsend"
+	],
 	"keyword": "bestow",
 	"onyomi": {
-		"frequent": ["ヨ"],
+		"frequent": [
+			"ヨ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あた"],
+		"frequent": [
+			"あた"
+		],
 		"common": [],
-		"rare": ["あずか", "くみ", "ともに"],
-		"okurigana": ["あた.える", "あずか.る", "くみ.する"]
+		"rare": [
+			"あずか",
+			"くみ",
+			"ともに"
+		],
+		"okurigana": [
+			"あた.える",
+			"あずか.る",
+			"くみ.する"
+		]
 	},
 	"frequency": {
 		"mean": 596,

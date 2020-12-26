@@ -1,17 +1,29 @@
 {
 	"kanji": "稔",
-	"meanings": ["harvest", "ripen"],
+	"meanings": [
+		"harvest",
+		"ripen"
+	],
 	"keyword": "bear fruit",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ネン", "ジン", "ニン"]
+		"rare": [
+			"ネン",
+			"ジン",
+			"ニン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みの", "みのり"],
-		"okurigana": ["みの.る"]
+		"rare": [
+			"みの",
+			"みのり"
+		],
+		"okurigana": [
+			"みの.る"
+		]
 	},
 	"frequency": {
 		"mean": 1966,

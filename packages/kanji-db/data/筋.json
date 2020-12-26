@@ -1,14 +1,26 @@
 {
 	"kanji": "筋",
-	"meanings": ["muscle", "sinew", "tendon", "fiber", "plot", "plan", "descent"],
+	"meanings": [
+		"muscle",
+		"sinew",
+		"tendon",
+		"fiber",
+		"plot",
+		"plan",
+		"descent"
+	],
 	"keyword": "muscle",
 	"onyomi": {
-		"frequent": ["キン"],
+		"frequent": [
+			"キン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["すじ"],
+		"frequent": [
+			"すじ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,30 @@
 {
 	"kanji": "病",
-	"meanings": ["ill", "sick"],
+	"meanings": [
+		"ill",
+		"sick"
+	],
 	"keyword": "ill",
 	"onyomi": {
-		"frequent": ["ビョウ"],
-		"common": ["ヘイ"],
+		"frequent": [
+			"ビョウ"
+		],
+		"common": [
+			"ヘイ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["や", "やまい"],
+		"frequent": [
+			"や",
+			"やまい"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["や.む", "や.み"]
+		"okurigana": [
+			"や.む",
+			"や.み"
+		]
 	},
 	"frequency": {
 		"mean": 544,

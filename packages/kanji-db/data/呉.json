@@ -1,17 +1,28 @@
 {
 	"kanji": "呉",
-	"meanings": ["give", "do something for", "kingdom of Wu"],
+	"meanings": [
+		"give",
+		"do something for",
+		"kingdom of Wu"
+	],
 	"keyword": "give",
 	"onyomi": {
-		"frequent": ["ゴ"],
+		"frequent": [
+			"ゴ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["く", "くれ"],
-		"okurigana": ["く.れる"]
+		"rare": [
+			"く",
+			"くれ"
+		],
+		"okurigana": [
+			"く.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1383,

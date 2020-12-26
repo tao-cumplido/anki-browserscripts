@@ -1,16 +1,25 @@
 {
 	"kanji": "復",
-	"meanings": ["restore", "return to", "revert", "resume"],
+	"meanings": [
+		"restore",
+		"return to",
+		"revert",
+		"resume"
+	],
 	"keyword": "restore",
 	"onyomi": {
-		"frequent": ["フク"],
+		"frequent": [
+			"フク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["また"],
+		"rare": [
+			"また"
+		],
 		"okurigana": []
 	},
 	"frequency": {

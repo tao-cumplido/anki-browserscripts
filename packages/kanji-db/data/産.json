@@ -1,17 +1,36 @@
 {
 	"kanji": "産",
-	"meanings": ["products", "bear", "give birth", "yield", "childbirth", "native", "property"],
+	"meanings": [
+		"products",
+		"bear",
+		"give birth",
+		"yield",
+		"childbirth",
+		"native",
+		"property"
+	],
 	"keyword": "products",
 	"onyomi": {
-		"frequent": ["サン"],
+		"frequent": [
+			"サン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["う", "うぶ"],
+		"frequent": [
+			"う",
+			"うぶ"
+		],
 		"common": [],
-		"rare": ["む"],
-		"okurigana": ["う.む", "う.まれる", "む.す"]
+		"rare": [
+			"む"
+		],
+		"okurigana": [
+			"う.む",
+			"う.まれる",
+			"む.す"
+		]
 	},
 	"frequency": {
 		"mean": 254,

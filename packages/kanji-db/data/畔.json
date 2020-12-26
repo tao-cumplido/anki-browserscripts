@@ -1,16 +1,25 @@
 {
 	"kanji": "畔",
-	"meanings": ["paddy ridge", "levee"],
+	"meanings": [
+		"paddy ridge",
+		"levee"
+	],
 	"keyword": "paddy ridge",
 	"onyomi": {
-		"frequent": ["ハン"],
+		"frequent": [
+			"ハン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あぜ", "くろ", "ほとり"],
+		"rare": [
+			"あぜ",
+			"くろ",
+			"ほとり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

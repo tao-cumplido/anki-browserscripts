@@ -1,15 +1,21 @@
 {
 	"kanji": "俘",
-	"meanings": ["captive"],
+	"meanings": [
+		"captive"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フ"]
+		"rare": [
+			"フ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とりこ"],
+		"rare": [
+			"とりこ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

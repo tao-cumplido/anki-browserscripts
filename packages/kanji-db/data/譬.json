@@ -1,17 +1,26 @@
 {
 	"kanji": "譬",
-	"meanings": ["illustrate"],
+	"meanings": [
+		"illustrate"
+	],
 	"keyword": "parable",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒ"]
+		"rare": [
+			"ヒ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たと"],
-		"okurigana": ["たと.える", "たと.え"]
+		"rare": [
+			"たと"
+		],
+		"okurigana": [
+			"たと.える",
+			"たと.え"
+		]
 	},
 	"frequency": {
 		"mean": 3297,

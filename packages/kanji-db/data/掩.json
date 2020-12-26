@@ -1,17 +1,26 @@
 {
 	"kanji": "掩",
-	"meanings": ["cover", "conceal"],
+	"meanings": [
+		"cover",
+		"conceal"
+	],
 	"keyword": "shrouded",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["エン"]
+		"rare": [
+			"エン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おお"],
-		"okurigana": ["おお.う"]
+		"rare": [
+			"おお"
+		],
+		"okurigana": [
+			"おお.う"
+		]
 	},
 	"frequency": {
 		"mean": 3044,

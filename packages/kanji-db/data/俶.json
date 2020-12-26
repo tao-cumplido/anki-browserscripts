@@ -1,15 +1,25 @@
 {
 	"kanji": "俶",
-	"meanings": ["beginning", "good", "excel"],
+	"meanings": [
+		"beginning",
+		"good",
+		"excel"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュク", "テキ"]
+		"rare": [
+			"シュク",
+			"テキ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はじめ", "よい"],
+		"rare": [
+			"はじめ",
+			"よい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

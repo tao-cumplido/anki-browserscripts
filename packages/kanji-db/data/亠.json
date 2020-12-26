@@ -1,10 +1,14 @@
 {
 	"kanji": "亠",
-	"meanings": ["kettle lid radical (no. 8)"],
+	"meanings": [
+		"kettle lid radical (no. 8)"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["トウ"]
+		"rare": [
+			"トウ"
+		]
 	},
 	"frequency": {
 		"mean": 4375,

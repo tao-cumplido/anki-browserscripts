@@ -1,17 +1,28 @@
 {
 	"kanji": "誤",
-	"meanings": ["mistake", "err", "do wrong", "mislead"],
+	"meanings": [
+		"mistake",
+		"err",
+		"do wrong",
+		"mislead"
+	],
 	"keyword": "mistake",
 	"onyomi": {
-		"frequent": ["ゴ"],
+		"frequent": [
+			"ゴ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あやま"],
+		"frequent": [
+			"あやま"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あやま.る"]
+		"okurigana": [
+			"あやま.る"
+		]
 	},
 	"frequency": {
 		"mean": 1168,

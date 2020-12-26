@@ -1,17 +1,30 @@
 {
 	"kanji": "捧",
-	"meanings": ["lift up", "give", "offer", "consecrate", "sacrifice", "dedicate"],
+	"meanings": [
+		"lift up",
+		"give",
+		"offer",
+		"consecrate",
+		"sacrifice",
+		"dedicate"
+	],
 	"keyword": "devote",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ホウ"]
+		"rare": [
+			"ホウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ささ"],
-		"okurigana": ["ささ.げる"]
+		"rare": [
+			"ささ"
+		],
+		"okurigana": [
+			"ささ.げる"
+		]
 	},
 	"frequency": {
 		"mean": 2163,

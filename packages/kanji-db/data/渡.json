@@ -1,17 +1,33 @@
 {
 	"kanji": "渡",
-	"meanings": ["transit", "ford", "ferry", "cross", "import", "deliver", "diameter", "migrate"],
+	"meanings": [
+		"transit",
+		"ford",
+		"ferry",
+		"cross",
+		"import",
+		"deliver",
+		"diameter",
+		"migrate"
+	],
 	"keyword": "transit",
 	"onyomi": {
-		"frequent": ["ト"],
+		"frequent": [
+			"ト"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["わた"],
+		"frequent": [
+			"わた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["わた.る", "わた.す"]
+		"okurigana": [
+			"わた.る",
+			"わた.す"
+		]
 	},
 	"frequency": {
 		"mean": 555,

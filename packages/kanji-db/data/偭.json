@@ -1,16 +1,29 @@
 {
 	"kanji": "偭",
-	"meanings": ["transgress"],
+	"meanings": [
+		"transgress"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ベン", "メン"],
+		"common": [
+			"ベン",
+			"メン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["む", "そむ", "かな"],
+		"common": [
+			"む",
+			"そむ",
+			"かな"
+		],
 		"rare": [],
-		"okurigana": ["む.かう", "そむ.く", "かな.う"]
+		"okurigana": [
+			"む.かう",
+			"そむ.く",
+			"かな.う"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

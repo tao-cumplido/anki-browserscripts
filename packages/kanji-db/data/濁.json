@@ -1,17 +1,32 @@
 {
 	"kanji": "濁",
-	"meanings": ["voiced", "uncleanness", "wrong", "nigori", "impurity"],
+	"meanings": [
+		"voiced",
+		"uncleanness",
+		"wrong",
+		"nigori",
+		"impurity"
+	],
 	"keyword": "voiced",
 	"onyomi": {
-		"frequent": ["ダク"],
+		"frequent": [
+			"ダク"
+		],
 		"common": [],
-		"rare": ["ジョク"]
+		"rare": [
+			"ジョク"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["にご"],
+		"frequent": [
+			"にご"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["にご.る", "にご.す"]
+		"okurigana": [
+			"にご.る",
+			"にご.す"
+		]
 	},
 	"frequency": {
 		"mean": 2093,

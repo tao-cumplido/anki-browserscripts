@@ -1,17 +1,31 @@
 {
 	"kanji": "屏",
-	"meanings": ["wall", "fence"],
+	"meanings": [
+		"wall",
+		"fence"
+	],
 	"keyword": "folding screen",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヘイ", "ビョウ"]
+		"rare": [
+			"ヘイ",
+			"ビョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おお", "しりぞ", "びょう"],
-		"okurigana": ["おお.う", "しりぞ.く", "びょう.ぶ"]
+		"rare": [
+			"おお",
+			"しりぞ",
+			"びょう"
+		],
+		"okurigana": [
+			"おお.う",
+			"しりぞ.く",
+			"びょう.ぶ"
+		]
 	},
 	"frequency": {
 		"mean": 2388,

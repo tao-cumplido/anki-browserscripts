@@ -1,17 +1,27 @@
 {
 	"kanji": "奮",
-	"meanings": ["stirred up", "be invigorated", "flourish"],
+	"meanings": [
+		"stirred up",
+		"be invigorated",
+		"flourish"
+	],
 	"keyword": "stirred up",
 	"onyomi": {
-		"frequent": ["フン"],
+		"frequent": [
+			"フン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふる"],
+		"frequent": [
+			"ふる"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ふる.う"]
+		"okurigana": [
+			"ふる.う"
+		]
 	},
 	"frequency": {
 		"mean": 1836,

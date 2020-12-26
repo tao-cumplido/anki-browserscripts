@@ -1,16 +1,23 @@
 {
 	"kanji": "鯛",
-	"meanings": ["sea bream", "red snapper"],
+	"meanings": [
+		"sea bream",
+		"red snapper"
+	],
 	"keyword": "sea bream",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョウ"]
+		"rare": [
+			"チョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たい"],
+		"rare": [
+			"たい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

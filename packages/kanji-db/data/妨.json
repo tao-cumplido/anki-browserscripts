@@ -1,17 +1,28 @@
 {
 	"kanji": "妨",
-	"meanings": ["disturb", "prevent", "hamper", "obstruct"],
+	"meanings": [
+		"disturb",
+		"prevent",
+		"hamper",
+		"obstruct"
+	],
 	"keyword": "disturb",
 	"onyomi": {
-		"frequent": ["ボウ"],
+		"frequent": [
+			"ボウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さまた"],
+		"frequent": [
+			"さまた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["さまた.げる"]
+		"okurigana": [
+			"さまた.げる"
+		]
 	},
 	"frequency": {
 		"mean": 1787,

@@ -1,17 +1,33 @@
 {
 	"kanji": "認",
-	"meanings": ["acknowledge", "witness", "discern", "recognize", "appreciate", "believe"],
+	"meanings": [
+		"acknowledge",
+		"witness",
+		"discern",
+		"recognize",
+		"appreciate",
+		"believe"
+	],
 	"keyword": "acknowledge",
 	"onyomi": {
-		"frequent": ["ニン"],
+		"frequent": [
+			"ニン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みと"],
+		"frequent": [
+			"みと"
+		],
 		"common": [],
-		"rare": ["したた"],
-		"okurigana": ["みと.める", "したた.める"]
+		"rare": [
+			"したた"
+		],
+		"okurigana": [
+			"みと.める",
+			"したた.める"
+		]
 	},
 	"frequency": {
 		"mean": 338,

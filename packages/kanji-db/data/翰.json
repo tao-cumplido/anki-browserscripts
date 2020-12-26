@@ -1,16 +1,26 @@
 {
 	"kanji": "翰",
-	"meanings": ["letter", "writing brush"],
+	"meanings": [
+		"letter",
+		"writing brush"
+	],
 	"keyword": "quill",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カン"]
+		"rare": [
+			"カン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はね", "ふで", "やまどり", "ふみ"],
+		"rare": [
+			"はね",
+			"ふで",
+			"やまどり",
+			"ふみ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

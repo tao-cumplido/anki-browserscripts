@@ -1,17 +1,25 @@
 {
 	"kanji": "沌",
-	"meanings": ["primeval chaos"],
+	"meanings": [
+		"primeval chaos"
+	],
 	"keyword": "chaos",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["トン"]
+		"rare": [
+			"トン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くら"],
-		"okurigana": ["くら.い"]
+		"rare": [
+			"くら"
+		],
+		"okurigana": [
+			"くら.い"
+		]
 	},
 	"frequency": {
 		"mean": 2907,

@@ -1,16 +1,24 @@
 {
 	"kanji": "脊",
-	"meanings": ["stature", "height"],
+	"meanings": [
+		"stature",
+		"height"
+	],
 	"keyword": "spinal column",
 	"onyomi": {
-		"frequent": ["セキ"],
+		"frequent": [
+			"セキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["せ", "せい"],
+		"rare": [
+			"せ",
+			"せい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

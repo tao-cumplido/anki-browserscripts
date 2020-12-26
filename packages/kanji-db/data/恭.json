@@ -1,17 +1,26 @@
 {
 	"kanji": "恭",
-	"meanings": ["respect", "reverent"],
+	"meanings": [
+		"respect",
+		"reverent"
+	],
 	"keyword": "respect",
 	"onyomi": {
-		"frequent": ["キョウ"],
+		"frequent": [
+			"キョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うやうや"],
+		"frequent": [
+			"うやうや"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["うやうや.しい"]
+		"okurigana": [
+			"うやうや.しい"
+		]
 	},
 	"frequency": {
 		"mean": 1654,

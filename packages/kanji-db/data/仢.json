@@ -3,12 +3,19 @@
 	"meanings": [],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ハク", "シャク", "チャク", "テキ"],
+		"common": [
+			"ハク",
+			"シャク",
+			"チャク",
+			"テキ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["まるきばし"],
+		"common": [
+			"まるきばし"
+		],
 		"rare": [],
 		"okurigana": []
 	},

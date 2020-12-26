@@ -1,14 +1,25 @@
 {
 	"kanji": "公",
-	"meanings": ["public", "prince", "official", "governmental"],
+	"meanings": [
+		"public",
+		"prince",
+		"official",
+		"governmental"
+	],
 	"keyword": "public",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
-		"rare": ["ク"]
+		"rare": [
+			"ク"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["おおやけ"],
+		"frequent": [
+			"おおやけ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

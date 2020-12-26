@@ -1,14 +1,21 @@
 {
 	"kanji": "芝",
-	"meanings": ["turf", "lawn"],
+	"meanings": [
+		"turf",
+		"lawn"
+	],
 	"keyword": "turf",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["しば"],
+		"frequent": [
+			"しば"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

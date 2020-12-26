@@ -1,16 +1,24 @@
 {
 	"kanji": "牝",
-	"meanings": ["female"],
+	"meanings": [
+		"female"
+	],
 	"keyword": "female animal",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒン"]
+		"rare": [
+			"ヒン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["めす", "め", "めん"],
+		"rare": [
+			"めす",
+			"め",
+			"めん"
+		],
 		"okurigana": []
 	},
 	"frequency": {

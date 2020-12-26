@@ -1,17 +1,27 @@
 {
 	"kanji": "光",
-	"meanings": ["ray", "light"],
+	"meanings": [
+		"ray",
+		"light"
+	],
 	"keyword": "ray",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひか", "ひかり"],
+		"frequent": [
+			"ひか",
+			"ひかり"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ひか.る"]
+		"okurigana": [
+			"ひか.る"
+		]
 	},
 	"frequency": {
 		"mean": 300,

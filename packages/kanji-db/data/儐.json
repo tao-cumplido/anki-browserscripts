@@ -1,16 +1,27 @@
 {
 	"kanji": "儐",
-	"meanings": ["entertain guests"],
+	"meanings": [
+		"entertain guests"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ヒン"],
+		"common": [
+			"ヒン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["すす", "うやま", "あいさつ"],
+		"common": [
+			"すす",
+			"うやま",
+			"あいさつ"
+		],
 		"rare": [],
-		"okurigana": ["すす.める", "うやま.う"]
+		"okurigana": [
+			"すす.める",
+			"うやま.う"
+		]
 	},
 	"frequency": {
 		"mean": 4541,

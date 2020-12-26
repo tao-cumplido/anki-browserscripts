@@ -1,16 +1,23 @@
 {
 	"kanji": "蛭",
-	"meanings": ["leech"],
+	"meanings": [
+		"leech"
+	],
 	"keyword": "leech",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シツ", "チツ"]
+		"rare": [
+			"シツ",
+			"チツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひる"],
+		"rare": [
+			"ひる"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,14 +1,24 @@
 {
 	"kanji": "社",
-	"meanings": ["company", "firm", "office", "association", "shrine"],
+	"meanings": [
+		"company",
+		"firm",
+		"office",
+		"association",
+		"shrine"
+	],
 	"keyword": "company",
 	"onyomi": {
-		"frequent": ["シャ"],
+		"frequent": [
+			"シャ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["やしろ"],
+		"frequent": [
+			"やしろ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

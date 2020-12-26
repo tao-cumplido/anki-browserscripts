@@ -1,17 +1,27 @@
 {
 	"kanji": "捷",
-	"meanings": ["victory", "fast"],
+	"meanings": [
+		"victory",
+		"fast"
+	],
 	"keyword": "spoils",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ", "ソウ"]
+		"rare": [
+			"ショウ",
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はや"],
-		"okurigana": ["はや.い"]
+		"rare": [
+			"はや"
+		],
+		"okurigana": [
+			"はや.い"
+		]
 	},
 	"frequency": {
 		"mean": 2301,

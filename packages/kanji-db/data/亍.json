@@ -1,16 +1,25 @@
 {
 	"kanji": "亍",
-	"meanings": ["to take small steps", "Korean place name"],
+	"meanings": [
+		"to take small steps",
+		"Korean place name"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["チョク"],
+		"common": [
+			"チョク"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["たたず"],
+		"common": [
+			"たたず"
+		],
 		"rare": [],
-		"okurigana": ["たたず.む"]
+		"okurigana": [
+			"たたず.む"
+		]
 	},
 	"frequency": {
 		"mean": 4539,

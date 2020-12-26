@@ -1,16 +1,27 @@
 {
 	"kanji": "减",
-	"meanings": ["decrease", "subtract", "diminish"],
+	"meanings": [
+		"decrease",
+		"subtract",
+		"diminish"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ゲン"],
+		"common": [
+			"ゲン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["へ"],
+		"common": [
+			"へ"
+		],
 		"rare": [],
-		"okurigana": ["へ.る", "へ.らす"]
+		"okurigana": [
+			"へ.る",
+			"へ.らす"
+		]
 	},
 	"frequency": {
 		"mean": 4525,

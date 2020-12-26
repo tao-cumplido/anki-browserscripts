@@ -1,16 +1,28 @@
 {
 	"kanji": "殻",
-	"meanings": ["husk", "nut shell"],
+	"meanings": [
+		"husk",
+		"nut shell"
+	],
 	"keyword": "husk",
 	"onyomi": {
-		"frequent": ["カク"],
+		"frequent": [
+			"カク"
+		],
 		"common": [],
-		"rare": ["コク", "バイ"]
+		"rare": [
+			"コク",
+			"バイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["から"],
+		"frequent": [
+			"から"
+		],
 		"common": [],
-		"rare": ["がら"],
+		"rare": [
+			"がら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

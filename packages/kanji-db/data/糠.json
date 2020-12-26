@@ -1,16 +1,22 @@
 {
 	"kanji": "糠",
-	"meanings": ["rice bran"],
+	"meanings": [
+		"rice bran"
+	],
 	"keyword": "rice bran",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ぬか"],
+		"rare": [
+			"ぬか"
+		],
 		"okurigana": []
 	},
 	"frequency": {

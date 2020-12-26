@@ -1,17 +1,29 @@
 {
 	"kanji": "膿",
-	"meanings": ["pus", "fester", "discharge"],
+	"meanings": [
+		"pus",
+		"fester",
+		"discharge"
+	],
 	"keyword": "pus",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ノウ", "ドウ"]
+		"rare": [
+			"ノウ",
+			"ドウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["う", "うみ"],
-		"okurigana": ["う.む"]
+		"rare": [
+			"う",
+			"うみ"
+		],
+		"okurigana": [
+			"う.む"
+		]
 	},
 	"frequency": {
 		"mean": 3139,

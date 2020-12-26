@@ -1,15 +1,25 @@
 {
 	"kanji": "爪",
-	"meanings": ["claw", "nail", "talon"],
+	"meanings": [
+		"claw",
+		"nail",
+		"talon"
+	],
 	"keyword": "claw",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ"]
+		"rare": [
+			"ソウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["つめ"],
-		"common": ["つま"],
+		"frequent": [
+			"つめ"
+		],
+		"common": [
+			"つま"
+		],
 		"rare": [],
 		"okurigana": []
 	},

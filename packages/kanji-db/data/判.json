@@ -1,17 +1,29 @@
 {
 	"kanji": "判",
-	"meanings": ["judgement", "signature", "stamp", "seal"],
+	"meanings": [
+		"judgement",
+		"signature",
+		"stamp",
+		"seal"
+	],
 	"keyword": "judgment",
 	"onyomi": {
-		"frequent": ["ハン", "バン"],
+		"frequent": [
+			"ハン",
+			"バン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わか"],
-		"okurigana": ["わか.る"]
+		"rare": [
+			"わか"
+		],
+		"okurigana": [
+			"わか.る"
+		]
 	},
 	"frequency": {
 		"mean": 393,

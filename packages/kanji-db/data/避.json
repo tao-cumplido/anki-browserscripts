@@ -1,17 +1,33 @@
 {
 	"kanji": "避",
-	"meanings": ["evade", "avoid", "avert", "ward off", "shirk", "shun"],
+	"meanings": [
+		"evade",
+		"avoid",
+		"avert",
+		"ward off",
+		"shirk",
+		"shun"
+	],
 	"keyword": "evade",
 	"onyomi": {
-		"frequent": ["ヒ"],
+		"frequent": [
+			"ヒ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さ"],
+		"frequent": [
+			"さ"
+		],
 		"common": [],
-		"rare": ["よ"],
-		"okurigana": ["さ.ける", "よ.ける"]
+		"rare": [
+			"よ"
+		],
+		"okurigana": [
+			"さ.ける",
+			"よ.ける"
+		]
 	},
 	"frequency": {
 		"mean": 836,

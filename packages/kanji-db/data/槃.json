@@ -1,17 +1,25 @@
 {
 	"kanji": "槃",
-	"meanings": ["tub"],
+	"meanings": [
+		"tub"
+	],
 	"keyword": "enjoyment",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハン"]
+		"rare": [
+			"ハン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たら"],
-		"okurigana": ["たら.い"]
+		"rare": [
+			"たら"
+		],
+		"okurigana": [
+			"たら.い"
+		]
 	},
 	"frequency": {
 		"mean": 3097,

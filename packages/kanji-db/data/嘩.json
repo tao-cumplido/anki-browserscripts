@@ -1,17 +1,26 @@
 {
 	"kanji": "嘩",
-	"meanings": ["noisy"],
+	"meanings": [
+		"noisy"
+	],
 	"keyword": "quarrel",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カ", "ケ"]
+		"rare": [
+			"カ",
+			"ケ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かまびす"],
-		"okurigana": ["かまびす.しい"]
+		"rare": [
+			"かまびす"
+		],
+		"okurigana": [
+			"かまびす.しい"
+		]
 	},
 	"frequency": {
 		"mean": 1949,

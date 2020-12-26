@@ -1,16 +1,23 @@
 {
 	"kanji": "裳",
-	"meanings": ["skirt"],
+	"meanings": [
+		"skirt"
+	],
 	"keyword": "skirt",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ"]
+		"rare": [
+			"ショウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["も", "もすそ"],
+		"rare": [
+			"も",
+			"もすそ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

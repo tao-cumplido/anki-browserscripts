@@ -1,14 +1,25 @@
 {
 	"kanji": "罪",
-	"meanings": ["guilt", "sin", "crime", "fault", "blame", "offense"],
+	"meanings": [
+		"guilt",
+		"sin",
+		"crime",
+		"fault",
+		"blame",
+		"offense"
+	],
 	"keyword": "guilt",
 	"onyomi": {
-		"frequent": ["ザイ"],
+		"frequent": [
+			"ザイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つみ"],
+		"frequent": [
+			"つみ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

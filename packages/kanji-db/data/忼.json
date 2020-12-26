@@ -1,0 +1,32 @@
+{
+	"kanji": "忼",
+	"meanings": [
+		"weep",
+		"grieve"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"コウ",
+			"ホウ",
+			"ヒョウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"なげ",
+			"あなど"
+		],
+		"rare": [],
+		"okurigana": [
+			"なげ.く",
+			"あなど.る"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

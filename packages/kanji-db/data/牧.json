@@ -1,14 +1,24 @@
 {
 	"kanji": "牧",
-	"meanings": ["breed", "care for", "shepherd", "feed", "pasture"],
+	"meanings": [
+		"breed",
+		"care for",
+		"shepherd",
+		"feed",
+		"pasture"
+	],
 	"keyword": "breed",
 	"onyomi": {
-		"frequent": ["ボク"],
+		"frequent": [
+			"ボク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まき"],
+		"frequent": [
+			"まき"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

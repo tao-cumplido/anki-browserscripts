@@ -1,17 +1,30 @@
 {
 	"kanji": "儲",
-	"meanings": ["be profitable", "yield profit"],
+	"meanings": [
+		"be profitable",
+		"yield profit"
+	],
 	"keyword": "make a profit",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョ"]
+		"rare": [
+			"チョ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["もう", "もうけ", "たくわ"],
-		"okurigana": ["もう.ける", "もう.かる", "たくわ.える"]
+		"rare": [
+			"もう",
+			"もうけ",
+			"たくわ"
+		],
+		"okurigana": [
+			"もう.ける",
+			"もう.かる",
+			"たくわ.える"
+		]
 	},
 	"frequency": {
 		"mean": 2377,

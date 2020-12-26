@@ -1,17 +1,27 @@
 {
 	"kanji": "又",
-	"meanings": ["or again", "furthermore", "on the other hand"],
+	"meanings": [
+		"or again",
+		"furthermore",
+		"on the other hand"
+	],
 	"keyword": "or again",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ユウ"]
+		"rare": [
+			"ユウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["また"],
+		"frequent": [
+			"また"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["また.の"]
+		"okurigana": [
+			"また.の"
+		]
 	},
 	"frequency": {
 		"mean": 1090,

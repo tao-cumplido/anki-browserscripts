@@ -1,17 +1,30 @@
 {
 	"kanji": "沸",
-	"meanings": ["seethe", "boil", "ferment", "uproar", "breed"],
+	"meanings": [
+		"seethe",
+		"boil",
+		"ferment",
+		"uproar",
+		"breed"
+	],
 	"keyword": "seethe",
 	"onyomi": {
-		"frequent": ["フツ"],
+		"frequent": [
+			"フツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["わ"],
+		"frequent": [
+			"わ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["わ.く", "わ.かす"]
+		"okurigana": [
+			"わ.く",
+			"わ.かす"
+		]
 	},
 	"frequency": {
 		"mean": 2285,

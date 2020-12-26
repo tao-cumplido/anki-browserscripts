@@ -1,17 +1,33 @@
 {
 	"kanji": "漸",
-	"meanings": ["steadily", "gradually advancing", "finally", "barely"],
+	"meanings": [
+		"steadily",
+		"gradually advancing",
+		"finally",
+		"barely"
+	],
 	"keyword": "steadily",
 	"onyomi": {
-		"frequent": ["ゼン"],
+		"frequent": [
+			"ゼン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ようや", "やや", "ようよ", "すす"],
-		"okurigana": ["ようや.く", "ようよ.う", "すす.む"]
+		"rare": [
+			"ようや",
+			"やや",
+			"ようよ",
+			"すす"
+		],
+		"okurigana": [
+			"ようや.く",
+			"ようよ.う",
+			"すす.む"
+		]
 	},
 	"frequency": {
 		"mean": 2315,

@@ -1,17 +1,30 @@
 {
 	"kanji": "互",
-	"meanings": ["mutually", "reciprocally", "together"],
+	"meanings": [
+		"mutually",
+		"reciprocally",
+		"together"
+	],
 	"keyword": "mutually",
 	"onyomi": {
-		"frequent": ["ゴ"],
+		"frequent": [
+			"ゴ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たが"],
+		"frequent": [
+			"たが"
+		],
 		"common": [],
-		"rare": ["かたみ"],
-		"okurigana": ["たが.い", "かたみ.に"]
+		"rare": [
+			"かたみ"
+		],
+		"okurigana": [
+			"たが.い",
+			"かたみ.に"
+		]
 	},
 	"frequency": {
 		"mean": 1108,

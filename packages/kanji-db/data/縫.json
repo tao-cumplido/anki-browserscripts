@@ -1,17 +1,27 @@
 {
 	"kanji": "縫",
-	"meanings": ["sew", "stitch", "embroider"],
+	"meanings": [
+		"sew",
+		"stitch",
+		"embroider"
+	],
 	"keyword": "sew",
 	"onyomi": {
-		"frequent": ["ホウ"],
+		"frequent": [
+			"ホウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ぬ"],
+		"frequent": [
+			"ぬ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ぬ.う"]
+		"okurigana": [
+			"ぬ.う"
+		]
 	},
 	"frequency": {
 		"mean": 2122,

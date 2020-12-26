@@ -1,17 +1,30 @@
 {
 	"kanji": "自",
-	"meanings": ["oneself"],
+	"meanings": [
+		"oneself"
+	],
 	"keyword": "oneself",
 	"onyomi": {
-		"frequent": ["ジ", "シ"],
+		"frequent": [
+			"ジ",
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みずか"],
+		"frequent": [
+			"みずか"
+		],
 		"common": [],
-		"rare": ["おの"],
-		"okurigana": ["みずか.ら", "おの.ずから", "おの.ずと"]
+		"rare": [
+			"おの"
+		],
+		"okurigana": [
+			"みずか.ら",
+			"おの.ずから",
+			"おの.ずと"
+		]
 	},
 	"frequency": {
 		"mean": 56,

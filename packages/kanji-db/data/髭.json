@@ -1,16 +1,24 @@
 {
 	"kanji": "髭",
-	"meanings": ["beard", "mustache"],
+	"meanings": [
+		"beard",
+		"mustache"
+	],
 	"keyword": "beard",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひげ", "くちひげ"],
+		"rare": [
+			"ひげ",
+			"くちひげ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

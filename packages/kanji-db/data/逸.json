@@ -1,17 +1,35 @@
 {
 	"kanji": "逸",
-	"meanings": ["deviate", "idleness", "leisure", "miss the mark", "evade", "elude", "parry", "diverge"],
+	"meanings": [
+		"deviate",
+		"idleness",
+		"leisure",
+		"miss the mark",
+		"evade",
+		"elude",
+		"parry",
+		"diverge"
+	],
 	"keyword": "elude",
 	"onyomi": {
-		"frequent": ["イツ"],
+		"frequent": [
+			"イツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["そ", "はぐ"],
-		"okurigana": ["そ.れる", "そ.らす", "はぐ.れる"]
+		"rare": [
+			"そ",
+			"はぐ"
+		],
+		"okurigana": [
+			"そ.れる",
+			"そ.らす",
+			"はぐ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1483,

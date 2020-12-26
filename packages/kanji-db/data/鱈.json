@@ -1,16 +1,23 @@
 {
 	"kanji": "鱈",
-	"meanings": ["codfish", "(kokuji)"],
+	"meanings": [
+		"codfish",
+		"(kokuji)"
+	],
 	"keyword": "cod",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セツ"]
+		"rare": [
+			"セツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たら"],
+		"rare": [
+			"たら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

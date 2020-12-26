@@ -1,17 +1,30 @@
 {
 	"kanji": "渉",
-	"meanings": ["ford", "go cross", "transit", "ferry", "import", "involve"],
+	"meanings": [
+		"ford",
+		"go cross",
+		"transit",
+		"ferry",
+		"import",
+		"involve"
+	],
 	"keyword": "ford",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わた"],
-		"okurigana": ["わた.る"]
+		"rare": [
+			"わた"
+		],
+		"okurigana": [
+			"わた.る"
+		]
 	},
 	"frequency": {
 		"mean": 1425,

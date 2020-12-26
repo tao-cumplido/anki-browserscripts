@@ -1,16 +1,25 @@
 {
 	"kanji": "涯",
-	"meanings": ["horizon", "shore", "limit", "bound"],
+	"meanings": [
+		"horizon",
+		"shore",
+		"limit",
+		"bound"
+	],
 	"keyword": "horizon",
 	"onyomi": {
-		"frequent": ["ガイ"],
+		"frequent": [
+			"ガイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はて"],
+		"rare": [
+			"はて"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,14 +1,22 @@
 {
 	"kanji": "川",
-	"meanings": ["stream", "river", "river or three-stroke river radical (no. 47)"],
+	"meanings": [
+		"stream",
+		"river",
+		"river or three-stroke river radical (no. 47)"
+	],
 	"keyword": "stream",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かわ"],
+		"frequent": [
+			"かわ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

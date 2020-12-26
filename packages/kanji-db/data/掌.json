@@ -1,16 +1,27 @@
 {
 	"kanji": "掌",
-	"meanings": ["manipulate", "rule", "administer", "conduct", "palm of hand"],
+	"meanings": [
+		"manipulate",
+		"rule",
+		"administer",
+		"conduct",
+		"palm of hand"
+	],
 	"keyword": "manipulate",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["てのひら", "たなごころ"],
+		"rare": [
+			"てのひら",
+			"たなごころ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

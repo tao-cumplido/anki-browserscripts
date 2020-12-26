@@ -1,17 +1,33 @@
 {
 	"kanji": "置",
-	"meanings": ["placement", "put", "set", "deposit", "leave behind", "keep", "employ", "pawn"],
+	"meanings": [
+		"placement",
+		"put",
+		"set",
+		"deposit",
+		"leave behind",
+		"keep",
+		"employ",
+		"pawn"
+	],
 	"keyword": "placement",
 	"onyomi": {
-		"frequent": ["チ"],
+		"frequent": [
+			"チ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["お"],
+		"frequent": [
+			"お"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["お.く", "お.き"]
+		"okurigana": [
+			"お.く",
+			"お.き"
+		]
 	},
 	"frequency": {
 		"mean": 191,

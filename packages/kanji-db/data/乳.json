@@ -1,14 +1,22 @@
 {
 	"kanji": "乳",
-	"meanings": ["milk", "breasts"],
+	"meanings": [
+		"milk",
+		"breasts"
+	],
 	"keyword": "milk",
 	"onyomi": {
-		"frequent": ["ニュウ"],
+		"frequent": [
+			"ニュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ちち", "ち"],
+		"frequent": [
+			"ちち",
+			"ち"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

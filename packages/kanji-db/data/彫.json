@@ -1,17 +1,30 @@
 {
 	"kanji": "彫",
-	"meanings": ["carve", "engrave", "chisel"],
+	"meanings": [
+		"carve",
+		"engrave",
+		"chisel"
+	],
 	"keyword": "carve",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほ"],
+		"frequent": [
+			"ほ"
+		],
 		"common": [],
-		"rare": ["ぼ"],
-		"okurigana": ["ほ.る", "ぼ.り"]
+		"rare": [
+			"ぼ"
+		],
+		"okurigana": [
+			"ほ.る",
+			"ぼ.り"
+		]
 	},
 	"frequency": {
 		"mean": 1665,

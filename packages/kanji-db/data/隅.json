@@ -1,14 +1,21 @@
 {
 	"kanji": "隅",
-	"meanings": ["corner", "nook"],
+	"meanings": [
+		"corner",
+		"nook"
+	],
 	"keyword": "corner",
 	"onyomi": {
-		"frequent": ["グウ"],
+		"frequent": [
+			"グウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["すみ"],
+		"frequent": [
+			"すみ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

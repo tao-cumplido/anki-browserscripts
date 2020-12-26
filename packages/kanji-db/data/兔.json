@@ -1,15 +1,23 @@
 {
 	"kanji": "兔",
-	"meanings": ["rabbit", "hare"],
+	"meanings": [
+		"rabbit",
+		"hare"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ト", "ツ"]
+		"rare": [
+			"ト",
+			"ツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うさぎ"],
+		"rare": [
+			"うさぎ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

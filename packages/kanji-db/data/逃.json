@@ -1,17 +1,33 @@
 {
 	"kanji": "逃",
-	"meanings": ["escape", "flee", "shirk", "evade", "set free"],
+	"meanings": [
+		"escape",
+		"flee",
+		"shirk",
+		"evade",
+		"set free"
+	],
 	"keyword": "escape",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["に", "のが"],
+		"frequent": [
+			"に",
+			"のが"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["に.げる", "に.がす", "のが.す", "のが.れる"]
+		"okurigana": [
+			"に.げる",
+			"に.がす",
+			"のが.す",
+			"のが.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1036,

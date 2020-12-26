@@ -1,16 +1,25 @@
 {
 	"kanji": "冊",
-	"meanings": ["tome", "counter for books", "volume"],
+	"meanings": [
+		"tome",
+		"counter for books",
+		"volume"
+	],
 	"keyword": "tome",
 	"onyomi": {
-		"frequent": ["サツ", "サク"],
+		"frequent": [
+			"サツ",
+			"サク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふみ"],
+		"rare": [
+			"ふみ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

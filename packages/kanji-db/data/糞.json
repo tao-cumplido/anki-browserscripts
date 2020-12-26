@@ -1,16 +1,24 @@
 {
 	"kanji": "糞",
-	"meanings": ["shit", "feces", "excrement"],
+	"meanings": [
+		"shit",
+		"feces",
+		"excrement"
+	],
 	"keyword": "excrement",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フン"]
+		"rare": [
+			"フン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くそ"],
+		"rare": [
+			"くそ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,27 @@
 {
 	"kanji": "渇",
-	"meanings": ["thirst", "dry up", "parch"],
+	"meanings": [
+		"thirst",
+		"dry up",
+		"parch"
+	],
 	"keyword": "thirst",
 	"onyomi": {
-		"frequent": ["カツ"],
+		"frequent": [
+			"カツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かわ"],
+		"frequent": [
+			"かわ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かわ.く"]
+		"okurigana": [
+			"かわ.く"
+		]
 	},
 	"frequency": {
 		"mean": 2553,

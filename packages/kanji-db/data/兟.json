@@ -1,16 +1,24 @@
 {
 	"kanji": "兟",
-	"meanings": ["to advance"],
+	"meanings": [
+		"to advance"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["シン"],
+		"common": [
+			"シン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["すす"],
+		"common": [
+			"すす"
+		],
 		"rare": [],
-		"okurigana": ["すす.む"]
+		"okurigana": [
+			"すす.む"
+		]
 	},
 	"frequency": {
 		"mean": 4535,

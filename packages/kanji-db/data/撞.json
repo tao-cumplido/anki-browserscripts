@@ -1,17 +1,30 @@
 {
 	"kanji": "撞",
-	"meanings": ["thrust", "pierce", "stab", "prick"],
+	"meanings": [
+		"thrust",
+		"pierce",
+		"stab",
+		"prick"
+	],
 	"keyword": "bump into",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ドウ", "トウ", "シュ"]
+		"rare": [
+			"ドウ",
+			"トウ",
+			"シュ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つ"],
-		"okurigana": ["つ.く"]
+		"rare": [
+			"つ"
+		],
+		"okurigana": [
+			"つ.く"
+		]
 	},
 	"frequency": {
 		"mean": 3422,

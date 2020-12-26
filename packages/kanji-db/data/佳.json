@@ -1,9 +1,17 @@
 {
 	"kanji": "佳",
-	"meanings": ["excellent", "beautiful", "good", "pleasing", "skilled"],
+	"meanings": [
+		"excellent",
+		"beautiful",
+		"good",
+		"pleasing",
+		"skilled"
+	],
 	"keyword": "excellent",
 	"onyomi": {
-		"frequent": ["カ"],
+		"frequent": [
+			"カ"
+		],
 		"common": [],
 		"rare": []
 	},

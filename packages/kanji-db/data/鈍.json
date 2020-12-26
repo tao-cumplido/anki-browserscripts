@@ -1,17 +1,34 @@
 {
 	"kanji": "鈍",
-	"meanings": ["dull", "slow", "foolish", "blunt"],
+	"meanings": [
+		"dull",
+		"slow",
+		"foolish",
+		"blunt"
+	],
 	"keyword": "dull",
 	"onyomi": {
-		"frequent": ["ドン"],
+		"frequent": [
+			"ドン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["にぶ"],
+		"frequent": [
+			"にぶ"
+		],
 		"common": [],
-		"rare": ["なま", "なまく"],
-		"okurigana": ["にぶ.い", "にぶ.る", "なま.る", "なまく.ら"]
+		"rare": [
+			"なま",
+			"なまく"
+		],
+		"okurigana": [
+			"にぶ.い",
+			"にぶ.る",
+			"なま.る",
+			"なまく.ら"
+		]
 	},
 	"frequency": {
 		"mean": 2333,

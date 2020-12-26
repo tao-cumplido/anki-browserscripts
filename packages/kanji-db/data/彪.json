@@ -1,16 +1,26 @@
 {
 	"kanji": "彪",
-	"meanings": ["spotted", "mottled", "patterned", "small tiger"],
+	"meanings": [
+		"spotted",
+		"mottled",
+		"patterned",
+		"small tiger"
+	],
 	"keyword": "mottled",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒョウ", "ヒュウ"]
+		"rare": [
+			"ヒョウ",
+			"ヒュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あや"],
+		"rare": [
+			"あや"
+		],
 		"okurigana": []
 	},
 	"frequency": {

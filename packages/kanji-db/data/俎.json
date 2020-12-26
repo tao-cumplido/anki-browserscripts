@@ -1,15 +1,24 @@
 {
 	"kanji": "俎",
-	"meanings": ["altar of sacrifice", "chopping board"],
+	"meanings": [
+		"altar of sacrifice",
+		"chopping board"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソ", "ショ"]
+		"rare": [
+			"ソ",
+			"ショ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いた", "まないた"],
+		"rare": [
+			"いた",
+			"まないた"
+		],
 		"okurigana": []
 	},
 	"frequency": {

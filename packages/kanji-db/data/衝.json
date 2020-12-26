@@ -1,17 +1,32 @@
 {
 	"kanji": "衝",
-	"meanings": ["collide", "brunt", "highway", "opposition (astronomy)", "thrust", "pierce", "stab", "prick"],
+	"meanings": [
+		"collide",
+		"brunt",
+		"highway",
+		"opposition (astronomy)",
+		"thrust",
+		"pierce",
+		"stab",
+		"prick"
+	],
 	"keyword": "collide",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つ"],
-		"okurigana": ["つ.く"]
+		"rare": [
+			"つ"
+		],
+		"okurigana": [
+			"つ.く"
+		]
 	},
 	"frequency": {
 		"mean": 1319,

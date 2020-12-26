@@ -1,16 +1,23 @@
 {
 	"kanji": "綺",
-	"meanings": ["figured cloth", "beautiful"],
+	"meanings": [
+		"figured cloth",
+		"beautiful"
+	],
 	"keyword": "ornate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キ"]
+		"rare": [
+			"キ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あや"],
+		"rare": [
+			"あや"
+		],
 		"okurigana": []
 	},
 	"frequency": {

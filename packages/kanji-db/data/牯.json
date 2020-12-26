@@ -1,0 +1,28 @@
+{
+	"kanji": "牯",
+	"meanings": [
+		"cow",
+		"bull",
+		"ox"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"コ",
+			"ク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"おうし"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4482,
+		"wikipedia": 4173
+	}
+}

@@ -1,17 +1,28 @@
 {
 	"kanji": "譲",
-	"meanings": ["defer", "turnover", "transfer", "convey"],
+	"meanings": [
+		"defer",
+		"turnover",
+		"transfer",
+		"convey"
+	],
 	"keyword": "defer",
 	"onyomi": {
-		"frequent": ["ジョウ"],
+		"frequent": [
+			"ジョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ゆず"],
+		"frequent": [
+			"ゆず"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ゆず.る"]
+		"okurigana": [
+			"ゆず.る"
+		]
 	},
 	"frequency": {
 		"mean": 1187,

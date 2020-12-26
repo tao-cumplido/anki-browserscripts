@@ -1,17 +1,38 @@
 {
 	"kanji": "従",
-	"meanings": ["accompany", "obey", "submit to", "comply", "follow", "secondary", "incidental", "subordinate"],
+	"meanings": [
+		"accompany",
+		"obey",
+		"submit to",
+		"comply",
+		"follow",
+		"secondary",
+		"incidental",
+		"subordinate"
+	],
 	"keyword": "accompany",
 	"onyomi": {
-		"frequent": ["ジュウ"],
-		"common": ["ショウ", "ジュ"],
+		"frequent": [
+			"ジュウ"
+		],
+		"common": [
+			"ショウ",
+			"ジュ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["したが"],
+		"frequent": [
+			"したが"
+		],
 		"common": [],
-		"rare": ["より"],
-		"okurigana": ["したが.う", "したが.える"]
+		"rare": [
+			"より"
+		],
+		"okurigana": [
+			"したが.う",
+			"したが.える"
+		]
 	},
 	"frequency": {
 		"mean": 641,

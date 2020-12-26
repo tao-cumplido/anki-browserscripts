@@ -1,17 +1,26 @@
 {
 	"kanji": "奔",
-	"meanings": ["run", "bustle"],
+	"meanings": [
+		"run",
+		"bustle"
+	],
 	"keyword": "bustle",
 	"onyomi": {
-		"frequent": ["ホン"],
+		"frequent": [
+			"ホン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はし"],
-		"okurigana": ["はし.る"]
+		"rare": [
+			"はし"
+		],
+		"okurigana": [
+			"はし.る"
+		]
 	},
 	"frequency": {
 		"mean": 2257,

@@ -1,14 +1,20 @@
 {
 	"kanji": "蚊",
-	"meanings": ["mosquito"],
+	"meanings": [
+		"mosquito"
+	],
 	"keyword": "mosquito",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ブン"]
+		"rare": [
+			"ブン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["か"],
+		"frequent": [
+			"か"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,16 +1,25 @@
 {
 	"kanji": "泪",
-	"meanings": ["tears", "weep", "cry"],
+	"meanings": [
+		"tears",
+		"weep",
+		"cry"
+	],
 	"keyword": "teardrops",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ルイ", "レイ"]
+		"rare": [
+			"ルイ",
+			"レイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なみだ"],
+		"rare": [
+			"なみだ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

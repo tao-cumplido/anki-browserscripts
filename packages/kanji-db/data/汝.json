@@ -1,16 +1,33 @@
 {
 	"kanji": "汝",
-	"meanings": ["you", "thou"],
+	"meanings": [
+		"you",
+		"thou"
+	],
 	"keyword": "thou",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジョ"]
+		"rare": [
+			"ジョ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なんじ", "なれ", "い", "うぬ", "いまし", "し", "しゃ", "な", "なむち", "まし", "みまし"],
+		"rare": [
+			"なんじ",
+			"なれ",
+			"い",
+			"うぬ",
+			"いまし",
+			"し",
+			"しゃ",
+			"な",
+			"なむち",
+			"まし",
+			"みまし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

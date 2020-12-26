@@ -1,0 +1,30 @@
+{
+	"kanji": "詖",
+	"meanings": [
+		"argue",
+		"biased",
+		"one-sided"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ヒ",
+			"ハ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"かたよ"
+		],
+		"rare": [],
+		"okurigana": [
+			"かたよ.る"
+		]
+	},
+	"frequency": {
+		"mean": 4529,
+		"wikipedia": 4220
+	}
+}

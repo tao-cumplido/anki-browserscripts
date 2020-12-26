@@ -1,17 +1,29 @@
 {
 	"kanji": "寧",
-	"meanings": ["rather", "preferably", "peaceful", "quiet", "tranquility"],
+	"meanings": [
+		"rather",
+		"preferably",
+		"peaceful",
+		"quiet",
+		"tranquility"
+	],
 	"keyword": "rather",
 	"onyomi": {
-		"frequent": ["ネイ"],
+		"frequent": [
+			"ネイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["むし"],
-		"okurigana": ["むし.ろ"]
+		"rare": [
+			"むし"
+		],
+		"okurigana": [
+			"むし.ろ"
+		]
 	},
 	"frequency": {
 		"mean": 1562,

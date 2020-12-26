@@ -1,12 +1,21 @@
 {
 	"kanji": "凪",
-	"meanings": ["lull", "calm", "(kokuji)"],
+	"meanings": [
+		"lull",
+		"calm",
+		"(kokuji)"
+	],
 	"keyword": "lull",
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なぎ", "な"],
-		"okurigana": ["な.ぐ"]
+		"rare": [
+			"なぎ",
+			"な"
+		],
+		"okurigana": [
+			"な.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 2591,

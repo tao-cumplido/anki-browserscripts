@@ -1,17 +1,33 @@
 {
 	"kanji": "易",
-	"meanings": ["easy", "ready to", "simple", "fortune-telling", "divination"],
+	"meanings": [
+		"easy",
+		"ready to",
+		"simple",
+		"fortune-telling",
+		"divination"
+	],
 	"keyword": "easy",
 	"onyomi": {
-		"frequent": ["エキ", "イ"],
+		"frequent": [
+			"エキ",
+			"イ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["やさ"],
+		"frequent": [
+			"やさ"
+		],
 		"common": [],
-		"rare": ["やす"],
-		"okurigana": ["やさ.しい", "やす.い"]
+		"rare": [
+			"やす"
+		],
+		"okurigana": [
+			"やさ.しい",
+			"やす.い"
+		]
 	},
 	"frequency": {
 		"mean": 979,

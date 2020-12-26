@@ -1,17 +1,32 @@
 {
 	"kanji": "流",
-	"meanings": ["current", "a sink", "flow", "forfeit"],
+	"meanings": [
+		"current",
+		"a sink",
+		"flow",
+		"forfeit"
+	],
 	"keyword": "current",
 	"onyomi": {
-		"frequent": ["リュウ"],
-		"common": ["ル"],
+		"frequent": [
+			"リュウ"
+		],
+		"common": [
+			"ル"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["なが"],
+		"frequent": [
+			"なが"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["なが.れる", "なが.れ", "なが.す"]
+		"okurigana": [
+			"なが.れる",
+			"なが.れ",
+			"なが.す"
+		]
 	},
 	"frequency": {
 		"mean": 297,

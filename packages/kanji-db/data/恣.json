@@ -1,16 +1,23 @@
 {
 	"kanji": "恣",
-	"meanings": ["selfish", "arbitrary"],
+	"meanings": [
+		"selfish",
+		"arbitrary"
+	],
 	"keyword": "selfish",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほしいまま"],
+		"rare": [
+			"ほしいまま"
+		],
 		"okurigana": []
 	},
 	"frequency": {

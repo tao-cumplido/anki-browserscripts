@@ -1,17 +1,36 @@
 {
 	"kanji": "乗",
-	"meanings": ["ride", "power", "multiplication", "record", "counter for vehicles", "board", "mount", "join"],
+	"meanings": [
+		"ride",
+		"power",
+		"multiplication",
+		"record",
+		"counter for vehicles",
+		"board",
+		"mount",
+		"join"
+	],
 	"keyword": "ride",
 	"onyomi": {
-		"frequent": ["ジョウ"],
+		"frequent": [
+			"ジョウ"
+		],
 		"common": [],
-		"rare": ["ショウ"]
+		"rare": [
+			"ショウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["の"],
+		"frequent": [
+			"の"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["の.る", "の.り", "の.せる"]
+		"okurigana": [
+			"の.る",
+			"の.り",
+			"の.せる"
+		]
 	},
 	"frequency": {
 		"mean": 386,

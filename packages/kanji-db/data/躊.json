@@ -1,17 +1,28 @@
 {
 	"kanji": "躊",
-	"meanings": ["hesitate"],
+	"meanings": [
+		"hesitate"
+	],
 	"keyword": "hesitate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チュウ", "チュ", "シュウ", "ジュ"]
+		"rare": [
+			"チュウ",
+			"チュ",
+			"シュウ",
+			"ジュ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ためら"],
-		"okurigana": ["ためら.う"]
+		"rare": [
+			"ためら"
+		],
+		"okurigana": [
+			"ためら.う"
+		]
 	},
 	"frequency": {
 		"mean": 2711,

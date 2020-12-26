@@ -1,14 +1,21 @@
 {
 	"kanji": "鼻",
-	"meanings": ["nose", "snout"],
+	"meanings": [
+		"nose",
+		"snout"
+	],
 	"keyword": "nose",
 	"onyomi": {
-		"frequent": ["ビ"],
+		"frequent": [
+			"ビ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はな"],
+		"frequent": [
+			"はな"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

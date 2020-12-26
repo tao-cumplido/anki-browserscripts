@@ -1,17 +1,27 @@
 {
 	"kanji": "淑",
-	"meanings": ["graceful", "gentle", "pure"],
+	"meanings": [
+		"graceful",
+		"gentle",
+		"pure"
+	],
 	"keyword": "graceful",
 	"onyomi": {
-		"frequent": ["シュク"],
+		"frequent": [
+			"シュク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しと"],
-		"okurigana": ["しと.やか"]
+		"rare": [
+			"しと"
+		],
+		"okurigana": [
+			"しと.やか"
+		]
 	},
 	"frequency": {
 		"mean": 2165,

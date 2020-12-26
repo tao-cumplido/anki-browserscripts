@@ -1,17 +1,28 @@
 {
 	"kanji": "粘",
-	"meanings": ["sticky", "glutinous", "greasy", "persevere"],
+	"meanings": [
+		"sticky",
+		"glutinous",
+		"greasy",
+		"persevere"
+	],
 	"keyword": "sticky",
 	"onyomi": {
-		"frequent": ["ネン"],
+		"frequent": [
+			"ネン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ねば"],
+		"frequent": [
+			"ねば"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ねば.る"]
+		"okurigana": [
+			"ねば.る"
+		]
 	},
 	"frequency": {
 		"mean": 1955,

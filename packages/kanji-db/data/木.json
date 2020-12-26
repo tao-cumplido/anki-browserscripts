@@ -1,15 +1,25 @@
 {
 	"kanji": "木",
-	"meanings": ["tree", "wood"],
+	"meanings": [
+		"tree",
+		"wood"
+	],
 	"keyword": "tree",
 	"onyomi": {
-		"frequent": ["ボク", "モク"],
+		"frequent": [
+			"ボク",
+			"モク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["き"],
-		"common": ["こ"],
+		"frequent": [
+			"き"
+		],
+		"common": [
+			"こ"
+		],
 		"rare": [],
 		"okurigana": []
 	},

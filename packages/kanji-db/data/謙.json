@@ -1,17 +1,28 @@
 {
 	"kanji": "謙",
-	"meanings": ["self-effacing", "humble oneself", "condescend", "be modest"],
+	"meanings": [
+		"self-effacing",
+		"humble oneself",
+		"condescend",
+		"be modest"
+	],
 	"keyword": "self-effacing",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["へりくだ"],
-		"okurigana": ["へりくだ.る"]
+		"rare": [
+			"へりくだ"
+		],
+		"okurigana": [
+			"へりくだ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1643,

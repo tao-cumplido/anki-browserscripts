@@ -1,16 +1,25 @@
 {
 	"kanji": "柏",
-	"meanings": ["oak", "cypress"],
+	"meanings": [
+		"oak",
+		"cypress"
+	],
 	"keyword": "oak",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハク", "ヒャク", "ビャク"]
+		"rare": [
+			"ハク",
+			"ヒャク",
+			"ビャク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かしわ"],
+		"rare": [
+			"かしわ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

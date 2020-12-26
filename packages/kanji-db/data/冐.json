@@ -1,16 +1,32 @@
 {
 	"kanji": "冐",
-	"meanings": ["risk", "brave", "dare", "face", "defy", "(diseases) attack", "damage", "desecrate", "assume (a name)"],
+	"meanings": [
+		"risk",
+		"brave",
+		"dare",
+		"face",
+		"defy",
+		"(diseases) attack",
+		"damage",
+		"desecrate",
+		"assume (a name)"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ボウ"]
+		"rare": [
+			"ボウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おか"],
-		"okurigana": ["おか.す"]
+		"rare": [
+			"おか"
+		],
+		"okurigana": [
+			"おか.す"
+		]
 	},
 	"frequency": {
 		"mean": 4423,

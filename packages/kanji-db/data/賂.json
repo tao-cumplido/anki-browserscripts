@@ -1,17 +1,26 @@
 {
 	"kanji": "賂",
-	"meanings": ["bribe"],
+	"meanings": [
+		"bribe"
+	],
 	"keyword": "graft",
 	"onyomi": {
-		"frequent": ["ロ"],
+		"frequent": [
+			"ロ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まいな"],
-		"okurigana": ["まいな.い", "まいな.う"]
+		"rare": [
+			"まいな"
+		],
+		"okurigana": [
+			"まいな.い",
+			"まいな.う"
+		]
 	},
 	"frequency": {
 		"mean": 3171,

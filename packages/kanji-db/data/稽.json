@@ -1,17 +1,28 @@
 {
 	"kanji": "稽",
-	"meanings": ["think", "consider"],
+	"meanings": [
+		"think",
+		"consider"
+	],
 	"keyword": "training",
 	"onyomi": {
-		"frequent": ["ケイ"],
+		"frequent": [
+			"ケイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かんが", "とど"],
-		"okurigana": ["かんが.える", "とど.める"]
+		"rare": [
+			"かんが",
+			"とど"
+		],
+		"okurigana": [
+			"かんが.える",
+			"とど.める"
+		]
 	},
 	"frequency": {
 		"mean": 2077,

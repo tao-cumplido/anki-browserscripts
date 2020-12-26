@@ -1,16 +1,22 @@
 {
 	"kanji": "蹄",
-	"meanings": ["hoof"],
+	"meanings": [
+		"hoof"
+	],
 	"keyword": "hoof",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テイ"]
+		"rare": [
+			"テイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひづめ"],
+		"rare": [
+			"ひづめ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

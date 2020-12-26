@@ -1,17 +1,27 @@
 {
 	"kanji": "堆",
-	"meanings": ["piled high"],
+	"meanings": [
+		"piled high"
+	],
 	"keyword": "piled high",
 	"onyomi": {
-		"frequent": ["タイ"],
+		"frequent": [
+			"タイ"
+		],
 		"common": [],
-		"rare": ["ツイ"]
+		"rare": [
+			"ツイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うずたか"],
-		"okurigana": ["うずたか.い"]
+		"rare": [
+			"うずたか"
+		],
+		"okurigana": [
+			"うずたか.い"
+		]
 	},
 	"frequency": {
 		"mean": 2397,

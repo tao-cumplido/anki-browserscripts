@@ -1,17 +1,27 @@
 {
 	"kanji": "餓",
-	"meanings": ["starve", "hungry", "thirst"],
+	"meanings": [
+		"starve",
+		"hungry",
+		"thirst"
+	],
 	"keyword": "starve",
 	"onyomi": {
-		"frequent": ["ガ"],
+		"frequent": [
+			"ガ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["う"],
-		"okurigana": ["う.える"]
+		"rare": [
+			"う"
+		],
+		"okurigana": [
+			"う.える"
+		]
 	},
 	"frequency": {
 		"mean": 2311,

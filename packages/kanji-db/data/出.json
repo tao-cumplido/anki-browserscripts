@@ -1,17 +1,38 @@
 {
 	"kanji": "出",
-	"meanings": ["exit", "leave", "go out", "come out", "put out", "protrude"],
+	"meanings": [
+		"exit",
+		"leave",
+		"go out",
+		"come out",
+		"put out",
+		"protrude"
+	],
 	"keyword": "exit",
 	"onyomi": {
-		"frequent": ["シュツ"],
-		"common": ["スイ"],
+		"frequent": [
+			"シュツ"
+		],
+		"common": [
+			"スイ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["で", "だ"],
+		"frequent": [
+			"で",
+			"だ"
+		],
 		"common": [],
-		"rare": ["い"],
-		"okurigana": ["で.る", "だ.す", "い.でる", "い.だす"]
+		"rare": [
+			"い"
+		],
+		"okurigana": [
+			"で.る",
+			"だ.す",
+			"い.でる",
+			"い.だす"
+		]
 	},
 	"frequency": {
 		"mean": 11,

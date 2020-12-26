@@ -1,14 +1,20 @@
 {
 	"kanji": "湖",
-	"meanings": ["lake"],
+	"meanings": [
+		"lake"
+	],
 	"keyword": "lake",
 	"onyomi": {
-		"frequent": ["コ"],
+		"frequent": [
+			"コ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みずうみ"],
+		"frequent": [
+			"みずうみ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

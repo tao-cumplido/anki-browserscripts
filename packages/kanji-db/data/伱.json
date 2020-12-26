@@ -1,14 +1,25 @@
 {
 	"kanji": "伱",
-	"meanings": ["thou", "you"],
+	"meanings": [
+		"thou",
+		"you"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ジ", "ニ"],
+		"common": [
+			"ジ",
+			"ニ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["なんじ", "しかり", "その", "のみ"],
+		"common": [
+			"なんじ",
+			"しかり",
+			"その",
+			"のみ"
+		],
 		"rare": [],
 		"okurigana": []
 	},

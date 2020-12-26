@@ -1,16 +1,26 @@
 {
 	"kanji": "倡",
-	"meanings": ["prostitute", "actor"],
+	"meanings": [
+		"prostitute",
+		"actor"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ"]
+		"rare": [
+			"ショウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とな", "わざおぎ"],
-		"okurigana": ["とな.える"]
+		"rare": [
+			"とな",
+			"わざおぎ"
+		],
+		"okurigana": [
+			"とな.える"
+		]
 	},
 	"frequency": {
 		"mean": 4366,

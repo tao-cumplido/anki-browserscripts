@@ -1,14 +1,20 @@
 {
 	"kanji": "牛",
-	"meanings": ["cow"],
+	"meanings": [
+		"cow"
+	],
 	"keyword": "cow",
 	"onyomi": {
-		"frequent": ["ギュウ"],
+		"frequent": [
+			"ギュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うし"],
+		"frequent": [
+			"うし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

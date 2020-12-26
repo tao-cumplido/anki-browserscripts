@@ -1,17 +1,27 @@
 {
 	"kanji": "必",
-	"meanings": ["invariably", "certain", "inevitable"],
+	"meanings": [
+		"invariably",
+		"certain",
+		"inevitable"
+	],
 	"keyword": "invariably",
 	"onyomi": {
-		"frequent": ["ヒツ"],
+		"frequent": [
+			"ヒツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かなら"],
+		"frequent": [
+			"かなら"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かなら.ず"]
+		"okurigana": [
+			"かなら.ず"
+		]
 	},
 	"frequency": {
 		"mean": 435,

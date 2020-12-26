@@ -1,16 +1,24 @@
 {
 	"kanji": "煤",
-	"meanings": ["soot", "smoke dried"],
+	"meanings": [
+		"soot",
+		"smoke dried"
+	],
 	"keyword": "soot",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["バイ", "マイ"]
+		"rare": [
+			"バイ",
+			"マイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すす"],
+		"rare": [
+			"すす"
+		],
 		"okurigana": []
 	},
 	"frequency": {

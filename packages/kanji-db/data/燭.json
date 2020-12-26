@@ -1,16 +1,24 @@
 {
 	"kanji": "燭",
-	"meanings": ["light", "candlepower"],
+	"meanings": [
+		"light",
+		"candlepower"
+	],
 	"keyword": "candlelight",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソク", "ショク"]
+		"rare": [
+			"ソク",
+			"ショク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ともしび"],
+		"rare": [
+			"ともしび"
+		],
 		"okurigana": []
 	},
 	"frequency": {

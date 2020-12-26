@@ -1,17 +1,33 @@
 {
 	"kanji": "賜",
-	"meanings": ["grant", "gift", "boon", "results"],
+	"meanings": [
+		"grant",
+		"gift",
+		"boon",
+		"results"
+	],
 	"keyword": "grant",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たまわ"],
+		"frequent": [
+			"たまわ"
+		],
 		"common": [],
-		"rare": ["たま", "たも"],
-		"okurigana": ["たまわ.る", "たま.う", "たも.う"]
+		"rare": [
+			"たま",
+			"たも"
+		],
+		"okurigana": [
+			"たまわ.る",
+			"たま.う",
+			"たも.う"
+		]
 	},
 	"frequency": {
 		"mean": 1965,

@@ -1,17 +1,25 @@
 {
 	"kanji": "泳",
-	"meanings": ["swim"],
+	"meanings": [
+		"swim"
+	],
 	"keyword": "swim",
 	"onyomi": {
-		"frequent": ["エイ"],
+		"frequent": [
+			"エイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["およ"],
+		"frequent": [
+			"およ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["およ.ぐ"]
+		"okurigana": [
+			"およ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 1491,

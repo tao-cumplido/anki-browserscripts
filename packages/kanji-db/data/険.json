@@ -1,17 +1,29 @@
 {
 	"kanji": "険",
-	"meanings": ["precipitous", "inaccessible place", "impregnable position", "steep place", "sharp eyes"],
+	"meanings": [
+		"precipitous",
+		"inaccessible place",
+		"impregnable position",
+		"steep place",
+		"sharp eyes"
+	],
 	"keyword": "precipitous",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["けわ"],
+		"frequent": [
+			"けわ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["けわ.しい"]
+		"okurigana": [
+			"けわ.しい"
+		]
 	},
 	"frequency": {
 		"mean": 843,

@@ -1,17 +1,27 @@
 {
 	"kanji": "貧",
-	"meanings": ["poverty", "poor"],
+	"meanings": [
+		"poverty",
+		"poor"
+	],
 	"keyword": "poverty",
 	"onyomi": {
-		"frequent": ["ヒン", "ビン"],
+		"frequent": [
+			"ヒン",
+			"ビン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まず"],
+		"frequent": [
+			"まず"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["まず.しい"]
+		"okurigana": [
+			"まず.しい"
+		]
 	},
 	"frequency": {
 		"mean": 1523,

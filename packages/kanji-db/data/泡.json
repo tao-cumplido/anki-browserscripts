@@ -1,14 +1,23 @@
 {
 	"kanji": "泡",
-	"meanings": ["bubbles", "foam", "suds", "froth"],
+	"meanings": [
+		"bubbles",
+		"foam",
+		"suds",
+		"froth"
+	],
 	"keyword": "bubble",
 	"onyomi": {
-		"frequent": ["ホウ"],
+		"frequent": [
+			"ホウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あわ"],
+		"frequent": [
+			"あわ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

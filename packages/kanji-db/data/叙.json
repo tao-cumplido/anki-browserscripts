@@ -1,17 +1,29 @@
 {
 	"kanji": "叙",
-	"meanings": ["confer", "relate", "narrate", "describe"],
+	"meanings": [
+		"confer",
+		"relate",
+		"narrate",
+		"describe"
+	],
 	"keyword": "confer",
 	"onyomi": {
-		"frequent": ["ジョ"],
+		"frequent": [
+			"ジョ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つい", "ついで"],
-		"okurigana": ["つい.ず"]
+		"rare": [
+			"つい",
+			"ついで"
+		],
+		"okurigana": [
+			"つい.ず"
+		]
 	},
 	"frequency": {
 		"mean": 1647,

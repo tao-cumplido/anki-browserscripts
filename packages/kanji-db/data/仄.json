@@ -1,17 +1,34 @@
 {
 	"kanji": "仄",
-	"meanings": ["be seen dimly", "suggest", "intimate", "faint", "stupid", "hint"],
+	"meanings": [
+		"be seen dimly",
+		"suggest",
+		"intimate",
+		"faint",
+		"stupid",
+		"hint"
+	],
 	"keyword": "insinuate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソク"]
+		"rare": [
+			"ソク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほの", "かたむ"],
-		"okurigana": ["ほの.か", "ほの.めかす", "ほの.めく", "かたむ.く"]
+		"rare": [
+			"ほの",
+			"かたむ"
+		],
+		"okurigana": [
+			"ほの.か",
+			"ほの.めかす",
+			"ほの.めく",
+			"かたむ.く"
+		]
 	},
 	"frequency": {
 		"mean": 3216,

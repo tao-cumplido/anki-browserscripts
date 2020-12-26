@@ -1,17 +1,29 @@
 {
 	"kanji": "勇",
-	"meanings": ["courage", "cheer up", "be in high spirits", "bravery", "heroism"],
+	"meanings": [
+		"courage",
+		"cheer up",
+		"be in high spirits",
+		"bravery",
+		"heroism"
+	],
 	"keyword": "courage",
 	"onyomi": {
-		"frequent": ["ユウ"],
+		"frequent": [
+			"ユウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いさ"],
+		"frequent": [
+			"いさ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["いさ.む"]
+		"okurigana": [
+			"いさ.む"
+		]
 	},
 	"frequency": {
 		"mean": 1093,

@@ -1,14 +1,26 @@
 {
 	"kanji": "冋",
-	"meanings": ["desert", "border prairie", "the 1st form is radical 13"],
+	"meanings": [
+		"desert",
+		"border prairie",
+		"the 1st form is radical 13"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["キョウ", "ケイ"],
+		"common": [
+			"キョウ",
+			"ケイ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["まきがまえ", "えながまえ", "どうがまえ", "けいがまえ"],
+		"common": [
+			"まきがまえ",
+			"えながまえ",
+			"どうがまえ",
+			"けいがまえ"
+		],
 		"rare": [],
 		"okurigana": []
 	},

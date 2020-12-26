@@ -1,17 +1,34 @@
 {
 	"kanji": "扮",
-	"meanings": ["impersonate", "dress up", "disguise", "thin shingles"],
+	"meanings": [
+		"impersonate",
+		"dress up",
+		"disguise",
+		"thin shingles"
+	],
 	"keyword": "disguise",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フン", "ハン", "ヘン"]
+		"rare": [
+			"フン",
+			"ハン",
+			"ヘン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふん", "やつ", "よそお"],
-		"okurigana": ["ふん.する", "やつ.す", "よそお.う"]
+		"rare": [
+			"ふん",
+			"やつ",
+			"よそお"
+		],
+		"okurigana": [
+			"ふん.する",
+			"やつ.す",
+			"よそお.う"
+		]
 	},
 	"frequency": {
 		"mean": 2408,

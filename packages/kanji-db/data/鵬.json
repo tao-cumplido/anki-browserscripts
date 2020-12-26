@@ -1,16 +1,22 @@
 {
 	"kanji": "鵬",
-	"meanings": ["phoenix"],
+	"meanings": [
+		"phoenix"
+	],
 	"keyword": "roc",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ホウ"]
+		"rare": [
+			"ホウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おおとり"],
+		"rare": [
+			"おおとり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,43 @@
 {
 	"kanji": "下",
-	"meanings": ["below", "down", "descend", "give", "low", "inferior"],
+	"meanings": [
+		"below",
+		"down",
+		"descend",
+		"give",
+		"low",
+		"inferior"
+	],
 	"keyword": "below",
 	"onyomi": {
-		"frequent": ["カ", "ゲ"],
+		"frequent": [
+			"カ",
+			"ゲ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["した", "しも", "もと", "さ", "くだ", "お"],
+		"frequent": [
+			"した",
+			"しも",
+			"もと",
+			"さ",
+			"くだ",
+			"お"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["さ.げる", "さ.がる", "くだ.る", "くだ.り", "くだ.す", "くだ.さる", "お.ろす", "お.りる"]
+		"okurigana": [
+			"さ.げる",
+			"さ.がる",
+			"くだ.る",
+			"くだ.り",
+			"くだ.す",
+			"くだ.さる",
+			"お.ろす",
+			"お.りる"
+		]
 	},
 	"frequency": {
 		"mean": 71,

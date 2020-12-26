@@ -1,17 +1,29 @@
 {
 	"kanji": "羞",
-	"meanings": ["feel ashamed"],
+	"meanings": [
+		"feel ashamed"
+	],
 	"keyword": "humiliate",
 	"onyomi": {
-		"frequent": ["シュウ"],
+		"frequent": [
+			"シュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はじ", "すすめ", "は"],
-		"okurigana": ["はじ.る", "すすめ.る", "は.ずかしい"]
+		"rare": [
+			"はじ",
+			"すすめ",
+			"は"
+		],
+		"okurigana": [
+			"はじ.る",
+			"すすめ.る",
+			"は.ずかしい"
+		]
 	},
 	"frequency": {
 		"mean": 2834,

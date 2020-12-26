@@ -1,17 +1,26 @@
 {
 	"kanji": "冶",
-	"meanings": ["melting", "smelting"],
+	"meanings": [
+		"melting",
+		"smelting"
+	],
 	"keyword": "metallurgy",
 	"onyomi": {
-		"frequent": ["ヤ"],
+		"frequent": [
+			"ヤ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["い"],
-		"okurigana": ["い.る"]
+		"rare": [
+			"い"
+		],
+		"okurigana": [
+			"い.る"
+		]
 	},
 	"frequency": {
 		"mean": 2252,

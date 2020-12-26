@@ -1,17 +1,29 @@
 {
 	"kanji": "嵌",
-	"meanings": ["go into", "plunge", "inlay"],
+	"meanings": [
+		"go into",
+		"plunge",
+		"inlay"
+	],
 	"keyword": "fit into",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カン"]
+		"rare": [
+			"カン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["は", "あな"],
-		"okurigana": ["は.める", "は.まる"]
+		"rare": [
+			"は",
+			"あな"
+		],
+		"okurigana": [
+			"は.める",
+			"は.まる"
+		]
 	},
 	"frequency": {
 		"mean": 2886,

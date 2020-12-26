@@ -1,17 +1,39 @@
 {
 	"kanji": "幽",
-	"meanings": ["seclude", "confine to a room", "deep", "profound", "secluded", "faint", "dark", "tranquil", "calm"],
+	"meanings": [
+		"seclude",
+		"confine to a room",
+		"deep",
+		"profound",
+		"secluded",
+		"faint",
+		"dark",
+		"tranquil",
+		"calm"
+	],
 	"keyword": "faint",
 	"onyomi": {
-		"frequent": ["ユウ"],
+		"frequent": [
+			"ユウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふか", "かす", "くら", "しろ"],
-		"okurigana": ["ふか.い", "かす.か", "くら.い", "しろ.い"]
+		"rare": [
+			"ふか",
+			"かす",
+			"くら",
+			"しろ"
+		],
+		"okurigana": [
+			"ふか.い",
+			"かす.か",
+			"くら.い",
+			"しろ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1666,

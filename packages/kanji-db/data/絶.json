@@ -1,17 +1,36 @@
 {
 	"kanji": "絶",
-	"meanings": ["discontinue", "sever", "cut off", "abstain", "interrupt", "suppress", "be beyond", "without match", "peerless", "unparalleled"],
+	"meanings": [
+		"discontinue",
+		"sever",
+		"cut off",
+		"abstain",
+		"interrupt",
+		"suppress",
+		"be beyond",
+		"without match",
+		"peerless",
+		"unparalleled"
+	],
 	"keyword": "discontinue",
 	"onyomi": {
-		"frequent": ["ゼツ"],
+		"frequent": [
+			"ゼツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["た"],
+		"frequent": [
+			"た"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["た.える", "た.やす", "た.つ"]
+		"okurigana": [
+			"た.える",
+			"た.やす",
+			"た.つ"
+		]
 	},
 	"frequency": {
 		"mean": 771,

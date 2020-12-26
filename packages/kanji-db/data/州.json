@@ -1,14 +1,23 @@
 {
 	"kanji": "州",
-	"meanings": ["state", "province"],
+	"meanings": [
+		"state",
+		"province"
+	],
 	"keyword": "state",
 	"onyomi": {
-		"frequent": ["シュウ"],
+		"frequent": [
+			"シュウ"
+		],
 		"common": [],
-		"rare": ["ス"]
+		"rare": [
+			"ス"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["す"],
+		"frequent": [
+			"す"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

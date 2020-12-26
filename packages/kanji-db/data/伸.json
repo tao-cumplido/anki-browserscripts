@@ -1,17 +1,32 @@
 {
 	"kanji": "伸",
-	"meanings": ["expand", "stretch", "extend", "lengthen", "increase"],
+	"meanings": [
+		"expand",
+		"stretch",
+		"extend",
+		"lengthen",
+		"increase"
+	],
 	"keyword": "expand",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["の"],
+		"frequent": [
+			"の"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["の.びる", "の.ばす", "の.べる", "の.す"]
+		"okurigana": [
+			"の.びる",
+			"の.ばす",
+			"の.べる",
+			"の.す"
+		]
 	},
 	"frequency": {
 		"mean": 981,

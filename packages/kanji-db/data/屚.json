@@ -1,0 +1,32 @@
+{
+	"kanji": "屚",
+	"meanings": [
+		"leak",
+		"escape",
+		"time"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ロウ",
+			"ロ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"も"
+		],
+		"rare": [],
+		"okurigana": [
+			"も.る",
+			"も.れる",
+			"も.らす"
+		]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

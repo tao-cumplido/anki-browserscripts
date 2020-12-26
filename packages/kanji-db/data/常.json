@@ -1,14 +1,28 @@
 {
 	"kanji": "常",
-	"meanings": ["usual", "ordinary", "normal", "common", "regular", "continually", "always", "long-lasting"],
+	"meanings": [
+		"usual",
+		"ordinary",
+		"normal",
+		"common",
+		"regular",
+		"continually",
+		"always",
+		"long-lasting"
+	],
 	"keyword": "usual",
 	"onyomi": {
-		"frequent": ["ジョウ"],
+		"frequent": [
+			"ジョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つね", "とこ"],
+		"frequent": [
+			"つね",
+			"とこ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

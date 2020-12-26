@@ -1,16 +1,29 @@
 {
 	"kanji": "路",
-	"meanings": ["path", "route", "road", "distance"],
+	"meanings": [
+		"path",
+		"route",
+		"road",
+		"distance"
+	],
 	"keyword": "path",
 	"onyomi": {
-		"frequent": ["ロ"],
+		"frequent": [
+			"ロ"
+		],
 		"common": [],
-		"rare": ["ル"]
+		"rare": [
+			"ル"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["じ"],
+		"frequent": [
+			"じ"
+		],
 		"common": [],
-		"rare": ["みち"],
+		"rare": [
+			"みち"
+		],
 		"okurigana": []
 	},
 	"frequency": {

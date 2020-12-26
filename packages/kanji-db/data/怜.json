@@ -1,17 +1,29 @@
 {
 	"kanji": "怜",
-	"meanings": ["wise"],
+	"meanings": [
+		"wise"
+	],
 	"keyword": "quickwitted",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["レイ", "レン", "リョウ"]
+		"rare": [
+			"レイ",
+			"レン",
+			"リョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あわ", "さと"],
-		"okurigana": ["あわ.れむ", "さと.い"]
+		"rare": [
+			"あわ",
+			"さと"
+		],
+		"okurigana": [
+			"あわ.れむ",
+			"さと.い"
+		]
 	},
 	"frequency": {
 		"mean": 2645,

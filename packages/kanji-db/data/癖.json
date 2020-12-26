@@ -1,17 +1,30 @@
 {
 	"kanji": "癖",
-	"meanings": ["mannerism", "habit", "vice", "trait", "fault", "kink"],
+	"meanings": [
+		"mannerism",
+		"habit",
+		"vice",
+		"trait",
+		"fault",
+		"kink"
+	],
 	"keyword": "mannerism",
 	"onyomi": {
-		"frequent": ["ヘキ"],
+		"frequent": [
+			"ヘキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くせ"],
+		"frequent": [
+			"くせ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["くせ.に"]
+		"okurigana": [
+			"くせ.に"
+		]
 	},
 	"frequency": {
 		"mean": 1770,

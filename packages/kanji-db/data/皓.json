@@ -1,17 +1,28 @@
 {
 	"kanji": "皓",
-	"meanings": ["white", "clear"],
+	"meanings": [
+		"white",
+		"clear"
+	],
 	"keyword": "beaming",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しろ", "ひか"],
-		"okurigana": ["しろ.い", "ひか.る"]
+		"rare": [
+			"しろ",
+			"ひか"
+		],
+		"okurigana": [
+			"しろ.い",
+			"ひか.る"
+		]
 	},
 	"frequency": {
 		"mean": 2899,

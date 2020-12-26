@@ -1,17 +1,26 @@
 {
 	"kanji": "悼",
-	"meanings": ["lament", "grieve over"],
+	"meanings": [
+		"lament",
+		"grieve over"
+	],
 	"keyword": "lament",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いた"],
+		"frequent": [
+			"いた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["いた.む"]
+		"okurigana": [
+			"いた.む"
+		]
 	},
 	"frequency": {
 		"mean": 2164,

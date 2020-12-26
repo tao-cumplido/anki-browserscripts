@@ -1,0 +1,32 @@
+{
+	"kanji": "跲",
+	"meanings": [
+		"hood",
+		"cowl",
+		"turban",
+		"stumble"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"コウ",
+			"キョウ",
+			"キュウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"つまず"
+		],
+		"rare": [],
+		"okurigana": [
+			"つまず.く"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

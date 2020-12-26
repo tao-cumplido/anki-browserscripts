@@ -1,11 +1,17 @@
 {
 	"kanji": "凧",
-	"meanings": ["kite", "(kokuji)"],
+	"meanings": [
+		"kite",
+		"(kokuji)"
+	],
 	"keyword": "kite",
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いかのぼり", "たこ"],
+		"rare": [
+			"いかのぼり",
+			"たこ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

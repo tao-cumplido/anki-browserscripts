@@ -1,14 +1,22 @@
 {
 	"kanji": "唐",
-	"meanings": ["T'ang", "China", "foreign"],
+	"meanings": [
+		"T'ang",
+		"China",
+		"foreign"
+	],
 	"keyword": "T'ang",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["から"],
+		"frequent": [
+			"から"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

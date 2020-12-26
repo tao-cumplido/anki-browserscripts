@@ -1,17 +1,31 @@
 {
 	"kanji": "勢",
-	"meanings": ["forces", "energy", "military strength"],
+	"meanings": [
+		"forces",
+		"energy",
+		"military strength"
+	],
 	"keyword": "forces",
 	"onyomi": {
-		"frequent": ["セイ"],
+		"frequent": [
+			"セイ"
+		],
 		"common": [],
-		"rare": ["ゼイ"]
+		"rare": [
+			"ゼイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["いきお"],
+		"frequent": [
+			"いきお"
+		],
 		"common": [],
-		"rare": ["はずみ"],
-		"okurigana": ["いきお.い"]
+		"rare": [
+			"はずみ"
+		],
+		"okurigana": [
+			"いきお.い"
+		]
 	},
 	"frequency": {
 		"mean": 607,

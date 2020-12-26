@@ -1,17 +1,29 @@
 {
 	"kanji": "輯",
-	"meanings": ["gather", "collect", "compile"],
+	"meanings": [
+		"gather",
+		"collect",
+		"compile"
+	],
 	"keyword": "assemble",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュウ"]
+		"rare": [
+			"シュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あつ", "やわ"],
-		"okurigana": ["あつ.める", "やわ.らぐ"]
+		"rare": [
+			"あつ",
+			"やわ"
+		],
+		"okurigana": [
+			"あつ.める",
+			"やわ.らぐ"
+		]
 	},
 	"frequency": {
 		"mean": 2609,

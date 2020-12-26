@@ -1,16 +1,26 @@
 {
 	"kanji": "某",
-	"meanings": ["so-and-so", "one", "a certain", "that person"],
+	"meanings": [
+		"so-and-so",
+		"one",
+		"a certain",
+		"that person"
+	],
 	"keyword": "so-and-so",
 	"onyomi": {
-		"frequent": ["ボウ"],
+		"frequent": [
+			"ボウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["それがし", "なにがし"],
+		"rare": [
+			"それがし",
+			"なにがし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

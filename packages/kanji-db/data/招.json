@@ -1,17 +1,28 @@
 {
 	"kanji": "招",
-	"meanings": ["beckon", "invite", "summon", "engage"],
+	"meanings": [
+		"beckon",
+		"invite",
+		"summon",
+		"engage"
+	],
 	"keyword": "beckon",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まね"],
+		"frequent": [
+			"まね"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["まね.く"]
+		"okurigana": [
+			"まね.く"
+		]
 	},
 	"frequency": {
 		"mean": 1276,

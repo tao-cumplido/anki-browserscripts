@@ -1,16 +1,35 @@
 {
 	"kanji": "亝",
-	"meanings": ["even", "regular", "uniform all alike", "to arrange"],
+	"meanings": [
+		"even",
+		"regular",
+		"uniform all alike",
+		"to arrange"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["セイ", "サイ"],
+		"common": [
+			"セイ",
+			"サイ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["そろ", "ひと", "あ", "はや"],
+		"common": [
+			"そろ",
+			"ひと",
+			"あ",
+			"はや"
+		],
 		"rare": [],
-		"okurigana": ["そろ.う", "ひと.しい", "ひと.しく", "あ.たる", "はや.い"]
+		"okurigana": [
+			"そろ.う",
+			"ひと.しい",
+			"ひと.しく",
+			"あ.たる",
+			"はや.い"
+		]
 	},
 	"frequency": {
 		"mean": 4539,

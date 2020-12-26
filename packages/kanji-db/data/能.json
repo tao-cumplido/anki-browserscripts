@@ -1,17 +1,28 @@
 {
 	"kanji": "能",
-	"meanings": ["ability", "talent", "skill", "capacity"],
+	"meanings": [
+		"ability",
+		"talent",
+		"skill",
+		"capacity"
+	],
 	"keyword": "ability",
 	"onyomi": {
-		"frequent": ["ノウ"],
+		"frequent": [
+			"ノウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よ"],
-		"okurigana": ["よ.く"]
+		"rare": [
+			"よ"
+		],
+		"okurigana": [
+			"よ.く"
+		]
 	},
 	"frequency": {
 		"mean": 194,

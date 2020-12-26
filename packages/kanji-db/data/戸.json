@@ -1,14 +1,22 @@
 {
 	"kanji": "戸",
-	"meanings": ["door", "counter for houses", "door radical (no. 63)"],
+	"meanings": [
+		"door",
+		"counter for houses",
+		"door radical (no. 63)"
+	],
 	"keyword": "door",
 	"onyomi": {
-		"frequent": ["コ"],
+		"frequent": [
+			"コ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["と"],
+		"frequent": [
+			"と"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

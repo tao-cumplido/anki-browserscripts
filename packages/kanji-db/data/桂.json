@@ -1,16 +1,23 @@
 {
 	"kanji": "桂",
-	"meanings": ["Japanese Judas-tree", "cinnamon tree"],
+	"meanings": [
+		"Japanese Judas-tree",
+		"cinnamon tree"
+	],
 	"keyword": "Japanese Judas-tree",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケイ"]
+		"rare": [
+			"ケイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かつら"],
+		"rare": [
+			"かつら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

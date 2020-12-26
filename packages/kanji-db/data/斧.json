@@ -1,16 +1,23 @@
 {
 	"kanji": "斧",
-	"meanings": ["ax", "hatchet"],
+	"meanings": [
+		"ax",
+		"hatchet"
+	],
 	"keyword": "hatchet",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フ"]
+		"rare": [
+			"フ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おの"],
+		"rare": [
+			"おの"
+		],
 		"okurigana": []
 	},
 	"frequency": {

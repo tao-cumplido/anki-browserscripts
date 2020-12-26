@@ -1,16 +1,25 @@
 {
 	"kanji": "伍",
-	"meanings": ["five", "five-man squad", "file", "line"],
+	"meanings": [
+		"five",
+		"five-man squad",
+		"file",
+		"line"
+	],
 	"keyword": "V",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゴ"]
+		"rare": [
+			"ゴ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いつつ"],
+		"rare": [
+			"いつつ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

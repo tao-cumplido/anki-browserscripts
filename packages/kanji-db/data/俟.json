@@ -1,16 +1,25 @@
 {
 	"kanji": "俟",
-	"meanings": ["wait", "depend on"],
+	"meanings": [
+		"wait",
+		"depend on"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ま"],
-		"okurigana": ["ま.つ"]
+		"rare": [
+			"ま"
+		],
+		"okurigana": [
+			"ま.つ"
+		]
 	},
 	"frequency": {
 		"mean": 3398,

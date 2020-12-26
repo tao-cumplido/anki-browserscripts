@@ -1,16 +1,25 @@
 {
 	"kanji": "儁",
-	"meanings": ["excellence", "talented person"],
+	"meanings": [
+		"excellence",
+		"talented person"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュン"]
+		"rare": [
+			"シュン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すぐ"],
-		"okurigana": ["すぐ.れる"]
+		"rare": [
+			"すぐ"
+		],
+		"okurigana": [
+			"すぐ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 4086,

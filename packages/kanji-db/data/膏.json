@@ -1,16 +1,27 @@
 {
 	"kanji": "膏",
-	"meanings": ["fat", "grease", "lard", "paste", "ointment", "plaster"],
+	"meanings": [
+		"fat",
+		"grease",
+		"lard",
+		"paste",
+		"ointment",
+		"plaster"
+	],
 	"keyword": "ointment",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あぶら"],
+		"rare": [
+			"あぶら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

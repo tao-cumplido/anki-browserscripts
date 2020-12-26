@@ -1,17 +1,26 @@
 {
 	"kanji": "警",
-	"meanings": ["admonish", "commandment"],
+	"meanings": [
+		"admonish",
+		"commandment"
+	],
 	"keyword": "admonish",
 	"onyomi": {
-		"frequent": ["ケイ"],
+		"frequent": [
+			"ケイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いまし"],
-		"okurigana": ["いまし.める"]
+		"rare": [
+			"いまし"
+		],
+		"okurigana": [
+			"いまし.める"
+		]
 	},
 	"frequency": {
 		"mean": 528,

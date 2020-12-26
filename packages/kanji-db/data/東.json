@@ -1,14 +1,20 @@
 {
 	"kanji": "東",
-	"meanings": ["east"],
+	"meanings": [
+		"east"
+	],
 	"keyword": "east",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひがし"],
+		"frequent": [
+			"ひがし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,14 +1,21 @@
 {
 	"kanji": "年",
-	"meanings": ["year", "counter for years"],
+	"meanings": [
+		"year",
+		"counter for years"
+	],
 	"keyword": "year",
 	"onyomi": {
-		"frequent": ["ネン"],
+		"frequent": [
+			"ネン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["とし"],
+		"frequent": [
+			"とし"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,16 +1,24 @@
 {
 	"kanji": "犠",
-	"meanings": ["sacrifice"],
+	"meanings": [
+		"sacrifice"
+	],
 	"keyword": "sacrifice",
 	"onyomi": {
-		"frequent": ["ギ"],
+		"frequent": [
+			"ギ"
+		],
 		"common": [],
-		"rare": ["キ"]
+		"rare": [
+			"キ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いけにえ"],
+		"rare": [
+			"いけにえ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

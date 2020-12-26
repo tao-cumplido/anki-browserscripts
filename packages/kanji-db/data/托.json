@@ -1,17 +1,30 @@
 {
 	"kanji": "托",
-	"meanings": ["requesting", "entrusting with", "pretend", "hint"],
+	"meanings": [
+		"requesting",
+		"entrusting with",
+		"pretend",
+		"hint"
+	],
 	"keyword": "receptacle",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["タク"]
+		"rare": [
+			"タク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たく", "たの"],
-		"okurigana": ["たく.する", "たの.む"]
+		"rare": [
+			"たく",
+			"たの"
+		],
+		"okurigana": [
+			"たく.する",
+			"たの.む"
+		]
 	},
 	"frequency": {
 		"mean": 3012,

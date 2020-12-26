@@ -1,17 +1,28 @@
 {
 	"kanji": "誇",
-	"meanings": ["boast", "be proud", "pride", "triumphantly"],
+	"meanings": [
+		"boast",
+		"be proud",
+		"pride",
+		"triumphantly"
+	],
 	"keyword": "boast",
 	"onyomi": {
-		"frequent": ["コ"],
+		"frequent": [
+			"コ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほこ"],
+		"frequent": [
+			"ほこ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ほこ.る"]
+		"okurigana": [
+			"ほこ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1602,

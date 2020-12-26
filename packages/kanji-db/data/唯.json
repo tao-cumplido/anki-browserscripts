@@ -1,16 +1,27 @@
 {
 	"kanji": "唯",
-	"meanings": ["solely", "only", "merely", "simply"],
+	"meanings": [
+		"solely",
+		"only",
+		"merely",
+		"simply"
+	],
 	"keyword": "solely",
 	"onyomi": {
-		"frequent": ["ユイ"],
-		"common": ["イ"],
+		"frequent": [
+			"ユイ"
+		],
+		"common": [
+			"イ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ただ"],
+		"rare": [
+			"ただ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,27 @@
 {
 	"kanji": "谷",
-	"meanings": ["valley"],
+	"meanings": [
+		"valley"
+	],
 	"keyword": "valley",
 	"onyomi": {
-		"frequent": ["コク"],
+		"frequent": [
+			"コク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たに"],
+		"frequent": [
+			"たに"
+		],
 		"common": [],
-		"rare": ["きわ"],
-		"okurigana": ["きわ.まる"]
+		"rare": [
+			"きわ"
+		],
+		"okurigana": [
+			"きわ.まる"
+		]
 	},
 	"frequency": {
 		"mean": 315,

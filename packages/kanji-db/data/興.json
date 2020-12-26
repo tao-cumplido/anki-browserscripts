@@ -1,17 +1,31 @@
 {
 	"kanji": "興",
-	"meanings": ["entertain", "revive", "retrieve", "interest", "pleasure"],
+	"meanings": [
+		"entertain",
+		"revive",
+		"retrieve",
+		"interest",
+		"pleasure"
+	],
 	"keyword": "entertain",
 	"onyomi": {
-		"frequent": ["コウ", "キョウ"],
+		"frequent": [
+			"コウ",
+			"キョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おこ"],
+		"frequent": [
+			"おこ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おこ.る", "おこ.す"]
+		"okurigana": [
+			"おこ.る",
+			"おこ.す"
+		]
 	},
 	"frequency": {
 		"mean": 642,

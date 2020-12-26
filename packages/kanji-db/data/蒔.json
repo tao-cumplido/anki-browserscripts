@@ -1,17 +1,28 @@
 {
 	"kanji": "蒔",
-	"meanings": ["sow (seeds)"],
+	"meanings": [
+		"sow (seeds)"
+	],
 	"keyword": "sowing",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ", "ジ"]
+		"rare": [
+			"シ",
+			"ジ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["う", "ま"],
-		"okurigana": ["う.える", "ま.く"]
+		"rare": [
+			"う",
+			"ま"
+		],
+		"okurigana": [
+			"う.える",
+			"ま.く"
+		]
 	},
 	"frequency": {
 		"mean": 2695,

@@ -1,17 +1,32 @@
 {
 	"kanji": "及",
-	"meanings": ["reach out", "exert", "exercise", "cause"],
+	"meanings": [
+		"reach out",
+		"exert",
+		"exercise",
+		"cause"
+	],
 	"keyword": "reach out",
 	"onyomi": {
-		"frequent": ["キュウ"],
+		"frequent": [
+			"キュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["およ"],
+		"frequent": [
+			"およ"
+		],
 		"common": [],
-		"rare": ["および"],
-		"okurigana": ["およ.ぶ", "およ.び", "およ.ぼす"]
+		"rare": [
+			"および"
+		],
+		"okurigana": [
+			"およ.ぶ",
+			"およ.び",
+			"およ.ぼす"
+		]
 	},
 	"frequency": {
 		"mean": 487,

@@ -1,17 +1,33 @@
 {
 	"kanji": "鳴",
-	"meanings": ["chirp", "cry", "bark", "sound", "ring", "echo", "honk"],
+	"meanings": [
+		"chirp",
+		"cry",
+		"bark",
+		"sound",
+		"ring",
+		"echo",
+		"honk"
+	],
 	"keyword": "chirp",
 	"onyomi": {
-		"frequent": ["メイ"],
+		"frequent": [
+			"メイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["な"],
+		"frequent": [
+			"な"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["な.く", "な.る", "な.らす"]
+		"okurigana": [
+			"な.く",
+			"な.る",
+			"な.らす"
+		]
 	},
 	"frequency": {
 		"mean": 1158,

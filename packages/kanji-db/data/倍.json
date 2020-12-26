@@ -1,9 +1,16 @@
 {
 	"kanji": "倍",
-	"meanings": ["double", "twice", "times", "fold"],
+	"meanings": [
+		"double",
+		"twice",
+		"times",
+		"fold"
+	],
 	"keyword": "double",
 	"onyomi": {
-		"frequent": ["バイ"],
+		"frequent": [
+			"バイ"
+		],
 		"common": [],
 		"rare": []
 	},

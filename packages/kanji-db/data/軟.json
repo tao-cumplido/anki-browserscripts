@@ -1,17 +1,26 @@
 {
 	"kanji": "軟",
-	"meanings": ["soft"],
+	"meanings": [
+		"soft"
+	],
 	"keyword": "soft",
 	"onyomi": {
-		"frequent": ["ナン"],
+		"frequent": [
+			"ナン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["やわ"],
+		"frequent": [
+			"やわ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["やわ.らか", "やわ.らかい"]
+		"okurigana": [
+			"やわ.らか",
+			"やわ.らかい"
+		]
 	},
 	"frequency": {
 		"mean": 1741,

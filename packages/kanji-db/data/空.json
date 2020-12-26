@@ -1,17 +1,39 @@
 {
 	"kanji": "空",
-	"meanings": ["empty", "sky", "void", "vacant", "vacuum"],
+	"meanings": [
+		"empty",
+		"sky",
+		"void",
+		"vacant",
+		"vacuum"
+	],
 	"keyword": "empty",
 	"onyomi": {
-		"frequent": ["クウ"],
+		"frequent": [
+			"クウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["そら", "あ", "から"],
+		"frequent": [
+			"そら",
+			"あ",
+			"から"
+		],
 		"common": [],
-		"rare": ["す", "むな"],
-		"okurigana": ["あ.く", "あ.き", "あ.ける", "す.く", "す.かす", "むな.しい"]
+		"rare": [
+			"す",
+			"むな"
+		],
+		"okurigana": [
+			"あ.く",
+			"あ.き",
+			"あ.ける",
+			"す.く",
+			"す.かす",
+			"むな.しい"
+		]
 	},
 	"frequency": {
 		"mean": 169,

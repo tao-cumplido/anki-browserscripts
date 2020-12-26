@@ -1,17 +1,28 @@
 {
 	"kanji": "渥",
-	"meanings": ["kindness", "moisten"],
+	"meanings": [
+		"kindness",
+		"moisten"
+	],
 	"keyword": "moisten",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["アク"]
+		"rare": [
+			"アク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あつ", "うるお"],
-		"okurigana": ["あつ.い", "うるお.う"]
+		"rare": [
+			"あつ",
+			"うるお"
+		],
+		"okurigana": [
+			"あつ.い",
+			"うるお.う"
+		]
 	},
 	"frequency": {
 		"mean": 2706,

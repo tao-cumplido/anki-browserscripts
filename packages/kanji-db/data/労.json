@@ -1,17 +1,37 @@
 {
 	"kanji": "労",
-	"meanings": ["labor", "thank for", "reward for", "toil", "trouble"],
+	"meanings": [
+		"labor",
+		"thank for",
+		"reward for",
+		"toil",
+		"trouble"
+	],
 	"keyword": "labor",
 	"onyomi": {
-		"frequent": ["ロウ"],
+		"frequent": [
+			"ロウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ろう", "いたわ", "いた", "ねぎら", "つか"],
-		"okurigana": ["ろう.する", "いたわ.る", "いた.ずき", "つか.れる", "ねぎら.う"]
+		"rare": [
+			"ろう",
+			"いたわ",
+			"いた",
+			"ねぎら",
+			"つか"
+		],
+		"okurigana": [
+			"ろう.する",
+			"いたわ.る",
+			"いた.ずき",
+			"つか.れる",
+			"ねぎら.う"
+		]
 	},
 	"frequency": {
 		"mean": 793,

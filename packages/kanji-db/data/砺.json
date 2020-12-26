@@ -1,17 +1,27 @@
 {
 	"kanji": "砺",
-	"meanings": ["whetstone", "polish"],
+	"meanings": [
+		"whetstone",
+		"polish"
+	],
 	"keyword": "whetstone",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["レイ"]
+		"rare": [
+			"レイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あらと", "みが"],
-		"okurigana": ["みが.く"]
+		"rare": [
+			"あらと",
+			"みが"
+		],
+		"okurigana": [
+			"みが.く"
+		]
 	},
 	"frequency": {
 		"mean": 2569,

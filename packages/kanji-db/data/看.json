@@ -1,17 +1,26 @@
 {
 	"kanji": "看",
-	"meanings": ["watch over", "see"],
+	"meanings": [
+		"watch over",
+		"see"
+	],
 	"keyword": "watch over",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["み"],
-		"okurigana": ["み.る"]
+		"rare": [
+			"み"
+		],
+		"okurigana": [
+			"み.る"
+		]
 	},
 	"frequency": {
 		"mean": 1306,

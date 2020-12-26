@@ -1,17 +1,35 @@
 {
 	"kanji": "締",
-	"meanings": ["tighten", "tie", "shut", "lock", "fasten"],
+	"meanings": [
+		"tighten",
+		"tie",
+		"shut",
+		"lock",
+		"fasten"
+	],
 	"keyword": "tighten",
 	"onyomi": {
-		"frequent": ["テイ"],
+		"frequent": [
+			"テイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["し"],
+		"frequent": [
+			"し"
+		],
 		"common": [],
-		"rare": ["じ"],
-		"okurigana": ["し.まる", "し.まり", "し.める", "し.め", "じ.め"]
+		"rare": [
+			"じ"
+		],
+		"okurigana": [
+			"し.まる",
+			"し.まり",
+			"し.める",
+			"し.め",
+			"じ.め"
+		]
 	},
 	"frequency": {
 		"mean": 1021,

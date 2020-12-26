@@ -1,17 +1,30 @@
 {
 	"kanji": "嘉",
-	"meanings": ["applaud", "praise", "esteem", "happy", "auspicious"],
+	"meanings": [
+		"applaud",
+		"praise",
+		"esteem",
+		"happy",
+		"auspicious"
+	],
 	"keyword": "applaud",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カ"]
+		"rare": [
+			"カ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よみ", "よい"],
-		"okurigana": ["よみ.する"]
+		"rare": [
+			"よみ",
+			"よい"
+		],
+		"okurigana": [
+			"よみ.する"
+		]
 	},
 	"frequency": {
 		"mean": 1268,

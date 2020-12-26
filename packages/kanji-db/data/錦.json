@@ -1,14 +1,22 @@
 {
 	"kanji": "錦",
-	"meanings": ["brocade", "fine dress", "honors"],
+	"meanings": [
+		"brocade",
+		"fine dress",
+		"honors"
+	],
 	"keyword": "brocade",
 	"onyomi": {
-		"frequent": ["キン"],
+		"frequent": [
+			"キン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["にしき"],
+		"frequent": [
+			"にしき"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

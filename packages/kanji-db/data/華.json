@@ -1,14 +1,30 @@
 {
 	"kanji": "華",
-	"meanings": ["splendor", "flower", "petal", "shine", "luster", "ostentatious", "showy", "gay", "gorgeous"],
+	"meanings": [
+		"splendor",
+		"flower",
+		"petal",
+		"shine",
+		"luster",
+		"ostentatious",
+		"showy",
+		"gay",
+		"gorgeous"
+	],
 	"keyword": "splendor",
 	"onyomi": {
-		"frequent": ["カ"],
-		"common": ["ケ"],
+		"frequent": [
+			"カ"
+		],
+		"common": [
+			"ケ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はな"],
+		"frequent": [
+			"はな"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

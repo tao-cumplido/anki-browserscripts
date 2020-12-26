@@ -1,16 +1,23 @@
 {
 	"kanji": "鰭",
-	"meanings": ["fin"],
+	"meanings": [
+		"fin"
+	],
 	"keyword": "fish fin",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キ", "ギ"]
+		"rare": [
+			"キ",
+			"ギ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひれ"],
+		"rare": [
+			"ひれ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

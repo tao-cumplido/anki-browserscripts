@@ -1,17 +1,31 @@
 {
 	"kanji": "燦",
-	"meanings": ["brilliant"],
+	"meanings": [
+		"brilliant"
+	],
 	"keyword": "dazzling",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サン"]
+		"rare": [
+			"サン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さん", "あき", "きらめ", "きら"],
-		"okurigana": ["さん.たる", "あき.らか", "きらめ.く", "きら.めく"]
+		"rare": [
+			"さん",
+			"あき",
+			"きらめ",
+			"きら"
+		],
+		"okurigana": [
+			"さん.たる",
+			"あき.らか",
+			"きらめ.く",
+			"きら.めく"
+		]
 	},
 	"frequency": {
 		"mean": 3051,

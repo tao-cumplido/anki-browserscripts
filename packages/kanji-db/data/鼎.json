@@ -1,16 +1,22 @@
 {
 	"kanji": "鼎",
-	"meanings": ["three legged kettle"],
+	"meanings": [
+		"three legged kettle"
+	],
 	"keyword": "tripod",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テイ"]
+		"rare": [
+			"テイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かなえ"],
+		"rare": [
+			"かなえ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

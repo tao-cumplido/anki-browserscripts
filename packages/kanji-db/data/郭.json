@@ -1,16 +1,25 @@
 {
 	"kanji": "郭",
-	"meanings": ["enclosure", "quarters", "fortification", "red-light district"],
+	"meanings": [
+		"enclosure",
+		"quarters",
+		"fortification",
+		"red-light district"
+	],
 	"keyword": "enclosure",
 	"onyomi": {
-		"frequent": ["カク"],
+		"frequent": [
+			"カク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くるわ"],
+		"rare": [
+			"くるわ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

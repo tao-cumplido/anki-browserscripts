@@ -1,17 +1,36 @@
 {
 	"kanji": "払",
-	"meanings": ["pay", "clear out", "prune", "banish", "dispose of"],
+	"meanings": [
+		"pay",
+		"clear out",
+		"prune",
+		"banish",
+		"dispose of"
+	],
 	"keyword": "pay",
 	"onyomi": {
-		"frequent": ["フツ"],
+		"frequent": [
+			"フツ"
+		],
 		"common": [],
-		"rare": ["ヒツ", "ホツ"]
+		"rare": [
+			"ヒツ",
+			"ホツ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["はら"],
+		"frequent": [
+			"はら"
+		],
 		"common": [],
-		"rare": ["ばら"],
-		"okurigana": ["はら.う", "はら.い", "ばら.い"]
+		"rare": [
+			"ばら"
+		],
+		"okurigana": [
+			"はら.う",
+			"はら.い",
+			"ばら.い"
+		]
 	},
 	"frequency": {
 		"mean": 1195,

@@ -1,16 +1,26 @@
 {
 	"kanji": "乿",
-	"meanings": ["to cure", "to heal"],
+	"meanings": [
+		"to cure",
+		"to heal"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["チ", "ジ"],
+		"common": [
+			"チ",
+			"ジ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["おさ"],
+		"common": [
+			"おさ"
+		],
 		"rare": [],
-		"okurigana": ["おさ.める"]
+		"okurigana": [
+			"おさ.める"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

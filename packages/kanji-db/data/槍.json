@@ -1,16 +1,25 @@
 {
 	"kanji": "槍",
-	"meanings": ["spear", "lance", "javelin"],
+	"meanings": [
+		"spear",
+		"lance",
+		"javelin"
+	],
 	"keyword": "lance",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ", "ショウ"]
+		"rare": [
+			"ソウ",
+			"ショウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["やり"],
+		"rare": [
+			"やり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

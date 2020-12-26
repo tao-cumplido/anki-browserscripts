@@ -1,17 +1,27 @@
 {
 	"kanji": "奏",
-	"meanings": ["play music", "speak to a ruler", "complete"],
+	"meanings": [
+		"play music",
+		"speak to a ruler",
+		"complete"
+	],
 	"keyword": "play music",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かな"],
+		"frequent": [
+			"かな"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かな.でる"]
+		"okurigana": [
+			"かな.でる"
+		]
 	},
 	"frequency": {
 		"mean": 761,

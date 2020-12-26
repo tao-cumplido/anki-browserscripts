@@ -1,14 +1,20 @@
 {
 	"kanji": "紙",
-	"meanings": ["paper"],
+	"meanings": [
+		"paper"
+	],
 	"keyword": "paper",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かみ"],
+		"frequent": [
+			"かみ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

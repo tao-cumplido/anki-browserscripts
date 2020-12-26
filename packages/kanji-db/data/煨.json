@@ -1,0 +1,29 @@
+{
+	"kanji": "煨",
+	"meanings": [
+		"to stew",
+		"simmer",
+		"banked fire"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ワイ",
+			"ウツ",
+			"ウチ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"うずみび"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4486,
+		"wikipedia": 4177
+	}
+}

@@ -1,17 +1,27 @@
 {
 	"kanji": "知",
-	"meanings": ["know", "wisdom"],
+	"meanings": [
+		"know",
+		"wisdom"
+	],
 	"keyword": "know",
 	"onyomi": {
-		"frequent": ["チ"],
+		"frequent": [
+			"チ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["し"],
+		"frequent": [
+			"し"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["し.る", "し.らせる"]
+		"okurigana": [
+			"し.る",
+			"し.らせる"
+		]
 	},
 	"frequency": {
 		"mean": 172,

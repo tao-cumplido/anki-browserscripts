@@ -1,10 +1,16 @@
 {
 	"kanji": "偐",
-	"meanings": ["fake", "counterfeit"],
+	"meanings": [
+		"fake",
+		"counterfeit"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゲン", "ガン"]
+		"rare": [
+			"ゲン",
+			"ガン"
+		]
 	},
 	"frequency": {
 		"mean": 4496,

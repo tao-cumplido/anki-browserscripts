@@ -1,17 +1,29 @@
 {
 	"kanji": "武",
-	"meanings": ["warrior", "military", "chivalry", "arms"],
+	"meanings": [
+		"warrior",
+		"military",
+		"chivalry",
+		"arms"
+	],
 	"keyword": "warrior",
 	"onyomi": {
-		"frequent": ["ブ", "ム"],
+		"frequent": [
+			"ブ",
+			"ム"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たけ"],
-		"okurigana": ["たけ.し"]
+		"rare": [
+			"たけ"
+		],
+		"okurigana": [
+			"たけ.し"
+		]
 	},
 	"frequency": {
 		"mean": 295,

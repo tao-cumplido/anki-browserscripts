@@ -1,14 +1,24 @@
 {
 	"kanji": "株",
-	"meanings": ["stocks", "stump", "shares", "stock", "counter for small plants"],
+	"meanings": [
+		"stocks",
+		"stump",
+		"shares",
+		"stock",
+		"counter for small plants"
+	],
 	"keyword": "stocks",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュ"]
+		"rare": [
+			"シュ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["かぶ"],
+		"frequent": [
+			"かぶ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

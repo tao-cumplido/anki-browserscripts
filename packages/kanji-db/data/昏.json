@@ -1,17 +1,28 @@
 {
 	"kanji": "昏",
-	"meanings": ["dark", "evening", "dusk"],
+	"meanings": [
+		"dark",
+		"evening",
+		"dusk"
+	],
 	"keyword": "dusk",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コン"]
+		"rare": [
+			"コン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くら", "くれ"],
-		"okurigana": ["くら.い"]
+		"rare": [
+			"くら",
+			"くれ"
+		],
+		"okurigana": [
+			"くら.い"
+		]
 	},
 	"frequency": {
 		"mean": 2326,

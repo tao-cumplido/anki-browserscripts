@@ -1,17 +1,29 @@
 {
 	"kanji": "薦",
-	"meanings": ["recommend", "mat", "advise", "encourage", "offer"],
+	"meanings": [
+		"recommend",
+		"mat",
+		"advise",
+		"encourage",
+		"offer"
+	],
 	"keyword": "recommend",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["すす"],
+		"frequent": [
+			"すす"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["すす.める"]
+		"okurigana": [
+			"すす.める"
+		]
 	},
 	"frequency": {
 		"mean": 1560,

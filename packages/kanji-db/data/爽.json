@@ -1,17 +1,33 @@
 {
 	"kanji": "爽",
-	"meanings": ["refreshing", "bracing", "resonant", "sweet", "clear"],
+	"meanings": [
+		"refreshing",
+		"bracing",
+		"resonant",
+		"sweet",
+		"clear"
+	],
 	"keyword": "bracing",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さわ"],
+		"frequent": [
+			"さわ"
+		],
 		"common": [],
-		"rare": ["あき", "たがう"],
-		"okurigana": ["あき.らか", "さわ.やか"]
+		"rare": [
+			"あき",
+			"たがう"
+		],
+		"okurigana": [
+			"あき.らか",
+			"さわ.やか"
+		]
 	},
 	"frequency": {
 		"mean": 2474,

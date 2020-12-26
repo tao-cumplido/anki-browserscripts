@@ -1,17 +1,37 @@
 {
 	"kanji": "希",
-	"meanings": ["hope", "beg", "request", "pray", "beseech", "Greece", "dilute (acid)", "rare", "few", "phenomenal"],
+	"meanings": [
+		"hope",
+		"beg",
+		"request",
+		"pray",
+		"beseech",
+		"Greece",
+		"dilute (acid)",
+		"rare",
+		"few",
+		"phenomenal"
+	],
 	"keyword": "hope",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
-		"rare": ["ケ"]
+		"rare": [
+			"ケ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まれ", "こいねが"],
-		"okurigana": ["こいねが.う"]
+		"rare": [
+			"まれ",
+			"こいねが"
+		],
+		"okurigana": [
+			"こいねが.う"
+		]
 	},
 	"frequency": {
 		"mean": 1028,

@@ -1,17 +1,29 @@
 {
 	"kanji": "響",
-	"meanings": ["echo", "sound", "resound", "ring", "vibrate"],
+	"meanings": [
+		"echo",
+		"sound",
+		"resound",
+		"ring",
+		"vibrate"
+	],
 	"keyword": "echo",
 	"onyomi": {
-		"frequent": ["キョウ"],
+		"frequent": [
+			"キョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ひび"],
+		"frequent": [
+			"ひび"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ひび.く"]
+		"okurigana": [
+			"ひび.く"
+		]
 	},
 	"frequency": {
 		"mean": 653,

@@ -1,16 +1,28 @@
 {
 	"kanji": "儗",
-	"meanings": ["compare with", "draw analogy with"],
+	"meanings": [
+		"compare with",
+		"draw analogy with"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ギ", "カイ"],
+		"common": [
+			"ギ",
+			"カイ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["なぞら", "くら"],
+		"common": [
+			"なぞら",
+			"くら"
+		],
 		"rare": [],
-		"okurigana": ["なぞら.える", "くら.べる"]
+		"okurigana": [
+			"なぞら.える",
+			"くら.べる"
+		]
 	},
 	"frequency": {
 		"mean": 4541,

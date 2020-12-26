@@ -1,17 +1,27 @@
 {
 	"kanji": "容",
-	"meanings": ["contain", "form", "looks"],
+	"meanings": [
+		"contain",
+		"form",
+		"looks"
+	],
 	"keyword": "contain",
 	"onyomi": {
-		"frequent": ["ヨウ"],
+		"frequent": [
+			"ヨウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["い"],
-		"okurigana": ["い.れる"]
+		"rare": [
+			"い"
+		],
+		"okurigana": [
+			"い.れる"
+		]
 	},
 	"frequency": {
 		"mean": 407,

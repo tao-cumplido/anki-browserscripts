@@ -1,16 +1,30 @@
 {
 	"kanji": "冘",
-	"meanings": ["to move on", "doubtful"],
+	"meanings": [
+		"to move on",
+		"doubtful"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["イン", "ユ"],
+		"common": [
+			"イン",
+			"ユ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["おこた", "ためら", "うたが"],
+		"common": [
+			"おこた",
+			"ためら",
+			"うたが"
+		],
 		"rare": [],
-		"okurigana": ["おこた.る", "ためら.う", "うたが.う"]
+		"okurigana": [
+			"おこた.る",
+			"ためら.う",
+			"うたが.う"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

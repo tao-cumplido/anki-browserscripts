@@ -1,17 +1,30 @@
 {
 	"kanji": "諄",
-	"meanings": ["tedious"],
+	"meanings": [
+		"tedious"
+	],
 	"keyword": "polite",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュン"]
+		"rare": [
+			"シュン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひちくど", "くど", "くどくど", "ねんご"],
-		"okurigana": ["ひちくど.い", "くど.い", "ねんご.ろ"]
+		"rare": [
+			"ひちくど",
+			"くど",
+			"くどくど",
+			"ねんご"
+		],
+		"okurigana": [
+			"ひちくど.い",
+			"くど.い",
+			"ねんご.ろ"
+		]
 	},
 	"frequency": {
 		"mean": 3983,

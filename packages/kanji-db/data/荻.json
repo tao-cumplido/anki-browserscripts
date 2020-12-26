@@ -1,16 +1,23 @@
 {
 	"kanji": "荻",
-	"meanings": ["reed", "rush"],
+	"meanings": [
+		"reed",
+		"rush"
+	],
 	"keyword": "reed",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テキ"]
+		"rare": [
+			"テキ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おぎ"],
+		"rare": [
+			"おぎ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

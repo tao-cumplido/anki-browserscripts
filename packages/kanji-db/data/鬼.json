@@ -1,14 +1,21 @@
 {
 	"kanji": "鬼",
-	"meanings": ["ghost", "devil"],
+	"meanings": [
+		"ghost",
+		"devil"
+	],
 	"keyword": "ghost",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おに"],
+		"frequent": [
+			"おに"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,0 +1,29 @@
+{
+	"kanji": "恌",
+	"meanings": [
+		"to worry",
+		"frivolous"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"チョウ",
+			"ヨウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"うす"
+		],
+		"rare": [],
+		"okurigana": [
+			"うす.い"
+		]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

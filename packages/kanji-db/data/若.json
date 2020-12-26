@@ -1,17 +1,41 @@
 {
 	"kanji": "若",
-	"meanings": ["young", "if", "perhaps", "possibly", "low number", "immature"],
+	"meanings": [
+		"young",
+		"if",
+		"perhaps",
+		"possibly",
+		"low number",
+		"immature"
+	],
 	"keyword": "young",
 	"onyomi": {
-		"frequent": ["ジャク"],
-		"common": ["ニャク"],
-		"rare": ["ニャ"]
+		"frequent": [
+			"ジャク"
+		],
+		"common": [
+			"ニャク"
+		],
+		"rare": [
+			"ニャ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["わか", "も"],
+		"frequent": [
+			"わか",
+			"も"
+		],
 		"common": [],
-		"rare": ["ごと"],
-		"okurigana": ["わか.い", "も.しくわ", "も.し", "も.しくは", "ごと.し"]
+		"rare": [
+			"ごと"
+		],
+		"okurigana": [
+			"わか.い",
+			"も.しくわ",
+			"も.し",
+			"も.しくは",
+			"ごと.し"
+		]
 	},
 	"frequency": {
 		"mean": 623,

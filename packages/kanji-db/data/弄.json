@@ -1,17 +1,40 @@
 {
 	"kanji": "弄",
-	"meanings": ["play with", "tamper", "trifle with"],
+	"meanings": [
+		"play with",
+		"tamper",
+		"trifle with"
+	],
 	"keyword": "tinker with",
 	"onyomi": {
-		"frequent": ["ロウ"],
+		"frequent": [
+			"ロウ"
+		],
 		"common": [],
-		"rare": ["ル"]
+		"rare": [
+			"ル"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["もてあそ"],
+		"frequent": [
+			"もてあそ"
+		],
 		"common": [],
-		"rare": ["いじく", "ろう", "いじ", "ひねく", "たわむ"],
-		"okurigana": ["いじく.る", "ろう.する", "いじ.る", "ひねく.る", "たわむ.れる", "もてあそ.ぶ"]
+		"rare": [
+			"いじく",
+			"ろう",
+			"いじ",
+			"ひねく",
+			"たわむ"
+		],
+		"okurigana": [
+			"いじく.る",
+			"ろう.する",
+			"いじ.る",
+			"ひねく.る",
+			"たわむ.れる",
+			"もてあそ.ぶ"
+		]
 	},
 	"frequency": {
 		"mean": 2384,

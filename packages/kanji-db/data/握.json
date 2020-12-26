@@ -1,17 +1,28 @@
 {
 	"kanji": "握",
-	"meanings": ["grip", "hold", "mould sushi", "bribe"],
+	"meanings": [
+		"grip",
+		"hold",
+		"mould sushi",
+		"bribe"
+	],
 	"keyword": "grip",
 	"onyomi": {
-		"frequent": ["アク"],
+		"frequent": [
+			"アク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["にぎ"],
+		"frequent": [
+			"にぎ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["にぎ.る"]
+		"okurigana": [
+			"にぎ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1475,

@@ -1,17 +1,40 @@
 {
 	"kanji": "放",
-	"meanings": ["set free", "release", "fire", "shoot", "emit", "banish", "liberate"],
+	"meanings": [
+		"set free",
+		"release",
+		"fire",
+		"shoot",
+		"emit",
+		"banish",
+		"liberate"
+	],
 	"keyword": "set free",
 	"onyomi": {
-		"frequent": ["ホウ"],
+		"frequent": [
+			"ホウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はな", "ほう"],
+		"frequent": [
+			"はな",
+			"ほう"
+		],
 		"common": [],
-		"rare": ["っぱな", "こ"],
-		"okurigana": ["はな.す", "っぱな.し", "はな.つ", "はな.れる", "こ.く", "ほう.る"]
+		"rare": [
+			"っぱな",
+			"こ"
+		],
+		"okurigana": [
+			"はな.す",
+			"っぱな.し",
+			"はな.つ",
+			"はな.れる",
+			"こ.く",
+			"ほう.る"
+		]
 	},
 	"frequency": {
 		"mean": 96,

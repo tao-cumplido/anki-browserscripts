@@ -1,17 +1,33 @@
 {
 	"kanji": "煎",
-	"meanings": ["broil", "parch", "roast", "boil"],
+	"meanings": [
+		"broil",
+		"parch",
+		"roast",
+		"boil"
+	],
 	"keyword": "roast",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["い"],
+		"frequent": [
+			"い"
+		],
 		"common": [],
-		"rare": ["せん", "に"],
-		"okurigana": ["せん.じる", "い.る", "に.る"]
+		"rare": [
+			"せん",
+			"に"
+		],
+		"okurigana": [
+			"せん.じる",
+			"い.る",
+			"に.る"
+		]
 	},
 	"frequency": {
 		"mean": 2480,

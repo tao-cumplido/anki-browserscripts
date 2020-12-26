@@ -1,17 +1,32 @@
 {
 	"kanji": "撰",
-	"meanings": ["composing", "editing", "compiling", "selecting"],
+	"meanings": [
+		"composing",
+		"editing",
+		"compiling",
+		"selecting"
+	],
 	"keyword": "assortment",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サン", "セン"]
+		"rare": [
+			"サン",
+			"セン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["せん", "えら"],
-		"okurigana": ["せん.する", "えら.む", "えら.ぶ"]
+		"rare": [
+			"せん",
+			"えら"
+		],
+		"okurigana": [
+			"せん.する",
+			"えら.む",
+			"えら.ぶ"
+		]
 	},
 	"frequency": {
 		"mean": 2155,

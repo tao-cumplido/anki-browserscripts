@@ -1,17 +1,31 @@
 {
 	"kanji": "養",
-	"meanings": ["foster", "bring up", "rear", "develop", "nurture"],
+	"meanings": [
+		"foster",
+		"bring up",
+		"rear",
+		"develop",
+		"nurture"
+	],
 	"keyword": "foster",
 	"onyomi": {
-		"frequent": ["ヨウ"],
+		"frequent": [
+			"ヨウ"
+		],
 		"common": [],
-		"rare": ["リョウ"]
+		"rare": [
+			"リョウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["やしな"],
+		"frequent": [
+			"やしな"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["やしな.う"]
+		"okurigana": [
+			"やしな.う"
+		]
 	},
 	"frequency": {
 		"mean": 767,

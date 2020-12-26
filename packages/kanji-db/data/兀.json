@@ -1,10 +1,17 @@
 {
 	"kanji": "兀",
-	"meanings": ["high &amp; level", "lofty", "bald", "dangerous"],
+	"meanings": [
+		"high &amp; level",
+		"lofty",
+		"bald",
+		"dangerous"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コツ"]
+		"rare": [
+			"コツ"
+		]
 	},
 	"frequency": {
 		"mean": 3806,

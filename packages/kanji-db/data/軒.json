@@ -1,14 +1,22 @@
 {
 	"kanji": "軒",
-	"meanings": ["flats", "counter for houses", "eaves"],
+	"meanings": [
+		"flats",
+		"counter for houses",
+		"eaves"
+	],
 	"keyword": "flats",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["のき"],
+		"frequent": [
+			"のき"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

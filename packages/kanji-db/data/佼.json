@@ -1,17 +1,31 @@
 {
 	"kanji": "佼",
-	"meanings": ["beautiful", "clever", "deceive", "sly"],
+	"meanings": [
+		"beautiful",
+		"clever",
+		"deceive",
+		"sly"
+	],
 	"keyword": "comely",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ", "コウ"]
+		"rare": [
+			"キョウ",
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こう", "うつく"],
-		"okurigana": ["こう.す", "うつく.しい"]
+		"rare": [
+			"こう",
+			"うつく"
+		],
+		"okurigana": [
+			"こう.す",
+			"うつく.しい"
+		]
 	},
 	"frequency": {
 		"mean": 3385,

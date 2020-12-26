@@ -1,17 +1,29 @@
 {
 	"kanji": "閃",
-	"meanings": ["flash", "brandish"],
+	"meanings": [
+		"flash",
+		"brandish"
+	],
 	"keyword": "flash",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セン"]
+		"rare": [
+			"セン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひらめ", "うかが"],
-		"okurigana": ["ひらめ.く", "ひらめ.き", "うかが.う"]
+		"rare": [
+			"ひらめ",
+			"うかが"
+		],
+		"okurigana": [
+			"ひらめ.く",
+			"ひらめ.き",
+			"うかが.う"
+		]
 	},
 	"frequency": {
 		"mean": 2244,

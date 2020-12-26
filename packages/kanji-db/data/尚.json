@@ -1,16 +1,25 @@
 {
 	"kanji": "尚",
-	"meanings": ["esteem", "furthermore", "still", "yet"],
+	"meanings": [
+		"esteem",
+		"furthermore",
+		"still",
+		"yet"
+	],
 	"keyword": "esteem",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なお"],
+		"rare": [
+			"なお"
+		],
 		"okurigana": []
 	},
 	"frequency": {

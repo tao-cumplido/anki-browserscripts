@@ -1,17 +1,28 @@
 {
 	"kanji": "遡",
-	"meanings": ["go upstream", "retrace the past"],
+	"meanings": [
+		"go upstream",
+		"retrace the past"
+	],
 	"keyword": "go upstream",
 	"onyomi": {
-		"frequent": ["ソ"],
+		"frequent": [
+			"ソ"
+		],
 		"common": [],
-		"rare": ["サク"]
+		"rare": [
+			"サク"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["さかのぼ"],
+		"frequent": [
+			"さかのぼ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["さかのぼ.る"]
+		"okurigana": [
+			"さかのぼ.る"
+		]
 	},
 	"frequency": {
 		"mean": 2323,

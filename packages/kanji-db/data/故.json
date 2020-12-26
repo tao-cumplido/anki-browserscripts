@@ -1,17 +1,36 @@
 {
 	"kanji": "故",
-	"meanings": ["happenstance", "especially", "intentionally", "reason", "cause", "circumstances", "the late", "therefore", "consequently"],
+	"meanings": [
+		"happenstance",
+		"especially",
+		"intentionally",
+		"reason",
+		"cause",
+		"circumstances",
+		"the late",
+		"therefore",
+		"consequently"
+	],
 	"keyword": "happenstance",
 	"onyomi": {
-		"frequent": ["コ"],
+		"frequent": [
+			"コ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ゆえ"],
+		"frequent": [
+			"ゆえ"
+		],
 		"common": [],
-		"rare": ["ふる", "もと"],
-		"okurigana": ["ふる.い"]
+		"rare": [
+			"ふる",
+			"もと"
+		],
+		"okurigana": [
+			"ふる.い"
+		]
 	},
 	"frequency": {
 		"mean": 745,

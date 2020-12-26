@@ -1,17 +1,30 @@
 {
 	"kanji": "嫉",
-	"meanings": ["jealous", "envy"],
+	"meanings": [
+		"jealous",
+		"envy"
+	],
 	"keyword": "envy",
 	"onyomi": {
-		"frequent": ["シツ"],
+		"frequent": [
+			"シツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["そね", "ねた", "にく"],
-		"okurigana": ["そね.む", "ねた.む", "にく.む"]
+		"rare": [
+			"そね",
+			"ねた",
+			"にく"
+		],
+		"okurigana": [
+			"そね.む",
+			"ねた.む",
+			"にく.む"
+		]
 	},
 	"frequency": {
 		"mean": 2362,

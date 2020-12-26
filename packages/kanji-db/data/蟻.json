@@ -1,16 +1,22 @@
 {
 	"kanji": "蟻",
-	"meanings": ["ant"],
+	"meanings": [
+		"ant"
+	],
 	"keyword": "ant",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ギ"]
+		"rare": [
+			"ギ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あり"],
+		"rare": [
+			"あり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

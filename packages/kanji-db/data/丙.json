@@ -1,16 +1,24 @@
 {
 	"kanji": "丙",
-	"meanings": ["third class", "3rd", "3rd calendar sign"],
+	"meanings": [
+		"third class",
+		"3rd",
+		"3rd calendar sign"
+	],
 	"keyword": "third class",
 	"onyomi": {
-		"frequent": ["ヘイ"],
+		"frequent": [
+			"ヘイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひのえ"],
+		"rare": [
+			"ひのえ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

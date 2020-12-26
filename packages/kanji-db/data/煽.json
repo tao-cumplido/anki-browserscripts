@@ -1,17 +1,34 @@
 {
 	"kanji": "煽",
-	"meanings": ["fan", "flap", "instigate", "agitate", "bolster up", "gulp down"],
+	"meanings": [
+		"fan",
+		"flap",
+		"instigate",
+		"agitate",
+		"bolster up",
+		"gulp down"
+	],
 	"keyword": "fanning",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セン"]
+		"rare": [
+			"セン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あお", "おだ", "おこ"],
-		"okurigana": ["あお.る", "おだ.てる", "おこ.る"]
+		"rare": [
+			"あお",
+			"おだ",
+			"おこ"
+		],
+		"okurigana": [
+			"あお.る",
+			"おだ.てる",
+			"おこ.る"
+		]
 	},
 	"frequency": {
 		"mean": 2613,

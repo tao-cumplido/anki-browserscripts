@@ -1,14 +1,28 @@
 {
 	"kanji": "力",
-	"meanings": ["power", "strength", "strong", "strain", "bear up", "exert"],
+	"meanings": [
+		"power",
+		"strength",
+		"strong",
+		"strain",
+		"bear up",
+		"exert"
+	],
 	"keyword": "power",
 	"onyomi": {
-		"frequent": ["リョク", "リキ"],
+		"frequent": [
+			"リョク",
+			"リキ"
+		],
 		"common": [],
-		"rare": ["リイ"]
+		"rare": [
+			"リイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ちから"],
+		"frequent": [
+			"ちから"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

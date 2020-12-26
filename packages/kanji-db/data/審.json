@@ -1,17 +1,29 @@
 {
 	"kanji": "審",
-	"meanings": ["hearing", "judge", "trial"],
+	"meanings": [
+		"hearing",
+		"judge",
+		"trial"
+	],
 	"keyword": "hearing",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つまび", "つぶさ"],
-		"okurigana": ["つまび.らか", "つぶさ.に"]
+		"rare": [
+			"つまび",
+			"つぶさ"
+		],
+		"okurigana": [
+			"つまび.らか",
+			"つぶさ.に"
+		]
 	},
 	"frequency": {
 		"mean": 877,

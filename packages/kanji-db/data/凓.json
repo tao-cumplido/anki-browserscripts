@@ -1,16 +1,26 @@
 {
 	"kanji": "凓",
-	"meanings": ["shiver", "severe cold"],
+	"meanings": [
+		"shiver",
+		"severe cold"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["リツ", "リチ"],
+		"common": [
+			"リツ",
+			"リチ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["さむ"],
+		"common": [
+			"さむ"
+		],
 		"rare": [],
-		"okurigana": ["さむ.い"]
+		"okurigana": [
+			"さむ.い"
+		]
 	},
 	"frequency": {
 		"mean": 4539,

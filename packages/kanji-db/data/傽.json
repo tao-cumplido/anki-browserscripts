@@ -1,16 +1,24 @@
 {
 	"kanji": "傽",
-	"meanings": ["terror-stricken"],
+	"meanings": [
+		"terror-stricken"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ショウ"],
+		"common": [
+			"ショウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["おどろ"],
+		"common": [
+			"おどろ"
+		],
 		"rare": [],
-		"okurigana": ["おどろ.く"]
+		"okurigana": [
+			"おどろ.く"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

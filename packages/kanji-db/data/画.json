@@ -1,17 +1,37 @@
 {
 	"kanji": "画",
-	"meanings": ["brush-stroke", "picture"],
+	"meanings": [
+		"brush-stroke",
+		"picture"
+	],
 	"keyword": "brush-stroke",
 	"onyomi": {
-		"frequent": ["ガ", "カク"],
+		"frequent": [
+			"ガ",
+			"カク"
+		],
 		"common": [],
-		"rare": ["エ", "カイ"]
+		"rare": [
+			"エ",
+			"カイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["えが", "かく", "かぎ", "はかりごと", "はか"],
-		"okurigana": ["えが.く", "かく.する", "かぎ.る", "はか.る"]
+		"rare": [
+			"えが",
+			"かく",
+			"かぎ",
+			"はかりごと",
+			"はか"
+		],
+		"okurigana": [
+			"えが.く",
+			"かく.する",
+			"かぎ.る",
+			"はか.る"
+		]
 	},
 	"frequency": {
 		"mean": 38,

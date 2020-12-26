@@ -1,17 +1,33 @@
 {
 	"kanji": "増",
-	"meanings": ["increase", "add", "augment", "gain", "promote"],
+	"meanings": [
+		"increase",
+		"add",
+		"augment",
+		"gain",
+		"promote"
+	],
 	"keyword": "increase",
 	"onyomi": {
-		"frequent": ["ゾウ"],
+		"frequent": [
+			"ゾウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ま", "ふ"],
+		"frequent": [
+			"ま",
+			"ふ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ま.す", "ま.し", "ふ.える", "ふ.やす"]
+		"okurigana": [
+			"ま.す",
+			"ま.し",
+			"ふ.える",
+			"ふ.やす"
+		]
 	},
 	"frequency": {
 		"mean": 594,

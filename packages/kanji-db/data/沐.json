@@ -1,17 +1,27 @@
 {
 	"kanji": "沐",
-	"meanings": ["wash"],
+	"meanings": [
+		"wash"
+	],
 	"keyword": "douse",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["モク"]
+		"rare": [
+			"モク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["もく", "あら"],
-		"okurigana": ["もく.する", "あら.う"]
+		"rare": [
+			"もく",
+			"あら"
+		],
+		"okurigana": [
+			"もく.する",
+			"あら.う"
+		]
 	},
 	"frequency": {
 		"mean": 3846,

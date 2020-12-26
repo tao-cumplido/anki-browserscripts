@@ -1,9 +1,15 @@
 {
 	"kanji": "僚",
-	"meanings": ["colleague", "official", "companion"],
+	"meanings": [
+		"colleague",
+		"official",
+		"companion"
+	],
 	"keyword": "colleague",
 	"onyomi": {
-		"frequent": ["リョウ"],
+		"frequent": [
+			"リョウ"
+		],
 		"common": [],
 		"rare": []
 	},

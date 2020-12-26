@@ -1,17 +1,29 @@
 {
 	"kanji": "授",
-	"meanings": ["impart", "instruct", "grant", "confer"],
+	"meanings": [
+		"impart",
+		"instruct",
+		"grant",
+		"confer"
+	],
 	"keyword": "impart",
 	"onyomi": {
-		"frequent": ["ジュ"],
+		"frequent": [
+			"ジュ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さず"],
+		"frequent": [
+			"さず"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["さず.ける", "さず.かる"]
+		"okurigana": [
+			"さず.ける",
+			"さず.かる"
+		]
 	},
 	"frequency": {
 		"mean": 677,

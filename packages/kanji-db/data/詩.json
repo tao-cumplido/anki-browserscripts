@@ -1,16 +1,23 @@
 {
 	"kanji": "詩",
-	"meanings": ["poem", "poetry"],
+	"meanings": [
+		"poem",
+		"poetry"
+	],
 	"keyword": "poem",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うた"],
+		"rare": [
+			"うた"
+		],
 		"okurigana": []
 	},
 	"frequency": {

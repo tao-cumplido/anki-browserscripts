@@ -1,0 +1,32 @@
+{
+	"kanji": "噢",
+	"meanings": [
+		"moan",
+		"interjection for pain",
+		"sad"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ユウ",
+			"イク",
+			"ウ",
+			"ク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"うめ"
+		],
+		"rare": [],
+		"okurigana": [
+			"うめ.く"
+		]
+	},
+	"frequency": {
+		"mean": 4538,
+		"wikipedia": 4229
+	}
+}

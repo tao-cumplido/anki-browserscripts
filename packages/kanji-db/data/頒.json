@@ -1,17 +1,29 @@
 {
 	"kanji": "頒",
-	"meanings": ["distribute", "disseminate", "partition", "understand"],
+	"meanings": [
+		"distribute",
+		"disseminate",
+		"partition",
+		"understand"
+	],
 	"keyword": "partition",
 	"onyomi": {
-		"frequent": ["ハン"],
+		"frequent": [
+			"ハン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わ"],
-		"okurigana": ["わ.かつ", "わ.ける"]
+		"rare": [
+			"わ"
+		],
+		"okurigana": [
+			"わ.かつ",
+			"わ.ける"
+		]
 	},
 	"frequency": {
 		"mean": 2971,

@@ -1,14 +1,28 @@
 {
 	"kanji": "葉",
-	"meanings": ["leaf", "plane", "lobe", "needle", "blade", "spear", "counter for flat things", "fragment", "piece"],
+	"meanings": [
+		"leaf",
+		"plane",
+		"lobe",
+		"needle",
+		"blade",
+		"spear",
+		"counter for flat things",
+		"fragment",
+		"piece"
+	],
 	"keyword": "leaf",
 	"onyomi": {
-		"frequent": ["ヨウ"],
+		"frequent": [
+			"ヨウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["は"],
+		"frequent": [
+			"は"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

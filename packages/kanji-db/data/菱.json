@@ -1,16 +1,24 @@
 {
 	"kanji": "菱",
-	"meanings": ["diamond (shape)", "water chestnut", "rhombus"],
+	"meanings": [
+		"diamond (shape)",
+		"water chestnut",
+		"rhombus"
+	],
 	"keyword": "diamond",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リョウ"]
+		"rare": [
+			"リョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひし"],
+		"rare": [
+			"ひし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

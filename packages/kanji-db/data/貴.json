@@ -1,17 +1,33 @@
 {
 	"kanji": "貴",
-	"meanings": ["precious", "value", "prize", "esteem", "honor"],
+	"meanings": [
+		"precious",
+		"value",
+		"prize",
+		"esteem",
+		"honor"
+	],
 	"keyword": "precious",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たっと", "とうと"],
+		"frequent": [
+			"たっと",
+			"とうと"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["たっと.い", "とうと.い", "たっと.ぶ", "とうと.ぶ"]
+		"okurigana": [
+			"たっと.い",
+			"とうと.い",
+			"たっと.ぶ",
+			"とうと.ぶ"
+		]
 	},
 	"frequency": {
 		"mean": 755,

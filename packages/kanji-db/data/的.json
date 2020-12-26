@@ -1,14 +1,24 @@
 {
 	"kanji": "的",
-	"meanings": ["bull's eye", "mark", "target", "object", "adjective ending"],
+	"meanings": [
+		"bull's eye",
+		"mark",
+		"target",
+		"object",
+		"adjective ending"
+	],
 	"keyword": "bull's eye",
 	"onyomi": {
-		"frequent": ["テキ"],
+		"frequent": [
+			"テキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まと"],
+		"frequent": [
+			"まと"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

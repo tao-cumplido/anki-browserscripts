@@ -1,17 +1,35 @@
 {
 	"kanji": "寛",
-	"meanings": ["tolerant", "leniency", "generosity", "relax", "feel at home", "be at ease", "broadminded"],
+	"meanings": [
+		"tolerant",
+		"leniency",
+		"generosity",
+		"relax",
+		"feel at home",
+		"be at ease",
+		"broadminded"
+	],
 	"keyword": "tolerant",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くつろ", "ひろ", "ゆる"],
-		"okurigana": ["くつろ.ぐ", "ひろ.い", "ゆる.やか"]
+		"rare": [
+			"くつろ",
+			"ひろ",
+			"ゆる"
+		],
+		"okurigana": [
+			"くつろ.ぐ",
+			"ひろ.い",
+			"ゆる.やか"
+		]
 	},
 	"frequency": {
 		"mean": 1133,

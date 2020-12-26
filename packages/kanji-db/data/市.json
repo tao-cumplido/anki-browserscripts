@@ -1,14 +1,22 @@
 {
 	"kanji": "市",
-	"meanings": ["market", "city", "town"],
+	"meanings": [
+		"market",
+		"city",
+		"town"
+	],
 	"keyword": "market",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いち"],
+		"frequent": [
+			"いち"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

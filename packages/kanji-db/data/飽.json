@@ -1,17 +1,30 @@
 {
 	"kanji": "飽",
-	"meanings": ["sated", "tired of", "bored", "satiate"],
+	"meanings": [
+		"sated",
+		"tired of",
+		"bored",
+		"satiate"
+	],
 	"keyword": "sated",
 	"onyomi": {
-		"frequent": ["ホウ"],
+		"frequent": [
+			"ホウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あ"],
+		"frequent": [
+			"あ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あ.きる", "あ.かす", "あ.く"]
+		"okurigana": [
+			"あ.きる",
+			"あ.かす",
+			"あ.く"
+		]
 	},
 	"frequency": {
 		"mean": 2090,

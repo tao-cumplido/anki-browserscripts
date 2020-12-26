@@ -1,14 +1,20 @@
 {
 	"kanji": "鯨",
-	"meanings": ["whale"],
+	"meanings": [
+		"whale"
+	],
 	"keyword": "whale",
 	"onyomi": {
-		"frequent": ["ゲイ"],
+		"frequent": [
+			"ゲイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くじら"],
+		"frequent": [
+			"くじら"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

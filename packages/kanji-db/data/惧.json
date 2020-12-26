@@ -1,17 +1,29 @@
 {
 	"kanji": "惧",
-	"meanings": ["fear", "be afraid of", "dread"],
+	"meanings": [
+		"fear",
+		"be afraid of",
+		"dread"
+	],
 	"keyword": "disquieting",
 	"onyomi": {
-		"frequent": ["グ"],
+		"frequent": [
+			"グ"
+		],
 		"common": [],
-		"rare": ["ク"]
+		"rare": [
+			"ク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おそ"],
-		"okurigana": ["おそ.れる"]
+		"rare": [
+			"おそ"
+		],
+		"okurigana": [
+			"おそ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1974,

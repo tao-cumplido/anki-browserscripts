@@ -1,16 +1,22 @@
 {
 	"kanji": "狐",
-	"meanings": ["fox"],
+	"meanings": [
+		"fox"
+	],
 	"keyword": "fox",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コ"]
+		"rare": [
+			"コ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きつね"],
+		"rare": [
+			"きつね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

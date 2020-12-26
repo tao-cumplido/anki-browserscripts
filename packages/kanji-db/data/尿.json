@@ -1,16 +1,24 @@
 {
 	"kanji": "尿",
-	"meanings": ["urine"],
+	"meanings": [
+		"urine"
+	],
 	"keyword": "urine",
 	"onyomi": {
-		"frequent": ["ニョウ"],
+		"frequent": [
+			"ニョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゆばり", "いばり", "しと"],
+		"rare": [
+			"ゆばり",
+			"いばり",
+			"しと"
+		],
 		"okurigana": []
 	},
 	"frequency": {

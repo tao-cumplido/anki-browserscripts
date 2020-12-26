@@ -1,17 +1,29 @@
 {
 	"kanji": "彬",
-	"meanings": ["refined", "gentle"],
+	"meanings": [
+		"refined",
+		"gentle"
+	],
 	"keyword": "copious",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒン", "フン"]
+		"rare": [
+			"ヒン",
+			"フン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うるわ", "あき"],
-		"okurigana": ["うるわ.しい", "あき.らか"]
+		"rare": [
+			"うるわ",
+			"あき"
+		],
+		"okurigana": [
+			"うるわ.しい",
+			"あき.らか"
+		]
 	},
 	"frequency": {
 		"mean": 2608,

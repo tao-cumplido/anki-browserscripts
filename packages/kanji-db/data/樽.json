@@ -1,16 +1,24 @@
 {
 	"kanji": "樽",
-	"meanings": ["barrel", "cask", "keg"],
+	"meanings": [
+		"barrel",
+		"cask",
+		"keg"
+	],
 	"keyword": "barrel",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソン"]
+		"rare": [
+			"ソン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たる"],
+		"rare": [
+			"たる"
+		],
 		"okurigana": []
 	},
 	"frequency": {

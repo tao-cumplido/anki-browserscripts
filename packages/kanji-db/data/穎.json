@@ -1,16 +1,24 @@
 {
 	"kanji": "穎",
-	"meanings": ["heads of grain", "cleverness"],
+	"meanings": [
+		"heads of grain",
+		"cleverness"
+	],
 	"keyword": "brush tip",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["エイ"]
+		"rare": [
+			"エイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほさき", "のぎ"],
+		"rare": [
+			"ほさき",
+			"のぎ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

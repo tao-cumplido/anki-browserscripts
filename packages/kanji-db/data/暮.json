@@ -1,17 +1,31 @@
 {
 	"kanji": "暮",
-	"meanings": ["evening", "twilight", "season's end", "livelihood", "make a living", "spend time"],
+	"meanings": [
+		"evening",
+		"twilight",
+		"season's end",
+		"livelihood",
+		"make a living",
+		"spend time"
+	],
 	"keyword": "livelihood",
 	"onyomi": {
-		"frequent": ["ボ"],
+		"frequent": [
+			"ボ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["く"],
+		"frequent": [
+			"く"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["く.れる", "く.らす"]
+		"okurigana": [
+			"く.れる",
+			"く.らす"
+		]
 	},
 	"frequency": {
 		"mean": 1204,

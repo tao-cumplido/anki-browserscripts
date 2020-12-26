@@ -1,16 +1,22 @@
 {
 	"kanji": "椀",
-	"meanings": ["wooden or lacquered bowl"],
+	"meanings": [
+		"wooden or lacquered bowl"
+	],
 	"keyword": "wooden bowl",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ワン"]
+		"rare": [
+			"ワン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はち"],
+		"rare": [
+			"はち"
+		],
 		"okurigana": []
 	},
 	"frequency": {

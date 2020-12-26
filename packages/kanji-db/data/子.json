@@ -1,16 +1,30 @@
 {
 	"kanji": "子",
-	"meanings": ["child", "sign of the rat", "11PM-1AM", "first sign of Chinese zodiac"],
+	"meanings": [
+		"child",
+		"sign of the rat",
+		"11PM-1AM",
+		"first sign of Chinese zodiac"
+	],
 	"keyword": "child",
 	"onyomi": {
-		"frequent": ["シ", "ス"],
+		"frequent": [
+			"シ",
+			"ス"
+		],
 		"common": [],
-		"rare": ["ツ"]
+		"rare": [
+			"ツ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["こ"],
+		"frequent": [
+			"こ"
+		],
 		"common": [],
-		"rare": ["ね"],
+		"rare": [
+			"ね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

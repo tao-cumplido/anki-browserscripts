@@ -1,17 +1,29 @@
 {
 	"kanji": "巣",
-	"meanings": ["nest", "rookery", "hive", "cobweb", "den"],
+	"meanings": [
+		"nest",
+		"rookery",
+		"hive",
+		"cobweb",
+		"den"
+	],
 	"keyword": "nest",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["す"],
+		"frequent": [
+			"す"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["す.くう"]
+		"okurigana": [
+			"す.くう"
+		]
 	},
 	"frequency": {
 		"mean": 1519,

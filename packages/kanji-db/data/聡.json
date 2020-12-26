@@ -1,17 +1,28 @@
 {
 	"kanji": "聡",
-	"meanings": ["wise", "fast learner"],
+	"meanings": [
+		"wise",
+		"fast learner"
+	],
 	"keyword": "attentive",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ"]
+		"rare": [
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さと", "みみざと"],
-		"okurigana": ["さと.い", "みみざと.い"]
+		"rare": [
+			"さと",
+			"みみざと"
+		],
+		"okurigana": [
+			"さと.い",
+			"みみざと.い"
+		]
 	},
 	"frequency": {
 		"mean": 1703,

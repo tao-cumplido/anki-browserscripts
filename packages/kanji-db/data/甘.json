@@ -1,17 +1,34 @@
 {
 	"kanji": "甘",
-	"meanings": ["sweet", "coax", "pamper", "be content", "sugary"],
+	"meanings": [
+		"sweet",
+		"coax",
+		"pamper",
+		"be content",
+		"sugary"
+	],
 	"keyword": "sweet",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あま"],
+		"frequent": [
+			"あま"
+		],
 		"common": [],
-		"rare": ["うま"],
-		"okurigana": ["あま.い", "あま.える", "あま.やかす", "うま.い"]
+		"rare": [
+			"うま"
+		],
+		"okurigana": [
+			"あま.い",
+			"あま.える",
+			"あま.やかす",
+			"うま.い"
+		]
 	},
 	"frequency": {
 		"mean": 1457,

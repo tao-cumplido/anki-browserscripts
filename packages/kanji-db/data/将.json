@@ -1,17 +1,39 @@
 {
 	"kanji": "将",
-	"meanings": ["leader", "commander", "general", "admiral", "or", "and again", "soon", "from now on", "just about"],
+	"meanings": [
+		"leader",
+		"commander",
+		"general",
+		"admiral",
+		"or",
+		"and again",
+		"soon",
+		"from now on",
+		"just about"
+	],
 	"keyword": "leader",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
-		"rare": ["ソウ"]
+		"rare": [
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まさ", "はた", "ひきい", "もって"],
-		"okurigana": ["まさ.に", "ひきい.る"]
+		"rare": [
+			"まさ",
+			"はた",
+			"ひきい",
+			"もって"
+		],
+		"okurigana": [
+			"まさ.に",
+			"ひきい.る"
+		]
 	},
 	"frequency": {
 		"mean": 521,

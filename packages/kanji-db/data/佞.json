@@ -1,16 +1,26 @@
 {
 	"kanji": "佞",
-	"meanings": ["flattery", "insincerity"],
+	"meanings": [
+		"flattery",
+		"insincerity"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ネイ"]
+		"rare": [
+			"ネイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おもね", "よこしま"],
-		"okurigana": ["おもね.る"]
+		"rare": [
+			"おもね",
+			"よこしま"
+		],
+		"okurigana": [
+			"おもね.る"
+		]
 	},
 	"frequency": {
 		"mean": 4107,

@@ -1,17 +1,36 @@
 {
 	"kanji": "伐",
-	"meanings": ["fell", "strike", "attack", "punish"],
+	"meanings": [
+		"fell",
+		"strike",
+		"attack",
+		"punish"
+	],
 	"keyword": "fell",
 	"onyomi": {
-		"frequent": ["バツ"],
+		"frequent": [
+			"バツ"
+		],
 		"common": [],
-		"rare": ["ハツ", "カ", "ボチ"]
+		"rare": [
+			"ハツ",
+			"カ",
+			"ボチ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["き", "そむ", "う"],
-		"okurigana": ["き.る", "そむ.く", "う.つ"]
+		"rare": [
+			"き",
+			"そむ",
+			"う"
+		],
+		"okurigana": [
+			"き.る",
+			"そむ.く",
+			"う.つ"
+		]
 	},
 	"frequency": {
 		"mean": 1840,

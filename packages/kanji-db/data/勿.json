@@ -1,17 +1,31 @@
 {
 	"kanji": "勿",
-	"meanings": ["not", "must not", "do not", "be not"],
+	"meanings": [
+		"not",
+		"must not",
+		"do not",
+		"be not"
+	],
 	"keyword": "not",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["モチ", "ブツ", "ボツ"]
+		"rare": [
+			"モチ",
+			"ブツ",
+			"ボツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なか", "なし"],
-		"okurigana": ["なか.れ"]
+		"rare": [
+			"なか",
+			"なし"
+		],
+		"okurigana": [
+			"なか.れ"
+		]
 	},
 	"frequency": {
 		"mean": 2044,

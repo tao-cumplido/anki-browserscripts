@@ -1,17 +1,30 @@
 {
 	"kanji": "晴",
-	"meanings": ["clear up"],
+	"meanings": [
+		"clear up"
+	],
 	"keyword": "clear up",
 	"onyomi": {
-		"frequent": ["セイ"],
+		"frequent": [
+			"セイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["は"],
+		"frequent": [
+			"は"
+		],
 		"common": [],
-		"rare": ["ば"],
-		"okurigana": ["は.れる", "は.れ", "ば.れ", "は.らす"]
+		"rare": [
+			"ば"
+		],
+		"okurigana": [
+			"は.れる",
+			"は.れ",
+			"ば.れ",
+			"は.らす"
+		]
 	},
 	"frequency": {
 		"mean": 1016,

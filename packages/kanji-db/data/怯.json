@@ -1,17 +1,37 @@
 {
 	"kanji": "怯",
-	"meanings": ["cowardice", "wince", "flinch", "hesitate", "waver"],
+	"meanings": [
+		"cowardice",
+		"wince",
+		"flinch",
+		"hesitate",
+		"waver"
+	],
 	"keyword": "wince",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ", "コウ"]
+		"rare": [
+			"キョウ",
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひる", "おびえ", "おじる", "おび", "おそ"],
-		"okurigana": ["ひる.む", "おびえ.る", "おび.える", "おそ.れる"]
+		"rare": [
+			"ひる",
+			"おびえ",
+			"おじる",
+			"おび",
+			"おそ"
+		],
+		"okurigana": [
+			"ひる.む",
+			"おびえ.る",
+			"おび.える",
+			"おそ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 2515,

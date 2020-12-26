@@ -1,17 +1,27 @@
 {
 	"kanji": "鍛",
-	"meanings": ["forge", "discipline", "train"],
+	"meanings": [
+		"forge",
+		"discipline",
+		"train"
+	],
 	"keyword": "forge",
 	"onyomi": {
-		"frequent": ["タン"],
+		"frequent": [
+			"タン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["きた"],
+		"frequent": [
+			"きた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["きた.える"]
+		"okurigana": [
+			"きた.える"
+		]
 	},
 	"frequency": {
 		"mean": 1945,

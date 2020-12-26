@@ -1,17 +1,29 @@
 {
 	"kanji": "允",
-	"meanings": ["license", "sincerity", "permit"],
+	"meanings": [
+		"license",
+		"sincerity",
+		"permit"
+	],
 	"keyword": "license",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["イン"]
+		"rare": [
+			"イン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["じょう", "まこと", "ゆるす"],
-		"okurigana": ["まこと.に"]
+		"rare": [
+			"じょう",
+			"まこと",
+			"ゆるす"
+		],
+		"okurigana": [
+			"まこと.に"
+		]
 	},
 	"frequency": {
 		"mean": 2496,

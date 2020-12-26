@@ -1,14 +1,20 @@
 {
 	"kanji": "柿",
-	"meanings": ["persimmon"],
+	"meanings": [
+		"persimmon"
+	],
 	"keyword": "persimmon",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["かき"],
+		"frequent": [
+			"かき"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

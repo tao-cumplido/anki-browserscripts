@@ -1,17 +1,28 @@
 {
 	"kanji": "告",
-	"meanings": ["revelation", "tell", "inform", "announce"],
+	"meanings": [
+		"revelation",
+		"tell",
+		"inform",
+		"announce"
+	],
 	"keyword": "revelation",
 	"onyomi": {
-		"frequent": ["コク"],
+		"frequent": [
+			"コク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つ"],
+		"frequent": [
+			"つ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["つ.げる"]
+		"okurigana": [
+			"つ.げる"
+		]
 	},
 	"frequency": {
 		"mean": 546,

@@ -1,17 +1,34 @@
 {
 	"kanji": "承",
-	"meanings": ["acquiesce", "hear", "listen to", "be informed", "receive"],
+	"meanings": [
+		"acquiesce",
+		"hear",
+		"listen to",
+		"be informed",
+		"receive"
+	],
 	"keyword": "acquiesce",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
-		"rare": ["ジョウ"]
+		"rare": [
+			"ジョウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["うけたまわ"],
+		"frequent": [
+			"うけたまわ"
+		],
 		"common": [],
-		"rare": ["う"],
-		"okurigana": ["うけたまわ.る", "う.ける"]
+		"rare": [
+			"う"
+		],
+		"okurigana": [
+			"うけたまわ.る",
+			"う.ける"
+		]
 	},
 	"frequency": {
 		"mean": 893,

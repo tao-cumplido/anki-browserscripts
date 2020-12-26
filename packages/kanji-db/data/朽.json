@@ -1,17 +1,27 @@
 {
 	"kanji": "朽",
-	"meanings": ["decay", "rot", "remain in seclusion"],
+	"meanings": [
+		"decay",
+		"rot",
+		"remain in seclusion"
+	],
 	"keyword": "decay",
 	"onyomi": {
-		"frequent": ["キュウ"],
+		"frequent": [
+			"キュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["く"],
+		"frequent": [
+			"く"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["く.ちる"]
+		"okurigana": [
+			"く.ちる"
+		]
 	},
 	"frequency": {
 		"mean": 2087,

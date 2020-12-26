@@ -1,17 +1,29 @@
 {
 	"kanji": "救",
-	"meanings": ["salvation", "save", "help", "rescue", "reclaim"],
+	"meanings": [
+		"salvation",
+		"save",
+		"help",
+		"rescue",
+		"reclaim"
+	],
 	"keyword": "salvation",
 	"onyomi": {
-		"frequent": ["キュウ"],
+		"frequent": [
+			"キュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["すく"],
+		"frequent": [
+			"すく"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["すく.う"]
+		"okurigana": [
+			"すく.う"
+		]
 	},
 	"frequency": {
 		"mean": 972,

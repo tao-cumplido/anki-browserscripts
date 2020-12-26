@@ -1,17 +1,31 @@
 {
 	"kanji": "巧",
-	"meanings": ["adroit", "skilled", "ingenuity"],
+	"meanings": [
+		"adroit",
+		"skilled",
+		"ingenuity"
+	],
 	"keyword": "adroit",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たく"],
+		"frequent": [
+			"たく"
+		],
 		"common": [],
-		"rare": ["うま"],
-		"okurigana": ["たく.み", "たく.む", "うま.い"]
+		"rare": [
+			"うま"
+		],
+		"okurigana": [
+			"たく.み",
+			"たく.む",
+			"うま.い"
+		]
 	},
 	"frequency": {
 		"mean": 1834,

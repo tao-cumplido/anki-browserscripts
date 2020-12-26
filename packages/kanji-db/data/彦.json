@@ -1,16 +1,23 @@
 {
 	"kanji": "彦",
-	"meanings": ["lad", "boy (ancient)"],
+	"meanings": [
+		"lad",
+		"boy (ancient)"
+	],
 	"keyword": "lad",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゲン"]
+		"rare": [
+			"ゲン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひこ"],
+		"rare": [
+			"ひこ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

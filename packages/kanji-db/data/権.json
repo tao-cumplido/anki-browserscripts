@@ -1,17 +1,31 @@
 {
 	"kanji": "権",
-	"meanings": ["authority", "power", "rights"],
+	"meanings": [
+		"authority",
+		"power",
+		"rights"
+	],
 	"keyword": "authority",
 	"onyomi": {
-		"frequent": ["ケン"],
-		"common": ["ゴン"],
+		"frequent": [
+			"ケン"
+		],
+		"common": [
+			"ゴン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おもり", "かり", "はか"],
-		"okurigana": ["はか.る"]
+		"rare": [
+			"おもり",
+			"かり",
+			"はか"
+		],
+		"okurigana": [
+			"はか.る"
+		]
 	},
 	"frequency": {
 		"mean": 232,

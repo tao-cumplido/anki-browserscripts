@@ -1,17 +1,28 @@
 {
 	"kanji": "咲",
-	"meanings": ["blossom", "bloom"],
+	"meanings": [
+		"blossom",
+		"bloom"
+	],
 	"keyword": "blossom",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ"]
+		"rare": [
+			"ショウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["さ"],
+		"frequent": [
+			"さ"
+		],
 		"common": [],
-		"rare": ["ざき"],
-		"okurigana": ["さ.く"]
+		"rare": [
+			"ざき"
+		],
+		"okurigana": [
+			"さ.く"
+		]
 	},
 	"frequency": {
 		"mean": 1273,

@@ -1,17 +1,32 @@
 {
 	"kanji": "盛",
-	"meanings": ["boom", "prosper", "copulate"],
+	"meanings": [
+		"boom",
+		"prosper",
+		"copulate"
+	],
 	"keyword": "boom",
 	"onyomi": {
-		"frequent": ["セイ"],
-		"common": ["ジョウ"],
+		"frequent": [
+			"セイ"
+		],
+		"common": [
+			"ジョウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["も", "さか"],
+		"frequent": [
+			"も",
+			"さか"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["も.る", "さか.る", "さか.ん"]
+		"okurigana": [
+			"も.る",
+			"さか.る",
+			"さか.ん"
+		]
 	},
 	"frequency": {
 		"mean": 868,

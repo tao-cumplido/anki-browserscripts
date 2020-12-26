@@ -1,17 +1,27 @@
 {
 	"kanji": "訂",
-	"meanings": ["revise", "correct", "decide"],
+	"meanings": [
+		"revise",
+		"correct",
+		"decide"
+	],
 	"keyword": "revise",
 	"onyomi": {
-		"frequent": ["テイ"],
+		"frequent": [
+			"テイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ただ"],
-		"okurigana": ["ただ.す"]
+		"rare": [
+			"ただ"
+		],
+		"okurigana": [
+			"ただ.す"
+		]
 	},
 	"frequency": {
 		"mean": 1493,

@@ -1,17 +1,27 @@
 {
 	"kanji": "叱",
-	"meanings": ["scold", "reprove"],
+	"meanings": [
+		"scold",
+		"reprove"
+	],
 	"keyword": "scold",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シツ", "シチ"]
+		"rare": [
+			"シツ",
+			"シチ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しか"],
-		"okurigana": ["しか.る"]
+		"rare": [
+			"しか"
+		],
+		"okurigana": [
+			"しか.る"
+		]
 	},
 	"frequency": {
 		"mean": 2206,

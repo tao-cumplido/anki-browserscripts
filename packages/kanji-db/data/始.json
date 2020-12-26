@@ -1,17 +1,27 @@
 {
 	"kanji": "始",
-	"meanings": ["commence", "begin"],
+	"meanings": [
+		"commence",
+		"begin"
+	],
 	"keyword": "commence",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はじ"],
+		"frequent": [
+			"はじ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["はじ.める", "はじ.まる"]
+		"okurigana": [
+			"はじ.める",
+			"はじ.まる"
+		]
 	},
 	"frequency": {
 		"mean": 299,

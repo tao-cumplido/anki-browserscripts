@@ -1,17 +1,34 @@
 {
 	"kanji": "好",
-	"meanings": ["fond", "pleasing", "like something"],
+	"meanings": [
+		"fond",
+		"pleasing",
+		"like something"
+	],
 	"keyword": "fond",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["この", "す"],
+		"frequent": [
+			"この",
+			"す"
+		],
 		"common": [],
-		"rare": ["よ", "い"],
-		"okurigana": ["この.む", "す.く", "よ.い", "い.い"]
+		"rare": [
+			"よ",
+			"い"
+		],
+		"okurigana": [
+			"この.む",
+			"す.く",
+			"よ.い",
+			"い.い"
+		]
 	},
 	"frequency": {
 		"mean": 512,

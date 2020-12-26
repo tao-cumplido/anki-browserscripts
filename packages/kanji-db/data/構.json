@@ -1,17 +1,28 @@
 {
 	"kanji": "構",
-	"meanings": ["posture", "build", "pretend"],
+	"meanings": [
+		"posture",
+		"build",
+		"pretend"
+	],
 	"keyword": "posture",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かま"],
+		"frequent": [
+			"かま"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かま.える", "かま.う"]
+		"okurigana": [
+			"かま.える",
+			"かま.う"
+		]
 	},
 	"frequency": {
 		"mean": 379,

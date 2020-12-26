@@ -1,17 +1,28 @@
 {
 	"kanji": "寵",
-	"meanings": ["affection", "love", "patronage"],
+	"meanings": [
+		"affection",
+		"love",
+		"patronage"
+	],
 	"keyword": "patronage",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョウ"]
+		"rare": [
+			"チョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["めぐ"],
-		"okurigana": ["めぐ.み", "めぐ.む"]
+		"rare": [
+			"めぐ"
+		],
+		"okurigana": [
+			"めぐ.み",
+			"めぐ.む"
+		]
 	},
 	"frequency": {
 		"mean": 2625,

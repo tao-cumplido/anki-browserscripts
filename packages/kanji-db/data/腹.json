@@ -1,14 +1,22 @@
 {
 	"kanji": "腹",
-	"meanings": ["abdomen", "belly", "stomach"],
+	"meanings": [
+		"abdomen",
+		"belly",
+		"stomach"
+	],
 	"keyword": "abdomen",
 	"onyomi": {
-		"frequent": ["フク"],
+		"frequent": [
+			"フク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はら"],
+		"frequent": [
+			"はら"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

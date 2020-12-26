@@ -1,16 +1,25 @@
 {
 	"kanji": "侶",
-	"meanings": ["companion", "follower"],
+	"meanings": [
+		"companion",
+		"follower"
+	],
 	"keyword": "partner",
 	"onyomi": {
-		"frequent": ["リョ"],
+		"frequent": [
+			"リョ"
+		],
 		"common": [],
-		"rare": ["ロ"]
+		"rare": [
+			"ロ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とも"],
+		"rare": [
+			"とも"
+		],
 		"okurigana": []
 	},
 	"frequency": {

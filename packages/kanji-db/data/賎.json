@@ -1,17 +1,33 @@
 {
 	"kanji": "賎",
-	"meanings": ["despise", "low-life", "poverty"],
+	"meanings": [
+		"despise",
+		"low-life",
+		"poverty"
+	],
 	"keyword": "despicable",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セン", "ゼン"]
+		"rare": [
+			"セン",
+			"ゼン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いや", "しず", "やす"],
-		"okurigana": ["いや.しい", "いや.しむ", "いや.しめる", "やす.い"]
+		"rare": [
+			"いや",
+			"しず",
+			"やす"
+		],
+		"okurigana": [
+			"いや.しい",
+			"いや.しむ",
+			"いや.しめる",
+			"やす.い"
+		]
 	},
 	"frequency": {
 		"mean": 3919,

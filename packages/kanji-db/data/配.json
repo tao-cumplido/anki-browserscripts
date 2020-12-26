@@ -1,17 +1,28 @@
 {
 	"kanji": "配",
-	"meanings": ["distribute", "spouse", "exile", "rationing"],
+	"meanings": [
+		"distribute",
+		"spouse",
+		"exile",
+		"rationing"
+	],
 	"keyword": "distribute",
 	"onyomi": {
-		"frequent": ["ハイ"],
+		"frequent": [
+			"ハイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くば"],
+		"frequent": [
+			"くば"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["くば.る"]
+		"okurigana": [
+			"くば.る"
+		]
 	},
 	"frequency": {
 		"mean": 376,

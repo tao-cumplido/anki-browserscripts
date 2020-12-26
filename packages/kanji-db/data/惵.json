@@ -1,0 +1,35 @@
+{
+	"kanji": "惵",
+	"meanings": [
+		"fear",
+		"worry over",
+		"fill",
+		"satisfy",
+		"calm",
+		"at ease",
+		"tranquil"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"チョウ",
+			"ジョウ",
+			"キョウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"やす"
+		],
+		"rare": [],
+		"okurigana": [
+			"やす.らか"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

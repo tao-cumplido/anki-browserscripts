@@ -1,16 +1,22 @@
 {
 	"kanji": "獅",
-	"meanings": ["lion"],
+	"meanings": [
+		"lion"
+	],
 	"keyword": "lion",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しし"],
+		"rare": [
+			"しし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

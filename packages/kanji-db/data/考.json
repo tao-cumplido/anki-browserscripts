@@ -1,17 +1,27 @@
 {
 	"kanji": "考",
-	"meanings": ["consider", "think over"],
+	"meanings": [
+		"consider",
+		"think over"
+	],
 	"keyword": "consider",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かんが"],
+		"frequent": [
+			"かんが"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かんが.える", "かんが.え"]
+		"okurigana": [
+			"かんが.える",
+			"かんが.え"
+		]
 	},
 	"frequency": {
 		"mean": 197,

@@ -1,16 +1,22 @@
 {
 	"kanji": "婢",
-	"meanings": ["maidservant"],
+	"meanings": [
+		"maidservant"
+	],
 	"keyword": "handmaiden",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒ"]
+		"rare": [
+			"ヒ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はしため"],
+		"rare": [
+			"はしため"
+		],
 		"okurigana": []
 	},
 	"frequency": {

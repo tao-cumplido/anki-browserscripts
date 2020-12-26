@@ -1,16 +1,25 @@
 {
 	"kanji": "呂",
-	"meanings": ["spine", "backbone"],
+	"meanings": [
+		"spine",
+		"backbone"
+	],
 	"keyword": "spine",
 	"onyomi": {
-		"frequent": ["ロ"],
+		"frequent": [
+			"ロ"
+		],
 		"common": [],
-		"rare": ["リョ"]
+		"rare": [
+			"リョ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["せぼね"],
+		"rare": [
+			"せぼね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

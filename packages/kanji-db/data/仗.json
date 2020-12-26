@@ -1,15 +1,26 @@
 {
 	"kanji": "仗",
-	"meanings": ["cane", "stick"],
+	"meanings": [
+		"cane",
+		"stick"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジョウ", "チョウ"]
+		"rare": [
+			"ジョウ",
+			"チョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つえ", "つわもの", "まわり", "よる"],
+		"rare": [
+			"つえ",
+			"つわもの",
+			"まわり",
+			"よる"
+		],
 		"okurigana": []
 	},
 	"frequency": {

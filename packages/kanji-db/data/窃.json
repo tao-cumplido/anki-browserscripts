@@ -1,17 +1,31 @@
 {
 	"kanji": "窃",
-	"meanings": ["stealth", "steal", "secret", "private", "hushed"],
+	"meanings": [
+		"stealth",
+		"steal",
+		"secret",
+		"private",
+		"hushed"
+	],
 	"keyword": "stealth",
 	"onyomi": {
-		"frequent": ["セツ"],
+		"frequent": [
+			"セツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ぬす", "ひそ"],
-		"okurigana": ["ぬす.む", "ひそ.か"]
+		"rare": [
+			"ぬす",
+			"ひそ"
+		],
+		"okurigana": [
+			"ぬす.む",
+			"ひそ.か"
+		]
 	},
 	"frequency": {
 		"mean": 2638,

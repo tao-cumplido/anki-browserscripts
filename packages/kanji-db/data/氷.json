@@ -1,17 +1,32 @@
 {
 	"kanji": "氷",
-	"meanings": ["icicle", "ice", "hail", "freeze", "congeal"],
+	"meanings": [
+		"icicle",
+		"ice",
+		"hail",
+		"freeze",
+		"congeal"
+	],
 	"keyword": "icicle",
 	"onyomi": {
-		"frequent": ["ヒョウ"],
+		"frequent": [
+			"ヒョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こおり", "ひ"],
+		"frequent": [
+			"こおり",
+			"ひ"
+		],
 		"common": [],
-		"rare": ["こお"],
-		"okurigana": ["こお.る"]
+		"rare": [
+			"こお"
+		],
+		"okurigana": [
+			"こお.る"
+		]
 	},
 	"frequency": {
 		"mean": 1215,

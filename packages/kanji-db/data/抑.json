@@ -1,17 +1,33 @@
 {
 	"kanji": "抑",
-	"meanings": ["repress", "well", "now", "in the first place", "push", "shove", "press", "seal", "do in spite of"],
+	"meanings": [
+		"repress",
+		"well",
+		"now",
+		"in the first place",
+		"push",
+		"shove",
+		"press",
+		"seal",
+		"do in spite of"
+	],
 	"keyword": "repress",
 	"onyomi": {
-		"frequent": ["ヨク"],
+		"frequent": [
+			"ヨク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おさ"],
+		"frequent": [
+			"おさ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おさ.える"]
+		"okurigana": [
+			"おさ.える"
+		]
 	},
 	"frequency": {
 		"mean": 1453,

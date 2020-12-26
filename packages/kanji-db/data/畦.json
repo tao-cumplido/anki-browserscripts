@@ -1,16 +1,25 @@
 {
 	"kanji": "畦",
-	"meanings": ["rice paddy ridge", "furrow", "rib"],
+	"meanings": [
+		"rice paddy ridge",
+		"furrow",
+		"rib"
+	],
 	"keyword": "paddy-field ridge",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケイ"]
+		"rare": [
+			"ケイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あぜ", "うね"],
+		"rare": [
+			"あぜ",
+			"うね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

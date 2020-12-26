@@ -1,16 +1,24 @@
 {
 	"kanji": "瑞",
-	"meanings": ["congratulations"],
+	"meanings": [
+		"congratulations"
+	],
 	"keyword": "fortunate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ズイ", "スイ"]
+		"rare": [
+			"ズイ",
+			"スイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みず", "しるし"],
+		"rare": [
+			"みず",
+			"しるし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

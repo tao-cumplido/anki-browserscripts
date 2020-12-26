@@ -1,17 +1,30 @@
 {
 	"kanji": "履",
-	"meanings": ["perform", "complete", "footgear", "shoes", "boots", "put on (the feet)"],
+	"meanings": [
+		"perform",
+		"complete",
+		"footgear",
+		"shoes",
+		"boots",
+		"put on (the feet)"
+	],
 	"keyword": "footgear",
 	"onyomi": {
-		"frequent": ["リ"],
+		"frequent": [
+			"リ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["は"],
+		"frequent": [
+			"は"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["は.く"]
+		"okurigana": [
+			"は.く"
+		]
 	},
 	"frequency": {
 		"mean": 1231,

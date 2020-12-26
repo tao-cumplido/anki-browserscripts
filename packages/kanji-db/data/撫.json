@@ -1,17 +1,28 @@
 {
 	"kanji": "撫",
-	"meanings": ["stroke", "pat", "smooth down"],
+	"meanings": [
+		"stroke",
+		"pat",
+		"smooth down"
+	],
 	"keyword": "petting",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ブ", "フ"]
+		"rare": [
+			"ブ",
+			"フ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["な"],
-		"okurigana": ["な.でる"]
+		"rare": [
+			"な"
+		],
+		"okurigana": [
+			"な.でる"
+		]
 	},
 	"frequency": {
 		"mean": 2156,

@@ -1,16 +1,25 @@
 {
 	"kanji": "時",
-	"meanings": ["time", "hour"],
+	"meanings": [
+		"time",
+		"hour"
+	],
 	"keyword": "time",
 	"onyomi": {
-		"frequent": ["ジ"],
+		"frequent": [
+			"ジ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["とき"],
+		"frequent": [
+			"とき"
+		],
 		"common": [],
-		"rare": ["どき"],
+		"rare": [
+			"どき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

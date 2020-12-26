@@ -1,17 +1,32 @@
 {
 	"kanji": "然",
-	"meanings": ["sort of thing", "so", "if so", "in that case", "well"],
+	"meanings": [
+		"sort of thing",
+		"so",
+		"if so",
+		"in that case",
+		"well"
+	],
 	"keyword": "sort of thing",
 	"onyomi": {
-		"frequent": ["ゼン", "ネン"],
+		"frequent": [
+			"ゼン",
+			"ネン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しか", "さ"],
-		"okurigana": ["しか.り", "しか.し"]
+		"rare": [
+			"しか",
+			"さ"
+		],
+		"okurigana": [
+			"しか.り",
+			"しか.し"
+		]
 	},
 	"frequency": {
 		"mean": 540,

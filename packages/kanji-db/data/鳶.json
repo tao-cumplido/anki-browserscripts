@@ -1,16 +1,25 @@
 {
 	"kanji": "鳶",
-	"meanings": ["black kite", "fireman", "hook"],
+	"meanings": [
+		"black kite",
+		"fireman",
+		"hook"
+	],
 	"keyword": "black kite",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["エン"]
+		"rare": [
+			"エン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とび", "とんび"],
+		"rare": [
+			"とび",
+			"とんび"
+		],
 		"okurigana": []
 	},
 	"frequency": {

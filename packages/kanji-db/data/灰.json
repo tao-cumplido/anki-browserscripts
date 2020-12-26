@@ -1,14 +1,22 @@
 {
 	"kanji": "灰",
-	"meanings": ["ashes", "puckery juice", "cremate"],
+	"meanings": [
+		"ashes",
+		"puckery juice",
+		"cremate"
+	],
 	"keyword": "ashes",
 	"onyomi": {
-		"frequent": ["カイ"],
+		"frequent": [
+			"カイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はい"],
+		"frequent": [
+			"はい"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

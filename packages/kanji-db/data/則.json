@@ -1,17 +1,28 @@
 {
 	"kanji": "則",
-	"meanings": ["rule", "follow", "based on", "model after"],
+	"meanings": [
+		"rule",
+		"follow",
+		"based on",
+		"model after"
+	],
 	"keyword": "rule",
 	"onyomi": {
-		"frequent": ["ソク"],
+		"frequent": [
+			"ソク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["のっと"],
-		"okurigana": ["のっと.る"]
+		"rare": [
+			"のっと"
+		],
+		"okurigana": [
+			"のっと.る"
+		]
 	},
 	"frequency": {
 		"mean": 850,

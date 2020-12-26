@@ -1,16 +1,26 @@
 {
 	"kanji": "冉",
-	"meanings": ["red", "tan"],
+	"meanings": [
+		"red",
+		"tan"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゼン", "ネン"]
+		"rare": [
+			"ゼン",
+			"ネン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あや"],
-		"okurigana": ["あや.うい"]
+		"rare": [
+			"あや"
+		],
+		"okurigana": [
+			"あや.うい"
+		]
 	},
 	"frequency": {
 		"mean": 3819,

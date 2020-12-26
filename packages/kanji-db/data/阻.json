@@ -1,17 +1,30 @@
 {
 	"kanji": "阻",
-	"meanings": ["thwart", "separate from", "prevent", "obstruct", "deter", "impede"],
+	"meanings": [
+		"thwart",
+		"separate from",
+		"prevent",
+		"obstruct",
+		"deter",
+		"impede"
+	],
 	"keyword": "thwart",
 	"onyomi": {
-		"frequent": ["ソ"],
+		"frequent": [
+			"ソ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はば"],
+		"frequent": [
+			"はば"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["はば.む"]
+		"okurigana": [
+			"はば.む"
+		]
 	},
 	"frequency": {
 		"mean": 1729,

@@ -1,17 +1,28 @@
 {
 	"kanji": "憤",
-	"meanings": ["aroused", "resent", "be indignant", "anger"],
+	"meanings": [
+		"aroused",
+		"resent",
+		"be indignant",
+		"anger"
+	],
 	"keyword": "aroused",
 	"onyomi": {
-		"frequent": ["フン"],
+		"frequent": [
+			"フン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いきどお"],
+		"frequent": [
+			"いきどお"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["いきどお.る"]
+		"okurigana": [
+			"いきどお.る"
+		]
 	},
 	"frequency": {
 		"mean": 2277,

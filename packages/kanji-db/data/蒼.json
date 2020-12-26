@@ -1,17 +1,26 @@
 {
 	"kanji": "蒼",
-	"meanings": ["blue", "pale"],
+	"meanings": [
+		"blue",
+		"pale"
+	],
 	"keyword": "pale blue",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ"]
+		"rare": [
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あお"],
-		"okurigana": ["あお.い"]
+		"rare": [
+			"あお"
+		],
+		"okurigana": [
+			"あお.い"
+		]
 	},
 	"frequency": {
 		"mean": 1671,

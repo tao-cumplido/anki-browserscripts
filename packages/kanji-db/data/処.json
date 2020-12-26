@@ -1,17 +1,34 @@
 {
 	"kanji": "処",
-	"meanings": ["dispose", "manage", "deal with", "sentence", "condemn", "act", "behave", "place"],
+	"meanings": [
+		"dispose",
+		"manage",
+		"deal with",
+		"sentence",
+		"condemn",
+		"act",
+		"behave",
+		"place"
+	],
 	"keyword": "dispose",
 	"onyomi": {
-		"frequent": ["ショ"],
+		"frequent": [
+			"ショ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ところ", "こ", "お"],
-		"okurigana": ["お.る"]
+		"rare": [
+			"ところ",
+			"こ",
+			"お"
+		],
+		"okurigana": [
+			"お.る"
+		]
 	},
 	"frequency": {
 		"mean": 536,

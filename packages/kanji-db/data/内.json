@@ -1,14 +1,27 @@
 {
 	"kanji": "内",
-	"meanings": ["inside", "within", "between", "among", "house", "home"],
+	"meanings": [
+		"inside",
+		"within",
+		"between",
+		"among",
+		"house",
+		"home"
+	],
 	"keyword": "inside",
 	"onyomi": {
-		"frequent": ["ナイ"],
-		"common": ["ダイ"],
+		"frequent": [
+			"ナイ"
+		],
+		"common": [
+			"ダイ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うち"],
+		"frequent": [
+			"うち"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,30 @@
 {
 	"kanji": "斡",
-	"meanings": ["go around", "rule", "administer"],
+	"meanings": [
+		"go around",
+		"rule",
+		"administer"
+	],
 	"keyword": "auspices",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["アツ", "カン", "ワツ"]
+		"rare": [
+			"アツ",
+			"カン",
+			"ワツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["めぐ"],
-		"okurigana": ["めぐ.る", "めぐ.らす"]
+		"rare": [
+			"めぐ"
+		],
+		"okurigana": [
+			"めぐ.る",
+			"めぐ.らす"
+		]
 	},
 	"frequency": {
 		"mean": 2983,

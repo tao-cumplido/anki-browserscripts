@@ -1,17 +1,26 @@
 {
 	"kanji": "烹",
-	"meanings": ["boil", "cook"],
+	"meanings": [
+		"boil",
+		"cook"
+	],
 	"keyword": "stew",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ホウ"]
+		"rare": [
+			"ホウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["に"],
-		"okurigana": ["に.る"]
+		"rare": [
+			"に"
+		],
+		"okurigana": [
+			"に.る"
+		]
 	},
 	"frequency": {
 		"mean": 3617,

@@ -1,14 +1,24 @@
 {
 	"kanji": "筒",
-	"meanings": ["cylinder", "pipe", "tube", "gun barrel", "sleeve"],
+	"meanings": [
+		"cylinder",
+		"pipe",
+		"tube",
+		"gun barrel",
+		"sleeve"
+	],
 	"keyword": "cylinder",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つつ"],
+		"frequent": [
+			"つつ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,33 @@
 {
 	"kanji": "編",
-	"meanings": ["compilation", "knit", "plait", "braid", "twist", "editing", "completed poem", "part of a book"],
+	"meanings": [
+		"compilation",
+		"knit",
+		"plait",
+		"braid",
+		"twist",
+		"editing",
+		"completed poem",
+		"part of a book"
+	],
 	"keyword": "compilation",
 	"onyomi": {
-		"frequent": ["ヘン"],
+		"frequent": [
+			"ヘン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あ"],
+		"frequent": [
+			"あ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あ.む", "あ.み"]
+		"okurigana": [
+			"あ.む",
+			"あ.み"
+		]
 	},
 	"frequency": {
 		"mean": 149,

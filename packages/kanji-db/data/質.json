@@ -1,17 +1,34 @@
 {
 	"kanji": "質",
-	"meanings": ["substance", "quality", "matter", "temperament"],
+	"meanings": [
+		"substance",
+		"quality",
+		"matter",
+		"temperament"
+	],
 	"keyword": "substance",
 	"onyomi": {
-		"frequent": ["シツ", "シチ"],
-		"common": ["チ"],
+		"frequent": [
+			"シツ",
+			"シチ"
+		],
+		"common": [
+			"チ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たち", "ただ", "もと", "わりふ"],
-		"okurigana": ["ただ.す"]
+		"rare": [
+			"たち",
+			"ただ",
+			"もと",
+			"わりふ"
+		],
+		"okurigana": [
+			"ただ.す"
+		]
 	},
 	"frequency": {
 		"mean": 523,

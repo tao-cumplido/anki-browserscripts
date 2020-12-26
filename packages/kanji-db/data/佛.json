@@ -1,15 +1,22 @@
 {
 	"kanji": "佛",
-	"meanings": ["France"],
+	"meanings": [
+		"France"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ブツ", "フツ"]
+		"rare": [
+			"ブツ",
+			"フツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほとけ"],
+		"rare": [
+			"ほとけ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,25 @@
 {
 	"kanji": "慈",
-	"meanings": ["mercy"],
+	"meanings": [
+		"mercy"
+	],
 	"keyword": "mercy",
 	"onyomi": {
-		"frequent": ["ジ"],
+		"frequent": [
+			"ジ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いつく"],
+		"frequent": [
+			"いつく"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["いつく.しむ"]
+		"okurigana": [
+			"いつく.しむ"
+		]
 	},
 	"frequency": {
 		"mean": 1678,

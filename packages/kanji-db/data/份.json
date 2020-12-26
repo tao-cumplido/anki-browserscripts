@@ -1,16 +1,29 @@
 {
 	"kanji": "份",
-	"meanings": ["portion", "part", "duty"],
+	"meanings": [
+		"portion",
+		"part",
+		"duty"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ヒン", "フン"],
+		"common": [
+			"ヒン",
+			"フン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["うるわ", "あき"],
+		"common": [
+			"うるわ",
+			"あき"
+		],
 		"rare": [],
-		"okurigana": ["うるわ.しい", "あき.らか"]
+		"okurigana": [
+			"うるわ.しい",
+			"あき.らか"
+		]
 	},
 	"frequency": {
 		"mean": 3344,

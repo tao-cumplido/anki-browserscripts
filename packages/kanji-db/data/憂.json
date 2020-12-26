@@ -1,17 +1,34 @@
 {
 	"kanji": "憂",
-	"meanings": ["melancholy", "grieve", "lament", "be anxious", "sad", "unhappy"],
+	"meanings": [
+		"melancholy",
+		"grieve",
+		"lament",
+		"be anxious",
+		"sad",
+		"unhappy"
+	],
 	"keyword": "melancholy",
 	"onyomi": {
-		"frequent": ["ユウ"],
+		"frequent": [
+			"ユウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うれ", "う"],
+		"frequent": [
+			"うれ",
+			"う"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["うれ.える", "うれ.い", "う.い", "う.き"]
+		"okurigana": [
+			"うれ.える",
+			"うれ.い",
+			"う.い",
+			"う.き"
+		]
 	},
 	"frequency": {
 		"mean": 1916,

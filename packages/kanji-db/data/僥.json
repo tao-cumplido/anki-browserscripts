@@ -1,10 +1,17 @@
 {
 	"kanji": "僥",
-	"meanings": ["luck", "seek", "desire"],
+	"meanings": [
+		"luck",
+		"seek",
+		"desire"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ギョウ", "キョウ"]
+		"rare": [
+			"ギョウ",
+			"キョウ"
+		]
 	},
 	"frequency": {
 		"mean": 4230,

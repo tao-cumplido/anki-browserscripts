@@ -1,16 +1,26 @@
 {
 	"kanji": "辰",
-	"meanings": ["sign of the dragon", "7-9AM", "fifth sign of Chinese zodiac", "shin dragon radical (no. 161)"],
+	"meanings": [
+		"sign of the dragon",
+		"7-9AM",
+		"fifth sign of Chinese zodiac",
+		"shin dragon radical (no. 161)"
+	],
 	"keyword": "sign of the dragon",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シン", "ジン"]
+		"rare": [
+			"シン",
+			"ジン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たつ"],
+		"rare": [
+			"たつ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

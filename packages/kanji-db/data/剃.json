@@ -1,17 +1,28 @@
 {
 	"kanji": "剃",
-	"meanings": ["shave"],
+	"meanings": [
+		"shave"
+	],
 	"keyword": "shave",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テイ"]
+		"rare": [
+			"テイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まい", "そ", "す"],
-		"okurigana": ["そ.る", "す.る"]
+		"rare": [
+			"まい",
+			"そ",
+			"す"
+		],
+		"okurigana": [
+			"そ.る",
+			"す.る"
+		]
 	},
 	"frequency": {
 		"mean": 2628,

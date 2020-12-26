@@ -1,17 +1,32 @@
 {
 	"kanji": "序",
-	"meanings": ["preface", "beginning", "order", "precedence", "occasion", "chance", "incidentally"],
+	"meanings": [
+		"preface",
+		"beginning",
+		"order",
+		"precedence",
+		"occasion",
+		"chance",
+		"incidentally"
+	],
 	"keyword": "preface",
 	"onyomi": {
-		"frequent": ["ジョ"],
+		"frequent": [
+			"ジョ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つい", "ついで"],
-		"okurigana": ["つい.で"]
+		"rare": [
+			"つい",
+			"ついで"
+		],
+		"okurigana": [
+			"つい.で"
+		]
 	},
 	"frequency": {
 		"mean": 1336,

@@ -1,17 +1,30 @@
 {
 	"kanji": "近",
-	"meanings": ["near", "early", "akin", "tantamount"],
+	"meanings": [
+		"near",
+		"early",
+		"akin",
+		"tantamount"
+	],
 	"keyword": "near",
 	"onyomi": {
-		"frequent": ["キン"],
+		"frequent": [
+			"キン"
+		],
 		"common": [],
-		"rare": ["コン"]
+		"rare": [
+			"コン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ちか"],
+		"frequent": [
+			"ちか"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ちか.い"]
+		"okurigana": [
+			"ちか.い"
+		]
 	},
 	"frequency": {
 		"mean": 226,

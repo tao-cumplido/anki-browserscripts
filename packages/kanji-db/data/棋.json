@@ -1,16 +1,24 @@
 {
 	"kanji": "棋",
-	"meanings": ["chess piece", "Japanese chess", "shogi"],
+	"meanings": [
+		"chess piece",
+		"Japanese chess",
+		"shogi"
+	],
 	"keyword": "chess piece",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ご"],
+		"rare": [
+			"ご"
+		],
 		"okurigana": []
 	},
 	"frequency": {

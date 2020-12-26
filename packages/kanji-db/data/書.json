@@ -1,17 +1,29 @@
 {
 	"kanji": "書",
-	"meanings": ["write"],
+	"meanings": [
+		"write"
+	],
 	"keyword": "write",
 	"onyomi": {
-		"frequent": ["ショ"],
+		"frequent": [
+			"ショ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["か"],
+		"frequent": [
+			"か"
+		],
 		"common": [],
-		"rare": ["が", "がき"],
-		"okurigana": ["か.く", "が.き"]
+		"rare": [
+			"が",
+			"がき"
+		],
+		"okurigana": [
+			"か.く",
+			"が.き"
+		]
 	},
 	"frequency": {
 		"mean": 102,

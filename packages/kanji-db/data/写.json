@@ -1,17 +1,31 @@
 {
 	"kanji": "写",
-	"meanings": ["copy", "be photographed", "describe"],
+	"meanings": [
+		"copy",
+		"be photographed",
+		"describe"
+	],
 	"keyword": "copy",
 	"onyomi": {
-		"frequent": ["シャ"],
+		"frequent": [
+			"シャ"
+		],
 		"common": [],
-		"rare": ["ジャ"]
+		"rare": [
+			"ジャ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["うつ"],
+		"frequent": [
+			"うつ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["うつ.す", "うつ.る", "うつ.し"]
+		"okurigana": [
+			"うつ.す",
+			"うつ.る",
+			"うつ.し"
+		]
 	},
 	"frequency": {
 		"mean": 595,

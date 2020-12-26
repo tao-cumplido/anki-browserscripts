@@ -1,14 +1,23 @@
 {
 	"kanji": "伙",
-	"meanings": ["companion", "colleague", "utensils"],
+	"meanings": [
+		"companion",
+		"colleague",
+		"utensils"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["カ"],
+		"common": [
+			"カ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["ひ", "ほ"],
+		"common": [
+			"ひ",
+			"ほ"
+		],
 		"rare": [],
 		"okurigana": []
 	},

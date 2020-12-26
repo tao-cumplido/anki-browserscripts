@@ -1,16 +1,24 @@
 {
 	"kanji": "楼",
-	"meanings": ["watchtower", "lookout", "high building"],
+	"meanings": [
+		"watchtower",
+		"lookout",
+		"high building"
+	],
 	"keyword": "watchtower",
 	"onyomi": {
-		"frequent": ["ロウ"],
+		"frequent": [
+			"ロウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たかどの"],
+		"rare": [
+			"たかどの"
+		],
 		"okurigana": []
 	},
 	"frequency": {

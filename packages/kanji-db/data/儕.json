@@ -1,15 +1,22 @@
 {
 	"kanji": "儕",
-	"meanings": ["companion"],
+	"meanings": [
+		"companion"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セイ", "サイ"]
+		"rare": [
+			"セイ",
+			"サイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ともがら"],
+		"rare": [
+			"ともがら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,33 @@
 {
 	"kanji": "柵",
-	"meanings": ["stockade", "fence", "weir", "entwine around"],
+	"meanings": [
+		"stockade",
+		"fence",
+		"weir",
+		"entwine around"
+	],
 	"keyword": "palisade",
 	"onyomi": {
-		"frequent": ["サク"],
+		"frequent": [
+			"サク"
+		],
 		"common": [],
-		"rare": ["サン"]
+		"rare": [
+			"サン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しがら", "しがらみ", "とりで", "やらい"],
-		"okurigana": ["しがら.む"]
+		"rare": [
+			"しがら",
+			"しがらみ",
+			"とりで",
+			"やらい"
+		],
+		"okurigana": [
+			"しがら.む"
+		]
 	},
 	"frequency": {
 		"mean": 2493,

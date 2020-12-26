@@ -1,17 +1,35 @@
 {
 	"kanji": "寓",
-	"meanings": ["temporary abode", "imply", "suggest"],
+	"meanings": [
+		"temporary abode",
+		"imply",
+		"suggest"
+	],
 	"keyword": "imply",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["グウ", "グ", "ドウ"]
+		"rare": [
+			"グウ",
+			"グ",
+			"ドウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ぐう", "かこつ", "よ", "かりずまい"],
-		"okurigana": ["ぐう.する", "かこつ.ける", "よ.せる", "よ.る"]
+		"rare": [
+			"ぐう",
+			"かこつ",
+			"よ",
+			"かりずまい"
+		],
+		"okurigana": [
+			"ぐう.する",
+			"かこつ.ける",
+			"よ.せる",
+			"よ.る"
+		]
 	},
 	"frequency": {
 		"mean": 2914,

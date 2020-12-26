@@ -1,14 +1,22 @@
 {
 	"kanji": "壁",
-	"meanings": ["wall", "lining (stomach)", "fence"],
+	"meanings": [
+		"wall",
+		"lining (stomach)",
+		"fence"
+	],
 	"keyword": "wall",
 	"onyomi": {
-		"frequent": ["ヘキ"],
+		"frequent": [
+			"ヘキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かべ"],
+		"frequent": [
+			"かべ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

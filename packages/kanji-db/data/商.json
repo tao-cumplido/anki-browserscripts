@@ -1,17 +1,28 @@
 {
 	"kanji": "商",
-	"meanings": ["make a deal", "selling", "dealing in", "merchant"],
+	"meanings": [
+		"make a deal",
+		"selling",
+		"dealing in",
+		"merchant"
+	],
 	"keyword": "make a deal",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あきな"],
+		"frequent": [
+			"あきな"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あきな.う"]
+		"okurigana": [
+			"あきな.う"
+		]
 	},
 	"frequency": {
 		"mean": 474,

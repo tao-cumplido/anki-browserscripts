@@ -1,17 +1,34 @@
 {
 	"kanji": "掠",
-	"meanings": ["pillage", "rob", "graze", "skim", "sweep over", "cheat", "hint"],
+	"meanings": [
+		"pillage",
+		"rob",
+		"graze",
+		"skim",
+		"sweep over",
+		"cheat",
+		"hint"
+	],
 	"keyword": "pillage",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リャク", "リョウ"]
+		"rare": [
+			"リャク",
+			"リョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かす"],
-		"okurigana": ["かす.める", "かす.る", "かす.れる"]
+		"rare": [
+			"かす"
+		],
+		"okurigana": [
+			"かす.める",
+			"かす.る",
+			"かす.れる"
+		]
 	},
 	"frequency": {
 		"mean": 2973,

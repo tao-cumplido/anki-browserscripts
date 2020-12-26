@@ -1,17 +1,27 @@
 {
 	"kanji": "責",
-	"meanings": ["blame", "condemn", "censure"],
+	"meanings": [
+		"blame",
+		"condemn",
+		"censure"
+	],
 	"keyword": "blame",
 	"onyomi": {
-		"frequent": ["セキ"],
+		"frequent": [
+			"セキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["せ"],
+		"frequent": [
+			"せ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["せ.める"]
+		"okurigana": [
+			"せ.める"
+		]
 	},
 	"frequency": {
 		"mean": 1189,

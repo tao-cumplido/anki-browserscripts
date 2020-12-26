@@ -1,17 +1,29 @@
 {
 	"kanji": "甚",
-	"meanings": ["tremendously", "very", "great", "exceedingly"],
+	"meanings": [
+		"tremendously",
+		"very",
+		"great",
+		"exceedingly"
+	],
 	"keyword": "tremendously",
 	"onyomi": {
-		"frequent": ["ジン"],
+		"frequent": [
+			"ジン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はなは"],
+		"frequent": [
+			"はなは"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["はなは.だ", "はなは.だしい"]
+		"okurigana": [
+			"はなは.だ",
+			"はなは.だしい"
+		]
 	},
 	"frequency": {
 		"mean": 1798,

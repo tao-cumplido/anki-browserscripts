@@ -1,17 +1,33 @@
 {
 	"kanji": "享",
-	"meanings": ["enjoy", "receive", "undergo", "answer (phone)", "take", "get", "catch"],
+	"meanings": [
+		"enjoy",
+		"receive",
+		"undergo",
+		"answer (phone)",
+		"take",
+		"get",
+		"catch"
+	],
 	"keyword": "receive",
 	"onyomi": {
-		"frequent": ["キョウ"],
+		"frequent": [
+			"キョウ"
+		],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["う"],
-		"okurigana": ["う.ける"]
+		"rare": [
+			"う"
+		],
+		"okurigana": [
+			"う.ける"
+		]
 	},
 	"frequency": {
 		"mean": 1540,

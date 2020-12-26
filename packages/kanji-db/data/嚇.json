@@ -1,17 +1,28 @@
 {
 	"kanji": "嚇",
-	"meanings": ["menacing", "dignity", "majesty", "threaten"],
+	"meanings": [
+		"menacing",
+		"dignity",
+		"majesty",
+		"threaten"
+	],
 	"keyword": "upbraid",
 	"onyomi": {
-		"frequent": ["カク"],
+		"frequent": [
+			"カク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おど"],
-		"okurigana": ["おど.す"]
+		"rare": [
+			"おど"
+		],
+		"okurigana": [
+			"おど.す"
+		]
 	},
 	"frequency": {
 		"mean": 2954,

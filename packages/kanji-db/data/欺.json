@@ -1,17 +1,27 @@
 {
 	"kanji": "欺",
-	"meanings": ["deceit", "cheat", "delude"],
+	"meanings": [
+		"deceit",
+		"cheat",
+		"delude"
+	],
 	"keyword": "deceit",
 	"onyomi": {
-		"frequent": ["ギ"],
+		"frequent": [
+			"ギ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あざむ"],
+		"frequent": [
+			"あざむ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あざむ.く"]
+		"okurigana": [
+			"あざむ.く"
+		]
 	},
 	"frequency": {
 		"mean": 2065,

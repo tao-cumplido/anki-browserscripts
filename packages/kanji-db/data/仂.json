@@ -1,16 +1,29 @@
 {
 	"kanji": "仂",
-	"meanings": ["surplus or excess", "remainder"],
+	"meanings": [
+		"surplus or excess",
+		"remainder"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ドウ", "リュク", "リキ", "ロク", "リョク"]
+		"rare": [
+			"ドウ",
+			"リュク",
+			"リキ",
+			"ロク",
+			"リョク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はたら"],
-		"okurigana": ["はたら.く"]
+		"rare": [
+			"はたら"
+		],
+		"okurigana": [
+			"はたら.く"
+		]
 	},
 	"frequency": {
 		"mean": 4438,

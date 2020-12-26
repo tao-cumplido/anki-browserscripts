@@ -1,17 +1,32 @@
 {
 	"kanji": "慰",
-	"meanings": ["consolation", "amusement", "seduce", "cheer", "make sport of", "comfort", "console"],
+	"meanings": [
+		"consolation",
+		"amusement",
+		"seduce",
+		"cheer",
+		"make sport of",
+		"comfort",
+		"console"
+	],
 	"keyword": "consolation",
 	"onyomi": {
-		"frequent": ["イ"],
+		"frequent": [
+			"イ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["なぐさ"],
+		"frequent": [
+			"なぐさ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["なぐさ.める", "なぐさ.む"]
+		"okurigana": [
+			"なぐさ.める",
+			"なぐさ.む"
+		]
 	},
 	"frequency": {
 		"mean": 1751,

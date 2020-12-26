@@ -1,17 +1,41 @@
 {
 	"kanji": "称",
-	"meanings": ["appellation", "praise", "admire", "name", "title", "fame"],
+	"meanings": [
+		"appellation",
+		"praise",
+		"admire",
+		"name",
+		"title",
+		"fame"
+	],
 	"keyword": "appellation",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たた", "とな", "あ", "かな", "はか", "ほめ"],
-		"okurigana": ["たた.える", "とな.える", "あ.げる", "かな.う", "はか.り", "はか.る", "ほめ.る"]
+		"rare": [
+			"たた",
+			"とな",
+			"あ",
+			"かな",
+			"はか",
+			"ほめ"
+		],
+		"okurigana": [
+			"たた.える",
+			"とな.える",
+			"あ.げる",
+			"かな.う",
+			"はか.り",
+			"はか.る",
+			"ほめ.る"
+		]
 	},
 	"frequency": {
 		"mean": 253,

@@ -1,15 +1,23 @@
 {
 	"kanji": "佝",
-	"meanings": ["foolish", "stooped over"],
+	"meanings": [
+		"foolish",
+		"stooped over"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ", "ク"]
+		"rare": [
+			"コウ",
+			"ク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["せむし"],
+		"rare": [
+			"せむし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

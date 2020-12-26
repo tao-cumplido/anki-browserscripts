@@ -1,16 +1,24 @@
 {
 	"kanji": "巳",
-	"meanings": ["sign of the snake or serpent", "9-11AM", "sixth sign of Chinese zodiac"],
+	"meanings": [
+		"sign of the snake or serpent",
+		"9-11AM",
+		"sixth sign of Chinese zodiac"
+	],
 	"keyword": "sign of the snake",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["み"],
+		"rare": [
+			"み"
+		],
 		"okurigana": []
 	},
 	"frequency": {

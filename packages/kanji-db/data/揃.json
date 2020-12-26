@@ -1,17 +1,31 @@
 {
 	"kanji": "揃",
-	"meanings": ["be complete", "uniform", "all present"],
+	"meanings": [
+		"be complete",
+		"uniform",
+		"all present"
+	],
 	"keyword": "muster",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セン"]
+		"rare": [
+			"セン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["そろ", "き"],
-		"okurigana": ["そろ.える", "そろ.う", "そろ.い", "き.る"]
+		"rare": [
+			"そろ",
+			"き"
+		],
+		"okurigana": [
+			"そろ.える",
+			"そろ.う",
+			"そろ.い",
+			"き.る"
+		]
 	},
 	"frequency": {
 		"mean": 1801,

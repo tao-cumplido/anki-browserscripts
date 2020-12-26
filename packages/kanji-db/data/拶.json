@@ -1,17 +1,26 @@
 {
 	"kanji": "拶",
-	"meanings": ["be imminent", "draw close"],
+	"meanings": [
+		"be imminent",
+		"draw close"
+	],
 	"keyword": "imminent",
 	"onyomi": {
-		"frequent": ["サツ"],
+		"frequent": [
+			"サツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["せま"],
-		"okurigana": ["せま.る"]
+		"rare": [
+			"せま"
+		],
+		"okurigana": [
+			"せま.る"
+		]
 	},
 	"frequency": {
 		"mean": 1983,

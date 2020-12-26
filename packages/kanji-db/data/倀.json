@@ -1,16 +1,28 @@
 {
 	"kanji": "倀",
-	"meanings": ["ghost of one devoured by tiger"],
+	"meanings": [
+		"ghost of one devoured by tiger"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["チョウ", "トウ", "ジョウ"],
+		"common": [
+			"チョウ",
+			"トウ",
+			"ジョウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["くる", "たお"],
+		"common": [
+			"くる",
+			"たお"
+		],
 		"rare": [],
-		"okurigana": ["くる.う", "たお.れる"]
+		"okurigana": [
+			"くる.う",
+			"たお.れる"
+		]
 	},
 	"frequency": {
 		"mean": 4537,

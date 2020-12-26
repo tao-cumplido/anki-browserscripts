@@ -1,16 +1,27 @@
 {
 	"kanji": "虜",
-	"meanings": ["captive", "barbarian", "low epithet for the enemy"],
+	"meanings": [
+		"captive",
+		"barbarian",
+		"low epithet for the enemy"
+	],
 	"keyword": "captive",
 	"onyomi": {
-		"frequent": ["リョ"],
+		"frequent": [
+			"リョ"
+		],
 		"common": [],
-		"rare": ["ロ"]
+		"rare": [
+			"ロ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とりこ", "とりく"],
+		"rare": [
+			"とりこ",
+			"とりく"
+		],
 		"okurigana": []
 	},
 	"frequency": {

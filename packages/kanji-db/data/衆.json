@@ -1,17 +1,30 @@
 {
 	"kanji": "衆",
-	"meanings": ["masses", "great numbers", "multitude", "populace"],
+	"meanings": [
+		"masses",
+		"great numbers",
+		"multitude",
+		"populace"
+	],
 	"keyword": "masses",
 	"onyomi": {
-		"frequent": ["シュウ"],
-		"common": ["シュ"],
+		"frequent": [
+			"シュウ"
+		],
+		"common": [
+			"シュ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おお"],
-		"okurigana": ["おお.い"]
+		"rare": [
+			"おお"
+		],
+		"okurigana": [
+			"おお.い"
+		]
 	},
 	"frequency": {
 		"mean": 415,

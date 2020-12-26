@@ -1,16 +1,27 @@
 {
 	"kanji": "冀",
-	"meanings": ["hope for", "wish", "Hebei province"],
+	"meanings": [
+		"hope for",
+		"wish",
+		"Hebei province"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キ"]
+		"rare": [
+			"キ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こいねが"],
-		"okurigana": ["こいねが.う", "こいねが.わくは"]
+		"rare": [
+			"こいねが"
+		],
+		"okurigana": [
+			"こいねが.う",
+			"こいねが.わくは"
+		]
 	},
 	"frequency": {
 		"mean": 3194,

@@ -1,16 +1,25 @@
 {
 	"kanji": "笥",
-	"meanings": ["lunch box", "clothes chest"],
+	"meanings": [
+		"lunch box",
+		"clothes chest"
+	],
 	"keyword": "wardrobe",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ス", "シ"]
+		"rare": [
+			"ス",
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["け", "はこ"],
+		"rare": [
+			"け",
+			"はこ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

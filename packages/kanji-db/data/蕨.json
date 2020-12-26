@@ -1,16 +1,23 @@
 {
 	"kanji": "蕨",
-	"meanings": ["bracken", "fernbrake"],
+	"meanings": [
+		"bracken",
+		"fernbrake"
+	],
 	"keyword": "bracken",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケツ"]
+		"rare": [
+			"ケツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わらび"],
+		"rare": [
+			"わらび"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,16 +1,26 @@
 {
 	"kanji": "雨",
-	"meanings": ["rain"],
+	"meanings": [
+		"rain"
+	],
 	"keyword": "rain",
 	"onyomi": {
-		"frequent": ["ウ"],
+		"frequent": [
+			"ウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あめ"],
-		"common": ["あま"],
-		"rare": ["さめ"],
+		"frequent": [
+			"あめ"
+		],
+		"common": [
+			"あま"
+		],
+		"rare": [
+			"さめ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

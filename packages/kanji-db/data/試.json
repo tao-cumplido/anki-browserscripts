@@ -1,17 +1,31 @@
 {
 	"kanji": "試",
-	"meanings": ["test", "try", "attempt", "experiment", "ordeal"],
+	"meanings": [
+		"test",
+		"try",
+		"attempt",
+		"experiment",
+		"ordeal"
+	],
 	"keyword": "test",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こころ", "ため"],
+		"frequent": [
+			"こころ",
+			"ため"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["こころ.みる", "ため.す"]
+		"okurigana": [
+			"こころ.みる",
+			"ため.す"
+		]
 	},
 	"frequency": {
 		"mean": 436,

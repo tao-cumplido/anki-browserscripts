@@ -1,17 +1,33 @@
 {
 	"kanji": "聴",
-	"meanings": ["listen", "headstrong", "naughty", "careful inquiry"],
+	"meanings": [
+		"listen",
+		"headstrong",
+		"naughty",
+		"careful inquiry"
+	],
 	"keyword": "listen",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
-		"rare": ["テイ"]
+		"rare": [
+			"テイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["き"],
+		"frequent": [
+			"き"
+		],
 		"common": [],
-		"rare": ["ゆる"],
-		"okurigana": ["き.く", "ゆる.す"]
+		"rare": [
+			"ゆる"
+		],
+		"okurigana": [
+			"き.く",
+			"ゆる.す"
+		]
 	},
 	"frequency": {
 		"mean": 1055,

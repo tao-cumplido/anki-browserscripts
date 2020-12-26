@@ -1,16 +1,23 @@
 {
 	"kanji": "韮",
-	"meanings": ["leek"],
+	"meanings": [
+		"leek"
+	],
 	"keyword": "leek",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キュウ", "ク"]
+		"rare": [
+			"キュウ",
+			"ク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["にら"],
+		"rare": [
+			"にら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

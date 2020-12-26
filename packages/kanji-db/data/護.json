@@ -1,17 +1,26 @@
 {
 	"kanji": "護",
-	"meanings": ["safeguard", "protect"],
+	"meanings": [
+		"safeguard",
+		"protect"
+	],
 	"keyword": "safeguard",
 	"onyomi": {
-		"frequent": ["ゴ"],
+		"frequent": [
+			"ゴ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まも"],
-		"okurigana": ["まも.る"]
+		"rare": [
+			"まも"
+		],
+		"okurigana": [
+			"まも.る"
+		]
 	},
 	"frequency": {
 		"mean": 517,

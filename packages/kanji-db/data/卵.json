@@ -1,14 +1,23 @@
 {
 	"kanji": "卵",
-	"meanings": ["egg", "ovum", "spawn", "roe"],
+	"meanings": [
+		"egg",
+		"ovum",
+		"spawn",
+		"roe"
+	],
 	"keyword": "egg",
 	"onyomi": {
-		"frequent": ["ラン"],
+		"frequent": [
+			"ラン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たまご"],
+		"frequent": [
+			"たまご"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

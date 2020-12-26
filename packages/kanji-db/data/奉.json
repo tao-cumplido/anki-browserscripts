@@ -1,17 +1,35 @@
 {
 	"kanji": "奉",
-	"meanings": ["observance", "offer", "present", "dedicate"],
+	"meanings": [
+		"observance",
+		"offer",
+		"present",
+		"dedicate"
+	],
 	"keyword": "dedicate",
 	"onyomi": {
-		"frequent": ["ホウ"],
-		"common": ["ブ"],
+		"frequent": [
+			"ホウ"
+		],
+		"common": [
+			"ブ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たてまつ"],
+		"frequent": [
+			"たてまつ"
+		],
 		"common": [],
-		"rare": ["まつ", "ほう"],
-		"okurigana": ["たてまつ.る", "まつ.る", "ほう.ずる"]
+		"rare": [
+			"まつ",
+			"ほう"
+		],
+		"okurigana": [
+			"たてまつ.る",
+			"まつ.る",
+			"ほう.ずる"
+		]
 	},
 	"frequency": {
 		"mean": 1290,

@@ -1,17 +1,29 @@
 {
 	"kanji": "且",
-	"meanings": ["moreover", "also", "furthermore"],
+	"meanings": [
+		"moreover",
+		"also",
+		"furthermore"
+	],
 	"keyword": "moreover",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショ", "ソ", "ショウ"]
+		"rare": [
+			"ショ",
+			"ソ",
+			"ショウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["か"],
+		"frequent": [
+			"か"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["か.つ"]
+		"okurigana": [
+			"か.つ"
+		]
 	},
 	"frequency": {
 		"mean": 2407,

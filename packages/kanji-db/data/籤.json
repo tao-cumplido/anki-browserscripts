@@ -1,16 +1,24 @@
 {
 	"kanji": "籤",
-	"meanings": ["lottery", "raffle"],
+	"meanings": [
+		"lottery",
+		"raffle"
+	],
 	"keyword": "lottery",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セン"]
+		"rare": [
+			"セン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くじ", "かずとり"],
+		"rare": [
+			"くじ",
+			"かずとり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

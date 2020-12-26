@@ -1,17 +1,25 @@
 {
 	"kanji": "晋",
-	"meanings": ["advance"],
+	"meanings": [
+		"advance"
+	],
 	"keyword": "progress",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シン"]
+		"rare": [
+			"シン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すす"],
-		"okurigana": ["すす.む"]
+		"rare": [
+			"すす"
+		],
+		"okurigana": [
+			"すす.む"
+		]
 	},
 	"frequency": {
 		"mean": 1593,

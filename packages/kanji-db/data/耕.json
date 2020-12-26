@@ -1,17 +1,27 @@
 {
 	"kanji": "耕",
-	"meanings": ["till", "plow", "cultivate"],
+	"meanings": [
+		"till",
+		"plow",
+		"cultivate"
+	],
 	"keyword": "till",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たがや"],
+		"frequent": [
+			"たがや"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["たがや.す"]
+		"okurigana": [
+			"たがや.す"
+		]
 	},
 	"frequency": {
 		"mean": 1581,

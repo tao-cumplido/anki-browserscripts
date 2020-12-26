@@ -1,17 +1,25 @@
 {
 	"kanji": "買",
-	"meanings": ["buy"],
+	"meanings": [
+		"buy"
+	],
 	"keyword": "buy",
 	"onyomi": {
-		"frequent": ["バイ"],
+		"frequent": [
+			"バイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["か"],
+		"frequent": [
+			"か"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["か.う"]
+		"okurigana": [
+			"か.う"
+		]
 	},
 	"frequency": {
 		"mean": 936,

@@ -1,16 +1,24 @@
 {
 	"kanji": "雲",
-	"meanings": ["cloud"],
+	"meanings": [
+		"cloud"
+	],
 	"keyword": "cloud",
 	"onyomi": {
-		"frequent": ["ウン"],
+		"frequent": [
+			"ウン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くも"],
+		"frequent": [
+			"くも"
+		],
 		"common": [],
-		"rare": ["ぐも"],
+		"rare": [
+			"ぐも"
+		],
 		"okurigana": []
 	},
 	"frequency": {

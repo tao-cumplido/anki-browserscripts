@@ -1,16 +1,27 @@
 {
 	"kanji": "覇",
-	"meanings": ["hegemony", "supremacy", "leadership", "champion"],
+	"meanings": [
+		"hegemony",
+		"supremacy",
+		"leadership",
+		"champion"
+	],
 	"keyword": "hegemony",
 	"onyomi": {
-		"frequent": ["ハ"],
+		"frequent": [
+			"ハ"
+		],
 		"common": [],
-		"rare": ["ハク"]
+		"rare": [
+			"ハク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はたがしら"],
+		"rare": [
+			"はたがしら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

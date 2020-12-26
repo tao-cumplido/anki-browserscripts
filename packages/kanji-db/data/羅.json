@@ -1,16 +1,26 @@
 {
 	"kanji": "羅",
-	"meanings": ["gauze", "thin silk", "Rome", "arrange", "spread out"],
+	"meanings": [
+		"gauze",
+		"thin silk",
+		"Rome",
+		"arrange",
+		"spread out"
+	],
 	"keyword": "gauze",
 	"onyomi": {
-		"frequent": ["ラ"],
+		"frequent": [
+			"ラ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うすもの"],
+		"rare": [
+			"うすもの"
+		],
 		"okurigana": []
 	},
 	"frequency": {

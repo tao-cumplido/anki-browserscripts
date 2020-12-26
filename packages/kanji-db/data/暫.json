@@ -1,17 +1,28 @@
 {
 	"kanji": "暫",
-	"meanings": ["temporarily", "a while", "moment", "long time"],
+	"meanings": [
+		"temporarily",
+		"a while",
+		"moment",
+		"long time"
+	],
 	"keyword": "temporarily",
 	"onyomi": {
-		"frequent": ["ザン"],
+		"frequent": [
+			"ザン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しばら"],
-		"okurigana": ["しばら.く"]
+		"rare": [
+			"しばら"
+		],
+		"okurigana": [
+			"しばら.く"
+		]
 	},
 	"frequency": {
 		"mean": 1631,

@@ -1,17 +1,32 @@
 {
 	"kanji": "謂",
-	"meanings": ["reason", "origin", "history", "oral tradition"],
+	"meanings": [
+		"reason",
+		"origin",
+		"history",
+		"oral tradition"
+	],
 	"keyword": "so-called",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["イ"]
+		"rare": [
+			"イ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["い", "いい", "おも", "いわゆる"],
-		"okurigana": ["い.う", "おも.う"]
+		"rare": [
+			"い",
+			"いい",
+			"おも",
+			"いわゆる"
+		],
+		"okurigana": [
+			"い.う",
+			"おも.う"
+		]
 	},
 	"frequency": {
 		"mean": 2160,

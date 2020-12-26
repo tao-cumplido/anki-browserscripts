@@ -1,16 +1,25 @@
 {
 	"kanji": "粟",
-	"meanings": ["millet"],
+	"meanings": [
+		"millet"
+	],
 	"keyword": "foxtail millet",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゾク", "ショク", "ソク"]
+		"rare": [
+			"ゾク",
+			"ショク",
+			"ソク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あわ", "もみ"],
+		"rare": [
+			"あわ",
+			"もみ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

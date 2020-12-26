@@ -1,17 +1,35 @@
 {
 	"kanji": "刺",
-	"meanings": ["thorn", "pierce", "stab", "prick", "sting", "calling card"],
+	"meanings": [
+		"thorn",
+		"pierce",
+		"stab",
+		"prick",
+		"sting",
+		"calling card"
+	],
 	"keyword": "thorn",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さ"],
+		"frequent": [
+			"さ"
+		],
 		"common": [],
-		"rare": ["さし", "とげ"],
-		"okurigana": ["さ.す", "さ.さる", "さ.し"]
+		"rare": [
+			"さし",
+			"とげ"
+		],
+		"okurigana": [
+			"さ.す",
+			"さ.さる",
+			"さ.し"
+		]
 	},
 	"frequency": {
 		"mean": 1270,

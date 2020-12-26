@@ -1,17 +1,34 @@
 {
 	"kanji": "初",
-	"meanings": ["first time", "beginning"],
+	"meanings": [
+		"first time",
+		"beginning"
+	],
 	"keyword": "first time",
 	"onyomi": {
-		"frequent": ["ショ"],
+		"frequent": [
+			"ショ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はじ", "はつ", "うい", "そ"],
+		"frequent": [
+			"はじ",
+			"はつ",
+			"うい",
+			"そ"
+		],
 		"common": [],
-		"rare": ["ぞ"],
-		"okurigana": ["はじ.め", "はじ.めて", "そ.める", "ぞ.め"]
+		"rare": [
+			"ぞ"
+		],
+		"okurigana": [
+			"はじ.め",
+			"はじ.めて",
+			"そ.める",
+			"ぞ.め"
+		]
 	},
 	"frequency": {
 		"mean": 137,

@@ -1,17 +1,28 @@
 {
 	"kanji": "撃",
-	"meanings": ["beat", "attack", "defeat", "conquer"],
+	"meanings": [
+		"beat",
+		"attack",
+		"defeat",
+		"conquer"
+	],
 	"keyword": "beat",
 	"onyomi": {
-		"frequent": ["ゲキ"],
+		"frequent": [
+			"ゲキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["う"],
+		"frequent": [
+			"う"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["う.つ"]
+		"okurigana": [
+			"う.つ"
+		]
 	},
 	"frequency": {
 		"mean": 363,

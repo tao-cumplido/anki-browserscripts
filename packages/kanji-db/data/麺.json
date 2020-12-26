@@ -1,16 +1,25 @@
 {
 	"kanji": "麺",
-	"meanings": ["noodles", "wheat flour"],
+	"meanings": [
+		"noodles",
+		"wheat flour"
+	],
 	"keyword": "noodles",
 	"onyomi": {
-		"frequent": ["メン"],
+		"frequent": [
+			"メン"
+		],
 		"common": [],
-		"rare": ["ベン"]
+		"rare": [
+			"ベン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["むぎこ"],
+		"rare": [
+			"むぎこ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

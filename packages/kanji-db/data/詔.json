@@ -1,14 +1,20 @@
 {
 	"kanji": "詔",
-	"meanings": ["imperial edict"],
+	"meanings": [
+		"imperial edict"
+	],
 	"keyword": "imperial edict",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みことのり"],
+		"frequent": [
+			"みことのり"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,27 @@
 {
 	"kanji": "饗",
-	"meanings": ["banquet"],
+	"meanings": [
+		"banquet"
+	],
 	"keyword": "feast",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ"]
+		"rare": [
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["う", "もてな"],
-		"okurigana": ["う.ける", "もてな.す"]
+		"rare": [
+			"う",
+			"もてな"
+		],
+		"okurigana": [
+			"う.ける",
+			"もてな.す"
+		]
 	},
 	"frequency": {
 		"mean": 2866,

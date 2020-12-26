@@ -1,17 +1,29 @@
 {
 	"kanji": "浅",
-	"meanings": ["shallow", "superficial", "frivolous", "wretched", "shameful"],
+	"meanings": [
+		"shallow",
+		"superficial",
+		"frivolous",
+		"wretched",
+		"shameful"
+	],
 	"keyword": "shallow",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あさ"],
+		"frequent": [
+			"あさ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あさ.い"]
+		"okurigana": [
+			"あさ.い"
+		]
 	},
 	"frequency": {
 		"mean": 976,

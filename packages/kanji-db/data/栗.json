@@ -1,16 +1,24 @@
 {
 	"kanji": "栗",
-	"meanings": ["chestnut"],
+	"meanings": [
+		"chestnut"
+	],
 	"keyword": "chestnut",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リツ", "リ"]
+		"rare": [
+			"リツ",
+			"リ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くり", "おののく"],
+		"rare": [
+			"くり",
+			"おののく"
+		],
 		"okurigana": []
 	},
 	"frequency": {

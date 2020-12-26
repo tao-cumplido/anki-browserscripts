@@ -1,17 +1,29 @@
 {
 	"kanji": "執",
-	"meanings": ["tenacious", "take hold", "grasp", "take to heart"],
+	"meanings": [
+		"tenacious",
+		"take hold",
+		"grasp",
+		"take to heart"
+	],
 	"keyword": "tenacious",
 	"onyomi": {
-		"frequent": ["シツ", "シュウ"],
+		"frequent": [
+			"シツ",
+			"シュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["と"],
+		"frequent": [
+			"と"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["と.る"]
+		"okurigana": [
+			"と.る"
+		]
 	},
 	"frequency": {
 		"mean": 902,

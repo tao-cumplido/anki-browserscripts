@@ -1,16 +1,25 @@
 {
 	"kanji": "婦",
-	"meanings": ["lady", "woman", "wife", "bride"],
+	"meanings": [
+		"lady",
+		"woman",
+		"wife",
+		"bride"
+	],
 	"keyword": "lady",
 	"onyomi": {
-		"frequent": ["フ"],
+		"frequent": [
+			"フ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よめ"],
+		"rare": [
+			"よめ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

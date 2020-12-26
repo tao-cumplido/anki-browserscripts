@@ -1,16 +1,23 @@
 {
 	"kanji": "魁",
-	"meanings": ["charging ahead of others"],
+	"meanings": [
+		"charging ahead of others"
+	],
 	"keyword": "pioneer",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カイ"]
+		"rare": [
+			"カイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さきがけ", "かしら"],
+		"rare": [
+			"さきがけ",
+			"かしら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

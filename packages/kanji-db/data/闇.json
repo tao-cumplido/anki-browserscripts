@@ -1,17 +1,30 @@
 {
 	"kanji": "闇",
-	"meanings": ["get dark", "gloom", "disorder"],
+	"meanings": [
+		"get dark",
+		"gloom",
+		"disorder"
+	],
 	"keyword": "pitch dark",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["アン", "オン"]
+		"rare": [
+			"アン",
+			"オン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["やみ"],
+		"frequent": [
+			"やみ"
+		],
 		"common": [],
-		"rare": ["くら"],
-		"okurigana": ["くら.い"]
+		"rare": [
+			"くら"
+		],
+		"okurigana": [
+			"くら.い"
+		]
 	},
 	"frequency": {
 		"mean": 1480,

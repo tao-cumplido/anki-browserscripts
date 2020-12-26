@@ -1,16 +1,29 @@
 {
 	"kanji": "偈",
-	"meanings": ["verse in praise of Buddha", "fast", "healthy", "rest"],
+	"meanings": [
+		"verse in praise of Buddha",
+		"fast",
+		"healthy",
+		"rest"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゲ", "ケツ", "ケイ"]
+		"rare": [
+			"ゲ",
+			"ケツ",
+			"ケイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いこ"],
-		"okurigana": ["いこ.う"]
+		"rare": [
+			"いこ"
+		],
+		"okurigana": [
+			"いこ.う"
+		]
 	},
 	"frequency": {
 		"mean": 3540,

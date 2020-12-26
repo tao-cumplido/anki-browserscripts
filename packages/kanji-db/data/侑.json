@@ -1,17 +1,28 @@
 {
 	"kanji": "侑",
-	"meanings": ["urge to eat"],
+	"meanings": [
+		"urge to eat"
+	],
 	"keyword": "condone",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ユウ", "ウ"]
+		"rare": [
+			"ユウ",
+			"ウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すす", "たす"],
-		"okurigana": ["すす.める", "たす.ける"]
+		"rare": [
+			"すす",
+			"たす"
+		],
+		"okurigana": [
+			"すす.める",
+			"たす.ける"
+		]
 	},
 	"frequency": {
 		"mean": 2688,

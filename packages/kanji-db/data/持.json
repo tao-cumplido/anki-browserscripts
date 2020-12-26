@@ -1,17 +1,28 @@
 {
 	"kanji": "持",
-	"meanings": ["hold", "have"],
+	"meanings": [
+		"hold",
+		"have"
+	],
 	"keyword": "hold",
 	"onyomi": {
-		"frequent": ["ジ"],
+		"frequent": [
+			"ジ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["も"],
+		"frequent": [
+			"も"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["も.つ", "も.ち", "も.てる"]
+		"okurigana": [
+			"も.つ",
+			"も.ち",
+			"も.てる"
+		]
 	},
 	"frequency": {
 		"mean": 217,

@@ -1,16 +1,24 @@
 {
 	"kanji": "繭",
-	"meanings": ["cocoon"],
+	"meanings": [
+		"cocoon"
+	],
 	"keyword": "cocoon",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まゆ"],
+		"frequent": [
+			"まゆ"
+		],
 		"common": [],
-		"rare": ["きぬ"],
+		"rare": [
+			"きぬ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

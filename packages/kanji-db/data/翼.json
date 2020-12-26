@@ -1,14 +1,22 @@
 {
 	"kanji": "翼",
-	"meanings": ["wing", "plane", "flank"],
+	"meanings": [
+		"wing",
+		"plane",
+		"flank"
+	],
 	"keyword": "wing",
 	"onyomi": {
-		"frequent": ["ヨク"],
+		"frequent": [
+			"ヨク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つばさ"],
+		"frequent": [
+			"つばさ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,33 @@
 {
 	"kanji": "居",
-	"meanings": ["reside", "to be", "exist", "live with"],
+	"meanings": [
+		"reside",
+		"to be",
+		"exist",
+		"live with"
+	],
 	"keyword": "reside",
 	"onyomi": {
-		"frequent": ["キョ"],
+		"frequent": [
+			"キョ"
+		],
 		"common": [],
-		"rare": ["コ"]
+		"rare": [
+			"コ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["い"],
+		"frequent": [
+			"い"
+		],
 		"common": [],
-		"rare": ["お"],
-		"okurigana": ["い.る", "お.る"]
+		"rare": [
+			"お"
+		],
+		"okurigana": [
+			"い.る",
+			"お.る"
+		]
 	},
 	"frequency": {
 		"mean": 548,

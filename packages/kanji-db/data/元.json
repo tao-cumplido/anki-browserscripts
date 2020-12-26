@@ -1,14 +1,23 @@
 {
 	"kanji": "元",
-	"meanings": ["beginning", "former time", "origin"],
+	"meanings": [
+		"beginning",
+		"former time",
+		"origin"
+	],
 	"keyword": "beginning",
 	"onyomi": {
-		"frequent": ["ゲン", "ガン"],
+		"frequent": [
+			"ゲン",
+			"ガン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["もと"],
+		"frequent": [
+			"もと"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

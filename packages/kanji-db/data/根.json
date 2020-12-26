@@ -1,14 +1,22 @@
 {
 	"kanji": "根",
-	"meanings": ["root", "radical", "head (pimple)"],
+	"meanings": [
+		"root",
+		"radical",
+		"head (pimple)"
+	],
 	"keyword": "root",
 	"onyomi": {
-		"frequent": ["コン"],
+		"frequent": [
+			"コン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ね"],
+		"frequent": [
+			"ね"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

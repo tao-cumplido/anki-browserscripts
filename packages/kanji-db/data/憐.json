@@ -1,17 +1,29 @@
 {
 	"kanji": "憐",
-	"meanings": ["pity", "have mercy", "sympathise", "compassion"],
+	"meanings": [
+		"pity",
+		"have mercy",
+		"sympathise",
+		"compassion"
+	],
 	"keyword": "sympathize with",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["レン"]
+		"rare": [
+			"レン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あわ"],
-		"okurigana": ["あわ.れむ", "あわ.れ"]
+		"rare": [
+			"あわ"
+		],
+		"okurigana": [
+			"あわ.れむ",
+			"あわ.れ"
+		]
 	},
 	"frequency": {
 		"mean": 2385,

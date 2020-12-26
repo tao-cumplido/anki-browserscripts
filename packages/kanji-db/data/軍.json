@@ -1,16 +1,26 @@
 {
 	"kanji": "軍",
-	"meanings": ["army", "force", "troops", "war", "battle"],
+	"meanings": [
+		"army",
+		"force",
+		"troops",
+		"war",
+		"battle"
+	],
 	"keyword": "army",
 	"onyomi": {
-		"frequent": ["グン"],
+		"frequent": [
+			"グン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いくさ"],
+		"rare": [
+			"いくさ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

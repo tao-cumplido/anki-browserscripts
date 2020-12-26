@@ -1,16 +1,25 @@
 {
 	"kanji": "男",
-	"meanings": ["male"],
+	"meanings": [
+		"male"
+	],
 	"keyword": "man",
 	"onyomi": {
-		"frequent": ["ダン", "ナン"],
+		"frequent": [
+			"ダン",
+			"ナン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おとこ"],
+		"frequent": [
+			"おとこ"
+		],
 		"common": [],
-		"rare": ["お"],
+		"rare": [
+			"お"
+		],
 		"okurigana": []
 	},
 	"frequency": {

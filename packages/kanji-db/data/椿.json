@@ -1,16 +1,23 @@
 {
 	"kanji": "椿",
-	"meanings": ["camellia"],
+	"meanings": [
+		"camellia"
+	],
 	"keyword": "camellia",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チン", "チュン"]
+		"rare": [
+			"チン",
+			"チュン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つばき"],
+		"rare": [
+			"つばき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,30 @@
 {
 	"kanji": "赫",
-	"meanings": ["suddenly", "brighten", "illuminate", "light up"],
+	"meanings": [
+		"suddenly",
+		"brighten",
+		"illuminate",
+		"light up"
+	],
 	"keyword": "incandescent",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カク"]
+		"rare": [
+			"カク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あかい", "あか", "かがや"],
-		"okurigana": ["かがや.く"]
+		"rare": [
+			"あかい",
+			"あか",
+			"かがや"
+		],
+		"okurigana": [
+			"かがや.く"
+		]
 	},
 	"frequency": {
 		"mean": 2920,

@@ -1,16 +1,23 @@
 {
 	"kanji": "轄",
-	"meanings": ["control", "wedge"],
+	"meanings": [
+		"control",
+		"wedge"
+	],
 	"keyword": "control",
 	"onyomi": {
-		"frequent": ["カツ"],
+		"frequent": [
+			"カツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くさび"],
+		"rare": [
+			"くさび"
+		],
 		"okurigana": []
 	},
 	"frequency": {

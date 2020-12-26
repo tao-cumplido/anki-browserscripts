@@ -1,17 +1,26 @@
 {
 	"kanji": "暝",
-	"meanings": ["dark"],
+	"meanings": [
+		"dark"
+	],
 	"keyword": "murky",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["メイ", "ミョウ"]
+		"rare": [
+			"メイ",
+			"ミョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くら"],
-		"okurigana": ["くら.い"]
+		"rare": [
+			"くら"
+		],
+		"okurigana": [
+			"くら.い"
+		]
 	},
 	"frequency": {
 		"mean": 4518,

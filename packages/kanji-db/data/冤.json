@@ -1,10 +1,15 @@
 {
 	"kanji": "冤",
-	"meanings": ["false charge", "hatred"],
+	"meanings": [
+		"false charge",
+		"hatred"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["エン"]
+		"rare": [
+			"エン"
+		]
 	},
 	"frequency": {
 		"mean": 2855,

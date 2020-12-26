@@ -1,17 +1,26 @@
 {
 	"kanji": "送",
-	"meanings": ["escort", "send"],
+	"meanings": [
+		"escort",
+		"send"
+	],
 	"keyword": "send off",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おく"],
+		"frequent": [
+			"おく"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おく.る"]
+		"okurigana": [
+			"おく.る"
+		]
 	},
 	"frequency": {
 		"mean": 82,

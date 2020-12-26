@@ -1,17 +1,27 @@
 {
 	"kanji": "噌",
-	"meanings": ["boisterous"],
+	"meanings": [
+		"boisterous"
+	],
 	"keyword": "miso",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ", "ショウ", "ソ"]
+		"rare": [
+			"ソウ",
+			"ショウ",
+			"ソ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かまびす"],
-		"okurigana": ["かまびす.しい"]
+		"rare": [
+			"かまびす"
+		],
+		"okurigana": [
+			"かまびす.しい"
+		]
 	},
 	"frequency": {
 		"mean": 2332,

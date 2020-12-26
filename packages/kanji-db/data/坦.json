@@ -1,16 +1,23 @@
 {
 	"kanji": "坦",
-	"meanings": ["level", "wide"],
+	"meanings": [
+		"level",
+		"wide"
+	],
 	"keyword": "flat",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["タン"]
+		"rare": [
+			"タン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たいら"],
+		"rare": [
+			"たいら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

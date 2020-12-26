@@ -1,17 +1,32 @@
 {
 	"kanji": "託",
-	"meanings": ["consign", "requesting", "entrusting with", "pretend", "hint"],
+	"meanings": [
+		"consign",
+		"requesting",
+		"entrusting with",
+		"pretend",
+		"hint"
+	],
 	"keyword": "consign",
 	"onyomi": {
-		"frequent": ["タク"],
+		"frequent": [
+			"タク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かこつ", "かこ"],
-		"okurigana": ["かこつ.ける", "かこ.つ", "かこ.つける"]
+		"rare": [
+			"かこつ",
+			"かこ"
+		],
+		"okurigana": [
+			"かこつ.ける",
+			"かこ.つ",
+			"かこ.つける"
+		]
 	},
 	"frequency": {
 		"mean": 1289,

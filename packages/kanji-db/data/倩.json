@@ -1,16 +1,28 @@
 {
 	"kanji": "倩",
-	"meanings": ["carefully", "attentively", "profoundly"],
+	"meanings": [
+		"carefully",
+		"attentively",
+		"profoundly"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セン", "セイ"]
+		"rare": [
+			"セン",
+			"セイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つらつら", "うつく"],
-		"okurigana": ["うつく.しい"]
+		"rare": [
+			"つらつら",
+			"うつく"
+		],
+		"okurigana": [
+			"うつく.しい"
+		]
 	},
 	"frequency": {
 		"mean": 4125,

@@ -1,17 +1,27 @@
 {
 	"kanji": "旋",
-	"meanings": ["rotation", "go around"],
+	"meanings": [
+		"rotation",
+		"go around"
+	],
 	"keyword": "rotation",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["め", "いばり"],
-		"okurigana": ["め.ぐる"]
+		"rare": [
+			"め",
+			"いばり"
+		],
+		"okurigana": [
+			"め.ぐる"
+		]
 	},
 	"frequency": {
 		"mean": 1507,

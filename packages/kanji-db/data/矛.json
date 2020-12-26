@@ -1,14 +1,24 @@
 {
 	"kanji": "矛",
-	"meanings": ["halberd", "arms", "festival float"],
+	"meanings": [
+		"halberd",
+		"arms",
+		"festival float"
+	],
 	"keyword": "halberd",
 	"onyomi": {
-		"frequent": ["ム"],
+		"frequent": [
+			"ム"
+		],
 		"common": [],
-		"rare": ["ボウ"]
+		"rare": [
+			"ボウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ほこ"],
+		"frequent": [
+			"ほこ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

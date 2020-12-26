@@ -1,17 +1,27 @@
 {
 	"kanji": "傲",
-	"meanings": ["be proud"],
+	"meanings": [
+		"be proud"
+	],
 	"keyword": "arrogance",
 	"onyomi": {
-		"frequent": ["ゴウ"],
+		"frequent": [
+			"ゴウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おご", "あなど"],
-		"okurigana": ["おご.る", "あなど.る"]
+		"rare": [
+			"おご",
+			"あなど"
+		],
+		"okurigana": [
+			"おご.る",
+			"あなど.る"
+		]
 	},
 	"frequency": {
 		"mean": 2782,

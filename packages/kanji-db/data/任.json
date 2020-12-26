@@ -1,17 +1,30 @@
 {
 	"kanji": "任",
-	"meanings": ["responsibility", "duty", "term", "entrust to", "appoint"],
+	"meanings": [
+		"responsibility",
+		"duty",
+		"term",
+		"entrust to",
+		"appoint"
+	],
 	"keyword": "responsibility",
 	"onyomi": {
-		"frequent": ["ニン"],
+		"frequent": [
+			"ニン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まか"],
+		"frequent": [
+			"まか"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["まか.せる", "まか.す"]
+		"okurigana": [
+			"まか.せる",
+			"まか.す"
+		]
 	},
 	"frequency": {
 		"mean": 324,

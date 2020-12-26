@@ -1,16 +1,23 @@
 {
 	"kanji": "陶",
-	"meanings": ["pottery", "porcelain"],
+	"meanings": [
+		"pottery",
+		"porcelain"
+	],
 	"keyword": "pottery",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すえ"],
+		"rare": [
+			"すえ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

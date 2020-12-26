@@ -1,16 +1,23 @@
 {
 	"kanji": "隼",
-	"meanings": ["falcon"],
+	"meanings": [
+		"falcon"
+	],
 	"keyword": "peregrine falcon",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュン", "ジュン"]
+		"rare": [
+			"シュン",
+			"ジュン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はやぶさ"],
+		"rare": [
+			"はやぶさ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

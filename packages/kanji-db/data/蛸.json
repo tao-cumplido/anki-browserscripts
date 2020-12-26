@@ -1,16 +1,23 @@
 {
 	"kanji": "蛸",
-	"meanings": ["octopus"],
+	"meanings": [
+		"octopus"
+	],
 	"keyword": "octopus",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ", "ショウ"]
+		"rare": [
+			"ソウ",
+			"ショウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たこ"],
+		"rare": [
+			"たこ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

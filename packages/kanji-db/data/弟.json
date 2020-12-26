@@ -1,14 +1,24 @@
 {
 	"kanji": "弟",
-	"meanings": ["younger brother", "faithful service to elders"],
+	"meanings": [
+		"younger brother",
+		"faithful service to elders"
+	],
 	"keyword": "younger brother",
 	"onyomi": {
-		"frequent": ["テイ", "ダイ"],
-		"common": ["デ"],
+		"frequent": [
+			"テイ",
+			"ダイ"
+		],
+		"common": [
+			"デ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おとうと"],
+		"frequent": [
+			"おとうと"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

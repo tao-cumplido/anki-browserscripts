@@ -1,17 +1,45 @@
 {
 	"kanji": "済",
-	"meanings": ["settle (debt, etc.)", "relieve (burden)", "finish", "come to an end", "excusable", "need not"],
+	"meanings": [
+		"settle (debt, etc.)",
+		"relieve (burden)",
+		"finish",
+		"come to an end",
+		"excusable",
+		"need not"
+	],
 	"keyword": "finish",
 	"onyomi": {
-		"frequent": ["サイ"],
+		"frequent": [
+			"サイ"
+		],
 		"common": [],
-		"rare": ["セイ"]
+		"rare": [
+			"セイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["す"],
+		"frequent": [
+			"す"
+		],
 		"common": [],
-		"rare": ["ず", "ずみ", "すく", "な", "わたし", "わた"],
-		"okurigana": ["す.む", "ず.み", "す.まない", "す.ます", "すく.う", "な.す", "わた.る"]
+		"rare": [
+			"ず",
+			"ずみ",
+			"すく",
+			"な",
+			"わたし",
+			"わた"
+		],
+		"okurigana": [
+			"す.む",
+			"ず.み",
+			"す.まない",
+			"す.ます",
+			"すく.う",
+			"な.す",
+			"わた.る"
+		]
 	},
 	"frequency": {
 		"mean": 497,

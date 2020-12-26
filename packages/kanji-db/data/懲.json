@@ -1,17 +1,30 @@
 {
 	"kanji": "懲",
-	"meanings": ["penal", "chastise", "punish", "discipline"],
+	"meanings": [
+		"penal",
+		"chastise",
+		"punish",
+		"discipline"
+	],
 	"keyword": "penal",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こ"],
+		"frequent": [
+			"こ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["こ.りる", "こ.らす", "こ.らしめる"]
+		"okurigana": [
+			"こ.りる",
+			"こ.らす",
+			"こ.らしめる"
+		]
 	},
 	"frequency": {
 		"mean": 1938,

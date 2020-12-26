@@ -1,16 +1,25 @@
 {
 	"kanji": "箋",
-	"meanings": ["paper", "label", "letter", "composition"],
+	"meanings": [
+		"paper",
+		"label",
+		"letter",
+		"composition"
+	],
 	"keyword": "stationery",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふだ"],
+		"rare": [
+			"ふだ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

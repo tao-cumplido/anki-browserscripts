@@ -1,17 +1,38 @@
 {
 	"kanji": "謀",
-	"meanings": ["conspire", "cheat", "impose on", "plan", "devise", "scheme", "have in mind", "deceive"],
+	"meanings": [
+		"conspire",
+		"cheat",
+		"impose on",
+		"plan",
+		"devise",
+		"scheme",
+		"have in mind",
+		"deceive"
+	],
 	"keyword": "conspire",
 	"onyomi": {
-		"frequent": ["ボウ"],
-		"common": ["ム"],
+		"frequent": [
+			"ボウ"
+		],
+		"common": [
+			"ム"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はか"],
+		"frequent": [
+			"はか"
+		],
 		"common": [],
-		"rare": ["たばか", "はかりごと"],
-		"okurigana": ["はか.る", "たばか.る"]
+		"rare": [
+			"たばか",
+			"はかりごと"
+		],
+		"okurigana": [
+			"はか.る",
+			"たばか.る"
+		]
 	},
 	"frequency": {
 		"mean": 1365,

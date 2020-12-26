@@ -1,17 +1,40 @@
 {
 	"kanji": "難",
-	"meanings": ["difficult", "impossible", "trouble", "accident", "defect"],
+	"meanings": [
+		"difficult",
+		"impossible",
+		"trouble",
+		"accident",
+		"defect"
+	],
 	"keyword": "difficult",
 	"onyomi": {
-		"frequent": ["ナン"],
+		"frequent": [
+			"ナン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かた", "むずか"],
+		"frequent": [
+			"かた",
+			"むずか"
+		],
 		"common": [],
-		"rare": ["がた", "むづか", "むつか", "にく"],
-		"okurigana": ["かた.い", "がた.い", "むずか.しい", "むづか.しい", "むつか.しい", "にく.い"]
+		"rare": [
+			"がた",
+			"むづか",
+			"むつか",
+			"にく"
+		],
+		"okurigana": [
+			"かた.い",
+			"がた.い",
+			"むずか.しい",
+			"むづか.しい",
+			"むつか.しい",
+			"にく.い"
+		]
 	},
 	"frequency": {
 		"mean": 697,

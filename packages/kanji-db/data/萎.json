@@ -1,17 +1,34 @@
 {
 	"kanji": "萎",
-	"meanings": ["wither", "droop", "lame"],
+	"meanings": [
+		"wither",
+		"droop",
+		"lame"
+	],
 	"keyword": "numb",
 	"onyomi": {
-		"frequent": ["イ"],
+		"frequent": [
+			"イ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["な"],
+		"frequent": [
+			"な"
+		],
 		"common": [],
-		"rare": ["しお", "しな", "しぼ"],
-		"okurigana": ["しお.れる", "しな.びる", "しぼ.む", "な.える"]
+		"rare": [
+			"しお",
+			"しな",
+			"しぼ"
+		],
+		"okurigana": [
+			"しお.れる",
+			"しな.びる",
+			"しぼ.む",
+			"な.える"
+		]
 	},
 	"frequency": {
 		"mean": 2671,

@@ -1,16 +1,28 @@
 {
 	"kanji": "稜",
-	"meanings": ["angle", "edge", "corner", "power", "majesty"],
+	"meanings": [
+		"angle",
+		"edge",
+		"corner",
+		"power",
+		"majesty"
+	],
 	"keyword": "imperial authority",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リョウ", "ロウ"]
+		"rare": [
+			"リョウ",
+			"ロウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いつ", "かど"],
+		"rare": [
+			"いつ",
+			"かど"
+		],
 		"okurigana": []
 	},
 	"frequency": {

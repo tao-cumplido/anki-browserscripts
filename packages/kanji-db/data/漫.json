@@ -1,17 +1,31 @@
 {
 	"kanji": "漫",
-	"meanings": ["cartoon", "involuntarily", "unrestrained", "in spite of oneself", "corrupt"],
+	"meanings": [
+		"cartoon",
+		"involuntarily",
+		"unrestrained",
+		"in spite of oneself",
+		"corrupt"
+	],
 	"keyword": "loose",
 	"onyomi": {
-		"frequent": ["マン"],
+		"frequent": [
+			"マン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みだり", "そぞ"],
-		"okurigana": ["みだり.に", "そぞ.ろ"]
+		"rare": [
+			"みだり",
+			"そぞ"
+		],
+		"okurigana": [
+			"みだり.に",
+			"そぞ.ろ"
+		]
 	},
 	"frequency": {
 		"mean": 625,

@@ -1,16 +1,24 @@
 {
 	"kanji": "恒",
-	"meanings": ["constancy", "always"],
+	"meanings": [
+		"constancy",
+		"always"
+	],
 	"keyword": "constancy",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つね", "つねに"],
+		"rare": [
+			"つね",
+			"つねに"
+		],
 		"okurigana": []
 	},
 	"frequency": {

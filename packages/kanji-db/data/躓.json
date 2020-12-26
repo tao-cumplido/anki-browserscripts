@@ -1,17 +1,25 @@
 {
 	"kanji": "躓",
-	"meanings": ["stumble"],
+	"meanings": [
+		"stumble"
+	],
 	"keyword": "stumble",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チ"]
+		"rare": [
+			"チ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つまず"],
-		"okurigana": ["つまず.く"]
+		"rare": [
+			"つまず"
+		],
+		"okurigana": [
+			"つまず.く"
+		]
 	},
 	"frequency": {
 		"mean": 3818,

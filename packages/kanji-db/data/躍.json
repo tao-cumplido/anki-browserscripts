@@ -1,17 +1,27 @@
 {
 	"kanji": "躍",
-	"meanings": ["leap", "dance", "skip"],
+	"meanings": [
+		"leap",
+		"dance",
+		"skip"
+	],
 	"keyword": "leap",
 	"onyomi": {
-		"frequent": ["ヤク"],
+		"frequent": [
+			"ヤク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おど"],
+		"frequent": [
+			"おど"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おど.る"]
+		"okurigana": [
+			"おど.る"
+		]
 	},
 	"frequency": {
 		"mean": 1002,

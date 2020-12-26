@@ -1,16 +1,34 @@
 {
 	"kanji": "偎",
-	"meanings": ["cling to", "cuddle", "embrace", "fondle"],
+	"meanings": [
+		"cling to",
+		"cuddle",
+		"embrace",
+		"fondle"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ワイ", "エ"],
+		"common": [
+			"ワイ",
+			"エ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["ほの", "なじ", "した", "ちかよ"],
+		"common": [
+			"ほの",
+			"なじ",
+			"した",
+			"ちかよ"
+		],
 		"rare": [],
-		"okurigana": ["ほの.か", "なじ.む", "した.しむ", "ちかよ.る"]
+		"okurigana": [
+			"ほの.か",
+			"なじ.む",
+			"した.しむ",
+			"ちかよ.る"
+		]
 	},
 	"frequency": {
 		"mean": 4537,

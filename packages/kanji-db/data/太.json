@@ -1,17 +1,29 @@
 {
 	"kanji": "太",
-	"meanings": ["plump", "thick", "big around"],
+	"meanings": [
+		"plump",
+		"thick",
+		"big around"
+	],
 	"keyword": "plump",
 	"onyomi": {
-		"frequent": ["タイ", "タ"],
+		"frequent": [
+			"タイ",
+			"タ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふと"],
+		"frequent": [
+			"ふと"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ふと.い", "ふと.る"]
+		"okurigana": [
+			"ふと.い",
+			"ふと.る"
+		]
 	},
 	"frequency": {
 		"mean": 239,

@@ -1,17 +1,30 @@
 {
 	"kanji": "醜",
-	"meanings": ["ugly", "unclean", "shame", "bad looking"],
+	"meanings": [
+		"ugly",
+		"unclean",
+		"shame",
+		"bad looking"
+	],
 	"keyword": "ugly",
 	"onyomi": {
-		"frequent": ["シュウ"],
+		"frequent": [
+			"シュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みにく"],
+		"frequent": [
+			"みにく"
+		],
 		"common": [],
-		"rare": ["しこ"],
-		"okurigana": ["みにく.い"]
+		"rare": [
+			"しこ"
+		],
+		"okurigana": [
+			"みにく.い"
+		]
 	},
 	"frequency": {
 		"mean": 2370,

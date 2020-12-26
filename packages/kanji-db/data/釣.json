@@ -1,17 +1,30 @@
 {
 	"kanji": "釣",
-	"meanings": ["angling", "fish", "catch", "allure", "ensnare"],
+	"meanings": [
+		"angling",
+		"fish",
+		"catch",
+		"allure",
+		"ensnare"
+	],
 	"keyword": "angling",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つ"],
+		"frequent": [
+			"つ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["つ.る", "つ.り"]
+		"okurigana": [
+			"つ.る",
+			"つ.り"
+		]
 	},
 	"frequency": {
 		"mean": 1621,

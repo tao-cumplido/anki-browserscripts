@@ -1,16 +1,26 @@
 {
 	"kanji": "偶",
-	"meanings": ["accidentally", "even number", "couple", "man &amp; wife", "same kind"],
+	"meanings": [
+		"accidentally",
+		"even number",
+		"couple",
+		"man &amp; wife",
+		"same kind"
+	],
 	"keyword": "accidentally",
 	"onyomi": {
-		"frequent": ["グウ"],
+		"frequent": [
+			"グウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たま"],
+		"rare": [
+			"たま"
+		],
 		"okurigana": []
 	},
 	"frequency": {

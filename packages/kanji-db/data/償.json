@@ -1,17 +1,28 @@
 {
 	"kanji": "償",
-	"meanings": ["reparation", "make up for", "recompense", "redeem"],
+	"meanings": [
+		"reparation",
+		"make up for",
+		"recompense",
+		"redeem"
+	],
 	"keyword": "reparation",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つぐな"],
+		"frequent": [
+			"つぐな"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["つぐな.う"]
+		"okurigana": [
+			"つぐな.う"
+		]
 	},
 	"frequency": {
 		"mean": 1537,

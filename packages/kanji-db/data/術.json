@@ -1,16 +1,28 @@
 {
 	"kanji": "術",
-	"meanings": ["art", "technique", "skill", "means", "trick", "resources", "magic"],
+	"meanings": [
+		"art",
+		"technique",
+		"skill",
+		"means",
+		"trick",
+		"resources",
+		"magic"
+	],
 	"keyword": "art",
 	"onyomi": {
-		"frequent": ["ジュツ"],
+		"frequent": [
+			"ジュツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すべ"],
+		"rare": [
+			"すべ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

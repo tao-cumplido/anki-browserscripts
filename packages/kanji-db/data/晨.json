@@ -1,16 +1,25 @@
 {
 	"kanji": "晨",
-	"meanings": ["morning", "early"],
+	"meanings": [
+		"morning",
+		"early"
+	],
 	"keyword": "morrow",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シン"]
+		"rare": [
+			"シン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あした", "とき", "あさ"],
+		"rare": [
+			"あした",
+			"とき",
+			"あさ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

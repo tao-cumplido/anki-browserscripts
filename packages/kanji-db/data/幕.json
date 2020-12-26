@@ -1,16 +1,25 @@
 {
 	"kanji": "幕",
-	"meanings": ["curtain", "bunting", "act of play"],
+	"meanings": [
+		"curtain",
+		"bunting",
+		"act of play"
+	],
 	"keyword": "curtain",
 	"onyomi": {
-		"frequent": ["マク", "バク"],
+		"frequent": [
+			"マク",
+			"バク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とばり"],
+		"rare": [
+			"とばり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

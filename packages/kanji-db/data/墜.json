@@ -1,17 +1,27 @@
 {
 	"kanji": "墜",
-	"meanings": ["crash", "fall (down)"],
+	"meanings": [
+		"crash",
+		"fall (down)"
+	],
 	"keyword": "crash",
 	"onyomi": {
-		"frequent": ["ツイ"],
+		"frequent": [
+			"ツイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["お"],
-		"okurigana": ["お.ちる", "お.つ"]
+		"rare": [
+			"お"
+		],
+		"okurigana": [
+			"お.ちる",
+			"お.つ"
+		]
 	},
 	"frequency": {
 		"mean": 1732,

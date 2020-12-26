@@ -1,14 +1,20 @@
 {
 	"kanji": "雪",
-	"meanings": ["snow"],
+	"meanings": [
+		"snow"
+	],
 	"keyword": "snow",
 	"onyomi": {
-		"frequent": ["セツ"],
+		"frequent": [
+			"セツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ゆき"],
+		"frequent": [
+			"ゆき"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

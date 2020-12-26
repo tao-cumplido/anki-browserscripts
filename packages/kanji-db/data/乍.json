@@ -1,16 +1,32 @@
 {
 	"kanji": "乍",
-	"meanings": ["though", "notwithstanding", "while", "during", "both", "all"],
+	"meanings": [
+		"though",
+		"notwithstanding",
+		"while",
+		"during",
+		"both",
+		"all"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サ", "サク"]
+		"rare": [
+			"サ",
+			"サク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なが", "たちま"],
-		"okurigana": ["なが.ら", "たちま.ち"]
+		"rare": [
+			"なが",
+			"たちま"
+		],
+		"okurigana": [
+			"なが.ら",
+			"たちま.ち"
+		]
 	},
 	"frequency": {
 		"mean": 2879,

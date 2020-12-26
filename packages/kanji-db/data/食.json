@@ -1,17 +1,34 @@
 {
 	"kanji": "食",
-	"meanings": ["eat", "food"],
+	"meanings": [
+		"eat",
+		"food"
+	],
 	"keyword": "eat",
 	"onyomi": {
-		"frequent": ["ショク"],
-		"common": ["ジキ"],
+		"frequent": [
+			"ショク"
+		],
+		"common": [
+			"ジキ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["く", "た"],
+		"frequent": [
+			"く",
+			"た"
+		],
 		"common": [],
-		"rare": ["は"],
-		"okurigana": ["く.う", "く.らう", "た.べる", "は.む"]
+		"rare": [
+			"は"
+		],
+		"okurigana": [
+			"く.う",
+			"く.らう",
+			"た.べる",
+			"は.む"
+		]
 	},
 	"frequency": {
 		"mean": 430,

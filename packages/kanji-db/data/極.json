@@ -1,17 +1,45 @@
 {
 	"kanji": "極",
-	"meanings": ["poles", "settlement", "conclusion", "end", "highest rank", "electric poles", "very", "extremely", "most", "highly", "10**48"],
+	"meanings": [
+		"poles",
+		"settlement",
+		"conclusion",
+		"end",
+		"highest rank",
+		"electric poles",
+		"very",
+		"extremely",
+		"most",
+		"highly",
+		"10**48"
+	],
 	"keyword": "poles",
 	"onyomi": {
-		"frequent": ["キョク", "ゴク"],
+		"frequent": [
+			"キョク",
+			"ゴク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["きわ"],
+		"frequent": [
+			"きわ"
+		],
 		"common": [],
-		"rare": ["き", "ぎ"],
-		"okurigana": ["きわ.める", "きわ.まる", "きわ.まり", "きわ.み", "き.める", "ぎ.め", "き.まる"]
+		"rare": [
+			"き",
+			"ぎ"
+		],
+		"okurigana": [
+			"きわ.める",
+			"きわ.まる",
+			"きわ.まり",
+			"きわ.み",
+			"き.める",
+			"ぎ.め",
+			"き.まる"
+		]
 	},
 	"frequency": {
 		"mean": 684,

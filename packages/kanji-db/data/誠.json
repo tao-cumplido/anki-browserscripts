@@ -1,14 +1,25 @@
 {
 	"kanji": "誠",
-	"meanings": ["sincerity", "admonish", "warn", "prohibit", "truth", "fidelity"],
+	"meanings": [
+		"sincerity",
+		"admonish",
+		"warn",
+		"prohibit",
+		"truth",
+		"fidelity"
+	],
 	"keyword": "sincerity",
 	"onyomi": {
-		"frequent": ["セイ"],
+		"frequent": [
+			"セイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まこと"],
+		"frequent": [
+			"まこと"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,32 @@
 {
 	"kanji": "淵",
-	"meanings": ["abyss", "edge", "deep pool", "the depths"],
+	"meanings": [
+		"abyss",
+		"edge",
+		"deep pool",
+		"the depths"
+	],
 	"keyword": "abyss (old)",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["エン", "カク", "コウ"]
+		"rare": [
+			"エン",
+			"カク",
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふち", "かた", "はなわ"],
-		"okurigana": ["かた.い"]
+		"rare": [
+			"ふち",
+			"かた",
+			"はなわ"
+		],
+		"okurigana": [
+			"かた.い"
+		]
 	},
 	"frequency": {
 		"mean": 1652,

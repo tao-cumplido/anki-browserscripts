@@ -1,17 +1,33 @@
 {
 	"kanji": "旨",
-	"meanings": ["delicious", "relish", "show a liking for", "purport", "will", "clever", "expert"],
+	"meanings": [
+		"delicious",
+		"relish",
+		"show a liking for",
+		"purport",
+		"will",
+		"clever",
+		"expert"
+	],
 	"keyword": "delicious",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["むね"],
+		"frequent": [
+			"むね"
+		],
 		"common": [],
-		"rare": ["うま"],
-		"okurigana": ["うま.い"]
+		"rare": [
+			"うま"
+		],
+		"okurigana": [
+			"うま.い"
+		]
 	},
 	"frequency": {
 		"mean": 1497,

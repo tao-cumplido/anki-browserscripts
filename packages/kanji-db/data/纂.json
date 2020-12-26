@@ -1,17 +1,26 @@
 {
 	"kanji": "纂",
-	"meanings": ["editing", "compiling"],
+	"meanings": [
+		"editing",
+		"compiling"
+	],
 	"keyword": "redaction",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サン"]
+		"rare": [
+			"サン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あつ"],
-		"okurigana": ["あつ.める"]
+		"rare": [
+			"あつ"
+		],
+		"okurigana": [
+			"あつ.める"
+		]
 	},
 	"frequency": {
 		"mean": 1742,

@@ -1,17 +1,28 @@
 {
 	"kanji": "欽",
-	"meanings": ["respect", "revere", "long for"],
+	"meanings": [
+		"respect",
+		"revere",
+		"long for"
+	],
 	"keyword": "circumspect",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キン", "コン"]
+		"rare": [
+			"キン",
+			"コン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つつし"],
-		"okurigana": ["つつし.む"]
+		"rare": [
+			"つつし"
+		],
+		"okurigana": [
+			"つつし.む"
+		]
 	},
 	"frequency": {
 		"mean": 2197,

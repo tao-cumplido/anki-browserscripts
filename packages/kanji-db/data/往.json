@@ -1,17 +1,36 @@
 {
 	"kanji": "往",
-	"meanings": ["journey", "travel", "chase away", "let go", "going", "before", "formerly"],
+	"meanings": [
+		"journey",
+		"travel",
+		"chase away",
+		"let go",
+		"going",
+		"before",
+		"formerly"
+	],
 	"keyword": "journey",
 	"onyomi": {
-		"frequent": ["オウ"],
+		"frequent": [
+			"オウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["い", "いにしえ", "さき", "ゆ"],
-		"okurigana": ["い.く", "さき.に", "ゆ.く"]
+		"rare": [
+			"い",
+			"いにしえ",
+			"さき",
+			"ゆ"
+		],
+		"okurigana": [
+			"い.く",
+			"さき.に",
+			"ゆ.く"
+		]
 	},
 	"frequency": {
 		"mean": 1246,

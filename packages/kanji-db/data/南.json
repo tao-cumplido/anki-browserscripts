@@ -1,14 +1,22 @@
 {
 	"kanji": "南",
-	"meanings": ["south"],
+	"meanings": [
+		"south"
+	],
 	"keyword": "south",
 	"onyomi": {
-		"frequent": ["ナン"],
-		"common": ["ナ"],
+		"frequent": [
+			"ナン"
+		],
+		"common": [
+			"ナ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みなみ"],
+		"frequent": [
+			"みなみ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

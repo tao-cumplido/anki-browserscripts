@@ -1,17 +1,27 @@
 {
 	"kanji": "茂",
-	"meanings": ["overgrown", "grow thick", "be luxuriant"],
+	"meanings": [
+		"overgrown",
+		"grow thick",
+		"be luxuriant"
+	],
 	"keyword": "overgrown",
 	"onyomi": {
-		"frequent": ["モ"],
+		"frequent": [
+			"モ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["しげ"],
+		"frequent": [
+			"しげ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["しげ.る"]
+		"okurigana": [
+			"しげ.る"
+		]
 	},
 	"frequency": {
 		"mean": 996,

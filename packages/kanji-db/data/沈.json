@@ -1,17 +1,32 @@
 {
 	"kanji": "沈",
-	"meanings": ["sink", "be submerged", "subside", "be depressed", "aloes"],
+	"meanings": [
+		"sink",
+		"be submerged",
+		"subside",
+		"be depressed",
+		"aloes"
+	],
 	"keyword": "sink",
 	"onyomi": {
-		"frequent": ["チン"],
+		"frequent": [
+			"チン"
+		],
 		"common": [],
-		"rare": ["ジン"]
+		"rare": [
+			"ジン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["しず"],
+		"frequent": [
+			"しず"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["しず.む", "しず.める"]
+		"okurigana": [
+			"しず.む",
+			"しず.める"
+		]
 	},
 	"frequency": {
 		"mean": 1291,

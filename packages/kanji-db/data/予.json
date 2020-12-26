@@ -1,17 +1,30 @@
 {
 	"kanji": "予",
-	"meanings": ["beforehand", "previous", "myself", "I"],
+	"meanings": [
+		"beforehand",
+		"previous",
+		"myself",
+		"I"
+	],
 	"keyword": "beforehand",
 	"onyomi": {
-		"frequent": ["ヨ"],
+		"frequent": [
+			"ヨ"
+		],
 		"common": [],
-		"rare": ["シャ"]
+		"rare": [
+			"シャ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あらかじ"],
-		"okurigana": ["あらかじ.め"]
+		"rare": [
+			"あらかじ"
+		],
+		"okurigana": [
+			"あらかじ.め"
+		]
 	},
 	"frequency": {
 		"mean": 453,

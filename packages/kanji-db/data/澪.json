@@ -1,16 +1,23 @@
 {
 	"kanji": "澪",
-	"meanings": ["water route", "shipping channel"],
+	"meanings": [
+		"water route",
+		"shipping channel"
+	],
 	"keyword": "canal",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["レイ"]
+		"rare": [
+			"レイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みお"],
+		"rare": [
+			"みお"
+		],
 		"okurigana": []
 	},
 	"frequency": {

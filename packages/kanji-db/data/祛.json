@@ -1,0 +1,30 @@
+{
+	"kanji": "祛",
+	"meanings": [
+		"expel",
+		"disperse",
+		"exorcise"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"キョ",
+			"コ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"はら"
+		],
+		"rare": [],
+		"okurigana": [
+			"はら.う"
+		]
+	},
+	"frequency": {
+		"mean": 4525,
+		"wikipedia": 4216
+	}
+}

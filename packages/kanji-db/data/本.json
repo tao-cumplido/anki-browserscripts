@@ -1,14 +1,25 @@
 {
 	"kanji": "本",
-	"meanings": ["book", "present", "main", "origin", "real", "counter for long cylindrical things"],
+	"meanings": [
+		"book",
+		"present",
+		"main",
+		"origin",
+		"real",
+		"counter for long cylindrical things"
+	],
 	"keyword": "book",
 	"onyomi": {
-		"frequent": ["ホン"],
+		"frequent": [
+			"ホン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["もと"],
+		"frequent": [
+			"もと"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

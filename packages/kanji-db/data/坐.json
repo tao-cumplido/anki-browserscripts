@@ -1,17 +1,29 @@
 {
 	"kanji": "坐",
-	"meanings": ["sit"],
+	"meanings": [
+		"sit"
+	],
 	"keyword": "sitting in meditation",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ザ", "サ"]
+		"rare": [
+			"ザ",
+			"サ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すわ", "おわす", "そぞろに", "まします"],
-		"okurigana": ["すわ.る"]
+		"rare": [
+			"すわ",
+			"おわす",
+			"そぞろに",
+			"まします"
+		],
+		"okurigana": [
+			"すわ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1811,

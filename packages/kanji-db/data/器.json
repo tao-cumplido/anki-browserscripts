@@ -1,14 +1,28 @@
 {
 	"kanji": "器",
-	"meanings": ["utensil", "vessel", "receptacle", "implement", "instrument", "ability", "container", "tool", "set"],
+	"meanings": [
+		"utensil",
+		"vessel",
+		"receptacle",
+		"implement",
+		"instrument",
+		"ability",
+		"container",
+		"tool",
+		"set"
+	],
 	"keyword": "utensil",
 	"onyomi": {
-		"frequent": ["キ"],
+		"frequent": [
+			"キ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うつわ"],
+		"frequent": [
+			"うつわ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

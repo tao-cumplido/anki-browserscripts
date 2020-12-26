@@ -1,17 +1,32 @@
 {
 	"kanji": "揚",
-	"meanings": ["raise", "elevate", "hoist", "praise", "extol", "fry in deep fat"],
+	"meanings": [
+		"raise",
+		"elevate",
+		"hoist",
+		"praise",
+		"extol",
+		"fry in deep fat"
+	],
 	"keyword": "hoist",
 	"onyomi": {
-		"frequent": ["ヨウ"],
+		"frequent": [
+			"ヨウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あ"],
+		"frequent": [
+			"あ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あ.げる", "あ.げ", "あ.がる"]
+		"okurigana": [
+			"あ.げる",
+			"あ.げ",
+			"あ.がる"
+		]
 	},
 	"frequency": {
 		"mean": 1374,

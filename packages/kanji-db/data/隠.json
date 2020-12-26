@@ -1,17 +1,36 @@
 {
 	"kanji": "隠",
-	"meanings": ["conceal", "hide", "cover"],
+	"meanings": [
+		"conceal",
+		"hide",
+		"cover"
+	],
 	"keyword": "conceal",
 	"onyomi": {
-		"frequent": ["イン"],
+		"frequent": [
+			"イン"
+		],
 		"common": [],
-		"rare": ["オン"]
+		"rare": [
+			"オン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["かく"],
+		"frequent": [
+			"かく"
+		],
 		"common": [],
-		"rare": ["かか", "よ"],
-		"okurigana": ["かく.す", "かく.し", "かく.れる", "かか.す", "よ.る"]
+		"rare": [
+			"かか",
+			"よ"
+		],
+		"okurigana": [
+			"かく.す",
+			"かく.し",
+			"かく.れる",
+			"かか.す",
+			"よ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1063,

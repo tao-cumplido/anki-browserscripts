@@ -1,17 +1,31 @@
 {
 	"kanji": "外",
-	"meanings": ["outside"],
+	"meanings": [
+		"outside"
+	],
 	"keyword": "outside",
 	"onyomi": {
-		"frequent": ["ガイ", "ゲ"],
+		"frequent": [
+			"ガイ",
+			"ゲ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["そと", "ほか", "はず"],
+		"frequent": [
+			"そと",
+			"ほか",
+			"はず"
+		],
 		"common": [],
-		"rare": ["と"],
-		"okurigana": ["はず.す", "はず.れる"]
+		"rare": [
+			"と"
+		],
+		"okurigana": [
+			"はず.す",
+			"はず.れる"
+		]
 	},
 	"frequency": {
 		"mean": 99,

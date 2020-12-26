@@ -1,17 +1,27 @@
 {
 	"kanji": "扶",
-	"meanings": ["aid", "help", "assist"],
+	"meanings": [
+		"aid",
+		"help",
+		"assist"
+	],
 	"keyword": "aid",
 	"onyomi": {
-		"frequent": ["フ"],
+		"frequent": [
+			"フ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たす"],
-		"okurigana": ["たす.ける"]
+		"rare": [
+			"たす"
+		],
+		"okurigana": [
+			"たす.ける"
+		]
 	},
 	"frequency": {
 		"mean": 2061,

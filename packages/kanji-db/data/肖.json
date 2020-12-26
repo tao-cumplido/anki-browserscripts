@@ -1,17 +1,25 @@
 {
 	"kanji": "肖",
-	"meanings": ["resemblance"],
+	"meanings": [
+		"resemblance"
+	],
 	"keyword": "resemblance",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あやか"],
-		"okurigana": ["あやか.る"]
+		"rare": [
+			"あやか"
+		],
+		"okurigana": [
+			"あやか.る"
+		]
 	},
 	"frequency": {
 		"mean": 1891,

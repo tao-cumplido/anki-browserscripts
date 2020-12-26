@@ -1,17 +1,28 @@
 {
 	"kanji": "駿",
-	"meanings": ["a good horse", "speed", "a fast person"],
+	"meanings": [
+		"a good horse",
+		"speed",
+		"a fast person"
+	],
 	"keyword": "steed",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュン", "スン"]
+		"rare": [
+			"シュン",
+			"スン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すぐ"],
-		"okurigana": ["すぐ.れる"]
+		"rare": [
+			"すぐ"
+		],
+		"okurigana": [
+			"すぐ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1606,

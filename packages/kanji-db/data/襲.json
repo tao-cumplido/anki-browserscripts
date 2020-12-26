@@ -1,17 +1,32 @@
 {
 	"kanji": "襲",
-	"meanings": ["attack", "advance on", "succeed to", "pile", "heap"],
+	"meanings": [
+		"attack",
+		"advance on",
+		"succeed to",
+		"pile",
+		"heap"
+	],
 	"keyword": "attack",
 	"onyomi": {
-		"frequent": ["シュウ"],
+		"frequent": [
+			"シュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おそ"],
+		"frequent": [
+			"おそ"
+		],
 		"common": [],
-		"rare": ["かさ"],
-		"okurigana": ["おそ.う", "かさ.ね"]
+		"rare": [
+			"かさ"
+		],
+		"okurigana": [
+			"おそ.う",
+			"かさ.ね"
+		]
 	},
 	"frequency": {
 		"mean": 984,

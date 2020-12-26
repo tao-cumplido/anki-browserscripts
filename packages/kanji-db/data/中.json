@@ -1,17 +1,32 @@
 {
 	"kanji": "中",
-	"meanings": ["in", "inside", "middle", "mean", "center"],
+	"meanings": [
+		"in",
+		"inside",
+		"middle",
+		"mean",
+		"center"
+	],
 	"keyword": "in",
 	"onyomi": {
-		"frequent": ["チュウ"],
+		"frequent": [
+			"チュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["なか"],
+		"frequent": [
+			"なか"
+		],
 		"common": [],
-		"rare": ["うち", "あた"],
-		"okurigana": ["あた.る"]
+		"rare": [
+			"うち",
+			"あた"
+		],
+		"okurigana": [
+			"あた.る"
+		]
 	},
 	"frequency": {
 		"mean": 10,

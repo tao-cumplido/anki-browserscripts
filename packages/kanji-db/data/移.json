@@ -1,17 +1,31 @@
 {
 	"kanji": "移",
-	"meanings": ["shift", "move", "change", "drift", "catch (cold, fire)", "pass into"],
+	"meanings": [
+		"shift",
+		"move",
+		"change",
+		"drift",
+		"catch (cold, fire)",
+		"pass into"
+	],
 	"keyword": "shift",
 	"onyomi": {
-		"frequent": ["イ"],
+		"frequent": [
+			"イ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うつ"],
+		"frequent": [
+			"うつ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["うつ.る", "うつ.す"]
+		"okurigana": [
+			"うつ.る",
+			"うつ.す"
+		]
 	},
 	"frequency": {
 		"mean": 342,

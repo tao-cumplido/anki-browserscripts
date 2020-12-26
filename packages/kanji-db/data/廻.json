@@ -1,17 +1,36 @@
 {
 	"kanji": "廻",
-	"meanings": ["round", "game", "revolve", "go around", "circumference"],
+	"meanings": [
+		"round",
+		"game",
+		"revolve",
+		"go around",
+		"circumference"
+	],
 	"keyword": "circling",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カイ", "エ"]
+		"rare": [
+			"カイ",
+			"エ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まわ", "もとお", "めぐ"],
-		"okurigana": ["まわ.る", "まわ.す", "もとお.る", "めぐ.る", "めぐ.らす"]
+		"rare": [
+			"まわ",
+			"もとお",
+			"めぐ"
+		],
+		"okurigana": [
+			"まわ.る",
+			"まわ.す",
+			"もとお.る",
+			"めぐ.る",
+			"めぐ.らす"
+		]
 	},
 	"frequency": {
 		"mean": 1609,

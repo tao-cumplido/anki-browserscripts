@@ -1,0 +1,28 @@
+{
+	"kanji": "雞",
+	"meanings": [
+		"chickens",
+		"domestic fowl"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": [
+			"ケイ"
+		]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": [
+			"にわとり",
+			"とり"
+		],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4132,
+		"news": 1699,
+		"wikipedia": 3823
+	}
+}

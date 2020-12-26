@@ -1,16 +1,27 @@
 {
 	"kanji": "掟",
-	"meanings": ["law", "commandments", "regulations"],
+	"meanings": [
+		"law",
+		"commandments",
+		"regulations"
+	],
 	"keyword": "mandate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["トウ", "チョウ", "ジョウ", "テイ"]
+		"rare": [
+			"トウ",
+			"チョウ",
+			"ジョウ",
+			"テイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おきて"],
+		"rare": [
+			"おきて"
+		],
 		"okurigana": []
 	},
 	"frequency": {

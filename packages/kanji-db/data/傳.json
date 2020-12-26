@@ -1,16 +1,30 @@
 {
 	"kanji": "傳",
-	"meanings": ["summon", "propagate", "transmit"],
+	"meanings": [
+		"summon",
+		"propagate",
+		"transmit"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テン", "デン"]
+		"rare": [
+			"テン",
+			"デン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つた", "つて"],
-		"okurigana": ["つた.わる", "つた.える", "つた.う"]
+		"rare": [
+			"つた",
+			"つて"
+		],
+		"okurigana": [
+			"つた.わる",
+			"つた.える",
+			"つた.う"
+		]
 	},
 	"frequency": {
 		"mean": 2264,

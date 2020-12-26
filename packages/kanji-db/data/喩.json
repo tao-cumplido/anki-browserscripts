@@ -1,17 +1,28 @@
 {
 	"kanji": "喩",
-	"meanings": ["metaphor", "compare"],
+	"meanings": [
+		"metaphor",
+		"compare"
+	],
 	"keyword": "metaphor",
 	"onyomi": {
-		"frequent": ["ユ"],
+		"frequent": [
+			"ユ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たと", "さと"],
-		"okurigana": ["たと.える", "さと.す"]
+		"rare": [
+			"たと",
+			"さと"
+		],
+		"okurigana": [
+			"たと.える",
+			"さと.す"
+		]
 	},
 	"frequency": {
 		"mean": 2654,

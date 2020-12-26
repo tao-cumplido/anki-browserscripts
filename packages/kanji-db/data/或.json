@@ -1,17 +1,33 @@
 {
 	"kanji": "或",
-	"meanings": ["some", "one", "or", "possibly", "a certain"],
+	"meanings": [
+		"some",
+		"one",
+		"or",
+		"possibly",
+		"a certain"
+	],
 	"keyword": "a  (a certain)",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ワク", "コク", "イキ"]
+		"rare": [
+			"ワク",
+			"コク",
+			"イキ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あ", "あるい", "あるいは"],
-		"okurigana": ["あ.る"]
+		"rare": [
+			"あ",
+			"あるい",
+			"あるいは"
+		],
+		"okurigana": [
+			"あ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1575,

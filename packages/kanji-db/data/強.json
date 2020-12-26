@@ -1,17 +1,33 @@
 {
 	"kanji": "強",
-	"meanings": ["strong"],
+	"meanings": [
+		"strong"
+	],
 	"keyword": "strong",
 	"onyomi": {
-		"frequent": ["キョウ", "ゴウ"],
+		"frequent": [
+			"キョウ",
+			"ゴウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つよ", "し"],
+		"frequent": [
+			"つよ",
+			"し"
+		],
 		"common": [],
-		"rare": ["こわ"],
-		"okurigana": ["つよ.い", "つよ.まる", "つよ.める", "し.いる", "こわ.い"]
+		"rare": [
+			"こわ"
+		],
+		"okurigana": [
+			"つよ.い",
+			"つよ.まる",
+			"つよ.める",
+			"し.いる",
+			"こわ.い"
+		]
 	},
 	"frequency": {
 		"mean": 366,

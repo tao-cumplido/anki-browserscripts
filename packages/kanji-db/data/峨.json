@@ -1,17 +1,25 @@
 {
 	"kanji": "峨",
-	"meanings": ["high mountain"],
+	"meanings": [
+		"high mountain"
+	],
 	"keyword": "high mountain",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ガ"]
+		"rare": [
+			"ガ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["けわ"],
-		"okurigana": ["けわ.しい"]
+		"rare": [
+			"けわ"
+		],
+		"okurigana": [
+			"けわ.しい"
+		]
 	},
 	"frequency": {
 		"mean": 2317,

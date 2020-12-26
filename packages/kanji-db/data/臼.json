@@ -1,17 +1,29 @@
 {
 	"kanji": "臼",
-	"meanings": ["mortar"],
+	"meanings": [
+		"mortar"
+	],
 	"keyword": "mortar",
 	"onyomi": {
-		"frequent": ["キュウ"],
+		"frequent": [
+			"キュウ"
+		],
 		"common": [],
-		"rare": ["グ"]
+		"rare": [
+			"グ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["うす"],
+		"frequent": [
+			"うす"
+		],
 		"common": [],
-		"rare": ["うすづ"],
-		"okurigana": ["うすづ.く"]
+		"rare": [
+			"うすづ"
+		],
+		"okurigana": [
+			"うすづ.く"
+		]
 	},
 	"frequency": {
 		"mean": 1884,

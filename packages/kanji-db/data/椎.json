@@ -1,17 +1,30 @@
 {
 	"kanji": "椎",
-	"meanings": ["chinquapin", "mallet", "spine"],
+	"meanings": [
+		"chinquapin",
+		"mallet",
+		"spine"
+	],
 	"keyword": "sweet oak",
 	"onyomi": {
-		"frequent": ["ツイ"],
+		"frequent": [
+			"ツイ"
+		],
 		"common": [],
-		"rare": ["スイ"]
+		"rare": [
+			"スイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つち", "う"],
-		"okurigana": ["う.つ"]
+		"rare": [
+			"つち",
+			"う"
+		],
+		"okurigana": [
+			"う.つ"
+		]
 	},
 	"frequency": {
 		"mean": 1632,

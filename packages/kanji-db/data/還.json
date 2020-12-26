@@ -1,17 +1,26 @@
 {
 	"kanji": "還",
-	"meanings": ["send back", "return"],
+	"meanings": [
+		"send back",
+		"return"
+	],
 	"keyword": "send back",
 	"onyomi": {
-		"frequent": ["カン"],
+		"frequent": [
+			"カン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かえ"],
-		"okurigana": ["かえ.る"]
+		"rare": [
+			"かえ"
+		],
+		"okurigana": [
+			"かえ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1265,

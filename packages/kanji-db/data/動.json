@@ -1,17 +1,31 @@
 {
 	"kanji": "動",
-	"meanings": ["move", "motion", "change", "confusion", "shift", "shake"],
+	"meanings": [
+		"move",
+		"motion",
+		"change",
+		"confusion",
+		"shift",
+		"shake"
+	],
 	"keyword": "move",
 	"onyomi": {
-		"frequent": ["ドウ"],
+		"frequent": [
+			"ドウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うご"],
+		"frequent": [
+			"うご"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["うご.く", "うご.かす"]
+		"okurigana": [
+			"うご.く",
+			"うご.かす"
+		]
 	},
 	"frequency": {
 		"mean": 61,

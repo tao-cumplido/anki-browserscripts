@@ -1,17 +1,31 @@
 {
 	"kanji": "騰",
-	"meanings": ["leaping up", "jumping up", "rising", "advancing", "going"],
+	"meanings": [
+		"leaping up",
+		"jumping up",
+		"rising",
+		"advancing",
+		"going"
+	],
 	"keyword": "inflation",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あが", "のぼ"],
-		"okurigana": ["あが.る", "のぼ.る"]
+		"rare": [
+			"あが",
+			"のぼ"
+		],
+		"okurigana": [
+			"あが.る",
+			"のぼ.る"
+		]
 	},
 	"frequency": {
 		"mean": 2314,

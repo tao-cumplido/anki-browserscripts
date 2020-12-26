@@ -1,17 +1,25 @@
 {
 	"kanji": "走",
-	"meanings": ["run"],
+	"meanings": [
+		"run"
+	],
 	"keyword": "run",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はし"],
+		"frequent": [
+			"はし"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["はし.る"]
+		"okurigana": [
+			"はし.る"
+		]
 	},
 	"frequency": {
 		"mean": 479,

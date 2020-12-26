@@ -1,16 +1,25 @@
 {
 	"kanji": "伈",
-	"meanings": ["nervous", "fearful"],
+	"meanings": [
+		"nervous",
+		"fearful"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["シン"],
+		"common": [
+			"シン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["おそ"],
+		"common": [
+			"おそ"
+		],
 		"rare": [],
-		"okurigana": ["おそ.れる"]
+		"okurigana": [
+			"おそ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

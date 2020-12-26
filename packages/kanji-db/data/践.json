@@ -1,17 +1,29 @@
 {
 	"kanji": "践",
-	"meanings": ["tread", "step on", "trample", "practice", "carry through"],
+	"meanings": [
+		"tread",
+		"step on",
+		"trample",
+		"practice",
+		"carry through"
+	],
 	"keyword": "tread",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふ"],
-		"okurigana": ["ふ.む"]
+		"rare": [
+			"ふ"
+		],
+		"okurigana": [
+			"ふ.む"
+		]
 	},
 	"frequency": {
 		"mean": 1928,

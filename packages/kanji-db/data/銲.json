@@ -1,0 +1,29 @@
+{
+	"kanji": "銲",
+	"meanings": [
+		"solder",
+		"weld",
+		"leg armor",
+		"greaves"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"カン",
+			"ガン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"こて"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4520,
+		"wikipedia": 4211
+	}
+}

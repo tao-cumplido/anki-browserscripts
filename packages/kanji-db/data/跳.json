@@ -1,17 +1,36 @@
 {
 	"kanji": "跳",
-	"meanings": ["hop", "leap up", "spring", "jerk", "prance", "buck", "splash", "sputter", "snap"],
+	"meanings": [
+		"hop",
+		"leap up",
+		"spring",
+		"jerk",
+		"prance",
+		"buck",
+		"splash",
+		"sputter",
+		"snap"
+	],
 	"keyword": "hop",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["は", "と"],
+		"frequent": [
+			"は",
+			"と"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["は.ねる", "と.ぶ", "と.び"]
+		"okurigana": [
+			"は.ねる",
+			"と.ぶ",
+			"と.び"
+		]
 	},
 	"frequency": {
 		"mean": 1704,

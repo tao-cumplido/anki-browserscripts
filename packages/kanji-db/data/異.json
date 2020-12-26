@@ -1,17 +1,33 @@
 {
 	"kanji": "異",
-	"meanings": ["uncommon", "different", "queerness", "strangeness", "wonderful", "curious", "unusual"],
+	"meanings": [
+		"uncommon",
+		"different",
+		"queerness",
+		"strangeness",
+		"wonderful",
+		"curious",
+		"unusual"
+	],
 	"keyword": "uncommon",
 	"onyomi": {
-		"frequent": ["イ"],
+		"frequent": [
+			"イ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こと"],
+		"frequent": [
+			"こと"
+		],
 		"common": [],
-		"rare": ["け"],
-		"okurigana": ["こと.なる"]
+		"rare": [
+			"け"
+		],
+		"okurigana": [
+			"こと.なる"
+		]
 	},
 	"frequency": {
 		"mean": 529,

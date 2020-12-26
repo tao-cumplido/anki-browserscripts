@@ -1,16 +1,30 @@
 {
 	"kanji": "様",
-	"meanings": ["Esq.", "way", "manner", "situation", "polite suffix"],
+	"meanings": [
+		"Esq.",
+		"way",
+		"manner",
+		"situation",
+		"polite suffix"
+	],
 	"keyword": "Esq.",
 	"onyomi": {
-		"frequent": ["ヨウ"],
+		"frequent": [
+			"ヨウ"
+		],
 		"common": [],
-		"rare": ["ショウ"]
+		"rare": [
+			"ショウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["さま"],
+		"frequent": [
+			"さま"
+		],
 		"common": [],
-		"rare": ["さん"],
+		"rare": [
+			"さん"
+		],
 		"okurigana": []
 	},
 	"frequency": {

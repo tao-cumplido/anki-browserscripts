@@ -1,0 +1,32 @@
+{
+	"kanji": "詡",
+	"meanings": [
+		"boast",
+		"brag",
+		"popular",
+		"well known",
+		"to flatter"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ほこ"
+		],
+		"rare": [],
+		"okurigana": [
+			"ほこ.る"
+		]
+	},
+	"frequency": {
+		"mean": 4320,
+		"twitter": 1726,
+		"wikipedia": 4013
+	}
+}

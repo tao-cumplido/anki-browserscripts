@@ -1,14 +1,21 @@
 {
 	"kanji": "肘",
-	"meanings": ["elbow", "arm"],
+	"meanings": [
+		"elbow",
+		"arm"
+	],
 	"keyword": "elbow",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チュウ"]
+		"rare": [
+			"チュウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ひじ"],
+		"frequent": [
+			"ひじ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

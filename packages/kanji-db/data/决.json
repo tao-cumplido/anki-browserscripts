@@ -1,16 +1,30 @@
 {
 	"kanji": "决",
-	"meanings": ["decide", "determine", "judge"],
+	"meanings": [
+		"decide",
+		"determine",
+		"judge"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケチ", "ケツ"]
+		"rare": [
+			"ケチ",
+			"ケツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["き", "さ"],
-		"okurigana": ["き.める", "き.まる", "さ.く"]
+		"rare": [
+			"き",
+			"さ"
+		],
+		"okurigana": [
+			"き.める",
+			"き.まる",
+			"さ.く"
+		]
 	},
 	"frequency": {
 		"mean": 4079,

@@ -1,17 +1,25 @@
 {
 	"kanji": "毎",
-	"meanings": ["every"],
+	"meanings": [
+		"every"
+	],
 	"keyword": "every",
 	"onyomi": {
-		"frequent": ["マイ"],
+		"frequent": [
+			"マイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ごと"],
-		"okurigana": ["ごと.に"]
+		"rare": [
+			"ごと"
+		],
+		"okurigana": [
+			"ごと.に"
+		]
 	},
 	"frequency": {
 		"mean": 662,

@@ -1,17 +1,29 @@
 {
 	"kanji": "馨",
-	"meanings": ["fragrant", "balmy", "favourable"],
+	"meanings": [
+		"fragrant",
+		"balmy",
+		"favourable"
+	],
 	"keyword": "ambrosial",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケイ", "キョウ"]
+		"rare": [
+			"ケイ",
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かお", "かおり"],
-		"okurigana": ["かお.る"]
+		"rare": [
+			"かお",
+			"かおり"
+		],
+		"okurigana": [
+			"かお.る"
+		]
 	},
 	"frequency": {
 		"mean": 2799,

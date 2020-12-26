@@ -1,17 +1,27 @@
 {
 	"kanji": "粗",
-	"meanings": ["coarse", "rough", "rugged"],
+	"meanings": [
+		"coarse",
+		"rough",
+		"rugged"
+	],
 	"keyword": "coarse",
 	"onyomi": {
-		"frequent": ["ソ"],
+		"frequent": [
+			"ソ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あら"],
+		"frequent": [
+			"あら"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あら.い"]
+		"okurigana": [
+			"あら.い"
+		]
 	},
 	"frequency": {
 		"mean": 2133,

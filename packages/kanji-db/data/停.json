@@ -1,17 +1,27 @@
 {
 	"kanji": "停",
-	"meanings": ["halt", "stopping"],
+	"meanings": [
+		"halt",
+		"stopping"
+	],
 	"keyword": "halt",
 	"onyomi": {
-		"frequent": ["テイ"],
+		"frequent": [
+			"テイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["と"],
-		"okurigana": ["と.める", "と.まる"]
+		"rare": [
+			"と"
+		],
+		"okurigana": [
+			"と.める",
+			"と.まる"
+		]
 	},
 	"frequency": {
 		"mean": 672,

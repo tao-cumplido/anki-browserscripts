@@ -1,17 +1,29 @@
 {
 	"kanji": "漏",
-	"meanings": ["leak", "escape", "time"],
+	"meanings": [
+		"leak",
+		"escape",
+		"time"
+	],
 	"keyword": "leak",
 	"onyomi": {
-		"frequent": ["ロウ"],
+		"frequent": [
+			"ロウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["も"],
+		"frequent": [
+			"も"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["も.る", "も.れる", "も.らす"]
+		"okurigana": [
+			"も.る",
+			"も.れる",
+			"も.らす"
+		]
 	},
 	"frequency": {
 		"mean": 1939,

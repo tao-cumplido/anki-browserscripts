@@ -1,17 +1,25 @@
 {
 	"kanji": "搾",
-	"meanings": ["squeeze"],
+	"meanings": [
+		"squeeze"
+	],
 	"keyword": "squeeze",
 	"onyomi": {
-		"frequent": ["サク"],
+		"frequent": [
+			"サク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["しぼ"],
+		"frequent": [
+			"しぼ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["しぼ.る"]
+		"okurigana": [
+			"しぼ.る"
+		]
 	},
 	"frequency": {
 		"mean": 2729,

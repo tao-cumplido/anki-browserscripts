@@ -1,17 +1,34 @@
 {
 	"kanji": "窮",
-	"meanings": ["hard up", "destitute", "suffer", "perplexed", "cornered"],
+	"meanings": [
+		"hard up",
+		"destitute",
+		"suffer",
+		"perplexed",
+		"cornered"
+	],
 	"keyword": "hard up",
 	"onyomi": {
-		"frequent": ["キュウ"],
+		"frequent": [
+			"キュウ"
+		],
 		"common": [],
-		"rare": ["キョウ"]
+		"rare": [
+			"キョウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["きわ"],
+		"frequent": [
+			"きわ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["きわ.める", "きわ.まる", "きわ.まり", "きわ.み"]
+		"okurigana": [
+			"きわ.める",
+			"きわ.まる",
+			"きわ.まり",
+			"きわ.み"
+		]
 	},
 	"frequency": {
 		"mean": 2091,

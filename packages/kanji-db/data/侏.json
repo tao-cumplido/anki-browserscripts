@@ -1,10 +1,15 @@
 {
 	"kanji": "侏",
-	"meanings": ["actor", "supporting post"],
+	"meanings": [
+		"actor",
+		"supporting post"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュ"]
+		"rare": [
+			"シュ"
+		]
 	},
 	"frequency": {
 		"mean": 4224,

@@ -1,17 +1,30 @@
 {
 	"kanji": "費",
-	"meanings": ["expense", "cost", "spend", "consume", "waste"],
+	"meanings": [
+		"expense",
+		"cost",
+		"spend",
+		"consume",
+		"waste"
+	],
 	"keyword": "expense",
 	"onyomi": {
-		"frequent": ["ヒ"],
+		"frequent": [
+			"ヒ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つい"],
+		"frequent": [
+			"つい"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["つい.やす", "つい.える"]
+		"okurigana": [
+			"つい.やす",
+			"つい.える"
+		]
 	},
 	"frequency": {
 		"mean": 903,

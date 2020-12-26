@@ -1,16 +1,27 @@
 {
 	"kanji": "茨",
-	"meanings": ["briar", "thorn"],
+	"meanings": [
+		"briar",
+		"thorn"
+	],
 	"keyword": "briar",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ", "ジ"]
+		"rare": [
+			"シ",
+			"ジ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["いばら"],
+		"frequent": [
+			"いばら"
+		],
 		"common": [],
-		"rare": ["かや", "くさぶき"],
+		"rare": [
+			"かや",
+			"くさぶき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

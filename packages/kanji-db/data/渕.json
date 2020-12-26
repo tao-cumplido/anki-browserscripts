@@ -1,17 +1,29 @@
 {
 	"kanji": "渕",
-	"meanings": ["edge"],
+	"meanings": [
+		"edge"
+	],
 	"keyword": "abyss",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["エン", "カク", "コウ"]
+		"rare": [
+			"エン",
+			"カク",
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふち", "かた", "はなわ"],
-		"okurigana": ["かた.い"]
+		"rare": [
+			"ふち",
+			"かた",
+			"はなわ"
+		],
+		"okurigana": [
+			"かた.い"
+		]
 	},
 	"frequency": {
 		"mean": 1924,

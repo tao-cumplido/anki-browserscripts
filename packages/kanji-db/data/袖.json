@@ -1,14 +1,23 @@
 {
 	"kanji": "袖",
-	"meanings": ["sleeve", "wing (building)", "extension", "give cold shoulder"],
+	"meanings": [
+		"sleeve",
+		"wing (building)",
+		"extension",
+		"give cold shoulder"
+	],
 	"keyword": "sleeve",
 	"onyomi": {
-		"frequent": ["シュウ"],
+		"frequent": [
+			"シュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["そで"],
+		"frequent": [
+			"そで"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

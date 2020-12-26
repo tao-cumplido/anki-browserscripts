@@ -1,17 +1,34 @@
 {
 	"kanji": "泥",
-	"meanings": ["mud", "mire", "adhere to", "be attached to"],
+	"meanings": [
+		"mud",
+		"mire",
+		"adhere to",
+		"be attached to"
+	],
 	"keyword": "mud",
 	"onyomi": {
-		"frequent": ["デイ"],
+		"frequent": [
+			"デイ"
+		],
 		"common": [],
-		"rare": ["ナイ", "デ", "ニ"]
+		"rare": [
+			"ナイ",
+			"デ",
+			"ニ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["どろ"],
+		"frequent": [
+			"どろ"
+		],
 		"common": [],
-		"rare": ["なず"],
-		"okurigana": ["なず.む"]
+		"rare": [
+			"なず"
+		],
+		"okurigana": [
+			"なず.む"
+		]
 	},
 	"frequency": {
 		"mean": 1692,

@@ -1,17 +1,32 @@
 {
 	"kanji": "建",
-	"meanings": ["build"],
+	"meanings": [
+		"build"
+	],
 	"keyword": "build",
 	"onyomi": {
-		"frequent": ["ケン"],
-		"common": ["コン"],
+		"frequent": [
+			"ケン"
+		],
+		"common": [
+			"コン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["た"],
+		"frequent": [
+			"た"
+		],
 		"common": [],
-		"rare": ["だ"],
-		"okurigana": ["た.てる", "た.て", "だ.て", "た.つ"]
+		"rare": [
+			"だ"
+		],
+		"okurigana": [
+			"た.てる",
+			"た.て",
+			"だ.て",
+			"た.つ"
+		]
 	},
 	"frequency": {
 		"mean": 328,

@@ -1,16 +1,23 @@
 {
 	"kanji": "狛",
-	"meanings": ["archaic part of Korea", "lion-dog shrine guards"],
+	"meanings": [
+		"archaic part of Korea",
+		"lion-dog shrine guards"
+	],
 	"keyword": "a-un",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハク"]
+		"rare": [
+			"ハク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こま"],
+		"rare": [
+			"こま"
+		],
 		"okurigana": []
 	},
 	"frequency": {

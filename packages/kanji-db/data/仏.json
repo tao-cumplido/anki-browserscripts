@@ -1,14 +1,24 @@
 {
 	"kanji": "仏",
-	"meanings": ["Buddha", "the dead", "France"],
+	"meanings": [
+		"Buddha",
+		"the dead",
+		"France"
+	],
 	"keyword": "Buddha",
 	"onyomi": {
-		"frequent": ["ブツ"],
+		"frequent": [
+			"ブツ"
+		],
 		"common": [],
-		"rare": ["フツ"]
+		"rare": [
+			"フツ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ほとけ"],
+		"frequent": [
+			"ほとけ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

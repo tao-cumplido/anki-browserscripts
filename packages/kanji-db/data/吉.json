@@ -1,16 +1,25 @@
 {
 	"kanji": "吉",
-	"meanings": ["good luck", "joy", "congratulations"],
+	"meanings": [
+		"good luck",
+		"joy",
+		"congratulations"
+	],
 	"keyword": "good luck",
 	"onyomi": {
-		"frequent": ["キチ", "キツ"],
+		"frequent": [
+			"キチ",
+			"キツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よし"],
+		"rare": [
+			"よし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

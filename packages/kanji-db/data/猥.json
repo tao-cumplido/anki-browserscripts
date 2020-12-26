@@ -1,17 +1,27 @@
 {
 	"kanji": "猥",
-	"meanings": ["obscene"],
+	"meanings": [
+		"obscene"
+	],
 	"keyword": "indecent",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ワイ"]
+		"rare": [
+			"ワイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みだ", "みだり"],
-		"okurigana": ["みだ.ら", "みだり.に"]
+		"rare": [
+			"みだ",
+			"みだり"
+		],
+		"okurigana": [
+			"みだ.ら",
+			"みだり.に"
+		]
 	},
 	"frequency": {
 		"mean": 2888,

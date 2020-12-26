@@ -1,17 +1,29 @@
 {
 	"kanji": "聾",
-	"meanings": ["deafness", "deaf person", "deafen"],
+	"meanings": [
+		"deafness",
+		"deaf person",
+		"deafen"
+	],
 	"keyword": "deafness",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ロウ"]
+		"rare": [
+			"ロウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ろう", "つんぼ", "みみしい"],
-		"okurigana": ["ろう.する"]
+		"rare": [
+			"ろう",
+			"つんぼ",
+			"みみしい"
+		],
+		"okurigana": [
+			"ろう.する"
+		]
 	},
 	"frequency": {
 		"mean": 3088,

@@ -1,17 +1,35 @@
 {
 	"kanji": "咽",
-	"meanings": ["throat", "choked", "smothered", "stuffy"],
+	"meanings": [
+		"throat",
+		"choked",
+		"smothered",
+		"stuffy"
+	],
 	"keyword": "windpipe",
 	"onyomi": {
-		"frequent": ["イン"],
+		"frequent": [
+			"イン"
+		],
 		"common": [],
-		"rare": ["エン", "エツ"]
+		"rare": [
+			"エン",
+			"エツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["むせ", "のど", "の"],
-		"okurigana": ["むせ.ぶ", "むせ.る", "の.む"]
+		"rare": [
+			"むせ",
+			"のど",
+			"の"
+		],
+		"okurigana": [
+			"むせ.ぶ",
+			"むせ.る",
+			"の.む"
+		]
 	},
 	"frequency": {
 		"mean": 2417,

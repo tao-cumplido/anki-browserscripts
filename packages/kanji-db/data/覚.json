@@ -1,17 +1,35 @@
 {
 	"kanji": "覚",
-	"meanings": ["memorize", "learn", "remember", "awake", "sober up"],
+	"meanings": [
+		"memorize",
+		"learn",
+		"remember",
+		"awake",
+		"sober up"
+	],
 	"keyword": "memorize",
 	"onyomi": {
-		"frequent": ["カク"],
+		"frequent": [
+			"カク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おぼ", "さ"],
+		"frequent": [
+			"おぼ",
+			"さ"
+		],
 		"common": [],
-		"rare": ["さと"],
-		"okurigana": ["おぼ.える", "さ.ます", "さ.める", "さと.る"]
+		"rare": [
+			"さと"
+		],
+		"okurigana": [
+			"おぼ.える",
+			"さ.ます",
+			"さ.める",
+			"さと.る"
+		]
 	},
 	"frequency": {
 		"mean": 809,

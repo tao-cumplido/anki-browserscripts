@@ -1,17 +1,33 @@
 {
 	"kanji": "張",
-	"meanings": ["lengthen", "counter for bows &amp; stringed instruments", "stretch", "spread", "put up (tent)"],
+	"meanings": [
+		"lengthen",
+		"counter for bows &amp; stringed instruments",
+		"stretch",
+		"spread",
+		"put up (tent)"
+	],
 	"keyword": "lengthen",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["は"],
+		"frequent": [
+			"は"
+		],
 		"common": [],
-		"rare": ["ば"],
-		"okurigana": ["は.る", "は.り", "ば.り"]
+		"rare": [
+			"ば"
+		],
+		"okurigana": [
+			"は.る",
+			"は.り",
+			"ば.り"
+		]
 	},
 	"frequency": {
 		"mean": 515,

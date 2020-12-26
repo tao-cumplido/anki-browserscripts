@@ -1,17 +1,28 @@
 {
 	"kanji": "翔",
-	"meanings": ["soar", "fly"],
+	"meanings": [
+		"soar",
+		"fly"
+	],
 	"keyword": "soar",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ"]
+		"rare": [
+			"ショウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かけ", "と"],
-		"okurigana": ["かけ.る", "と.ぶ"]
+		"rare": [
+			"かけ",
+			"と"
+		],
+		"okurigana": [
+			"かけ.る",
+			"と.ぶ"
+		]
 	},
 	"frequency": {
 		"mean": 1455,

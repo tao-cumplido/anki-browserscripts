@@ -1,17 +1,27 @@
 {
 	"kanji": "惑",
-	"meanings": ["beguile", "delusion", "perplexity"],
+	"meanings": [
+		"beguile",
+		"delusion",
+		"perplexity"
+	],
 	"keyword": "beguile",
 	"onyomi": {
-		"frequent": ["ワク"],
+		"frequent": [
+			"ワク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まど"],
+		"frequent": [
+			"まど"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["まど.う"]
+		"okurigana": [
+			"まど.う"
+		]
 	},
 	"frequency": {
 		"mean": 831,

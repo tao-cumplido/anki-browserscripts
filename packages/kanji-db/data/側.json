@@ -1,16 +1,28 @@
 {
 	"kanji": "側",
-	"meanings": ["side", "lean", "oppose", "regret"],
+	"meanings": [
+		"side",
+		"lean",
+		"oppose",
+		"regret"
+	],
 	"keyword": "side",
 	"onyomi": {
-		"frequent": ["ソク"],
+		"frequent": [
+			"ソク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["がわ"],
+		"frequent": [
+			"がわ"
+		],
 		"common": [],
-		"rare": ["かわ", "そば"],
+		"rare": [
+			"かわ",
+			"そば"
+		],
 		"okurigana": []
 	},
 	"frequency": {

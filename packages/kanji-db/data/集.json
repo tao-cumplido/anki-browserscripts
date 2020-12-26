@@ -1,17 +1,32 @@
 {
 	"kanji": "集",
-	"meanings": ["gather", "meet", "congregate", "swarm", "flock"],
+	"meanings": [
+		"gather",
+		"meet",
+		"congregate",
+		"swarm",
+		"flock"
+	],
 	"keyword": "gather",
 	"onyomi": {
-		"frequent": ["シュウ"],
+		"frequent": [
+			"シュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あつ", "つど"],
+		"frequent": [
+			"あつ",
+			"つど"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["あつ.まる", "あつ.める", "つど.う"]
+		"okurigana": [
+			"あつ.まる",
+			"あつ.める",
+			"つど.う"
+		]
 	},
 	"frequency": {
 		"mean": 166,

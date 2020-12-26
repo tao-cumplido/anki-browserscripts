@@ -1,17 +1,29 @@
 {
 	"kanji": "賭",
-	"meanings": ["gamble", "wager", "bet"],
+	"meanings": [
+		"gamble",
+		"wager",
+		"bet"
+	],
 	"keyword": "gamble",
 	"onyomi": {
-		"frequent": ["ト"],
+		"frequent": [
+			"ト"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["か"],
+		"frequent": [
+			"か"
+		],
 		"common": [],
-		"rare": ["かけ"],
-		"okurigana": ["か.ける"]
+		"rare": [
+			"かけ"
+		],
+		"okurigana": [
+			"か.ける"
+		]
 	},
 	"frequency": {
 		"mean": 1944,

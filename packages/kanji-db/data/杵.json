@@ -1,16 +1,23 @@
 {
 	"kanji": "杵",
-	"meanings": ["wooden pestle"],
+	"meanings": [
+		"wooden pestle"
+	],
 	"keyword": "wooden pestle",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショ", "ソ"]
+		"rare": [
+			"ショ",
+			"ソ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きね"],
+		"rare": [
+			"きね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

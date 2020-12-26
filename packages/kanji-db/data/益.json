@@ -1,17 +1,30 @@
 {
 	"kanji": "益",
-	"meanings": ["benefit", "gain", "profit", "advantage"],
+	"meanings": [
+		"benefit",
+		"gain",
+		"profit",
+		"advantage"
+	],
 	"keyword": "benefit",
 	"onyomi": {
-		"frequent": ["エキ"],
-		"common": ["ヤク"],
+		"frequent": [
+			"エキ"
+		],
+		"common": [
+			"ヤク"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ま"],
-		"okurigana": ["ま.す"]
+		"rare": [
+			"ま"
+		],
+		"okurigana": [
+			"ま.す"
+		]
 	},
 	"frequency": {
 		"mean": 1004,

@@ -1,10 +1,14 @@
 {
 	"kanji": "兮",
-	"meanings": ["auxiliary word for euphony or emphasis"],
+	"meanings": [
+		"auxiliary word for euphony or emphasis"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケイ"]
+		"rare": [
+			"ケイ"
+		]
 	},
 	"frequency": {
 		"mean": 4265,

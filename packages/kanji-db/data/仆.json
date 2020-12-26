@@ -1,16 +1,26 @@
 {
 	"kanji": "仆",
-	"meanings": ["fall", "lie down", "bend"],
+	"meanings": [
+		"fall",
+		"lie down",
+		"bend"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フ"]
+		"rare": [
+			"フ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たお"],
-		"okurigana": ["たお.れる"]
+		"rare": [
+			"たお"
+		],
+		"okurigana": [
+			"たお.れる"
+		]
 	},
 	"frequency": {
 		"mean": 3649,

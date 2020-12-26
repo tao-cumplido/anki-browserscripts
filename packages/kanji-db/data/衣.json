@@ -1,16 +1,29 @@
 {
 	"kanji": "衣",
-	"meanings": ["garment", "clothes", "dressing"],
+	"meanings": [
+		"garment",
+		"clothes",
+		"dressing"
+	],
 	"keyword": "garment",
 	"onyomi": {
-		"frequent": ["イ"],
+		"frequent": [
+			"イ"
+		],
 		"common": [],
-		"rare": ["エ"]
+		"rare": [
+			"エ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ころも"],
+		"frequent": [
+			"ころも"
+		],
 		"common": [],
-		"rare": ["きぬ", "ぎ"],
+		"rare": [
+			"きぬ",
+			"ぎ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

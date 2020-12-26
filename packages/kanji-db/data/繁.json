@@ -1,17 +1,31 @@
 {
 	"kanji": "繁",
-	"meanings": ["luxuriant", "thick", "overgrown", "frequency", "complexity", "trouble"],
+	"meanings": [
+		"luxuriant",
+		"thick",
+		"overgrown",
+		"frequency",
+		"complexity",
+		"trouble"
+	],
 	"keyword": "luxuriant",
 	"onyomi": {
-		"frequent": ["ハン"],
+		"frequent": [
+			"ハン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しげ"],
-		"okurigana": ["しげ.る", "しげ.く"]
+		"rare": [
+			"しげ"
+		],
+		"okurigana": [
+			"しげ.る",
+			"しげ.く"
+		]
 	},
 	"frequency": {
 		"mean": 1181,

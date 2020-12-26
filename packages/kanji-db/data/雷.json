@@ -1,16 +1,26 @@
 {
 	"kanji": "雷",
-	"meanings": ["thunder", "lightning bolt"],
+	"meanings": [
+		"thunder",
+		"lightning bolt"
+	],
 	"keyword": "thunder",
 	"onyomi": {
-		"frequent": ["ライ"],
+		"frequent": [
+			"ライ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かみなり"],
+		"frequent": [
+			"かみなり"
+		],
 		"common": [],
-		"rare": ["いかずち", "いかづち"],
+		"rare": [
+			"いかずち",
+			"いかづち"
+		],
 		"okurigana": []
 	},
 	"frequency": {

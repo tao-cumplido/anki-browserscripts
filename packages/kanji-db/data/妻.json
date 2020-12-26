@@ -1,14 +1,21 @@
 {
 	"kanji": "妻",
-	"meanings": ["wife", "spouse"],
+	"meanings": [
+		"wife",
+		"spouse"
+	],
 	"keyword": "wife",
 	"onyomi": {
-		"frequent": ["サイ"],
+		"frequent": [
+			"サイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つま"],
+		"frequent": [
+			"つま"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

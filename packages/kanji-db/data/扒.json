@@ -1,0 +1,34 @@
+{
+	"kanji": "扒",
+	"meanings": [
+		"scratch",
+		"dig up",
+		"crawl",
+		"crouch"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ハイ",
+			"ハツ",
+			"ハチ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ぬ",
+			"さば"
+		],
+		"rare": [],
+		"okurigana": [
+			"ぬ.く",
+			"さば.く"
+		]
+	},
+	"frequency": {
+		"mean": 4510,
+		"wikipedia": 4201
+	}
+}

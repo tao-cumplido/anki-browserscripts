@@ -1,17 +1,26 @@
 {
 	"kanji": "碍",
-	"meanings": ["obstacle"],
+	"meanings": [
+		"obstacle"
+	],
 	"keyword": "obstacle",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ガイ", "ゲ"]
+		"rare": [
+			"ガイ",
+			"ゲ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さまた"],
-		"okurigana": ["さまた.げる"]
+		"rare": [
+			"さまた"
+		],
+		"okurigana": [
+			"さまた.げる"
+		]
 	},
 	"frequency": {
 		"mean": 3324,

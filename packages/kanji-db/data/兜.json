@@ -1,16 +1,24 @@
 {
 	"kanji": "兜",
-	"meanings": ["helmet", "head piece"],
+	"meanings": [
+		"helmet",
+		"head piece"
+	],
 	"keyword": "helmet",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["トウ", "ト"]
+		"rare": [
+			"トウ",
+			"ト"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かぶと"],
+		"rare": [
+			"かぶと"
+		],
 		"okurigana": []
 	},
 	"frequency": {

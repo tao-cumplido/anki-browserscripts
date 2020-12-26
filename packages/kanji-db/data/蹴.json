@@ -1,17 +1,27 @@
 {
 	"kanji": "蹴",
-	"meanings": ["kick"],
+	"meanings": [
+		"kick"
+	],
 	"keyword": "kick",
 	"onyomi": {
-		"frequent": ["シュウ"],
+		"frequent": [
+			"シュウ"
+		],
 		"common": [],
-		"rare": ["シュク"]
+		"rare": [
+			"シュク"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["け"],
+		"frequent": [
+			"け"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["け.る"]
+		"okurigana": [
+			"け.る"
+		]
 	},
 	"frequency": {
 		"mean": 1689,

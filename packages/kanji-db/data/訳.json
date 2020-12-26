@@ -1,14 +1,23 @@
 {
 	"kanji": "訳",
-	"meanings": ["translate", "reason", "circumstance", "case"],
+	"meanings": [
+		"translate",
+		"reason",
+		"circumstance",
+		"case"
+	],
 	"keyword": "translate",
 	"onyomi": {
-		"frequent": ["ヤク"],
+		"frequent": [
+			"ヤク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["わけ"],
+		"frequent": [
+			"わけ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

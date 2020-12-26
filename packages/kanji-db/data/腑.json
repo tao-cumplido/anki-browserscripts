@@ -1,16 +1,23 @@
 {
 	"kanji": "腑",
-	"meanings": ["viscera", "bowels"],
+	"meanings": [
+		"viscera",
+		"bowels"
+	],
 	"keyword": "viscera",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フ"]
+		"rare": [
+			"フ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はらわた"],
+		"rare": [
+			"はらわた"
+		],
 		"okurigana": []
 	},
 	"frequency": {

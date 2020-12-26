@@ -1,17 +1,38 @@
 {
 	"kanji": "転",
-	"meanings": ["revolve", "turn around", "change"],
+	"meanings": [
+		"revolve",
+		"turn around",
+		"change"
+	],
 	"keyword": "revolve",
 	"onyomi": {
-		"frequent": ["テン"],
+		"frequent": [
+			"テン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ころ"],
+		"frequent": [
+			"ころ"
+		],
 		"common": [],
-		"rare": ["まろ", "うたた", "うつ", "くる"],
-		"okurigana": ["ころ.がる", "ころ.げる", "ころ.がす", "ころ.ぶ", "まろ.ぶ", "うつ.る", "くる.めく"]
+		"rare": [
+			"まろ",
+			"うたた",
+			"うつ",
+			"くる"
+		],
+		"okurigana": [
+			"ころ.がる",
+			"ころ.げる",
+			"ころ.がす",
+			"ころ.ぶ",
+			"まろ.ぶ",
+			"うつ.る",
+			"くる.めく"
+		]
 	},
 	"frequency": {
 		"mean": 208,

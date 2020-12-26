@@ -1,14 +1,23 @@
 {
 	"kanji": "桁",
-	"meanings": ["beam", "girder", "spar", "unit or column (accounting)"],
+	"meanings": [
+		"beam",
+		"girder",
+		"spar",
+		"unit or column (accounting)"
+	],
 	"keyword": "girder",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["けた"],
+		"frequent": [
+			"けた"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

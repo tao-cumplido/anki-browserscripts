@@ -1,16 +1,23 @@
 {
 	"kanji": "碗",
-	"meanings": ["porcelain bowl", "tea cup"],
+	"meanings": [
+		"porcelain bowl",
+		"tea cup"
+	],
 	"keyword": "teacup",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ワン"]
+		"rare": [
+			"ワン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こばち"],
+		"rare": [
+			"こばち"
+		],
 		"okurigana": []
 	},
 	"frequency": {

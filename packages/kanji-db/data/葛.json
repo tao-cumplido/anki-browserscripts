@@ -1,16 +1,27 @@
 {
 	"kanji": "葛",
-	"meanings": ["arrowroot", "kudzu"],
+	"meanings": [
+		"arrowroot",
+		"kudzu"
+	],
 	"keyword": "kudzu",
 	"onyomi": {
-		"frequent": ["カツ"],
+		"frequent": [
+			"カツ"
+		],
 		"common": [],
-		"rare": ["カチ"]
+		"rare": [
+			"カチ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["くず"],
+		"frequent": [
+			"くず"
+		],
 		"common": [],
-		"rare": ["つづら"],
+		"rare": [
+			"つづら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

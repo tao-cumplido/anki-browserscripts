@@ -1,17 +1,26 @@
 {
 	"kanji": "祓",
-	"meanings": ["exorcise"],
+	"meanings": [
+		"exorcise"
+	],
 	"keyword": "exorcism",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フツ", "ハイ"]
+		"rare": [
+			"フツ",
+			"ハイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はら"],
-		"okurigana": ["はら.う"]
+		"rare": [
+			"はら"
+		],
+		"okurigana": [
+			"はら.う"
+		]
 	},
 	"frequency": {
 		"mean": 2725,

@@ -1,17 +1,26 @@
 {
 	"kanji": "喬",
-	"meanings": ["high", "boasting"],
+	"meanings": [
+		"high",
+		"boasting"
+	],
 	"keyword": "heaven-high",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ"]
+		"rare": [
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たか"],
-		"okurigana": ["たか.い"]
+		"rare": [
+			"たか"
+		],
+		"okurigana": [
+			"たか.い"
+		]
 	},
 	"frequency": {
 		"mean": 2322,

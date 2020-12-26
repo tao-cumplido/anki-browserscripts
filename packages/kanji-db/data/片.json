@@ -1,14 +1,23 @@
 {
 	"kanji": "片",
-	"meanings": ["one-sided", "leaf", "sheet", "right-side kata radical (no. 91)"],
+	"meanings": [
+		"one-sided",
+		"leaf",
+		"sheet",
+		"right-side kata radical (no. 91)"
+	],
 	"keyword": "one-sided",
 	"onyomi": {
-		"frequent": ["ヘン"],
+		"frequent": [
+			"ヘン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かた"],
+		"frequent": [
+			"かた"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

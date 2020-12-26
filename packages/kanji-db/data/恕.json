@@ -1,17 +1,28 @@
 {
 	"kanji": "恕",
-	"meanings": ["excuse", "tolerate", "forgive"],
+	"meanings": [
+		"excuse",
+		"tolerate",
+		"forgive"
+	],
 	"keyword": "sensitive",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジョ", "ショ"]
+		"rare": [
+			"ジョ",
+			"ショ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゆる"],
-		"okurigana": ["ゆる.す"]
+		"rare": [
+			"ゆる"
+		],
+		"okurigana": [
+			"ゆる.す"
+		]
 	},
 	"frequency": {
 		"mean": 3314,

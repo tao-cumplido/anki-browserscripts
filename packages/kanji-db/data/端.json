@@ -1,16 +1,33 @@
 {
 	"kanji": "端",
-	"meanings": ["edge", "origin", "end", "point", "border", "verge", "cape"],
+	"meanings": [
+		"edge",
+		"origin",
+		"end",
+		"point",
+		"border",
+		"verge",
+		"cape"
+	],
 	"keyword": "edge",
 	"onyomi": {
-		"frequent": ["タン"],
+		"frequent": [
+			"タン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はし", "は", "はた"],
+		"frequent": [
+			"はし",
+			"は",
+			"はた"
+		],
 		"common": [],
-		"rare": ["ばた", "はな"],
+		"rare": [
+			"ばた",
+			"はな"
+		],
 		"okurigana": []
 	},
 	"frequency": {

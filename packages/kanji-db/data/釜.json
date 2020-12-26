@@ -1,14 +1,22 @@
 {
 	"kanji": "釜",
-	"meanings": ["kettle", "cauldron", "iron pot"],
+	"meanings": [
+		"kettle",
+		"cauldron",
+		"iron pot"
+	],
 	"keyword": "cauldron",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フ"]
+		"rare": [
+			"フ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["かま"],
+		"frequent": [
+			"かま"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

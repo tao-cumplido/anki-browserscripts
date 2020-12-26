@@ -1,16 +1,30 @@
 {
 	"kanji": "侄",
-	"meanings": ["nephew"],
+	"meanings": [
+		"nephew"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["シツ", "シチ", "テツ"],
+		"common": [
+			"シツ",
+			"シチ",
+			"テツ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["かた", "おろ", "とど"],
+		"common": [
+			"かた",
+			"おろ",
+			"とど"
+		],
 		"rare": [],
-		"okurigana": ["かた.い", "おろ.か", "とど.まる"]
+		"okurigana": [
+			"かた.い",
+			"おろ.か",
+			"とど.まる"
+		]
 	},
 	"frequency": {
 		"mean": 4537,

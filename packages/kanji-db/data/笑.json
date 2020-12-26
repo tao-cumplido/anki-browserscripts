@@ -1,17 +1,27 @@
 {
 	"kanji": "笑",
-	"meanings": ["laugh"],
+	"meanings": [
+		"laugh"
+	],
 	"keyword": "laugh",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["わら", "え"],
+		"frequent": [
+			"わら",
+			"え"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["わら.う", "え.む"]
+		"okurigana": [
+			"わら.う",
+			"え.む"
+		]
 	},
 	"frequency": {
 		"mean": 398,

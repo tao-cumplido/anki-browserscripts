@@ -1,17 +1,42 @@
 {
 	"kanji": "嘗",
-	"meanings": ["once", "before", "formerly", "ever", "never", "ex-", "lick", "lap up", "burn up", "taste", "undergo", "underrate", "despise"],
+	"meanings": [
+		"once",
+		"before",
+		"formerly",
+		"ever",
+		"never",
+		"ex-",
+		"lick",
+		"lap up",
+		"burn up",
+		"taste",
+		"undergo",
+		"underrate",
+		"despise"
+	],
 	"keyword": "lick",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ", "ジョウ"]
+		"rare": [
+			"ショウ",
+			"ジョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かつ", "こころ", "な"],
-		"okurigana": ["かつ.て", "こころ.みる", "な.める"]
+		"rare": [
+			"かつ",
+			"こころ",
+			"な"
+		],
+		"okurigana": [
+			"かつ.て",
+			"こころ.みる",
+			"な.める"
+		]
 	},
 	"frequency": {
 		"mean": 2605,

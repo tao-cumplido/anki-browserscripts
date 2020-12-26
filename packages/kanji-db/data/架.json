@@ -1,17 +1,31 @@
 {
 	"kanji": "架",
-	"meanings": ["erect", "frame", "mount", "support", "shelf", "construct"],
+	"meanings": [
+		"erect",
+		"frame",
+		"mount",
+		"support",
+		"shelf",
+		"construct"
+	],
 	"keyword": "erect",
 	"onyomi": {
-		"frequent": ["カ"],
+		"frequent": [
+			"カ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["か"],
+		"frequent": [
+			"か"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["か.ける", "か.かる"]
+		"okurigana": [
+			"か.ける",
+			"か.かる"
+		]
 	},
 	"frequency": {
 		"mean": 1111,

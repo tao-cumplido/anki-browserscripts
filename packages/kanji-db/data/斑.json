@@ -1,16 +1,26 @@
 {
 	"kanji": "斑",
-	"meanings": ["spot", "blemish", "speck", "patches"],
+	"meanings": [
+		"spot",
+		"blemish",
+		"speck",
+		"patches"
+	],
 	"keyword": "speckled",
 	"onyomi": {
-		"frequent": ["ハン"],
+		"frequent": [
+			"ハン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふ", "まだら"],
+		"rare": [
+			"ふ",
+			"まだら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

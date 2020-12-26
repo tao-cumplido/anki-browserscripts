@@ -1,17 +1,28 @@
 {
 	"kanji": "熔",
-	"meanings": ["fuse", "melt"],
+	"meanings": [
+		"fuse",
+		"melt"
+	],
 	"keyword": "fuse metal",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヨウ"]
+		"rare": [
+			"ヨウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["と", "いがた"],
-		"okurigana": ["と.ける", "と.かす"]
+		"rare": [
+			"と",
+			"いがた"
+		],
+		"okurigana": [
+			"と.ける",
+			"と.かす"
+		]
 	},
 	"frequency": {
 		"mean": 3729,

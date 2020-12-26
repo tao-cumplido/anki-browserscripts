@@ -1,16 +1,27 @@
 {
 	"kanji": "唾",
-	"meanings": ["saliva", "sputum"],
+	"meanings": [
+		"saliva",
+		"sputum"
+	],
 	"keyword": "saliva",
 	"onyomi": {
-		"frequent": ["ダ"],
+		"frequent": [
+			"ダ"
+		],
 		"common": [],
-		"rare": ["タ"]
+		"rare": [
+			"タ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["つば"],
+		"frequent": [
+			"つば"
+		],
 		"common": [],
-		"rare": ["つばき"],
+		"rare": [
+			"つばき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

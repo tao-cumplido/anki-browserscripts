@@ -1,15 +1,25 @@
 {
 	"kanji": "手",
-	"meanings": ["hand"],
+	"meanings": [
+		"hand"
+	],
 	"keyword": "hand",
 	"onyomi": {
-		"frequent": ["シュ"],
+		"frequent": [
+			"シュ"
+		],
 		"common": [],
-		"rare": ["ズ"]
+		"rare": [
+			"ズ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["て"],
-		"common": ["た"],
+		"frequent": [
+			"て"
+		],
+		"common": [
+			"た"
+		],
 		"rare": [],
 		"okurigana": []
 	},

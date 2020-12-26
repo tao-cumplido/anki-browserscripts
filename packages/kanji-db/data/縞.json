@@ -1,16 +1,23 @@
 {
 	"kanji": "縞",
-	"meanings": ["stripe"],
+	"meanings": [
+		"stripe"
+	],
 	"keyword": "stripe",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しま", "しろぎぬ"],
+		"rare": [
+			"しま",
+			"しろぎぬ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,14 +1,21 @@
 {
 	"kanji": "扇",
-	"meanings": ["fan", "folding fan"],
+	"meanings": [
+		"fan",
+		"folding fan"
+	],
 	"keyword": "fan",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おうぎ"],
+		"frequent": [
+			"おうぎ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

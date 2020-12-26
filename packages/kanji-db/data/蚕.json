@@ -1,16 +1,26 @@
 {
 	"kanji": "蚕",
-	"meanings": ["silkworm"],
+	"meanings": [
+		"silkworm"
+	],
 	"keyword": "silkworm",
 	"onyomi": {
-		"frequent": ["サン"],
+		"frequent": [
+			"サン"
+		],
 		"common": [],
-		"rare": ["テン"]
+		"rare": [
+			"テン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["かいこ"],
+		"frequent": [
+			"かいこ"
+		],
 		"common": [],
-		"rare": ["こ"],
+		"rare": [
+			"こ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

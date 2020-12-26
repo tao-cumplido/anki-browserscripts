@@ -1,16 +1,22 @@
 {
 	"kanji": "箕",
-	"meanings": ["winnowing"],
+	"meanings": [
+		"winnowing"
+	],
 	"keyword": "winnowing fan",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キ"]
+		"rare": [
+			"キ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["み"],
+		"rare": [
+			"み"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,16 +1,27 @@
 {
 	"kanji": "貌",
-	"meanings": ["form", "appearance", "countenance"],
+	"meanings": [
+		"form",
+		"appearance",
+		"countenance"
+	],
 	"keyword": "countenance",
 	"onyomi": {
-		"frequent": ["ボウ"],
+		"frequent": [
+			"ボウ"
+		],
 		"common": [],
-		"rare": ["バク"]
+		"rare": [
+			"バク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かたち", "かたどる"],
+		"rare": [
+			"かたち",
+			"かたどる"
+		],
 		"okurigana": []
 	},
 	"frequency": {

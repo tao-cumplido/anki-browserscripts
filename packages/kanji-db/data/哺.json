@@ -1,17 +1,28 @@
 {
 	"kanji": "哺",
-	"meanings": ["nurse", "suckle"],
+	"meanings": [
+		"nurse",
+		"suckle"
+	],
 	"keyword": "suckle",
 	"onyomi": {
-		"frequent": ["ホ"],
+		"frequent": [
+			"ホ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はぐく", "ふく"],
-		"okurigana": ["はぐく.む", "ふく.む"]
+		"rare": [
+			"はぐく",
+			"ふく"
+		],
+		"okurigana": [
+			"はぐく.む",
+			"ふく.む"
+		]
 	},
 	"frequency": {
 		"mean": 2216,

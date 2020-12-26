@@ -1,17 +1,28 @@
 {
 	"kanji": "診",
-	"meanings": ["checkup", "seeing", "diagnose", "examine"],
+	"meanings": [
+		"checkup",
+		"seeing",
+		"diagnose",
+		"examine"
+	],
 	"keyword": "checkup",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["み"],
+		"frequent": [
+			"み"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["み.る"]
+		"okurigana": [
+			"み.る"
+		]
 	},
 	"frequency": {
 		"mean": 1376,

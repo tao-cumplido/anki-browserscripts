@@ -1,17 +1,33 @@
 {
 	"kanji": "狡",
-	"meanings": ["cunning", "sly", "crafty", "niggardly"],
+	"meanings": [
+		"cunning",
+		"sly",
+		"crafty",
+		"niggardly"
+	],
 	"keyword": "cunning",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ", "キョウ"]
+		"rare": [
+			"コウ",
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ずる", "こす", "わるがしこ"],
-		"okurigana": ["ずる.い", "こす.い", "わるがしこ.い"]
+		"rare": [
+			"ずる",
+			"こす",
+			"わるがしこ"
+		],
+		"okurigana": [
+			"ずる.い",
+			"こす.い",
+			"わるがしこ.い"
+		]
 	},
 	"frequency": {
 		"mean": 3141,

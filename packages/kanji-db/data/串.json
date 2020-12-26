@@ -1,17 +1,30 @@
 {
 	"kanji": "串",
-	"meanings": ["spit", "skewer"],
+	"meanings": [
+		"spit",
+		"skewer"
+	],
 	"keyword": "shish kebab",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カン", "ケン", "セン"]
+		"rare": [
+			"カン",
+			"ケン",
+			"セン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["くし"],
+		"frequent": [
+			"くし"
+		],
 		"common": [],
-		"rare": ["つらぬ"],
-		"okurigana": ["つらぬ.く"]
+		"rare": [
+			"つらぬ"
+		],
+		"okurigana": [
+			"つらぬ.く"
+		]
 	},
 	"frequency": {
 		"mean": 2039,

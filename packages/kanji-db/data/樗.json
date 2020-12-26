@@ -1,16 +1,23 @@
 {
 	"kanji": "樗",
-	"meanings": ["Japanese bead tree"],
+	"meanings": [
+		"Japanese bead tree"
+	],
 	"keyword": "sumac",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チョ"]
+		"rare": [
+			"チョ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おおち", "おうち"],
+		"rare": [
+			"おおち",
+			"おうち"
+		],
 		"okurigana": []
 	},
 	"frequency": {

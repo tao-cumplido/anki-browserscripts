@@ -1,17 +1,26 @@
 {
 	"kanji": "叡",
-	"meanings": ["intelligence", "imperial"],
+	"meanings": [
+		"intelligence",
+		"imperial"
+	],
 	"keyword": "sapience",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["エイ"]
+		"rare": [
+			"エイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あき"],
-		"okurigana": ["あき.らか"]
+		"rare": [
+			"あき"
+		],
+		"okurigana": [
+			"あき.らか"
+		]
 	},
 	"frequency": {
 		"mean": 2229,

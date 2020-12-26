@@ -1,16 +1,29 @@
 {
 	"kanji": "儻",
-	"meanings": ["excel", "surpass", "if", "perhaps"],
+	"meanings": [
+		"excel",
+		"surpass",
+		"if",
+		"perhaps"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["トウ"]
+		"rare": [
+			"トウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あるいは", "すぐ", "もし"],
-		"okurigana": ["すぐ.れる"]
+		"rare": [
+			"あるいは",
+			"すぐ",
+			"もし"
+		],
+		"okurigana": [
+			"すぐ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 4516,

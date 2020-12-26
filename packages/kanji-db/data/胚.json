@@ -1,17 +1,26 @@
 {
 	"kanji": "胚",
-	"meanings": ["embryo"],
+	"meanings": [
+		"embryo"
+	],
 	"keyword": "embryo",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハイ"]
+		"rare": [
+			"ハイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はらみ", "はら"],
-		"okurigana": ["はら.む"]
+		"rare": [
+			"はらみ",
+			"はら"
+		],
+		"okurigana": [
+			"はら.む"
+		]
 	},
 	"frequency": {
 		"mean": 2868,

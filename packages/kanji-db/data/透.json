@@ -1,17 +1,34 @@
 {
 	"kanji": "透",
-	"meanings": ["transparent", "permeate", "filter", "penetrate"],
+	"meanings": [
+		"transparent",
+		"permeate",
+		"filter",
+		"penetrate"
+	],
 	"keyword": "transparent",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["す"],
+		"frequent": [
+			"す"
+		],
 		"common": [],
-		"rare": ["とう"],
-		"okurigana": ["す.く", "す.かす", "す.ける", "とう.る", "とう.す"]
+		"rare": [
+			"とう"
+		],
+		"okurigana": [
+			"す.く",
+			"す.かす",
+			"す.ける",
+			"とう.る",
+			"とう.す"
+		]
 	},
 	"frequency": {
 		"mean": 1466,

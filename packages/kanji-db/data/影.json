@@ -1,14 +1,22 @@
 {
 	"kanji": "影",
-	"meanings": ["shadow", "silhouette", "phantom"],
+	"meanings": [
+		"shadow",
+		"silhouette",
+		"phantom"
+	],
 	"keyword": "shadow",
 	"onyomi": {
-		"frequent": ["エイ"],
+		"frequent": [
+			"エイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かげ"],
+		"frequent": [
+			"かげ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

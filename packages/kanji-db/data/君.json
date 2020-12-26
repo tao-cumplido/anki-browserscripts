@@ -1,16 +1,27 @@
 {
 	"kanji": "君",
-	"meanings": ["mister", "you", "ruler", "male name suffix"],
+	"meanings": [
+		"mister",
+		"you",
+		"ruler",
+		"male name suffix"
+	],
 	"keyword": "old boy",
 	"onyomi": {
-		"frequent": ["クン"],
+		"frequent": [
+			"クン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["きみ"],
+		"frequent": [
+			"きみ"
+		],
 		"common": [],
-		"rare": ["ぎみ"],
+		"rare": [
+			"ぎみ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

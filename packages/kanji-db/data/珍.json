@@ -1,17 +1,29 @@
 {
 	"kanji": "珍",
-	"meanings": ["rare", "curious", "strange"],
+	"meanings": [
+		"rare",
+		"curious",
+		"strange"
+	],
 	"keyword": "rare",
 	"onyomi": {
-		"frequent": ["チン"],
+		"frequent": [
+			"チン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["めずら"],
+		"frequent": [
+			"めずら"
+		],
 		"common": [],
-		"rare": ["たから"],
-		"okurigana": ["めずら.しい"]
+		"rare": [
+			"たから"
+		],
+		"okurigana": [
+			"めずら.しい"
+		]
 	},
 	"frequency": {
 		"mean": 1431,

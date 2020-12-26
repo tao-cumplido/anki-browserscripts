@@ -1,17 +1,26 @@
 {
 	"kanji": "涅",
-	"meanings": ["black soil"],
+	"meanings": [
+		"black soil"
+	],
 	"keyword": "black soil",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ネツ", "デツ"]
+		"rare": [
+			"ネツ",
+			"デツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["そ"],
-		"okurigana": ["そ.める"]
+		"rare": [
+			"そ"
+		],
+		"okurigana": [
+			"そ.める"
+		]
 	},
 	"frequency": {
 		"mean": 3077,

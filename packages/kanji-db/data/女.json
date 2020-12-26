@@ -1,14 +1,25 @@
 {
 	"kanji": "女",
-	"meanings": ["woman", "female"],
+	"meanings": [
+		"woman",
+		"female"
+	],
 	"keyword": "woman",
 	"onyomi": {
-		"frequent": ["ジョ", "ニョ"],
-		"common": ["ニョウ"],
+		"frequent": [
+			"ジョ",
+			"ニョ"
+		],
+		"common": [
+			"ニョウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おんな", "め"],
+		"frequent": [
+			"おんな",
+			"め"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

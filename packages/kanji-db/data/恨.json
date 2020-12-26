@@ -1,17 +1,30 @@
 {
 	"kanji": "恨",
-	"meanings": ["regret", "bear a grudge", "resentment", "malice", "hatred"],
+	"meanings": [
+		"regret",
+		"bear a grudge",
+		"resentment",
+		"malice",
+		"hatred"
+	],
 	"keyword": "resentment",
 	"onyomi": {
-		"frequent": ["コン"],
+		"frequent": [
+			"コン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うら"],
+		"frequent": [
+			"うら"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["うら.む", "うら.めしい"]
+		"okurigana": [
+			"うら.む",
+			"うら.めしい"
+		]
 	},
 	"frequency": {
 		"mean": 2084,

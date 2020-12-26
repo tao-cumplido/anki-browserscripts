@@ -1,14 +1,21 @@
 {
 	"kanji": "墓",
-	"meanings": ["grave", "tomb"],
+	"meanings": [
+		"grave",
+		"tomb"
+	],
 	"keyword": "grave",
 	"onyomi": {
-		"frequent": ["ボ"],
+		"frequent": [
+			"ボ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["はか"],
+		"frequent": [
+			"はか"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

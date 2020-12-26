@@ -1,17 +1,37 @@
 {
 	"kanji": "化",
-	"meanings": ["change", "take the form of", "influence", "enchant", "delude", "-ization"],
+	"meanings": [
+		"change",
+		"take the form of",
+		"influence",
+		"enchant",
+		"delude",
+		"-ization"
+	],
 	"keyword": "change",
 	"onyomi": {
-		"frequent": ["カ", "ケ"],
+		"frequent": [
+			"カ",
+			"ケ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ば"],
+		"frequent": [
+			"ば"
+		],
 		"common": [],
-		"rare": ["ふ", "け"],
-		"okurigana": ["ば.ける", "ば.かす", "ふ.ける", "け.する"]
+		"rare": [
+			"ふ",
+			"け"
+		],
+		"okurigana": [
+			"ば.ける",
+			"ば.かす",
+			"ふ.ける",
+			"け.する"
+		]
 	},
 	"frequency": {
 		"mean": 119,

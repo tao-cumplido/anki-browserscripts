@@ -1,17 +1,26 @@
 {
 	"kanji": "囁",
-	"meanings": ["whisper", "murmur"],
+	"meanings": [
+		"whisper",
+		"murmur"
+	],
 	"keyword": "whisper",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ"]
+		"rare": [
+			"ショウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ささや"],
-		"okurigana": ["ささや.く"]
+		"rare": [
+			"ささや"
+		],
+		"okurigana": [
+			"ささや.く"
+		]
 	},
 	"frequency": {
 		"mean": 2784,

@@ -1,17 +1,27 @@
 {
 	"kanji": "衰",
-	"meanings": ["decline", "wane", "weaken"],
+	"meanings": [
+		"decline",
+		"wane",
+		"weaken"
+	],
 	"keyword": "decline",
 	"onyomi": {
-		"frequent": ["スイ"],
+		"frequent": [
+			"スイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おとろ"],
+		"frequent": [
+			"おとろ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おとろ.える"]
+		"okurigana": [
+			"おとろ.える"
+		]
 	},
 	"frequency": {
 		"mean": 1710,

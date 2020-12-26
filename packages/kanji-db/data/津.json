@@ -1,14 +1,23 @@
 {
 	"kanji": "津",
-	"meanings": ["haven", "port", "harbor", "ferry"],
+	"meanings": [
+		"haven",
+		"port",
+		"harbor",
+		"ferry"
+	],
 	"keyword": "haven",
 	"onyomi": {
-		"frequent": ["シン"],
+		"frequent": [
+			"シン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つ"],
+		"frequent": [
+			"つ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

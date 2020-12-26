@@ -1,17 +1,31 @@
 {
 	"kanji": "酌",
-	"meanings": ["bar-tending", "serving sake", "the host", "draw (water)", "ladle", "scoop", "pump"],
+	"meanings": [
+		"bar-tending",
+		"serving sake",
+		"the host",
+		"draw (water)",
+		"ladle",
+		"scoop",
+		"pump"
+	],
 	"keyword": "bartending",
 	"onyomi": {
-		"frequent": ["シャク"],
+		"frequent": [
+			"シャク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["く"],
+		"frequent": [
+			"く"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["く.む"]
+		"okurigana": [
+			"く.む"
+		]
 	},
 	"frequency": {
 		"mean": 2796,

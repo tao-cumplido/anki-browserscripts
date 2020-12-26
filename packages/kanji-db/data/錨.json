@@ -1,16 +1,24 @@
 {
 	"kanji": "錨",
-	"meanings": ["anchor", "grapnel"],
+	"meanings": [
+		"anchor",
+		"grapnel"
+	],
 	"keyword": "anchor",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ビョウ", "ミョウ"]
+		"rare": [
+			"ビョウ",
+			"ミョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いかり"],
+		"rare": [
+			"いかり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

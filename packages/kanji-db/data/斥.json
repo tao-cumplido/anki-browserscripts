@@ -1,17 +1,30 @@
 {
 	"kanji": "斥",
-	"meanings": ["reject", "retreat", "recede", "withdraw", "repel", "repulse"],
+	"meanings": [
+		"reject",
+		"retreat",
+		"recede",
+		"withdraw",
+		"repel",
+		"repulse"
+	],
 	"keyword": "reject",
 	"onyomi": {
-		"frequent": ["セキ"],
+		"frequent": [
+			"セキ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しりぞ"],
-		"okurigana": ["しりぞ.ける"]
+		"rare": [
+			"しりぞ"
+		],
+		"okurigana": [
+			"しりぞ.ける"
+		]
 	},
 	"frequency": {
 		"mean": 2682,

@@ -1,16 +1,24 @@
 {
 	"kanji": "湾",
-	"meanings": ["gulf", "bay", "inlet"],
+	"meanings": [
+		"gulf",
+		"bay",
+		"inlet"
+	],
 	"keyword": "gulf",
 	"onyomi": {
-		"frequent": ["ワン"],
+		"frequent": [
+			"ワン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いりえ"],
+		"rare": [
+			"いりえ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

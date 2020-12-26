@@ -1,11 +1,19 @@
 {
 	"kanji": "仙",
-	"meanings": ["hermit", "wizard", "cent"],
+	"meanings": [
+		"hermit",
+		"wizard",
+		"cent"
+	],
 	"keyword": "hermit",
 	"onyomi": {
-		"frequent": ["セン"],
+		"frequent": [
+			"セン"
+		],
 		"common": [],
-		"rare": ["セント"]
+		"rare": [
+			"セント"
+		]
 	},
 	"frequency": {
 		"mean": 827,

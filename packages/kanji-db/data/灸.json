@@ -1,16 +1,24 @@
 {
 	"kanji": "灸",
-	"meanings": ["moxa cautery", "chastisement"],
+	"meanings": [
+		"moxa cautery",
+		"chastisement"
+	],
 	"keyword": "moxa",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キュウ", "ク"]
+		"rare": [
+			"キュウ",
+			"ク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["やいと"],
+		"rare": [
+			"やいと"
+		],
 		"okurigana": []
 	},
 	"frequency": {

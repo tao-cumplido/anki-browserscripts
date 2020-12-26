@@ -1,14 +1,20 @@
 {
 	"kanji": "帆",
-	"meanings": ["sail"],
+	"meanings": [
+		"sail"
+	],
 	"keyword": "sail",
 	"onyomi": {
-		"frequent": ["ハン"],
+		"frequent": [
+			"ハン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ほ"],
+		"frequent": [
+			"ほ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

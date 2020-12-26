@@ -1,17 +1,31 @@
 {
 	"kanji": "馳",
-	"meanings": ["run", "gallop", "sail", "drive (a wagon)", "win (fame)", "despatch"],
+	"meanings": [
+		"run",
+		"gallop",
+		"sail",
+		"drive (a wagon)",
+		"win (fame)",
+		"despatch"
+	],
 	"keyword": "rush",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チ", "ジ"]
+		"rare": [
+			"チ",
+			"ジ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["は"],
-		"okurigana": ["は.せる"]
+		"rare": [
+			"は"
+		],
+		"okurigana": [
+			"は.せる"
+		]
 	},
 	"frequency": {
 		"mean": 2260,

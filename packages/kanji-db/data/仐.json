@@ -4,12 +4,16 @@
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サン"]
+		"rare": [
+			"サン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かさ"],
+		"rare": [
+			"かさ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

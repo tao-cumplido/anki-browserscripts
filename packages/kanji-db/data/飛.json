@@ -1,17 +1,28 @@
 {
 	"kanji": "飛",
-	"meanings": ["fly", "skip (pages)", "scatter"],
+	"meanings": [
+		"fly",
+		"skip (pages)",
+		"scatter"
+	],
 	"keyword": "fly",
 	"onyomi": {
-		"frequent": ["ヒ"],
+		"frequent": [
+			"ヒ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["と"],
+		"frequent": [
+			"と"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["と.ぶ", "と.ばす"]
+		"okurigana": [
+			"と.ぶ",
+			"と.ばす"
+		]
 	},
 	"frequency": {
 		"mean": 543,

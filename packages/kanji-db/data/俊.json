@@ -1,9 +1,15 @@
 {
 	"kanji": "俊",
-	"meanings": ["sagacious", "genius", "excellence"],
+	"meanings": [
+		"sagacious",
+		"genius",
+		"excellence"
+	],
 	"keyword": "sagacious",
 	"onyomi": {
-		"frequent": ["シュン"],
+		"frequent": [
+			"シュン"
+		],
 		"common": [],
 		"rare": []
 	},

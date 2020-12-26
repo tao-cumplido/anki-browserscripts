@@ -1,17 +1,29 @@
 {
 	"kanji": "勃",
-	"meanings": ["suddenness", "rise"],
+	"meanings": [
+		"suddenness",
+		"rise"
+	],
 	"keyword": "uprising",
 	"onyomi": {
-		"frequent": ["ボツ"],
+		"frequent": [
+			"ボツ"
+		],
 		"common": [],
-		"rare": ["ホツ"]
+		"rare": [
+			"ホツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おこ", "にわかに"],
-		"okurigana": ["おこ.る"]
+		"rare": [
+			"おこ",
+			"にわかに"
+		],
+		"okurigana": [
+			"おこ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1920,

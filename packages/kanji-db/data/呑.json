@@ -1,17 +1,26 @@
 {
 	"kanji": "呑",
-	"meanings": ["drink"],
+	"meanings": [
+		"drink"
+	],
 	"keyword": "quaff",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["トン", "ドン"]
+		"rare": [
+			"トン",
+			"ドン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["の"],
-		"okurigana": ["の.む"]
+		"rare": [
+			"の"
+		],
+		"okurigana": [
+			"の.む"
+		]
 	},
 	"frequency": {
 		"mean": 2098,

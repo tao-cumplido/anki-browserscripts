@@ -1,17 +1,41 @@
 {
 	"kanji": "弾",
-	"meanings": ["bullet", "twang", "flip", "snap"],
+	"meanings": [
+		"bullet",
+		"twang",
+		"flip",
+		"snap"
+	],
 	"keyword": "bullet",
 	"onyomi": {
-		"frequent": ["ダン"],
+		"frequent": [
+			"ダン"
+		],
 		"common": [],
-		"rare": ["タン"]
+		"rare": [
+			"タン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ひ", "はず", "たま"],
+		"frequent": [
+			"ひ",
+			"はず",
+			"たま"
+		],
 		"common": [],
-		"rare": ["はじ", "ただ"],
-		"okurigana": ["ひ.く", "ひ.き", "はず.む", "はじ.く", "はじ.ける", "ただ.す", "はじ.きゆみ"]
+		"rare": [
+			"はじ",
+			"ただ"
+		],
+		"okurigana": [
+			"ひ.く",
+			"ひ.き",
+			"はず.む",
+			"はじ.く",
+			"はじ.ける",
+			"ただ.す",
+			"はじ.きゆみ"
+		]
 	},
 	"frequency": {
 		"mean": 711,

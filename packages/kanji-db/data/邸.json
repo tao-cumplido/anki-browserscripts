@@ -1,16 +1,23 @@
 {
 	"kanji": "邸",
-	"meanings": ["residence", "mansion"],
+	"meanings": [
+		"residence",
+		"mansion"
+	],
 	"keyword": "residence",
 	"onyomi": {
-		"frequent": ["テイ"],
+		"frequent": [
+			"テイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["やしき"],
+		"rare": [
+			"やしき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

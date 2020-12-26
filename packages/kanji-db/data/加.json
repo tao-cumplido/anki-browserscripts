@@ -1,17 +1,31 @@
 {
 	"kanji": "加",
-	"meanings": ["add", "addition", "increase", "join", "include", "Canada"],
+	"meanings": [
+		"add",
+		"addition",
+		"increase",
+		"join",
+		"include",
+		"Canada"
+	],
 	"keyword": "add",
 	"onyomi": {
-		"frequent": ["カ"],
+		"frequent": [
+			"カ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くわ"],
+		"frequent": [
+			"くわ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["くわ.える", "くわ.わる"]
+		"okurigana": [
+			"くわ.える",
+			"くわ.わる"
+		]
 	},
 	"frequency": {
 		"mean": 171,

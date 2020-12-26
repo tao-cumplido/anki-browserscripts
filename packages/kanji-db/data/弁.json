@@ -1,17 +1,41 @@
 {
 	"kanji": "弁",
-	"meanings": ["valve", "petal", "braid", "speech", "dialect", "discrimination", "dispose of", "distinguish", "conical cap"],
+	"meanings": [
+		"valve",
+		"petal",
+		"braid",
+		"speech",
+		"dialect",
+		"discrimination",
+		"dispose of",
+		"distinguish",
+		"conical cap"
+	],
 	"keyword": "valve",
 	"onyomi": {
-		"frequent": ["ベン"],
+		"frequent": [
+			"ベン"
+		],
 		"common": [],
-		"rare": ["ヘン"]
+		"rare": [
+			"ヘン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かんむり", "わきま", "わ", "はなびら", "あらそ"],
-		"okurigana": ["わきま.える", "わ.ける", "あらそ.う"]
+		"rare": [
+			"かんむり",
+			"わきま",
+			"わ",
+			"はなびら",
+			"あらそ"
+		],
+		"okurigana": [
+			"わきま.える",
+			"わ.ける",
+			"あらそ.う"
+		]
 	},
 	"frequency": {
 		"mean": 906,

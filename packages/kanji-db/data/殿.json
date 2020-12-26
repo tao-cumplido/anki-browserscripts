@@ -1,14 +1,27 @@
 {
 	"kanji": "殿",
-	"meanings": ["Mr.", "hall", "mansion", "palace", "temple", "lord"],
+	"meanings": [
+		"Mr.",
+		"hall",
+		"mansion",
+		"palace",
+		"temple",
+		"lord"
+	],
 	"keyword": "Mr.",
 	"onyomi": {
-		"frequent": ["デン", "テン"],
+		"frequent": [
+			"デン",
+			"テン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["との", "どの"],
+		"frequent": [
+			"との",
+			"どの"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

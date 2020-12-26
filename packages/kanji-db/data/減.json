@@ -1,17 +1,31 @@
 {
 	"kanji": "減",
-	"meanings": ["dwindle", "decrease", "reduce", "decline", "curtail", "get hungry"],
+	"meanings": [
+		"dwindle",
+		"decrease",
+		"reduce",
+		"decline",
+		"curtail",
+		"get hungry"
+	],
 	"keyword": "dwindle",
 	"onyomi": {
-		"frequent": ["ゲン"],
+		"frequent": [
+			"ゲン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["へ"],
+		"frequent": [
+			"へ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["へ.る", "へ.らす"]
+		"okurigana": [
+			"へ.る",
+			"へ.らす"
+		]
 	},
 	"frequency": {
 		"mean": 880,

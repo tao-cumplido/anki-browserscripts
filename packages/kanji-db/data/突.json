@@ -1,17 +1,33 @@
 {
 	"kanji": "突",
-	"meanings": ["stab", "protruding", "thrust", "pierce", "prick", "collision", "sudden"],
+	"meanings": [
+		"stab",
+		"protruding",
+		"thrust",
+		"pierce",
+		"prick",
+		"collision",
+		"sudden"
+	],
 	"keyword": "stab",
 	"onyomi": {
-		"frequent": ["トツ"],
+		"frequent": [
+			"トツ"
+		],
 		"common": [],
-		"rare": ["カ"]
+		"rare": [
+			"カ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["つ"],
+		"frequent": [
+			"つ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["つ.く"]
+		"okurigana": [
+			"つ.く"
+		]
 	},
 	"frequency": {
 		"mean": 746,

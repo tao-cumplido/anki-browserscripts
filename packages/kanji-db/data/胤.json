@@ -1,16 +1,24 @@
 {
 	"kanji": "胤",
-	"meanings": ["descendent", "issue", "offspring"],
+	"meanings": [
+		"descendent",
+		"issue",
+		"offspring"
+	],
 	"keyword": "blood relative",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["イン"]
+		"rare": [
+			"イン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たね"],
+		"rare": [
+			"たね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,28 @@
 {
 	"kanji": "密",
-	"meanings": ["secrecy", "density (pop)", "minuteness", "carefulness"],
+	"meanings": [
+		"secrecy",
+		"density (pop)",
+		"minuteness",
+		"carefulness"
+	],
 	"keyword": "secrecy",
 	"onyomi": {
-		"frequent": ["ミツ"],
+		"frequent": [
+			"ミツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひそ"],
-		"okurigana": ["ひそ.か"]
+		"rare": [
+			"ひそ"
+		],
+		"okurigana": [
+			"ひそ.か"
+		]
 	},
 	"frequency": {
 		"mean": 758,

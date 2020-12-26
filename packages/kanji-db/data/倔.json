@@ -1,16 +1,24 @@
 {
 	"kanji": "倔",
-	"meanings": ["stubborn"],
+	"meanings": [
+		"stubborn"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["クツ"]
+		"rare": [
+			"クツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つよ"],
-		"okurigana": ["つよ.い"]
+		"rare": [
+			"つよ"
+		],
+		"okurigana": [
+			"つよ.い"
+		]
 	},
 	"frequency": {
 		"mean": 4506,

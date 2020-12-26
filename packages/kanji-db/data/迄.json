@@ -1,17 +1,29 @@
 {
 	"kanji": "迄",
-	"meanings": ["until", "up to", "as far as", "to the extent"],
+	"meanings": [
+		"until",
+		"up to",
+		"as far as",
+		"to the extent"
+	],
 	"keyword": "until",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キツ"]
+		"rare": [
+			"キツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まで", "およ"],
-		"okurigana": ["およ.ぶ"]
+		"rare": [
+			"まで",
+			"およ"
+		],
+		"okurigana": [
+			"およ.ぶ"
+		]
 	},
 	"frequency": {
 		"mean": 2255,

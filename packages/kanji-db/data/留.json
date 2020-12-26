@@ -1,17 +1,36 @@
 {
 	"kanji": "留",
-	"meanings": ["detain", "fasten", "halt", "stop"],
+	"meanings": [
+		"detain",
+		"fasten",
+		"halt",
+		"stop"
+	],
 	"keyword": "detain",
 	"onyomi": {
-		"frequent": ["リュウ"],
-		"common": ["ル"],
+		"frequent": [
+			"リュウ"
+		],
+		"common": [
+			"ル"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["と"],
+		"frequent": [
+			"と"
+		],
 		"common": [],
-		"rare": ["とど", "るうぶる"],
-		"okurigana": ["と.める", "と.まる", "とど.める", "とど.まる"]
+		"rare": [
+			"とど",
+			"るうぶる"
+		],
+		"okurigana": [
+			"と.める",
+			"と.まる",
+			"とど.める",
+			"とど.まる"
+		]
 	},
 	"frequency": {
 		"mean": 689,

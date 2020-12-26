@@ -1,17 +1,30 @@
 {
 	"kanji": "迷",
-	"meanings": ["astray", "be perplexed", "in doubt", "lost", "err", "illusion"],
+	"meanings": [
+		"astray",
+		"be perplexed",
+		"in doubt",
+		"lost",
+		"err",
+		"illusion"
+	],
 	"keyword": "astray",
 	"onyomi": {
-		"frequent": ["メイ"],
+		"frequent": [
+			"メイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まよ"],
+		"frequent": [
+			"まよ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["まよ.う"]
+		"okurigana": [
+			"まよ.う"
+		]
 	},
 	"frequency": {
 		"mean": 1274,

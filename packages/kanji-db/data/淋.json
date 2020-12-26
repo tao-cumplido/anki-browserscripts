@@ -1,17 +1,28 @@
 {
 	"kanji": "淋",
-	"meanings": ["lonely", "deserted"],
+	"meanings": [
+		"lonely",
+		"deserted"
+	],
 	"keyword": "solitude",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リン"]
+		"rare": [
+			"リン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さび", "さみ"],
-		"okurigana": ["さび.しい", "さみ.しい"]
+		"rare": [
+			"さび",
+			"さみ"
+		],
+		"okurigana": [
+			"さび.しい",
+			"さみ.しい"
+		]
 	},
 	"frequency": {
 		"mean": 2465,

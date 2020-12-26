@@ -1,16 +1,23 @@
 {
 	"kanji": "佃",
-	"meanings": ["cultivated rice field"],
+	"meanings": [
+		"cultivated rice field"
+	],
 	"keyword": "work a field",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テン", "デン"]
+		"rare": [
+			"テン",
+			"デン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つくだ"],
+		"rare": [
+			"つくだ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

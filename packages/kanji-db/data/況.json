@@ -1,17 +1,29 @@
 {
 	"kanji": "況",
-	"meanings": ["condition", "situation"],
+	"meanings": [
+		"condition",
+		"situation"
+	],
 	"keyword": "but of course",
 	"onyomi": {
-		"frequent": ["キョウ"],
+		"frequent": [
+			"キョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まし", "いわ", "おもむき"],
-		"okurigana": ["まし.て", "いわ.んや"]
+		"rare": [
+			"まし",
+			"いわ",
+			"おもむき"
+		],
+		"okurigana": [
+			"まし.て",
+			"いわ.んや"
+		]
 	},
 	"frequency": {
 		"mean": 897,

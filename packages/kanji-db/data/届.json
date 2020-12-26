@@ -1,17 +1,32 @@
 {
 	"kanji": "届",
-	"meanings": ["deliver", "reach", "arrive", "report", "notify", "forward"],
+	"meanings": [
+		"deliver",
+		"reach",
+		"arrive",
+		"report",
+		"notify",
+		"forward"
+	],
 	"keyword": "deliver",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カイ"]
+		"rare": [
+			"カイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["とど"],
+		"frequent": [
+			"とど"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["とど.ける", "とど.け", "とど.く"]
+		"okurigana": [
+			"とど.ける",
+			"とど.け",
+			"とど.く"
+		]
 	},
 	"frequency": {
 		"mean": 1442,

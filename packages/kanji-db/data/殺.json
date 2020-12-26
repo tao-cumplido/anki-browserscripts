@@ -1,17 +1,40 @@
 {
 	"kanji": "殺",
-	"meanings": ["kill", "murder", "butcher", "slice off", "split", "diminish", "reduce", "spoil"],
+	"meanings": [
+		"kill",
+		"murder",
+		"butcher",
+		"slice off",
+		"split",
+		"diminish",
+		"reduce",
+		"spoil"
+	],
 	"keyword": "kill",
 	"onyomi": {
-		"frequent": ["サツ"],
-		"common": ["サイ", "セツ"],
+		"frequent": [
+			"サツ"
+		],
+		"common": [
+			"サイ",
+			"セツ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ころ"],
+		"frequent": [
+			"ころ"
+		],
 		"common": [],
-		"rare": ["ごろ", "そ"],
-		"okurigana": ["ころ.す", "ごろ.し", "そ.ぐ"]
+		"rare": [
+			"ごろ",
+			"そ"
+		],
+		"okurigana": [
+			"ころ.す",
+			"ごろ.し",
+			"そ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 499,

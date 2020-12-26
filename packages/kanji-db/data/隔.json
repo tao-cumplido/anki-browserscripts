@@ -1,17 +1,30 @@
 {
 	"kanji": "隔",
-	"meanings": ["isolate", "alternate", "distance", "separate", "gulf"],
+	"meanings": [
+		"isolate",
+		"alternate",
+		"distance",
+		"separate",
+		"gulf"
+	],
 	"keyword": "isolate",
 	"onyomi": {
-		"frequent": ["カク"],
+		"frequent": [
+			"カク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["へだ"],
+		"frequent": [
+			"へだ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["へだ.てる", "へだ.たる"]
+		"okurigana": [
+			"へだ.てる",
+			"へだ.たる"
+		]
 	},
 	"frequency": {
 		"mean": 1490,

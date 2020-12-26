@@ -1,14 +1,23 @@
 {
 	"kanji": "裾",
-	"meanings": ["cuff", "hem", "foot of mountain"],
+	"meanings": [
+		"cuff",
+		"hem",
+		"foot of mountain"
+	],
 	"keyword": "hem",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョ", "コ"]
+		"rare": [
+			"キョ",
+			"コ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["すそ"],
+		"frequent": [
+			"すそ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

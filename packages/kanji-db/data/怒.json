@@ -1,17 +1,30 @@
 {
 	"kanji": "怒",
-	"meanings": ["angry", "be offended"],
+	"meanings": [
+		"angry",
+		"be offended"
+	],
 	"keyword": "angry",
 	"onyomi": {
-		"frequent": ["ド"],
+		"frequent": [
+			"ド"
+		],
 		"common": [],
-		"rare": ["ヌ"]
+		"rare": [
+			"ヌ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["いか", "おこ"],
+		"frequent": [
+			"いか",
+			"おこ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["いか.る", "おこ.る"]
+		"okurigana": [
+			"いか.る",
+			"おこ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1299,

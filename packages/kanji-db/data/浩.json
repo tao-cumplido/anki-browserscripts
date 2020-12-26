@@ -1,17 +1,29 @@
 {
 	"kanji": "浩",
-	"meanings": ["wide expanse", "abundance", "vigorous"],
+	"meanings": [
+		"wide expanse",
+		"abundance",
+		"vigorous"
+	],
 	"keyword": "abounding",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おおき", "ひろ"],
-		"okurigana": ["おおき.い", "ひろ.い"]
+		"rare": [
+			"おおき",
+			"ひろ"
+		],
+		"okurigana": [
+			"おおき.い",
+			"ひろ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1058,

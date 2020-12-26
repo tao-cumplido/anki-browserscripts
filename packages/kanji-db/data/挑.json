@@ -1,17 +1,27 @@
 {
 	"kanji": "挑",
-	"meanings": ["challenge", "contend for", "make love to"],
+	"meanings": [
+		"challenge",
+		"contend for",
+		"make love to"
+	],
 	"keyword": "challenge",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いど"],
+		"frequent": [
+			"いど"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["いど.む"]
+		"okurigana": [
+			"いど.む"
+		]
 	},
 	"frequency": {
 		"mean": 1247,

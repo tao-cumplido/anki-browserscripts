@@ -1,14 +1,22 @@
 {
 	"kanji": "瞳",
-	"meanings": ["pupil (of eye)"],
+	"meanings": [
+		"pupil (of eye)"
+	],
 	"keyword": "pupil",
 	"onyomi": {
-		"frequent": ["ドウ"],
+		"frequent": [
+			"ドウ"
+		],
 		"common": [],
-		"rare": ["トウ"]
+		"rare": [
+			"トウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ひとみ"],
+		"frequent": [
+			"ひとみ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

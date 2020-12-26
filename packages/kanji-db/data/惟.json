@@ -1,17 +1,30 @@
 {
 	"kanji": "惟",
-	"meanings": ["consider", "reflect", "think"],
+	"meanings": [
+		"consider",
+		"reflect",
+		"think"
+	],
 	"keyword": "ponder",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["イ", "ユイ"]
+		"rare": [
+			"イ",
+			"ユイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おも", "これ"],
-		"okurigana": ["おも.んみる", "おも.うに"]
+		"rare": [
+			"おも",
+			"これ"
+		],
+		"okurigana": [
+			"おも.んみる",
+			"おも.うに"
+		]
 	},
 	"frequency": {
 		"mean": 2283,

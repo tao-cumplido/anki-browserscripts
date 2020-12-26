@@ -1,16 +1,26 @@
 {
 	"kanji": "窟",
-	"meanings": ["cavern"],
+	"meanings": [
+		"cavern"
+	],
 	"keyword": "cavern",
 	"onyomi": {
-		"frequent": ["クツ"],
+		"frequent": [
+			"クツ"
+		],
 		"common": [],
-		"rare": ["コツ"]
+		"rare": [
+			"コツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いわや", "いはや", "あな"],
+		"rare": [
+			"いわや",
+			"いはや",
+			"あな"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,16 +1,30 @@
 {
 	"kanji": "僝",
-	"meanings": ["to revile", "to abuse"],
+	"meanings": [
+		"to revile",
+		"to abuse"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["サン", "ゼン"],
+		"common": [
+			"サン",
+			"ゼン"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["そな", "ののし", "あらわ"],
+		"common": [
+			"そな",
+			"ののし",
+			"あらわ"
+		],
 		"rare": [],
-		"okurigana": ["そな.える", "ののし.る", "あらわ.す"]
+		"okurigana": [
+			"そな.える",
+			"ののし.る",
+			"あらわ.す"
+		]
 	},
 	"frequency": {
 		"mean": 4543,

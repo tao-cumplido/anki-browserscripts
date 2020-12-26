@@ -1,17 +1,30 @@
 {
 	"kanji": "帯",
-	"meanings": ["sash", "belt", "obi", "zone", "region"],
+	"meanings": [
+		"sash",
+		"belt",
+		"obi",
+		"zone",
+		"region"
+	],
 	"keyword": "sash",
 	"onyomi": {
-		"frequent": ["タイ"],
+		"frequent": [
+			"タイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["お", "おび"],
+		"frequent": [
+			"お",
+			"おび"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["お.びる"]
+		"okurigana": [
+			"お.びる"
+		]
 	},
 	"frequency": {
 		"mean": 574,

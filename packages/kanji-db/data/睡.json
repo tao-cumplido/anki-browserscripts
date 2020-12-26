@@ -1,17 +1,28 @@
 {
 	"kanji": "睡",
-	"meanings": ["drowsy", "sleep", "die"],
+	"meanings": [
+		"drowsy",
+		"sleep",
+		"die"
+	],
 	"keyword": "drowsy",
 	"onyomi": {
-		"frequent": ["スイ"],
+		"frequent": [
+			"スイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ねむ"],
-		"okurigana": ["ねむ.る", "ねむ.い"]
+		"rare": [
+			"ねむ"
+		],
+		"okurigana": [
+			"ねむ.る",
+			"ねむ.い"
+		]
 	},
 	"frequency": {
 		"mean": 2036,

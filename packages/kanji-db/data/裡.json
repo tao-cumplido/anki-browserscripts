@@ -1,16 +1,29 @@
 {
 	"kanji": "裡",
-	"meanings": ["reverse", "inside", "palm", "sole", "rear", "lining", "wrong side"],
+	"meanings": [
+		"reverse",
+		"inside",
+		"palm",
+		"sole",
+		"rear",
+		"lining",
+		"wrong side"
+	],
 	"keyword": "back (old)",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リ"]
+		"rare": [
+			"リ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うち", "うら"],
+		"rare": [
+			"うち",
+			"うら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

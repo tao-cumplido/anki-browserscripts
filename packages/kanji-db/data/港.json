@@ -1,14 +1,20 @@
 {
 	"kanji": "港",
-	"meanings": ["harbor"],
+	"meanings": [
+		"harbor"
+	],
 	"keyword": "harbor",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みなと"],
+		"frequent": [
+			"みなと"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

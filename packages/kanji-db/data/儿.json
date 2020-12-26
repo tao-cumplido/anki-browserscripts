@@ -1,15 +1,22 @@
 {
 	"kanji": "儿",
-	"meanings": ["legs radical (no. 10)"],
+	"meanings": [
+		"legs radical (no. 10)"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジン", "ニン"]
+		"rare": [
+			"ジン",
+			"ニン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["がい"],
+		"rare": [
+			"がい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

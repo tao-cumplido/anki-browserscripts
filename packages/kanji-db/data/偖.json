@@ -1,15 +1,22 @@
 {
 	"kanji": "偖",
-	"meanings": ["well", "now"],
+	"meanings": [
+		"well",
+		"now"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シャ"]
+		"rare": [
+			"シャ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さて"],
+		"rare": [
+			"さて"
+		],
 		"okurigana": []
 	},
 	"frequency": {

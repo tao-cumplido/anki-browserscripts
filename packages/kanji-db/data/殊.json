@@ -1,14 +1,22 @@
 {
 	"kanji": "殊",
-	"meanings": ["particularly", "especially", "exceptionally"],
+	"meanings": [
+		"particularly",
+		"especially",
+		"exceptionally"
+	],
 	"keyword": "particularly",
 	"onyomi": {
-		"frequent": ["シュ"],
+		"frequent": [
+			"シュ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こと"],
+		"frequent": [
+			"こと"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

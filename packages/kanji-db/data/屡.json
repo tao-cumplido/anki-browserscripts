@@ -1,16 +1,23 @@
 {
 	"kanji": "屡",
-	"meanings": ["often", "frequently"],
+	"meanings": [
+		"often",
+		"frequently"
+	],
 	"keyword": "frequently",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ル"]
+		"rare": [
+			"ル"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しばしば"],
+		"rare": [
+			"しばしば"
+		],
 		"okurigana": []
 	},
 	"frequency": {

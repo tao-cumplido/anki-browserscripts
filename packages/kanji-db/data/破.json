@@ -1,17 +1,35 @@
 {
 	"kanji": "破",
-	"meanings": ["rend", "rip", "tear", "break", "destroy", "defeat", "frustrate"],
+	"meanings": [
+		"rend",
+		"rip",
+		"tear",
+		"break",
+		"destroy",
+		"defeat",
+		"frustrate"
+	],
 	"keyword": "rend",
 	"onyomi": {
-		"frequent": ["ハ"],
+		"frequent": [
+			"ハ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["やぶ"],
+		"frequent": [
+			"やぶ"
+		],
 		"common": [],
-		"rare": ["わ"],
-		"okurigana": ["やぶ.る", "やぶ.れる", "わ.れる"]
+		"rare": [
+			"わ"
+		],
+		"okurigana": [
+			"やぶ.る",
+			"やぶ.れる",
+			"わ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 670,

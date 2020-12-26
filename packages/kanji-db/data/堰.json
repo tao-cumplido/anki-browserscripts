@@ -1,17 +1,28 @@
 {
 	"kanji": "堰",
-	"meanings": ["dam", "prevent", "stop up"],
+	"meanings": [
+		"dam",
+		"prevent",
+		"stop up"
+	],
 	"keyword": "dam",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["エン"]
+		"rare": [
+			"エン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["せき", "せ"],
-		"okurigana": ["せ.く"]
+		"rare": [
+			"せき",
+			"せ"
+		],
+		"okurigana": [
+			"せ.く"
+		]
 	},
 	"frequency": {
 		"mean": 2349,

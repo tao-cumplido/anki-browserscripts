@@ -1,17 +1,28 @@
 {
 	"kanji": "倶",
-	"meanings": ["both", "together", "alike"],
+	"meanings": [
+		"both",
+		"together",
+		"alike"
+	],
 	"keyword": "mate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["グ", "ク"]
+		"rare": [
+			"グ",
+			"ク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とも"],
-		"okurigana": ["とも.に"]
+		"rare": [
+			"とも"
+		],
+		"okurigana": [
+			"とも.に"
+		]
 	},
 	"frequency": {
 		"mean": 1659,

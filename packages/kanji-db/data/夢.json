@@ -1,17 +1,32 @@
 {
 	"kanji": "夢",
-	"meanings": ["dream", "vision", "illusion"],
+	"meanings": [
+		"dream",
+		"vision",
+		"illusion"
+	],
 	"keyword": "dream",
 	"onyomi": {
-		"frequent": ["ム"],
+		"frequent": [
+			"ム"
+		],
 		"common": [],
-		"rare": ["ボウ"]
+		"rare": [
+			"ボウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ゆめ"],
+		"frequent": [
+			"ゆめ"
+		],
 		"common": [],
-		"rare": ["くら"],
-		"okurigana": ["ゆめ.みる", "くら.い"]
+		"rare": [
+			"くら"
+		],
+		"okurigana": [
+			"ゆめ.みる",
+			"くら.い"
+		]
 	},
 	"frequency": {
 		"mean": 834,

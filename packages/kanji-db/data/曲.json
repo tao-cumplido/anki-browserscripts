@@ -1,17 +1,38 @@
 {
 	"kanji": "曲",
-	"meanings": ["bend", "music", "melody", "composition", "pleasure", "injustice", "fault", "curve", "crooked", "perverse", "lean"],
+	"meanings": [
+		"bend",
+		"music",
+		"melody",
+		"composition",
+		"pleasure",
+		"injustice",
+		"fault",
+		"curve",
+		"crooked",
+		"perverse",
+		"lean"
+	],
 	"keyword": "bend",
 	"onyomi": {
-		"frequent": ["キョク"],
+		"frequent": [
+			"キョク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ま"],
+		"frequent": [
+			"ま"
+		],
 		"common": [],
-		"rare": ["くま"],
-		"okurigana": ["ま.がる", "ま.げる"]
+		"rare": [
+			"くま"
+		],
+		"okurigana": [
+			"ま.がる",
+			"ま.げる"
+		]
 	},
 	"frequency": {
 		"mean": 131,

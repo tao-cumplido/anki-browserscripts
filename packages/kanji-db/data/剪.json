@@ -1,17 +1,29 @@
 {
 	"kanji": "剪",
-	"meanings": ["clip", "snip", "cut"],
+	"meanings": [
+		"clip",
+		"snip",
+		"cut"
+	],
 	"keyword": "pruning",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セン"]
+		"rare": [
+			"セン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["き", "つ"],
-		"okurigana": ["き.る", "つ.む"]
+		"rare": [
+			"き",
+			"つ"
+		],
+		"okurigana": [
+			"き.る",
+			"つ.む"
+		]
 	},
 	"frequency": {
 		"mean": 3520,

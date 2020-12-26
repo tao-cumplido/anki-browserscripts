@@ -1,11 +1,25 @@
 {
 	"kanji": "乄",
-	"meanings": ["to find a place to dwell", "sum", "measurement of paper", "to do", "adding up", "bundle", "8.5 lb", "(kokuji)"],
+	"meanings": [
+		"to find a place to dwell",
+		"sum",
+		"measurement of paper",
+		"to do",
+		"adding up",
+		"bundle",
+		"8.5 lb",
+		"(kokuji)"
+	],
 	"kunyomi": {
 		"frequent": [],
-		"common": ["し", "して"],
+		"common": [
+			"し",
+			"して"
+		],
 		"rare": [],
-		"okurigana": ["し.める"]
+		"okurigana": [
+			"し.める"
+		]
 	},
 	"frequency": {
 		"mean": 4535,

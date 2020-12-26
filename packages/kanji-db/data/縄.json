@@ -1,17 +1,28 @@
 {
 	"kanji": "縄",
-	"meanings": ["straw rope", "cord"],
+	"meanings": [
+		"straw rope",
+		"cord"
+	],
 	"keyword": "straw rope",
 	"onyomi": {
-		"frequent": ["ジョウ"],
+		"frequent": [
+			"ジョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["なわ"],
+		"frequent": [
+			"なわ"
+		],
 		"common": [],
-		"rare": ["ただ"],
-		"okurigana": ["ただ.す"]
+		"rare": [
+			"ただ"
+		],
+		"okurigana": [
+			"ただ.す"
+		]
 	},
 	"frequency": {
 		"mean": 965,

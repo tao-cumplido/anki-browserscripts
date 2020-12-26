@@ -1,17 +1,30 @@
 {
 	"kanji": "催",
-	"meanings": ["sponsor", "hold (a meeting)", "give (a dinner)"],
+	"meanings": [
+		"sponsor",
+		"hold (a meeting)",
+		"give (a dinner)"
+	],
 	"keyword": "sponsor",
 	"onyomi": {
-		"frequent": ["サイ"],
+		"frequent": [
+			"サイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["もよお"],
+		"frequent": [
+			"もよお"
+		],
 		"common": [],
-		"rare": ["もよう"],
-		"okurigana": ["もよう.す", "もよお.す"]
+		"rare": [
+			"もよう"
+		],
+		"okurigana": [
+			"もよう.す",
+			"もよお.す"
+		]
 	},
 	"frequency": {
 		"mean": 551,

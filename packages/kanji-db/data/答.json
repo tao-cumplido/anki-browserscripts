@@ -1,17 +1,27 @@
 {
 	"kanji": "答",
-	"meanings": ["solution", "answer"],
+	"meanings": [
+		"solution",
+		"answer"
+	],
 	"keyword": "solution",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こた"],
+		"frequent": [
+			"こた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["こた.える", "こた.え"]
+		"okurigana": [
+			"こた.える",
+			"こた.え"
+		]
 	},
 	"frequency": {
 		"mean": 1042,

@@ -1,17 +1,34 @@
 {
 	"kanji": "楽",
-	"meanings": ["music", "comfort", "ease"],
+	"meanings": [
+		"music",
+		"comfort",
+		"ease"
+	],
 	"keyword": "music",
 	"onyomi": {
-		"frequent": ["ガク", "ラク"],
+		"frequent": [
+			"ガク",
+			"ラク"
+		],
 		"common": [],
-		"rare": ["ゴウ"]
+		"rare": [
+			"ゴウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["たの"],
+		"frequent": [
+			"たの"
+		],
 		"common": [],
-		"rare": ["この"],
-		"okurigana": ["たの.しい", "たの.しむ", "この.む"]
+		"rare": [
+			"この"
+		],
+		"okurigana": [
+			"たの.しい",
+			"たの.しむ",
+			"この.む"
+		]
 	},
 	"frequency": {
 		"mean": 179,

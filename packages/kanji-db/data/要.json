@@ -1,17 +1,30 @@
 {
 	"kanji": "要",
-	"meanings": ["need", "main point", "essence", "pivot", "key to"],
+	"meanings": [
+		"need",
+		"main point",
+		"essence",
+		"pivot",
+		"key to"
+	],
 	"keyword": "need",
 	"onyomi": {
-		"frequent": ["ヨウ"],
+		"frequent": [
+			"ヨウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["い", "かなめ"],
+		"frequent": [
+			"い",
+			"かなめ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["い.る"]
+		"okurigana": [
+			"い.る"
+		]
 	},
 	"frequency": {
 		"mean": 142,

@@ -1,17 +1,26 @@
 {
 	"kanji": "簸",
-	"meanings": ["winnow", "fan"],
+	"meanings": [
+		"winnow",
+		"fan"
+	],
 	"keyword": "winnow",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハ"]
+		"rare": [
+			"ハ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひ"],
-		"okurigana": ["ひ.る"]
+		"rare": [
+			"ひ"
+		],
+		"okurigana": [
+			"ひ.る"
+		]
 	},
 	"frequency": {
 		"mean": 3871,

@@ -1,17 +1,35 @@
 {
 	"kanji": "率",
-	"meanings": ["ratio", "rate", "proportion", "%", "factor", "lead", "spearhead", "command"],
+	"meanings": [
+		"ratio",
+		"rate",
+		"proportion",
+		"%",
+		"factor",
+		"lead",
+		"spearhead",
+		"command"
+	],
 	"keyword": "ratio",
 	"onyomi": {
-		"frequent": ["ソツ", "リツ"],
+		"frequent": [
+			"ソツ",
+			"リツ"
+		],
 		"common": [],
-		"rare": ["シュツ"]
+		"rare": [
+			"シュツ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ひき"],
+		"frequent": [
+			"ひき"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ひき.いる"]
+		"okurigana": [
+			"ひき.いる"
+		]
 	},
 	"frequency": {
 		"mean": 588,

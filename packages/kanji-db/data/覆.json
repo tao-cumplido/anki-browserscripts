@@ -1,17 +1,32 @@
 {
 	"kanji": "覆",
-	"meanings": ["capsize", "cover", "shade", "mantle", "be ruined"],
+	"meanings": [
+		"capsize",
+		"cover",
+		"shade",
+		"mantle",
+		"be ruined"
+	],
 	"keyword": "capsize",
 	"onyomi": {
-		"frequent": ["フク"],
+		"frequent": [
+			"フク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おお", "くつがえ"],
+		"frequent": [
+			"おお",
+			"くつがえ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おお.う", "くつがえ.す", "くつがえ.る"]
+		"okurigana": [
+			"おお.う",
+			"くつがえ.す",
+			"くつがえ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1575,

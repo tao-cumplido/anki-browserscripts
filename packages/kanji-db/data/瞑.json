@@ -1,17 +1,37 @@
 {
 	"kanji": "瞑",
-	"meanings": ["sleep", "dark", "close eyes"],
+	"meanings": [
+		"sleep",
+		"dark",
+		"close eyes"
+	],
 	"keyword": "close the eyes",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["メイ", "ベン", "ミョウ", "ミン", "メン"]
+		"rare": [
+			"メイ",
+			"ベン",
+			"ミョウ",
+			"ミン",
+			"メン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["めい", "つぶ", "つむ", "くら"],
-		"okurigana": ["めい.する", "つぶ.る", "つむ.る", "くら.い"]
+		"rare": [
+			"めい",
+			"つぶ",
+			"つむ",
+			"くら"
+		],
+		"okurigana": [
+			"めい.する",
+			"つぶ.る",
+			"つむ.る",
+			"くら.い"
+		]
 	},
 	"frequency": {
 		"mean": 2831,

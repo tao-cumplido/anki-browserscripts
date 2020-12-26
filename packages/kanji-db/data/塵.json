@@ -1,16 +1,26 @@
 {
 	"kanji": "塵",
-	"meanings": ["dust", "trash", "garbage"],
+	"meanings": [
+		"dust",
+		"trash",
+		"garbage"
+	],
 	"keyword": "dust",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チン", "ジン"]
+		"rare": [
+			"チン",
+			"ジン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ちり", "ごみ"],
+		"rare": [
+			"ちり",
+			"ごみ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

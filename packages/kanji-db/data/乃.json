@@ -1,17 +1,33 @@
 {
 	"kanji": "乃",
-	"meanings": ["from", "possessive particle", "whereupon", "accordingly"],
+	"meanings": [
+		"from",
+		"possessive particle",
+		"whereupon",
+		"accordingly"
+	],
 	"keyword": "from",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ナイ", "ダイ", "ノ", "アイ"]
+		"rare": [
+			"ナイ",
+			"ダイ",
+			"ノ",
+			"アイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["の", "すなわ", "なんじ"],
-		"okurigana": ["すなわ.ち"]
+		"rare": [
+			"の",
+			"すなわ",
+			"なんじ"
+		],
+		"okurigana": [
+			"すなわ.ち"
+		]
 	},
 	"frequency": {
 		"mean": 1222,

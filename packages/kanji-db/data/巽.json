@@ -1,16 +1,22 @@
 {
 	"kanji": "巽",
-	"meanings": ["southeast"],
+	"meanings": [
+		"southeast"
+	],
 	"keyword": "southeast",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソン"]
+		"rare": [
+			"ソン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たつみ"],
+		"rare": [
+			"たつみ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

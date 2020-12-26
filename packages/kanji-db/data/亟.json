@@ -1,15 +1,26 @@
 {
 	"kanji": "亟",
-	"meanings": ["fast", "quick", "sudden"],
+	"meanings": [
+		"fast",
+		"quick",
+		"sudden"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョク", "キ", "ケ"]
+		"rare": [
+			"キョク",
+			"キ",
+			"ケ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しばしば", "すみやか"],
+		"rare": [
+			"しばしば",
+			"すみやか"
+		],
 		"okurigana": []
 	},
 	"frequency": {

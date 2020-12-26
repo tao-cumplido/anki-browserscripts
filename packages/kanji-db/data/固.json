@@ -1,17 +1,31 @@
 {
 	"kanji": "固",
-	"meanings": ["harden", "set", "clot", "curdle"],
+	"meanings": [
+		"harden",
+		"set",
+		"clot",
+		"curdle"
+	],
 	"keyword": "harden",
 	"onyomi": {
-		"frequent": ["コ"],
+		"frequent": [
+			"コ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かた"],
+		"frequent": [
+			"かた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かた.める", "かた.まる", "かた.まり", "かた.い"]
+		"okurigana": [
+			"かた.める",
+			"かた.まる",
+			"かた.まり",
+			"かた.い"
+		]
 	},
 	"frequency": {
 		"mean": 993,

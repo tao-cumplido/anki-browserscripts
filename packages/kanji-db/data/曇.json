@@ -1,17 +1,26 @@
 {
 	"kanji": "曇",
-	"meanings": ["cloudy weather", "cloud up"],
+	"meanings": [
+		"cloudy weather",
+		"cloud up"
+	],
 	"keyword": "cloudy weather",
 	"onyomi": {
-		"frequent": ["ドン"],
+		"frequent": [
+			"ドン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くも"],
+		"frequent": [
+			"くも"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["くも.る"]
+		"okurigana": [
+			"くも.る"
+		]
 	},
 	"frequency": {
 		"mean": 1831,

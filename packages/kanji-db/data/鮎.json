@@ -1,16 +1,25 @@
 {
 	"kanji": "鮎",
-	"meanings": ["freshwater trout", "smelt"],
+	"meanings": [
+		"freshwater trout",
+		"smelt"
+	],
 	"keyword": "sweet smelt",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["デン", "ネン"]
+		"rare": [
+			"デン",
+			"ネン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あゆ", "なまず"],
+		"rare": [
+			"あゆ",
+			"なまず"
+		],
 		"okurigana": []
 	},
 	"frequency": {

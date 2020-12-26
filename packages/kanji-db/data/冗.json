@@ -1,9 +1,14 @@
 {
 	"kanji": "冗",
-	"meanings": ["superfluous", "uselessness"],
+	"meanings": [
+		"superfluous",
+		"uselessness"
+	],
 	"keyword": "superfluous",
 	"onyomi": {
-		"frequent": ["ジョウ"],
+		"frequent": [
+			"ジョウ"
+		],
 		"common": [],
 		"rare": []
 	},

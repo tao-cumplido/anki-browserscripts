@@ -1,10 +1,14 @@
 {
 	"kanji": "儡",
-	"meanings": ["defeat"],
+	"meanings": [
+		"defeat"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ライ"]
+		"rare": [
+			"ライ"
+		]
 	},
 	"frequency": {
 		"mean": 2887,

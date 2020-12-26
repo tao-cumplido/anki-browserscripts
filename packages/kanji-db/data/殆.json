@@ -1,17 +1,30 @@
 {
 	"kanji": "殆",
-	"meanings": ["almost", "quite", "really"],
+	"meanings": [
+		"almost",
+		"quite",
+		"really"
+	],
 	"keyword": "almost",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["タイ", "サイ"]
+		"rare": [
+			"タイ",
+			"サイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ほとほと", "ほとん", "あやうい"],
-		"okurigana": ["ほとん.ど"]
+		"rare": [
+			"ほとほと",
+			"ほとん",
+			"あやうい"
+		],
+		"okurigana": [
+			"ほとん.ど"
+		]
 	},
 	"frequency": {
 		"mean": 1824,

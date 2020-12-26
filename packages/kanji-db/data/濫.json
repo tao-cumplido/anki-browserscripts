@@ -1,17 +1,28 @@
 {
 	"kanji": "濫",
-	"meanings": ["excessive", "overflow", "spread out"],
+	"meanings": [
+		"excessive",
+		"overflow",
+		"spread out"
+	],
 	"keyword": "overflow",
 	"onyomi": {
-		"frequent": ["ラン"],
+		"frequent": [
+			"ラン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みだ"],
-		"okurigana": ["みだ.りに", "みだ.りがましい"]
+		"rare": [
+			"みだ"
+		],
+		"okurigana": [
+			"みだ.りに",
+			"みだ.りがましい"
+		]
 	},
 	"frequency": {
 		"mean": 2455,

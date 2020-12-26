@@ -1,16 +1,23 @@
 {
 	"kanji": "舷",
-	"meanings": ["gunwale"],
+	"meanings": [
+		"gunwale"
+	],
 	"keyword": "gunwale",
 	"onyomi": {
-		"frequent": ["ゲン"],
+		"frequent": [
+			"ゲン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふなばた", "ふなべり"],
+		"rare": [
+			"ふなばた",
+			"ふなべり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

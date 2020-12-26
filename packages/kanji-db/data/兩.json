@@ -1,15 +1,24 @@
 {
 	"kanji": "兩",
-	"meanings": ["old Japanese coin", "both", "counter for vehicles", "two"],
+	"meanings": [
+		"old Japanese coin",
+		"both",
+		"counter for vehicles",
+		"two"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リョウ"]
+		"rare": [
+			"リョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふたつ"],
+		"rare": [
+			"ふたつ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

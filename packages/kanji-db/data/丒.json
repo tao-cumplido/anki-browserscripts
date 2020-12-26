@@ -1,15 +1,22 @@
 {
 	"kanji": "丒",
-	"meanings": ["the period from 1 to 3 am", "2nd character of the \"branches\""],
+	"meanings": [
+		"the period from 1 to 3 am",
+		"2nd character of the \"branches\""
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["チュウ"]
+		"rare": [
+			"チュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うし"],
+		"rare": [
+			"うし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

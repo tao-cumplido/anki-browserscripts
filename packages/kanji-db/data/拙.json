@@ -1,17 +1,27 @@
 {
 	"kanji": "拙",
-	"meanings": ["bungling", "clumsy", "unskillful"],
+	"meanings": [
+		"bungling",
+		"clumsy",
+		"unskillful"
+	],
 	"keyword": "bungling",
 	"onyomi": {
-		"frequent": ["セツ"],
+		"frequent": [
+			"セツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つたな"],
+		"frequent": [
+			"つたな"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["つたな.い"]
+		"okurigana": [
+			"つたな.い"
+		]
 	},
 	"frequency": {
 		"mean": 2433,

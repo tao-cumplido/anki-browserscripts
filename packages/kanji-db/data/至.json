@@ -1,17 +1,30 @@
 {
 	"kanji": "至",
-	"meanings": ["climax", "arrive", "proceed", "reach", "attain", "result in"],
+	"meanings": [
+		"climax",
+		"arrive",
+		"proceed",
+		"reach",
+		"attain",
+		"result in"
+	],
 	"keyword": "climax",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いた"],
+		"frequent": [
+			"いた"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["いた.る"]
+		"okurigana": [
+			"いた.る"
+		]
 	},
 	"frequency": {
 		"mean": 949,

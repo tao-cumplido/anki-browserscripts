@@ -1,16 +1,25 @@
 {
 	"kanji": "釘",
-	"meanings": ["nail", "tack", "peg"],
+	"meanings": [
+		"nail",
+		"tack",
+		"peg"
+	],
 	"keyword": "nail",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["テイ", "チョウ"]
+		"rare": [
+			"テイ",
+			"チョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くぎ"],
+		"rare": [
+			"くぎ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,16 +1,23 @@
 {
 	"kanji": "桐",
-	"meanings": ["paulownia"],
+	"meanings": [
+		"paulownia"
+	],
 	"keyword": "paulownia",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["トウ", "ドウ"]
+		"rare": [
+			"トウ",
+			"ドウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きり"],
+		"rare": [
+			"きり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

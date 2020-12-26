@@ -1,17 +1,30 @@
 {
 	"kanji": "賑",
-	"meanings": ["flourish", "be bustling", "prosperity"],
+	"meanings": [
+		"flourish",
+		"be bustling",
+		"prosperity"
+	],
 	"keyword": "bustling",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シン"]
+		"rare": [
+			"シン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["にぎ"],
-		"okurigana": ["にぎ.わい", "にぎ.やか", "にぎ.わす", "にぎ.わう"]
+		"rare": [
+			"にぎ"
+		],
+		"okurigana": [
+			"にぎ.わい",
+			"にぎ.やか",
+			"にぎ.わす",
+			"にぎ.わう"
+		]
 	},
 	"frequency": {
 		"mean": 2371,

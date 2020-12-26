@@ -1,17 +1,38 @@
 {
 	"kanji": "創",
-	"meanings": ["genesis", "wound", "injury", "hurt", "start", "originate"],
+	"meanings": [
+		"genesis",
+		"wound",
+		"injury",
+		"hurt",
+		"start",
+		"originate"
+	],
 	"keyword": "genesis",
 	"onyomi": {
-		"frequent": ["ソウ"],
+		"frequent": [
+			"ソウ"
+		],
 		"common": [],
-		"rare": ["ショウ"]
+		"rare": [
+			"ショウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["つく"],
+		"frequent": [
+			"つく"
+		],
 		"common": [],
-		"rare": ["はじ", "きず", "けず"],
-		"okurigana": ["つく.る", "はじ.める", "けず.しける"]
+		"rare": [
+			"はじ",
+			"きず",
+			"けず"
+		],
+		"okurigana": [
+			"つく.る",
+			"はじ.める",
+			"けず.しける"
+		]
 	},
 	"frequency": {
 		"mean": 585,

@@ -1,17 +1,31 @@
 {
 	"kanji": "定",
-	"meanings": ["determine", "fix", "establish", "decide"],
+	"meanings": [
+		"determine",
+		"fix",
+		"establish",
+		"decide"
+	],
 	"keyword": "determine",
 	"onyomi": {
-		"frequent": ["テイ", "ジョウ"],
+		"frequent": [
+			"テイ",
+			"ジョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さだ"],
+		"frequent": [
+			"さだ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["さだ.める", "さだ.まる", "さだ.か"]
+		"okurigana": [
+			"さだ.める",
+			"さだ.まる",
+			"さだ.か"
+		]
 	},
 	"frequency": {
 		"mean": 58,

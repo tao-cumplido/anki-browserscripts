@@ -1,17 +1,27 @@
 {
 	"kanji": "祀",
-	"meanings": ["enshrine", "worship"],
+	"meanings": [
+		"enshrine",
+		"worship"
+	],
 	"keyword": "enshrine",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ"]
+		"rare": [
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["まつ", "まつり"],
-		"okurigana": ["まつ.る"]
+		"rare": [
+			"まつ",
+			"まつり"
+		],
+		"okurigana": [
+			"まつ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1859,

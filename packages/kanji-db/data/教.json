@@ -1,17 +1,29 @@
 {
 	"kanji": "教",
-	"meanings": ["teach", "faith", "doctrine"],
+	"meanings": [
+		"teach",
+		"faith",
+		"doctrine"
+	],
 	"keyword": "teach",
 	"onyomi": {
-		"frequent": ["キョウ"],
+		"frequent": [
+			"キョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おし", "おそ"],
+		"frequent": [
+			"おし",
+			"おそ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おし.える", "おそ.わる"]
+		"okurigana": [
+			"おし.える",
+			"おそ.わる"
+		]
 	},
 	"frequency": {
 		"mean": 125,

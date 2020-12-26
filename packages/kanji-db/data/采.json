@@ -1,17 +1,31 @@
 {
 	"kanji": "采",
-	"meanings": ["dice", "form", "appearance", "take", "gather", "coloring"],
+	"meanings": [
+		"dice",
+		"form",
+		"appearance",
+		"take",
+		"gather",
+		"coloring"
+	],
 	"keyword": "grab",
 	"onyomi": {
-		"frequent": ["サイ"],
+		"frequent": [
+			"サイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["と", "いろどり"],
-		"okurigana": ["と.る"]
+		"rare": [
+			"と",
+			"いろどり"
+		],
+		"okurigana": [
+			"と.る"
+		]
 	},
 	"frequency": {
 		"mean": 2485,

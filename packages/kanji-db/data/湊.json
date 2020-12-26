@@ -1,17 +1,27 @@
 {
 	"kanji": "湊",
-	"meanings": ["port", "harbor"],
+	"meanings": [
+		"port",
+		"harbor"
+	],
 	"keyword": "port",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ"]
+		"rare": [
+			"ソウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みなと", "あつ"],
-		"okurigana": ["あつ.まる"]
+		"rare": [
+			"みなと",
+			"あつ"
+		],
+		"okurigana": [
+			"あつ.まる"
+		]
 	},
 	"frequency": {
 		"mean": 1866,

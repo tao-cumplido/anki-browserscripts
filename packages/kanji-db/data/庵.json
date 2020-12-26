@@ -1,16 +1,24 @@
 {
 	"kanji": "庵",
-	"meanings": ["hermitage", "retreat"],
+	"meanings": [
+		"hermitage",
+		"retreat"
+	],
 	"keyword": "hermitage",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["アン"]
+		"rare": [
+			"アン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いおり", "いお"],
+		"rare": [
+			"いおり",
+			"いお"
+		],
 		"okurigana": []
 	},
 	"frequency": {

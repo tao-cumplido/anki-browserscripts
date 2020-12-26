@@ -1,14 +1,22 @@
 {
 	"kanji": "菜",
-	"meanings": ["vegetable", "side dish", "greens"],
+	"meanings": [
+		"vegetable",
+		"side dish",
+		"greens"
+	],
 	"keyword": "vegetable",
 	"onyomi": {
-		"frequent": ["サイ"],
+		"frequent": [
+			"サイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["な"],
+		"frequent": [
+			"な"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

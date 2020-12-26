@@ -1,17 +1,35 @@
 {
 	"kanji": "埋",
-	"meanings": ["bury", "be filled up", "embedded"],
+	"meanings": [
+		"bury",
+		"be filled up",
+		"embedded"
+	],
 	"keyword": "bury",
 	"onyomi": {
-		"frequent": ["マイ"],
+		"frequent": [
+			"マイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["う"],
+		"frequent": [
+			"う"
+		],
 		"common": [],
-		"rare": ["うず", "い"],
-		"okurigana": ["う.める", "う.まる", "う.もれる", "うず.める", "うず.まる", "い.ける"]
+		"rare": [
+			"うず",
+			"い"
+		],
+		"okurigana": [
+			"う.める",
+			"う.まる",
+			"う.もれる",
+			"うず.める",
+			"うず.まる",
+			"い.ける"
+		]
 	},
 	"frequency": {
 		"mean": 1344,

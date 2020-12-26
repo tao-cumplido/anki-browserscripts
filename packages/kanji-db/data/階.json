@@ -1,16 +1,24 @@
 {
 	"kanji": "階",
-	"meanings": ["storey", "stair", "counter for storeys of a building"],
+	"meanings": [
+		"storey",
+		"stair",
+		"counter for storeys of a building"
+	],
 	"keyword": "story",
 	"onyomi": {
-		"frequent": ["カイ"],
+		"frequent": [
+			"カイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きざはし"],
+		"rare": [
+			"きざはし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

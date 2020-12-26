@@ -1,14 +1,23 @@
 {
 	"kanji": "剣",
-	"meanings": ["sabre", "sword", "blade", "clock hand"],
+	"meanings": [
+		"sabre",
+		"sword",
+		"blade",
+		"clock hand"
+	],
 	"keyword": "saber",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つるぎ"],
+		"frequent": [
+			"つるぎ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

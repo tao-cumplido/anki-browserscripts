@@ -1,14 +1,22 @@
 {
 	"kanji": "舌",
-	"meanings": ["tongue", "reed", "clapper"],
+	"meanings": [
+		"tongue",
+		"reed",
+		"clapper"
+	],
 	"keyword": "tongue",
 	"onyomi": {
-		"frequent": ["ゼツ"],
+		"frequent": [
+			"ゼツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["した"],
+		"frequent": [
+			"した"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

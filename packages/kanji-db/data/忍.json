@@ -1,17 +1,32 @@
 {
 	"kanji": "忍",
-	"meanings": ["endure", "bear", "put up with", "conceal", "secrete", "spy", "sneak"],
+	"meanings": [
+		"endure",
+		"bear",
+		"put up with",
+		"conceal",
+		"secrete",
+		"spy",
+		"sneak"
+	],
 	"keyword": "endure",
 	"onyomi": {
-		"frequent": ["ニン"],
+		"frequent": [
+			"ニン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["しの"],
+		"frequent": [
+			"しの"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["しの.ぶ", "しの.ばせる"]
+		"okurigana": [
+			"しの.ぶ",
+			"しの.ばせる"
+		]
 	},
 	"frequency": {
 		"mean": 1239,

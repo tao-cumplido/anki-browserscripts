@@ -1,17 +1,36 @@
 {
 	"kanji": "切",
-	"meanings": ["cut", "cutoff", "be sharp"],
+	"meanings": [
+		"cut",
+		"cutoff",
+		"be sharp"
+	],
 	"keyword": "cut",
 	"onyomi": {
-		"frequent": ["セツ"],
-		"common": ["サイ"],
+		"frequent": [
+			"セツ"
+		],
+		"common": [
+			"サイ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["き"],
+		"frequent": [
+			"き"
+		],
 		"common": [],
-		"rare": ["ぎ"],
-		"okurigana": ["き.る", "き.り", "ぎ.り", "き.れる", "き.れ", "ぎ.れ"]
+		"rare": [
+			"ぎ"
+		],
+		"okurigana": [
+			"き.る",
+			"き.り",
+			"ぎ.り",
+			"き.れる",
+			"き.れ",
+			"ぎ.れ"
+		]
 	},
 	"frequency": {
 		"mean": 409,

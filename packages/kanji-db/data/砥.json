@@ -1,17 +1,32 @@
 {
 	"kanji": "砥",
-	"meanings": ["whetstone", "grindstone"],
+	"meanings": [
+		"whetstone",
+		"grindstone"
+	],
 	"keyword": "grindstone",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シ", "テイ", "キイ", "チ"]
+		"rare": [
+			"シ",
+			"テイ",
+			"キイ",
+			"チ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["と", "といし", "みが"],
-		"okurigana": ["と.ぐ", "みが.く"]
+		"rare": [
+			"と",
+			"といし",
+			"みが"
+		],
+		"okurigana": [
+			"と.ぐ",
+			"みが.く"
+		]
 	},
 	"frequency": {
 		"mean": 2726,

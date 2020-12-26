@@ -1,15 +1,25 @@
 {
 	"kanji": "稲",
-	"meanings": ["rice plant"],
+	"meanings": [
+		"rice plant"
+	],
 	"keyword": "rice plant",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
-		"rare": ["テ"]
+		"rare": [
+			"テ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["いね"],
-		"common": ["いな"],
+		"frequent": [
+			"いね"
+		],
+		"common": [
+			"いな"
+		],
 		"rare": [],
 		"okurigana": []
 	},

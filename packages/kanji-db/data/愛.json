@@ -1,17 +1,34 @@
 {
 	"kanji": "愛",
-	"meanings": ["love", "affection", "favourite"],
+	"meanings": [
+		"love",
+		"affection",
+		"favourite"
+	],
 	"keyword": "love",
 	"onyomi": {
-		"frequent": ["アイ"],
+		"frequent": [
+			"アイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いと", "かな", "め", "お", "まな"],
-		"okurigana": ["いと.しい", "かな.しい", "め.でる", "お.しむ"]
+		"rare": [
+			"いと",
+			"かな",
+			"め",
+			"お",
+			"まな"
+		],
+		"okurigana": [
+			"いと.しい",
+			"かな.しい",
+			"め.でる",
+			"お.しむ"
+		]
 	},
 	"frequency": {
 		"mean": 259,

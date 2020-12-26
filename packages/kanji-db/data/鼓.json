@@ -1,14 +1,23 @@
 {
 	"kanji": "鼓",
-	"meanings": ["drum", "beat", "rouse", "muster"],
+	"meanings": [
+		"drum",
+		"beat",
+		"rouse",
+		"muster"
+	],
 	"keyword": "drum",
 	"onyomi": {
-		"frequent": ["コ"],
+		"frequent": [
+			"コ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つづみ"],
+		"frequent": [
+			"つづみ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

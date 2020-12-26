@@ -1,16 +1,24 @@
 {
 	"kanji": "珠",
-	"meanings": ["pearl", "gem", "jewel"],
+	"meanings": [
+		"pearl",
+		"gem",
+		"jewel"
+	],
 	"keyword": "pearl",
 	"onyomi": {
-		"frequent": ["シュ"],
+		"frequent": [
+			"シュ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たま"],
+		"rare": [
+			"たま"
+		],
 		"okurigana": []
 	},
 	"frequency": {

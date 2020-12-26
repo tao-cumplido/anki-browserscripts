@@ -1,17 +1,27 @@
 {
 	"kanji": "碩",
-	"meanings": ["large", "great", "eminent"],
+	"meanings": [
+		"large",
+		"great",
+		"eminent"
+	],
 	"keyword": "illustrious",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セキ"]
+		"rare": [
+			"セキ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おお"],
-		"okurigana": ["おお.きい"]
+		"rare": [
+			"おお"
+		],
+		"okurigana": [
+			"おお.きい"
+		]
 	},
 	"frequency": {
 		"mean": 2850,

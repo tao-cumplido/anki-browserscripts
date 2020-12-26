@@ -1,17 +1,29 @@
 {
 	"kanji": "探",
-	"meanings": ["grope", "search", "look for"],
+	"meanings": [
+		"grope",
+		"search",
+		"look for"
+	],
 	"keyword": "grope",
 	"onyomi": {
-		"frequent": ["タン"],
+		"frequent": [
+			"タン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さぐ", "さが"],
+		"frequent": [
+			"さぐ",
+			"さが"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["さぐ.る", "さが.す"]
+		"okurigana": [
+			"さぐ.る",
+			"さが.す"
+		]
 	},
 	"frequency": {
 		"mean": 813,

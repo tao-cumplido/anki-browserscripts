@@ -1,16 +1,24 @@
 {
 	"kanji": "鱗",
-	"meanings": ["scales (fish)"],
+	"meanings": [
+		"scales (fish)"
+	],
 	"keyword": "scaled",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["リン"]
+		"rare": [
+			"リン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うろこ", "こけ", "こけら"],
+		"rare": [
+			"うろこ",
+			"こけ",
+			"こけら"
+		],
 		"okurigana": []
 	},
 	"frequency": {

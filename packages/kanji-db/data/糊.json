@@ -1,16 +1,26 @@
 {
 	"kanji": "糊",
-	"meanings": ["paste", "glue", "sizing"],
+	"meanings": [
+		"paste",
+		"glue",
+		"sizing"
+	],
 	"keyword": "paste",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コ", "ゴ", "コツ"]
+		"rare": [
+			"コ",
+			"ゴ",
+			"コツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["のり"],
+		"rare": [
+			"のり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

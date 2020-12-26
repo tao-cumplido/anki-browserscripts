@@ -1,9 +1,14 @@
 {
 	"kanji": "俸",
-	"meanings": ["stipend", "salary"],
+	"meanings": [
+		"stipend",
+		"salary"
+	],
 	"keyword": "stipend",
 	"onyomi": {
-		"frequent": ["ホウ"],
+		"frequent": [
+			"ホウ"
+		],
 		"common": [],
 		"rare": []
 	},

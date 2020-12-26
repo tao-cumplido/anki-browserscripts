@@ -1,17 +1,33 @@
 {
 	"kanji": "禿",
-	"meanings": ["become bald", "bare", "wear out", "waste away", "little girl employed at a brothel"],
+	"meanings": [
+		"become bald",
+		"bare",
+		"wear out",
+		"waste away",
+		"little girl employed at a brothel"
+	],
 	"keyword": "bald",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["トク"]
+		"rare": [
+			"トク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ちび", "かむろ", "は", "はげ"],
-		"okurigana": ["ちび.る", "は.げる"]
+		"rare": [
+			"ちび",
+			"かむろ",
+			"は",
+			"はげ"
+		],
+		"okurigana": [
+			"ちび.る",
+			"は.げる"
+		]
 	},
 	"frequency": {
 		"mean": 2789,

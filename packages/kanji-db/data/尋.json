@@ -1,17 +1,29 @@
 {
 	"kanji": "尋",
-	"meanings": ["inquire", "fathom", "look for"],
+	"meanings": [
+		"inquire",
+		"fathom",
+		"look for"
+	],
 	"keyword": "inquire",
 	"onyomi": {
-		"frequent": ["ジン"],
+		"frequent": [
+			"ジン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たず"],
+		"frequent": [
+			"たず"
+		],
 		"common": [],
-		"rare": ["ひろ"],
-		"okurigana": ["たず.ねる"]
+		"rare": [
+			"ひろ"
+		],
+		"okurigana": [
+			"たず.ねる"
+		]
 	},
 	"frequency": {
 		"mean": 1419,

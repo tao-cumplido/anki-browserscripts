@@ -1,16 +1,24 @@
 {
 	"kanji": "渚",
-	"meanings": ["strand", "beach", "shore"],
+	"meanings": [
+		"strand",
+		"beach",
+		"shore"
+	],
 	"keyword": "strand",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショ"]
+		"rare": [
+			"ショ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["なぎさ"],
+		"rare": [
+			"なぎさ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

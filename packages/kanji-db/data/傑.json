@@ -1,17 +1,26 @@
 {
 	"kanji": "傑",
-	"meanings": ["greatness", "excellence"],
+	"meanings": [
+		"greatness",
+		"excellence"
+	],
 	"keyword": "greatness",
 	"onyomi": {
-		"frequent": ["ケツ"],
+		"frequent": [
+			"ケツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すぐ"],
-		"okurigana": ["すぐ.れる"]
+		"rare": [
+			"すぐ"
+		],
+		"okurigana": [
+			"すぐ.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1835,

@@ -1,17 +1,31 @@
 {
 	"kanji": "遅",
-	"meanings": ["slow", "late", "back", "later"],
+	"meanings": [
+		"slow",
+		"late",
+		"back",
+		"later"
+	],
 	"keyword": "slow",
 	"onyomi": {
-		"frequent": ["チ"],
+		"frequent": [
+			"チ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おく", "おそ"],
+		"frequent": [
+			"おく",
+			"おそ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おく.れる", "おく.らす", "おそ.い"]
+		"okurigana": [
+			"おく.れる",
+			"おく.らす",
+			"おそ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1153,

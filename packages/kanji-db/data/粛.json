@@ -1,17 +1,29 @@
 {
 	"kanji": "粛",
-	"meanings": ["solemn", "quietly", "softly"],
+	"meanings": [
+		"solemn",
+		"quietly",
+		"softly"
+	],
 	"keyword": "solemn",
 	"onyomi": {
-		"frequent": ["シュク"],
+		"frequent": [
+			"シュク"
+		],
 		"common": [],
-		"rare": ["スク"]
+		"rare": [
+			"スク"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つつし"],
-		"okurigana": ["つつし.む"]
+		"rare": [
+			"つつし"
+		],
+		"okurigana": [
+			"つつし.む"
+		]
 	},
 	"frequency": {
 		"mean": 1996,

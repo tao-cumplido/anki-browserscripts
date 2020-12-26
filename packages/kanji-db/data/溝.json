@@ -1,14 +1,24 @@
 {
 	"kanji": "溝",
-	"meanings": ["gutter", "ditch", "sewer", "drain", "10**32"],
+	"meanings": [
+		"gutter",
+		"ditch",
+		"sewer",
+		"drain",
+		"10**32"
+	],
 	"keyword": "gutter",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みぞ"],
+		"frequent": [
+			"みぞ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

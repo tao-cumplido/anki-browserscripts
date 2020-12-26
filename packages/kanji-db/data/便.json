@@ -1,17 +1,31 @@
 {
 	"kanji": "便",
-	"meanings": ["convenience", "facility", "excrement", "feces", "letter", "chance"],
+	"meanings": [
+		"convenience",
+		"facility",
+		"excrement",
+		"feces",
+		"letter",
+		"chance"
+	],
 	"keyword": "convenience",
 	"onyomi": {
-		"frequent": ["ベン", "ビン"],
+		"frequent": [
+			"ベン",
+			"ビン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たよ"],
+		"frequent": [
+			"たよ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["たよ.り"]
+		"okurigana": [
+			"たよ.り"
+		]
 	},
 	"frequency": {
 		"mean": 514,

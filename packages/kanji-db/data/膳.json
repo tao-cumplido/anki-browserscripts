@@ -1,17 +1,31 @@
 {
 	"kanji": "膳",
-	"meanings": ["small low table", "tray"],
+	"meanings": [
+		"small low table",
+		"tray"
+	],
 	"keyword": "dining tray",
 	"onyomi": {
-		"frequent": ["ゼン"],
+		"frequent": [
+			"ゼン"
+		],
 		"common": [],
-		"rare": ["セン"]
+		"rare": [
+			"セン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かしわ", "すす", "そな"],
-		"okurigana": ["すす.める", "そな.える"]
+		"rare": [
+			"かしわ",
+			"すす",
+			"そな"
+		],
+		"okurigana": [
+			"すす.める",
+			"そな.える"
+		]
 	},
 	"frequency": {
 		"mean": 2042,

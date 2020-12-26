@@ -1,16 +1,24 @@
 {
 	"kanji": "砦",
-	"meanings": ["fort", "stronghold", "entrenchments"],
+	"meanings": [
+		"fort",
+		"stronghold",
+		"entrenchments"
+	],
 	"keyword": "fort",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サイ"]
+		"rare": [
+			"サイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とりで"],
+		"rare": [
+			"とりで"
+		],
 		"okurigana": []
 	},
 	"frequency": {

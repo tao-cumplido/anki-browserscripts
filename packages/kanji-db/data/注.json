@@ -1,17 +1,37 @@
 {
 	"kanji": "注",
-	"meanings": ["pour", "irrigate", "shed (tears)", "flow into", "concentrate on", "notes", "comment", "annotate"],
+	"meanings": [
+		"pour",
+		"irrigate",
+		"shed (tears)",
+		"flow into",
+		"concentrate on",
+		"notes",
+		"comment",
+		"annotate"
+	],
 	"keyword": "pour",
 	"onyomi": {
-		"frequent": ["チュウ"],
+		"frequent": [
+			"チュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["そそ"],
+		"frequent": [
+			"そそ"
+		],
 		"common": [],
-		"rare": ["さ", "つ"],
-		"okurigana": ["そそ.ぐ", "さ.す", "つ.ぐ"]
+		"rare": [
+			"さ",
+			"つ"
+		],
+		"okurigana": [
+			"そそ.ぐ",
+			"さ.す",
+			"つ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 219,

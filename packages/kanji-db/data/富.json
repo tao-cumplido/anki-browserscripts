@@ -1,17 +1,30 @@
 {
 	"kanji": "富",
-	"meanings": ["wealth", "enrich", "abundant"],
+	"meanings": [
+		"wealth",
+		"enrich",
+		"abundant"
+	],
 	"keyword": "wealth",
 	"onyomi": {
-		"frequent": ["フ"],
-		"common": ["フウ"],
+		"frequent": [
+			"フ"
+		],
+		"common": [
+			"フウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["と", "とみ"],
+		"frequent": [
+			"と",
+			"とみ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["と.む"]
+		"okurigana": [
+			"と.む"
+		]
 	},
 	"frequency": {
 		"mean": 489,

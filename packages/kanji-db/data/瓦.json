@@ -1,16 +1,25 @@
 {
 	"kanji": "瓦",
-	"meanings": ["tile", "gram"],
+	"meanings": [
+		"tile",
+		"gram"
+	],
 	"keyword": "tile",
 	"onyomi": {
-		"frequent": ["ガ"],
+		"frequent": [
+			"ガ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かわら"],
+		"frequent": [
+			"かわら"
+		],
 		"common": [],
-		"rare": ["ぐらむ"],
+		"rare": [
+			"ぐらむ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

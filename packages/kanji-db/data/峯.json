@@ -1,16 +1,24 @@
 {
 	"kanji": "峯",
-	"meanings": ["peak", "summit"],
+	"meanings": [
+		"peak",
+		"summit"
+	],
 	"keyword": "summit (alternate)",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ホウ"]
+		"rare": [
+			"ホウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みね", "ね"],
+		"rare": [
+			"みね",
+			"ね"
+		],
 		"okurigana": []
 	},
 	"frequency": {

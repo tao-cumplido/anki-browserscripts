@@ -1,17 +1,26 @@
 {
 	"kanji": "九",
-	"meanings": ["nine"],
+	"meanings": [
+		"nine"
+	],
 	"keyword": "nine",
 	"onyomi": {
-		"frequent": ["キュウ", "ク"],
+		"frequent": [
+			"キュウ",
+			"ク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ここの"],
+		"frequent": [
+			"ここの"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ここの.つ"]
+		"okurigana": [
+			"ここの.つ"
+		]
 	},
 	"frequency": {
 		"mean": 553,

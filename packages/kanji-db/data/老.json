@@ -1,17 +1,29 @@
 {
 	"kanji": "老",
-	"meanings": ["old man", "old age", "grow old"],
+	"meanings": [
+		"old man",
+		"old age",
+		"grow old"
+	],
 	"keyword": "old man",
 	"onyomi": {
-		"frequent": ["ロウ"],
+		"frequent": [
+			"ロウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["お", "ふ"],
+		"frequent": [
+			"お",
+			"ふ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["お.いる", "ふ.ける"]
+		"okurigana": [
+			"お.いる",
+			"ふ.ける"
+		]
 	},
 	"frequency": {
 		"mean": 845,

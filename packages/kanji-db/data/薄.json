@@ -1,17 +1,35 @@
 {
 	"kanji": "薄",
-	"meanings": ["dilute", "thin", "weak (tea)", "pampas grass"],
+	"meanings": [
+		"dilute",
+		"thin",
+		"weak (tea)",
+		"pampas grass"
+	],
 	"keyword": "dilute",
 	"onyomi": {
-		"frequent": ["ハク"],
+		"frequent": [
+			"ハク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うす"],
+		"frequent": [
+			"うす"
+		],
 		"common": [],
-		"rare": ["すすき"],
-		"okurigana": ["うす.い", "うす.める", "うす.まる", "うす.らぐ", "うす.ら", "うす.れる"]
+		"rare": [
+			"すすき"
+		],
+		"okurigana": [
+			"うす.い",
+			"うす.める",
+			"うす.まる",
+			"うす.らぐ",
+			"うす.ら",
+			"うす.れる"
+		]
 	},
 	"frequency": {
 		"mean": 1314,

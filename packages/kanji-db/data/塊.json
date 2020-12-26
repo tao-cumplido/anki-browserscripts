@@ -1,16 +1,30 @@
 {
 	"kanji": "塊",
-	"meanings": ["clod", "lump", "chunk", "clot", "mass"],
+	"meanings": [
+		"clod",
+		"lump",
+		"chunk",
+		"clot",
+		"mass"
+	],
 	"keyword": "clod",
 	"onyomi": {
-		"frequent": ["カイ"],
+		"frequent": [
+			"カイ"
+		],
 		"common": [],
-		"rare": ["ケ"]
+		"rare": [
+			"ケ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["かたまり"],
+		"frequent": [
+			"かたまり"
+		],
 		"common": [],
-		"rare": ["つちくれ"],
+		"rare": [
+			"つちくれ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

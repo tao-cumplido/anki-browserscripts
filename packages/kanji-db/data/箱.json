@@ -1,14 +1,24 @@
 {
 	"kanji": "箱",
-	"meanings": ["box", "chest", "case", "bin", "railway car"],
+	"meanings": [
+		"box",
+		"chest",
+		"case",
+		"bin",
+		"railway car"
+	],
 	"keyword": "box",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ"]
+		"rare": [
+			"ソウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["はこ"],
+		"frequent": [
+			"はこ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

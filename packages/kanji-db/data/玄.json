@@ -1,17 +1,29 @@
 {
 	"kanji": "玄",
-	"meanings": ["mysterious", "occultness", "black", "deep", "profound"],
+	"meanings": [
+		"mysterious",
+		"occultness",
+		"black",
+		"deep",
+		"profound"
+	],
 	"keyword": "mysterious",
 	"onyomi": {
-		"frequent": ["ゲン"],
+		"frequent": [
+			"ゲン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くろ"],
-		"okurigana": ["くろ.い"]
+		"rare": [
+			"くろ"
+		],
+		"okurigana": [
+			"くろ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1325,

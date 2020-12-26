@@ -1,0 +1,31 @@
+{
+	"kanji": "辠",
+	"meanings": [
+		"crime",
+		"sin",
+		"vice",
+		"evil",
+		"hardship"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"サイ",
+			"セ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"つみ",
+			"そしる"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

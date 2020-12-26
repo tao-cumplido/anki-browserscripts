@@ -1,17 +1,36 @@
 {
 	"kanji": "蒙",
-	"meanings": ["ignorance", "darkness", "get", "receive", "be subjected to", "sustain", "Mongolia"],
+	"meanings": [
+		"ignorance",
+		"darkness",
+		"get",
+		"receive",
+		"be subjected to",
+		"sustain",
+		"Mongolia"
+	],
 	"keyword": "darken",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["モウ", "ボウ"]
+		"rare": [
+			"モウ",
+			"ボウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こうむ", "おお", "くら"],
-		"okurigana": ["こうむ.る", "おお.う", "くら.い"]
+		"rare": [
+			"こうむ",
+			"おお",
+			"くら"
+		],
+		"okurigana": [
+			"こうむ.る",
+			"おお.う",
+			"くら.い"
+		]
 	},
 	"frequency": {
 		"mean": 2014,

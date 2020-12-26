@@ -1,14 +1,24 @@
 {
 	"kanji": "袋",
-	"meanings": ["sack", "bag", "pouch"],
+	"meanings": [
+		"sack",
+		"bag",
+		"pouch"
+	],
 	"keyword": "sack",
 	"onyomi": {
-		"frequent": ["タイ"],
+		"frequent": [
+			"タイ"
+		],
 		"common": [],
-		"rare": ["ダイ"]
+		"rare": [
+			"ダイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ふくろ"],
+		"frequent": [
+			"ふくろ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

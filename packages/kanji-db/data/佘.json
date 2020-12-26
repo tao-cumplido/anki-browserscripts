@@ -1,9 +1,13 @@
 {
 	"kanji": "佘",
-	"meanings": ["surname"],
+	"meanings": [
+		"surname"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["シャ"],
+		"common": [
+			"シャ"
+		],
 		"rare": []
 	},
 	"frequency": {

@@ -1,17 +1,27 @@
 {
 	"kanji": "呼",
-	"meanings": ["call", "call out to", "invite"],
+	"meanings": [
+		"call",
+		"call out to",
+		"invite"
+	],
 	"keyword": "call",
 	"onyomi": {
-		"frequent": ["コ"],
+		"frequent": [
+			"コ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["よ"],
+		"frequent": [
+			"よ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["よ.ぶ"]
+		"okurigana": [
+			"よ.ぶ"
+		]
 	},
 	"frequency": {
 		"mean": 377,

@@ -1,17 +1,35 @@
 {
 	"kanji": "没",
-	"meanings": ["drown", "sink", "hide", "fall into", "disappear", "die"],
+	"meanings": [
+		"drown",
+		"sink",
+		"hide",
+		"fall into",
+		"disappear",
+		"die"
+	],
 	"keyword": "drown",
 	"onyomi": {
-		"frequent": ["ボツ"],
+		"frequent": [
+			"ボツ"
+		],
 		"common": [],
-		"rare": ["モツ"]
+		"rare": [
+			"モツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おぼ", "しず", "ない"],
-		"okurigana": ["おぼ.れる", "しず.む"]
+		"rare": [
+			"おぼ",
+			"しず",
+			"ない"
+		],
+		"okurigana": [
+			"おぼ.れる",
+			"しず.む"
+		]
 	},
 	"frequency": {
 		"mean": 518,

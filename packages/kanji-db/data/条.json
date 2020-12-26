@@ -1,16 +1,32 @@
 {
 	"kanji": "条",
-	"meanings": ["article", "clause", "counter for articles, clauses, paragraphs, etc.", "twig", "item", "stripe", "streak"],
+	"meanings": [
+		"article",
+		"clause",
+		"counter for articles, clauses, paragraphs, etc.",
+		"twig",
+		"item",
+		"stripe",
+		"streak"
+	],
 	"keyword": "twig",
 	"onyomi": {
-		"frequent": ["ジョウ"],
+		"frequent": [
+			"ジョウ"
+		],
 		"common": [],
-		"rare": ["チョウ", "デキ"]
+		"rare": [
+			"チョウ",
+			"デキ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["えだ", "すじ"],
+		"rare": [
+			"えだ",
+			"すじ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

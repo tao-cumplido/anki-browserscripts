@@ -1,14 +1,22 @@
 {
 	"kanji": "坂",
-	"meanings": ["slope", "incline", "hill"],
+	"meanings": [
+		"slope",
+		"incline",
+		"hill"
+	],
 	"keyword": "slope",
 	"onyomi": {
-		"frequent": ["ハン"],
+		"frequent": [
+			"ハン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さか"],
+		"frequent": [
+			"さか"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

@@ -1,17 +1,34 @@
 {
 	"kanji": "訓",
-	"meanings": ["instruction", "Japanese character reading", "explanation", "read"],
+	"meanings": [
+		"instruction",
+		"Japanese character reading",
+		"explanation",
+		"read"
+	],
 	"keyword": "instruction",
 	"onyomi": {
-		"frequent": ["クン"],
+		"frequent": [
+			"クン"
+		],
 		"common": [],
-		"rare": ["キン"]
+		"rare": [
+			"キン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おし", "よ", "くん"],
-		"okurigana": ["おし.える", "よ.む", "くん.ずる"]
+		"rare": [
+			"おし",
+			"よ",
+			"くん"
+		],
+		"okurigana": [
+			"おし.える",
+			"よ.む",
+			"くん.ずる"
+		]
 	},
 	"frequency": {
 		"mean": 1138,

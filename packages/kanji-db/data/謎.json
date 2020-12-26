@@ -1,14 +1,25 @@
 {
 	"kanji": "謎",
-	"meanings": ["riddle", "puzzle", "enigma", "hint", "tip"],
+	"meanings": [
+		"riddle",
+		"puzzle",
+		"enigma",
+		"hint",
+		"tip"
+	],
 	"keyword": "riddle",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["メイ", "ベイ"]
+		"rare": [
+			"メイ",
+			"ベイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["なぞ"],
+		"frequent": [
+			"なぞ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

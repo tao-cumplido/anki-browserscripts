@@ -1,0 +1,31 @@
+{
+	"kanji": "嗃",
+	"meanings": [
+		"flute"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"コウ",
+			"キョウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"きび",
+			"こえ",
+			"せ"
+		],
+		"rare": [],
+		"okurigana": [
+			"きび.しい",
+			"せ.める"
+		]
+	},
+	"frequency": {
+		"mean": 4539,
+		"wikipedia": 4230
+	}
+}

@@ -1,17 +1,26 @@
 {
 	"kanji": "漂",
-	"meanings": ["drift", "float (on liquid)"],
+	"meanings": [
+		"drift",
+		"float (on liquid)"
+	],
 	"keyword": "drift",
 	"onyomi": {
-		"frequent": ["ヒョウ"],
+		"frequent": [
+			"ヒョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ただよ"],
+		"frequent": [
+			"ただよ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ただよ.う"]
+		"okurigana": [
+			"ただよ.う"
+		]
 	},
 	"frequency": {
 		"mean": 2009,

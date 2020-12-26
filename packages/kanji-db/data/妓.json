@@ -1,16 +1,27 @@
 {
 	"kanji": "妓",
-	"meanings": ["stretch", "singing girl", "geisha", "prostitute"],
+	"meanings": [
+		"stretch",
+		"singing girl",
+		"geisha",
+		"prostitute"
+	],
 	"keyword": "courtesan",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ギ", "キ"]
+		"rare": [
+			"ギ",
+			"キ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["わざおぎ", "うたいめ"],
+		"rare": [
+			"わざおぎ",
+			"うたいめ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

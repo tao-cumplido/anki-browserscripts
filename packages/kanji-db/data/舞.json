@@ -1,17 +1,30 @@
 {
 	"kanji": "舞",
-	"meanings": ["dance", "flit", "circle", "wheel"],
+	"meanings": [
+		"dance",
+		"flit",
+		"circle",
+		"wheel"
+	],
 	"keyword": "dance",
 	"onyomi": {
-		"frequent": ["ブ"],
+		"frequent": [
+			"ブ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ま"],
+		"frequent": [
+			"ま"
+		],
 		"common": [],
-		"rare": ["まい"],
-		"okurigana": ["ま.う"]
+		"rare": [
+			"まい"
+		],
+		"okurigana": [
+			"ま.う"
+		]
 	},
 	"frequency": {
 		"mean": 610,

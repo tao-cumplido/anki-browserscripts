@@ -1,17 +1,34 @@
 {
 	"kanji": "焚",
-	"meanings": ["burn", "kindle", "build a fire", "boil", "cook"],
+	"meanings": [
+		"burn",
+		"kindle",
+		"build a fire",
+		"boil",
+		"cook"
+	],
 	"keyword": "kindle",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フン", "ホン", "ハン"]
+		"rare": [
+			"フン",
+			"ホン",
+			"ハン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["た", "や", "やきがり"],
-		"okurigana": ["た.く", "や.く"]
+		"rare": [
+			"た",
+			"や",
+			"やきがり"
+		],
+		"okurigana": [
+			"た.く",
+			"や.く"
+		]
 	},
 	"frequency": {
 		"mean": 2618,

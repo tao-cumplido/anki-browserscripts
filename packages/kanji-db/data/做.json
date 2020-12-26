@@ -1,17 +1,29 @@
 {
 	"kanji": "做",
-	"meanings": ["make"],
+	"meanings": [
+		"make"
+	],
 	"keyword": "make do",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サ", "サク", "ソ"]
+		"rare": [
+			"サ",
+			"サク",
+			"ソ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["な", "つく"],
-		"okurigana": ["な.す", "つく.る"]
+		"rare": [
+			"な",
+			"つく"
+		],
+		"okurigana": [
+			"な.す",
+			"つく.る"
+		]
 	},
 	"frequency": {
 		"mean": 2823,

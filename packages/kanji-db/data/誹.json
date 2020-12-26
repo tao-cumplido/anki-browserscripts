@@ -1,17 +1,27 @@
 {
 	"kanji": "誹",
-	"meanings": ["ridicule", "slander"],
+	"meanings": [
+		"ridicule",
+		"slander"
+	],
 	"keyword": "slander",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒ", "ハイ"]
+		"rare": [
+			"ヒ",
+			"ハイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["そし"],
-		"okurigana": ["そし.る"]
+		"rare": [
+			"そし"
+		],
+		"okurigana": [
+			"そし.る"
+		]
 	},
 	"frequency": {
 		"mean": 2916,

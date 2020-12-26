@@ -1,16 +1,27 @@
 {
 	"kanji": "粉",
-	"meanings": ["flour", "powder", "dust"],
+	"meanings": [
+		"flour",
+		"powder",
+		"dust"
+	],
 	"keyword": "flour",
 	"onyomi": {
-		"frequent": ["フン"],
+		"frequent": [
+			"フン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こ", "こな"],
+		"frequent": [
+			"こ",
+			"こな"
+		],
 		"common": [],
-		"rare": ["デシメートル"],
+		"rare": [
+			"デシメートル"
+		],
 		"okurigana": []
 	},
 	"frequency": {

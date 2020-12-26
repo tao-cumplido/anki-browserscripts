@@ -1,15 +1,22 @@
 {
 	"kanji": "倪",
-	"meanings": ["stare"],
+	"meanings": [
+		"stare"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ゲイ", "ガイ"]
+		"rare": [
+			"ゲイ",
+			"ガイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きわ"],
+		"rare": [
+			"きわ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

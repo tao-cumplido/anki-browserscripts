@@ -1,17 +1,29 @@
 {
 	"kanji": "鎖",
-	"meanings": ["chain", "irons", "connection"],
+	"meanings": [
+		"chain",
+		"irons",
+		"connection"
+	],
 	"keyword": "chain",
 	"onyomi": {
-		"frequent": ["サ"],
+		"frequent": [
+			"サ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くさり"],
+		"frequent": [
+			"くさり"
+		],
 		"common": [],
-		"rare": ["とざ"],
-		"okurigana": ["とざ.す"]
+		"rare": [
+			"とざ"
+		],
+		"okurigana": [
+			"とざ.す"
+		]
 	},
 	"frequency": {
 		"mean": 1347,

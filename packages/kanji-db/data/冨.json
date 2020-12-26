@@ -1,16 +1,28 @@
 {
 	"kanji": "冨",
-	"meanings": ["enrich", "wealthy", "abundant"],
+	"meanings": [
+		"enrich",
+		"wealthy",
+		"abundant"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["フ", "フウ"]
+		"rare": [
+			"フ",
+			"フウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["と", "とみ"],
-		"okurigana": ["と.む"]
+		"rare": [
+			"と",
+			"とみ"
+		],
+		"okurigana": [
+			"と.む"
+		]
 	},
 	"frequency": {
 		"mean": 1984,

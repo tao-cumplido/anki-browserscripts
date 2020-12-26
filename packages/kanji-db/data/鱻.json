@@ -1,0 +1,32 @@
+{
+	"kanji": "鱻",
+	"meanings": [
+		"fresh",
+		"new",
+		"delicious",
+		"rare",
+		"few"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"セン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"あたらしい",
+			"すく"
+		],
+		"rare": [],
+		"okurigana": [
+			"すく.ない"
+		]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

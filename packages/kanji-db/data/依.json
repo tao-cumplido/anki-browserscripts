@@ -1,17 +1,31 @@
 {
 	"kanji": "依",
-	"meanings": ["reliant", "depend on", "consequently", "therefore", "due to"],
+	"meanings": [
+		"reliant",
+		"depend on",
+		"consequently",
+		"therefore",
+		"due to"
+	],
 	"keyword": "reliant",
 	"onyomi": {
-		"frequent": ["イ"],
-		"common": ["エ"],
+		"frequent": [
+			"イ"
+		],
+		"common": [
+			"エ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["よ"],
-		"okurigana": ["よ.る"]
+		"rare": [
+			"よ"
+		],
+		"okurigana": [
+			"よ.る"
+		]
 	},
 	"frequency": {
 		"mean": 116,

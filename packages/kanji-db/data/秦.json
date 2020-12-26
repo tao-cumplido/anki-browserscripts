@@ -1,16 +1,23 @@
 {
 	"kanji": "秦",
-	"meanings": ["Manchu dynasty", "name given to naturalized foreigners"],
+	"meanings": [
+		"Manchu dynasty",
+		"name given to naturalized foreigners"
+	],
 	"keyword": "Manchu dynasty",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シン"]
+		"rare": [
+			"シン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はた"],
+		"rare": [
+			"はた"
+		],
 		"okurigana": []
 	},
 	"frequency": {

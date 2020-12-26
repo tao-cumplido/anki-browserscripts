@@ -1,16 +1,32 @@
 {
 	"kanji": "道",
-	"meanings": ["road-way", "street", "district", "journey", "course", "moral", "teachings"],
+	"meanings": [
+		"road-way",
+		"street",
+		"district",
+		"journey",
+		"course",
+		"moral",
+		"teachings"
+	],
 	"keyword": "road-way",
 	"onyomi": {
-		"frequent": ["ドウ"],
-		"common": ["トウ"],
+		"frequent": [
+			"ドウ"
+		],
+		"common": [
+			"トウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みち"],
+		"frequent": [
+			"みち"
+		],
 		"common": [],
-		"rare": ["いう"],
+		"rare": [
+			"いう"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,27 @@
 {
 	"kanji": "研",
-	"meanings": ["polish", "study of", "sharpen"],
+	"meanings": [
+		"polish",
+		"study of",
+		"sharpen"
+	],
 	"keyword": "polish",
 	"onyomi": {
-		"frequent": ["ケン"],
+		"frequent": [
+			"ケン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["と"],
+		"frequent": [
+			"と"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["と.ぐ"]
+		"okurigana": [
+			"と.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 302,

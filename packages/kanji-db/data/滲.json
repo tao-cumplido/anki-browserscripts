@@ -1,17 +1,27 @@
 {
 	"kanji": "滲",
-	"meanings": ["imbued with"],
+	"meanings": [
+		"imbued with"
+	],
 	"keyword": "seep",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シン"]
+		"rare": [
+			"シン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["し", "にじ"],
-		"okurigana": ["し.みる", "にじ.む"]
+		"rare": [
+			"し",
+			"にじ"
+		],
+		"okurigana": [
+			"し.みる",
+			"にじ.む"
+		]
 	},
 	"frequency": {
 		"mean": 3371,

@@ -1,16 +1,24 @@
 {
 	"kanji": "匠",
-	"meanings": ["artisan", "workman", "carpenter"],
+	"meanings": [
+		"artisan",
+		"workman",
+		"carpenter"
+	],
 	"keyword": "artisan",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たくみ"],
+		"rare": [
+			"たくみ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

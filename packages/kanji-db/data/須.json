@@ -1,17 +1,36 @@
 {
 	"kanji": "須",
-	"meanings": ["ought", "by all means", "necessarily"],
+	"meanings": [
+		"ought",
+		"by all means",
+		"necessarily"
+	],
 	"keyword": "ought",
 	"onyomi": {
-		"frequent": ["ス"],
+		"frequent": [
+			"ス"
+		],
 		"common": [],
-		"rare": ["シュ"]
+		"rare": [
+			"シュ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["すべから", "すべし", "ひげ", "まつ", "もち", "もと"],
-		"okurigana": ["すべから.く", "もち.いる", "もと.める"]
+		"rare": [
+			"すべから",
+			"すべし",
+			"ひげ",
+			"まつ",
+			"もち",
+			"もと"
+		],
+		"okurigana": [
+			"すべから.く",
+			"もち.いる",
+			"もと.める"
+		]
 	},
 	"frequency": {
 		"mean": 931,

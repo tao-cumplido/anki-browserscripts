@@ -1,17 +1,33 @@
 {
 	"kanji": "蔑",
-	"meanings": ["ignore", "despise", "neglect", "ridicule"],
+	"meanings": [
+		"ignore",
+		"despise",
+		"neglect",
+		"ridicule"
+	],
 	"keyword": "revile",
 	"onyomi": {
-		"frequent": ["ベツ"],
+		"frequent": [
+			"ベツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["さげす"],
+		"frequent": [
+			"さげす"
+		],
 		"common": [],
-		"rare": ["ないがしろ", "なみ", "くらい"],
-		"okurigana": ["なみ.する", "さげす.む"]
+		"rare": [
+			"ないがしろ",
+			"なみ",
+			"くらい"
+		],
+		"okurigana": [
+			"なみ.する",
+			"さげす.む"
+		]
 	},
 	"frequency": {
 		"mean": 2286,

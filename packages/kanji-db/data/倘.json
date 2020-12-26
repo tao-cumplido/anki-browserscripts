@@ -1,16 +1,29 @@
 {
 	"kanji": "倘",
-	"meanings": ["if", "supposing", "in event of", "dullness"],
+	"meanings": [
+		"if",
+		"supposing",
+		"in event of",
+		"dullness"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ショウ", "トウ"],
+		"common": [
+			"ショウ",
+			"トウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["もし", "たちもとお"],
+		"common": [
+			"もし",
+			"たちもとお"
+		],
 		"rare": [],
-		"okurigana": ["たちもとお.る"]
+		"okurigana": [
+			"たちもとお.る"
+		]
 	},
 	"frequency": {
 		"mean": 4535,

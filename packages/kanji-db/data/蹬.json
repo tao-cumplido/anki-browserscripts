@@ -1,0 +1,29 @@
+{
+	"kanji": "蹬",
+	"meanings": [
+		"step on",
+		"tread on",
+		"lose energy"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"トウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"よろめ"
+		],
+		"rare": [],
+		"okurigana": [
+			"よろめ.く"
+		]
+	},
+	"frequency": {
+		"mean": 4534,
+		"wikipedia": 4225
+	}
+}

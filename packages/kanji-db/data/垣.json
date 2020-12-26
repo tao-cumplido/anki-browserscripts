@@ -1,14 +1,22 @@
 {
 	"kanji": "垣",
-	"meanings": ["hedge", "fence", "wall"],
+	"meanings": [
+		"hedge",
+		"fence",
+		"wall"
+	],
 	"keyword": "hedge",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["エン"]
+		"rare": [
+			"エン"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["かき"],
+		"frequent": [
+			"かき"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

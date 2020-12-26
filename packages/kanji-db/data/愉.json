@@ -1,17 +1,28 @@
 {
 	"kanji": "愉",
-	"meanings": ["pleasure", "happy", "rejoice"],
+	"meanings": [
+		"pleasure",
+		"happy",
+		"rejoice"
+	],
 	"keyword": "pleasure",
 	"onyomi": {
-		"frequent": ["ユ"],
+		"frequent": [
+			"ユ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たの"],
-		"okurigana": ["たの.しい", "たの.しむ"]
+		"rare": [
+			"たの"
+		],
+		"okurigana": [
+			"たの.しい",
+			"たの.しむ"
+		]
 	},
 	"frequency": {
 		"mean": 2241,

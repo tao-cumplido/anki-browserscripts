@@ -1,17 +1,33 @@
 {
 	"kanji": "尊",
-	"meanings": ["revered", "valuable", "precious", "noble", "exalted"],
+	"meanings": [
+		"revered",
+		"valuable",
+		"precious",
+		"noble",
+		"exalted"
+	],
 	"keyword": "revered",
 	"onyomi": {
-		"frequent": ["ソン"],
+		"frequent": [
+			"ソン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たっと", "とうと"],
+		"frequent": [
+			"たっと",
+			"とうと"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["たっと.い", "とうと.い", "たっと.ぶ", "とうと.ぶ"]
+		"okurigana": [
+			"たっと.い",
+			"とうと.い",
+			"たっと.ぶ",
+			"とうと.ぶ"
+		]
 	},
 	"frequency": {
 		"mean": 1211,

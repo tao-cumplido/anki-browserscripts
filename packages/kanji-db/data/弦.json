@@ -1,14 +1,22 @@
 {
 	"kanji": "弦",
-	"meanings": ["bowstring", "chord", "hypotenuse"],
+	"meanings": [
+		"bowstring",
+		"chord",
+		"hypotenuse"
+	],
 	"keyword": "bowstring",
 	"onyomi": {
-		"frequent": ["ゲン"],
+		"frequent": [
+			"ゲン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つる"],
+		"frequent": [
+			"つる"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

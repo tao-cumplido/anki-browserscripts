@@ -1,16 +1,23 @@
 {
 	"kanji": "晟",
-	"meanings": ["clear"],
+	"meanings": [
+		"clear"
+	],
 	"keyword": "aglow",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["セイ", "ジョウ"]
+		"rare": [
+			"セイ",
+			"ジョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あきらか"],
+		"rare": [
+			"あきらか"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,14 +1,20 @@
 {
 	"kanji": "島",
-	"meanings": ["island"],
+	"meanings": [
+		"island"
+	],
 	"keyword": "island",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["しま"],
+		"frequent": [
+			"しま"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

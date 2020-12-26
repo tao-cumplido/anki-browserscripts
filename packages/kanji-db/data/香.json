@@ -1,17 +1,31 @@
 {
 	"kanji": "香",
-	"meanings": ["incense", "smell", "perfume"],
+	"meanings": [
+		"incense",
+		"smell",
+		"perfume"
+	],
 	"keyword": "incense",
 	"onyomi": {
-		"frequent": ["コウ"],
-		"common": ["キョウ"],
+		"frequent": [
+			"コウ"
+		],
+		"common": [
+			"キョウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["か", "かお"],
+		"frequent": [
+			"か",
+			"かお"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かお.り", "かお.る"]
+		"okurigana": [
+			"かお.り",
+			"かお.る"
+		]
 	},
 	"frequency": {
 		"mean": 554,

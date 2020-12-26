@@ -1,16 +1,22 @@
 {
 	"kanji": "黍",
-	"meanings": ["millet"],
+	"meanings": [
+		"millet"
+	],
 	"keyword": "millet",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショ"]
+		"rare": [
+			"ショ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きび"],
+		"rare": [
+			"きび"
+		],
 		"okurigana": []
 	},
 	"frequency": {

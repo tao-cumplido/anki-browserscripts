@@ -1,17 +1,29 @@
 {
 	"kanji": "潔",
-	"meanings": ["undefiled", "pure", "clean", "righteous", "gallant"],
+	"meanings": [
+		"undefiled",
+		"pure",
+		"clean",
+		"righteous",
+		"gallant"
+	],
 	"keyword": "undefiled",
 	"onyomi": {
-		"frequent": ["ケツ"],
+		"frequent": [
+			"ケツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いさぎよ"],
+		"frequent": [
+			"いさぎよ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["いさぎよ.い"]
+		"okurigana": [
+			"いさぎよ.い"
+		]
 	},
 	"frequency": {
 		"mean": 1877,

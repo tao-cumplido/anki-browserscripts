@@ -1,17 +1,40 @@
 {
 	"kanji": "発",
-	"meanings": ["departure", "discharge", "publish", "emit", "start from", "disclose", "counter for gunshots"],
+	"meanings": [
+		"departure",
+		"discharge",
+		"publish",
+		"emit",
+		"start from",
+		"disclose",
+		"counter for gunshots"
+	],
 	"keyword": "discharge",
 	"onyomi": {
-		"frequent": ["ハツ", "ホツ"],
+		"frequent": [
+			"ハツ",
+			"ホツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["た", "あば", "おこ", "つか", "はな"],
-		"okurigana": ["た.つ", "あば.く", "おこ.る", "つか.わす", "はな.つ"]
+		"rare": [
+			"た",
+			"あば",
+			"おこ",
+			"つか",
+			"はな"
+		],
+		"okurigana": [
+			"た.つ",
+			"あば.く",
+			"おこ.る",
+			"つか.わす",
+			"はな.つ"
+		]
 	},
 	"frequency": {
 		"mean": 46,

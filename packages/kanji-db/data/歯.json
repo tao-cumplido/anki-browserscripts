@@ -1,17 +1,30 @@
 {
 	"kanji": "歯",
-	"meanings": ["tooth", "cog"],
+	"meanings": [
+		"tooth",
+		"cog"
+	],
 	"keyword": "tooth",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["は"],
+		"frequent": [
+			"は"
+		],
 		"common": [],
-		"rare": ["よわい", "よわ"],
-		"okurigana": ["よわ.い", "よわい.する"]
+		"rare": [
+			"よわい",
+			"よわ"
+		],
+		"okurigana": [
+			"よわ.い",
+			"よわい.する"
+		]
 	},
 	"frequency": {
 		"mean": 1170,

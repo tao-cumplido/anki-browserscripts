@@ -1,16 +1,23 @@
 {
 	"kanji": "瓢",
-	"meanings": ["gourd"],
+	"meanings": [
+		"gourd"
+	],
 	"keyword": "gourd",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヒョウ"]
+		"rare": [
+			"ヒョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ひさご", "ふくべ"],
+		"rare": [
+			"ひさご",
+			"ふくべ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,16 +1,23 @@
 {
 	"kanji": "鰻",
-	"meanings": ["eel"],
+	"meanings": [
+		"eel"
+	],
 	"keyword": "eel",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["マン", "バン"]
+		"rare": [
+			"マン",
+			"バン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["うなぎ"],
+		"rare": [
+			"うなぎ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

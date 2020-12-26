@@ -1,17 +1,28 @@
 {
 	"kanji": "白",
-	"meanings": ["white"],
+	"meanings": [
+		"white"
+	],
 	"keyword": "white",
 	"onyomi": {
-		"frequent": ["ハク", "ビャク"],
+		"frequent": [
+			"ハク",
+			"ビャク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["しろ"],
-		"common": ["しら"],
+		"frequent": [
+			"しろ"
+		],
+		"common": [
+			"しら"
+		],
 		"rare": [],
-		"okurigana": ["しろ.い"]
+		"okurigana": [
+			"しろ.い"
+		]
 	},
 	"frequency": {
 		"mean": 325,

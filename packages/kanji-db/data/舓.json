@@ -1,0 +1,35 @@
+{
+	"kanji": "舓",
+	"meanings": [
+		"to lick",
+		"to lap up",
+		"to burn up",
+		"to taste",
+		"to undergo",
+		"to underrate",
+		"to despise"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"シ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ねぶ",
+			"な"
+		],
+		"rare": [],
+		"okurigana": [
+			"ねぶ.る",
+			"な.める"
+		]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

@@ -1,17 +1,27 @@
 {
 	"kanji": "同",
-	"meanings": ["same", "agree", "equal"],
+	"meanings": [
+		"same",
+		"agree",
+		"equal"
+	],
 	"keyword": "same",
 	"onyomi": {
-		"frequent": ["ドウ"],
+		"frequent": [
+			"ドウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おな"],
+		"frequent": [
+			"おな"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おな.じ"]
+		"okurigana": [
+			"おな.じ"
+		]
 	},
 	"frequency": {
 		"mean": 60,

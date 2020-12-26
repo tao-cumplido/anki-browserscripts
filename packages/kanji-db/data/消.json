@@ -1,17 +1,31 @@
 {
 	"kanji": "消",
-	"meanings": ["extinguish", "blow out", "turn off", "neutralize", "cancel"],
+	"meanings": [
+		"extinguish",
+		"blow out",
+		"turn off",
+		"neutralize",
+		"cancel"
+	],
 	"keyword": "extinguish",
 	"onyomi": {
-		"frequent": ["ショウ"],
+		"frequent": [
+			"ショウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["き", "け"],
+		"frequent": [
+			"き",
+			"け"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["き.える", "け.す"]
+		"okurigana": [
+			"き.える",
+			"け.す"
+		]
 	},
 	"frequency": {
 		"mean": 557,

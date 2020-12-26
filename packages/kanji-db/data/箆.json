@@ -1,16 +1,26 @@
 {
 	"kanji": "箆",
-	"meanings": ["spatula", "arrow shaft"],
+	"meanings": [
+		"spatula",
+		"arrow shaft"
+	],
 	"keyword": "spatula",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ヘイ", "ハイ"]
+		"rare": [
+			"ヘイ",
+			"ハイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["へら", "の", "くし"],
+		"rare": [
+			"へら",
+			"の",
+			"くし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

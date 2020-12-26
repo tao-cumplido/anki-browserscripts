@@ -1,17 +1,33 @@
 {
 	"kanji": "姦",
-	"meanings": ["wicked", "mischief", "seduce", "rape", "noisy"],
+	"meanings": [
+		"wicked",
+		"mischief",
+		"seduce",
+		"rape",
+		"noisy"
+	],
 	"keyword": "violate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カン", "ケン"]
+		"rare": [
+			"カン",
+			"ケン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かん", "かしま", "みだら"],
-		"okurigana": ["かん.する", "かしま.しい"]
+		"rare": [
+			"かん",
+			"かしま",
+			"みだら"
+		],
+		"okurigana": [
+			"かん.する",
+			"かしま.しい"
+		]
 	},
 	"frequency": {
 		"mean": 2178,

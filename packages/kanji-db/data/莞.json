@@ -1,16 +1,23 @@
 {
 	"kanji": "莞",
-	"meanings": ["smiling", "reed used to cover tatami"],
+	"meanings": [
+		"smiling",
+		"reed used to cover tatami"
+	],
 	"keyword": "candle rush",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["カン"]
+		"rare": [
+			"カン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["い"],
+		"rare": [
+			"い"
+		],
 		"okurigana": []
 	},
 	"frequency": {

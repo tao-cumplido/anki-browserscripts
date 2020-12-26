@@ -1,17 +1,30 @@
 {
 	"kanji": "頌",
-	"meanings": ["eulogy"],
+	"meanings": [
+		"eulogy"
+	],
 	"keyword": "accolade",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ", "ジュ", "ヨウ"]
+		"rare": [
+			"ショウ",
+			"ジュ",
+			"ヨウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かたち", "たた", "ほめ"],
-		"okurigana": ["たた.える", "ほめ.る"]
+		"rare": [
+			"かたち",
+			"たた",
+			"ほめ"
+		],
+		"okurigana": [
+			"たた.える",
+			"ほめ.る"
+		]
 	},
 	"frequency": {
 		"mean": 3030,

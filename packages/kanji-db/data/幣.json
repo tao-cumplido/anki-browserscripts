@@ -1,16 +1,28 @@
 {
 	"kanji": "幣",
-	"meanings": ["cash", "bad habit", "humble prefix", "gift", "Shinto offerings of cloth", "rope", "cut paper"],
+	"meanings": [
+		"cash",
+		"bad habit",
+		"humble prefix",
+		"gift",
+		"Shinto offerings of cloth",
+		"rope",
+		"cut paper"
+	],
 	"keyword": "cash",
 	"onyomi": {
-		"frequent": ["ヘイ"],
+		"frequent": [
+			"ヘイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ぬさ"],
+		"rare": [
+			"ぬさ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

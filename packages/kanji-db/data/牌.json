@@ -1,16 +1,26 @@
 {
 	"kanji": "牌",
-	"meanings": ["label", "signboard", "medal", "mahjong tiles"],
+	"meanings": [
+		"label",
+		"signboard",
+		"medal",
+		"mahjong tiles"
+	],
 	"keyword": "mahjong tiles",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハイ"]
+		"rare": [
+			"ハイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ぱい", "ふだ"],
+		"rare": [
+			"ぱい",
+			"ふだ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

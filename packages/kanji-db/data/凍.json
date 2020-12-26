@@ -1,17 +1,35 @@
 {
 	"kanji": "凍",
-	"meanings": ["frozen", "congeal", "refrigerate"],
+	"meanings": [
+		"frozen",
+		"congeal",
+		"refrigerate"
+	],
 	"keyword": "frozen",
 	"onyomi": {
-		"frequent": ["トウ"],
+		"frequent": [
+			"トウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["こお", "こご"],
+		"frequent": [
+			"こお",
+			"こご"
+		],
 		"common": [],
-		"rare": ["い", "し"],
-		"okurigana": ["こお.る", "こご.える", "こご.る", "い.てる", "し.みる"]
+		"rare": [
+			"い",
+			"し"
+		],
+		"okurigana": [
+			"こお.る",
+			"こご.える",
+			"こご.る",
+			"い.てる",
+			"し.みる"
+		]
 	},
 	"frequency": {
 		"mean": 1819,

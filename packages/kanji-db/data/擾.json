@@ -1,17 +1,29 @@
 {
 	"kanji": "擾",
-	"meanings": ["disturb", "throw into confusion"],
+	"meanings": [
+		"disturb",
+		"throw into confusion"
+	],
 	"keyword": "commotion",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ジョウ"]
+		"rare": [
+			"ジョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["みだ", "わずら"],
-		"okurigana": ["みだ.れる", "みだ.す", "わずら.わしい"]
+		"rare": [
+			"みだ",
+			"わずら"
+		],
+		"okurigana": [
+			"みだ.れる",
+			"みだ.す",
+			"わずら.わしい"
+		]
 	},
 	"frequency": {
 		"mean": 3206,

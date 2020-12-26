@@ -1,17 +1,26 @@
 {
 	"kanji": "隣",
-	"meanings": ["neighboring"],
+	"meanings": [
+		"neighboring"
+	],
 	"keyword": "neighboring",
 	"onyomi": {
-		"frequent": ["リン"],
+		"frequent": [
+			"リン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["とな", "となり"],
+		"frequent": [
+			"とな",
+			"となり"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["とな.る"]
+		"okurigana": [
+			"とな.る"
+		]
 	},
 	"frequency": {
 		"mean": 952,

@@ -1,17 +1,29 @@
 {
 	"kanji": "次",
-	"meanings": ["next", "order", "sequence"],
+	"meanings": [
+		"next",
+		"order",
+		"sequence"
+	],
 	"keyword": "next",
 	"onyomi": {
-		"frequent": ["ジ", "シ"],
+		"frequent": [
+			"ジ",
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つ", "つぎ"],
+		"frequent": [
+			"つ",
+			"つぎ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["つ.ぐ"]
+		"okurigana": [
+			"つ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 204,

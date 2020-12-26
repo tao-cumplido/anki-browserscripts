@@ -1,16 +1,22 @@
 {
 	"kanji": "肉",
-	"meanings": ["meat"],
+	"meanings": [
+		"meat"
+	],
 	"keyword": "meat",
 	"onyomi": {
-		"frequent": ["ニク"],
+		"frequent": [
+			"ニク"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しし"],
+		"rare": [
+			"しし"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,17 +1,28 @@
 {
 	"kanji": "脩",
-	"meanings": ["dried meat"],
+	"meanings": [
+		"dried meat"
+	],
 	"keyword": "dried meat",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["シュウ"]
+		"rare": [
+			"シュウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おさ", "なが", "ほじし"],
-		"okurigana": ["おさ.める", "なが.い"]
+		"rare": [
+			"おさ",
+			"なが",
+			"ほじし"
+		],
+		"okurigana": [
+			"おさ.める",
+			"なが.い"
+		]
 	},
 	"frequency": {
 		"mean": 2694,

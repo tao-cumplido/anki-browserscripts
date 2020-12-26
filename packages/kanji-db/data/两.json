@@ -1,16 +1,29 @@
 {
 	"kanji": "两",
-	"meanings": ["two", "both", "pair", "couple", "ounce"],
+	"meanings": [
+		"two",
+		"both",
+		"pair",
+		"couple",
+		"ounce"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["リョウ"],
+		"common": [
+			"リョウ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["て", "ふたつ"],
+		"common": [
+			"て",
+			"ふたつ"
+		],
 		"rare": [],
-		"okurigana": ["て.る"]
+		"okurigana": [
+			"て.る"
+		]
 	},
 	"frequency": {
 		"mean": 4366,

@@ -1,9 +1,16 @@
 {
 	"kanji": "凶",
-	"meanings": ["villain", "evil", "bad luck", "disaster"],
+	"meanings": [
+		"villain",
+		"evil",
+		"bad luck",
+		"disaster"
+	],
 	"keyword": "villain",
 	"onyomi": {
-		"frequent": ["キョウ"],
+		"frequent": [
+			"キョウ"
+		],
 		"common": [],
 		"rare": []
 	},

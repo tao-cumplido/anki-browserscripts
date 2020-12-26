@@ -1,14 +1,24 @@
 {
 	"kanji": "縦",
-	"meanings": ["vertical", "length", "height", "self-indulgent", "wayward"],
+	"meanings": [
+		"vertical",
+		"length",
+		"height",
+		"self-indulgent",
+		"wayward"
+	],
 	"keyword": "vertical",
 	"onyomi": {
-		"frequent": ["ジュウ"],
+		"frequent": [
+			"ジュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["たて"],
+		"frequent": [
+			"たて"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

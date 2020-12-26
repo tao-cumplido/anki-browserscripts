@@ -1,16 +1,23 @@
 {
 	"kanji": "橿",
-	"meanings": ["oak"],
+	"meanings": [
+		"oak"
+	],
 	"keyword": "sturdy oak",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["キョウ"]
+		"rare": [
+			"キョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かし", "もちのき"],
+		"rare": [
+			"かし",
+			"もちのき"
+		],
 		"okurigana": []
 	},
 	"frequency": {

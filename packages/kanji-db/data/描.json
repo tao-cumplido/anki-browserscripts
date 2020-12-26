@@ -1,17 +1,31 @@
 {
 	"kanji": "描",
-	"meanings": ["sketch", "compose", "write", "draw", "paint"],
+	"meanings": [
+		"sketch",
+		"compose",
+		"write",
+		"draw",
+		"paint"
+	],
 	"keyword": "sketch",
 	"onyomi": {
-		"frequent": ["ビョウ"],
+		"frequent": [
+			"ビョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["えが", "か"],
+		"frequent": [
+			"えが",
+			"か"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["えが.く", "か.く"]
+		"okurigana": [
+			"えが.く",
+			"か.く"
+		]
 	},
 	"frequency": {
 		"mean": 811,

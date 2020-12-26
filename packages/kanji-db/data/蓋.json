@@ -1,17 +1,36 @@
 {
 	"kanji": "蓋",
-	"meanings": ["cover", "lid", "flap"],
+	"meanings": [
+		"cover",
+		"lid",
+		"flap"
+	],
 	"keyword": "lid",
 	"onyomi": {
-		"frequent": ["ガイ"],
+		"frequent": [
+			"ガイ"
+		],
 		"common": [],
-		"rare": ["カイ", "コウ"]
+		"rare": [
+			"カイ",
+			"コウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ふた"],
+		"frequent": [
+			"ふた"
+		],
 		"common": [],
-		"rare": ["けだ", "おお", "かさ", "かこう"],
-		"okurigana": ["けだ.し", "おお.う"]
+		"rare": [
+			"けだ",
+			"おお",
+			"かさ",
+			"かこう"
+		],
+		"okurigana": [
+			"けだ.し",
+			"おお.う"
+		]
 	},
 	"frequency": {
 		"mean": 1796,

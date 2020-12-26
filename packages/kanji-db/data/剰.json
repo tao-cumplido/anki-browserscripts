@@ -1,17 +1,28 @@
 {
 	"kanji": "剰",
-	"meanings": ["surplus", "besides"],
+	"meanings": [
+		"surplus",
+		"besides"
+	],
 	"keyword": "surplus",
 	"onyomi": {
-		"frequent": ["ジョウ"],
+		"frequent": [
+			"ジョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["あまつさえ", "あま"],
-		"okurigana": ["あま.り", "あま.る"]
+		"rare": [
+			"あまつさえ",
+			"あま"
+		],
+		"okurigana": [
+			"あま.り",
+			"あま.る"
+		]
 	},
 	"frequency": {
 		"mean": 1919,

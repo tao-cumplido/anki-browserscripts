@@ -1,17 +1,33 @@
 {
 	"kanji": "趣",
-	"meanings": ["purport", "gist", "elegance", "interest", "proceed to", "tend", "become"],
+	"meanings": [
+		"purport",
+		"gist",
+		"elegance",
+		"interest",
+		"proceed to",
+		"tend",
+		"become"
+	],
 	"keyword": "gist",
 	"onyomi": {
-		"frequent": ["シュ"],
+		"frequent": [
+			"シュ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["おもむき"],
+		"frequent": [
+			"おもむき"
+		],
 		"common": [],
-		"rare": ["おもむ"],
-		"okurigana": ["おもむ.く"]
+		"rare": [
+			"おもむ"
+		],
+		"okurigana": [
+			"おもむ.く"
+		]
 	},
 	"frequency": {
 		"mean": 1342,

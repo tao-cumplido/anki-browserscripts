@@ -1,16 +1,24 @@
 {
 	"kanji": "柴",
-	"meanings": ["brush", "firewood"],
+	"meanings": [
+		"brush",
+		"firewood"
+	],
 	"keyword": "brushwood",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["サイ", "シ"]
+		"rare": [
+			"サイ",
+			"シ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["しば"],
+		"rare": [
+			"しば"
+		],
 		"okurigana": []
 	},
 	"frequency": {

@@ -1,16 +1,28 @@
 {
 	"kanji": "佩",
-	"meanings": ["wear", "put on (a sword)"],
+	"meanings": [
+		"wear",
+		"put on (a sword)"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ハイ"]
+		"rare": [
+			"ハイ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["は", "お", "おびだま"],
-		"okurigana": ["は.く", "お.びる"]
+		"rare": [
+			"は",
+			"お",
+			"おびだま"
+		],
+		"okurigana": [
+			"は.く",
+			"お.びる"
+		]
 	},
 	"frequency": {
 		"mean": 3182,

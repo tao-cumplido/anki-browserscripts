@@ -1,16 +1,23 @@
 {
 	"kanji": "銃",
-	"meanings": ["gun", "arms"],
+	"meanings": [
+		"gun",
+		"arms"
+	],
 	"keyword": "gun",
 	"onyomi": {
-		"frequent": ["ジュウ"],
+		"frequent": [
+			"ジュウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つつ"],
+		"rare": [
+			"つつ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

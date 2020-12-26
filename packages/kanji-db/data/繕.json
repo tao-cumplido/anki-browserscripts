@@ -1,17 +1,30 @@
 {
 	"kanji": "繕",
-	"meanings": ["darning", "repair", "mend", "trim", "tidy up", "adjust"],
+	"meanings": [
+		"darning",
+		"repair",
+		"mend",
+		"trim",
+		"tidy up",
+		"adjust"
+	],
 	"keyword": "darning",
 	"onyomi": {
-		"frequent": ["ゼン"],
+		"frequent": [
+			"ゼン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つくろ"],
+		"frequent": [
+			"つくろ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["つくろ.う"]
+		"okurigana": [
+			"つくろ.う"
+		]
 	},
 	"frequency": {
 		"mean": 2552,

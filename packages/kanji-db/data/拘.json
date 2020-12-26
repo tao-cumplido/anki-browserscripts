@@ -1,17 +1,29 @@
 {
 	"kanji": "拘",
-	"meanings": ["arrest", "seize", "concerned", "adhere to", "despite"],
+	"meanings": [
+		"arrest",
+		"seize",
+		"concerned",
+		"adhere to",
+		"despite"
+	],
 	"keyword": "arrest",
 	"onyomi": {
-		"frequent": ["コウ"],
+		"frequent": [
+			"コウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かか"],
-		"okurigana": ["かか.わる"]
+		"rare": [
+			"かか"
+		],
+		"okurigana": [
+			"かか.わる"
+		]
 	},
 	"frequency": {
 		"mean": 1715,

@@ -1,17 +1,29 @@
 {
 	"kanji": "叢",
-	"meanings": ["plexus", "clump of bushes", "thicket"],
+	"meanings": [
+		"plexus",
+		"clump of bushes",
+		"thicket"
+	],
 	"keyword": "conglomerate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ", "ス"]
+		"rare": [
+			"ソウ",
+			"ス"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くさむら", "むら"],
-		"okurigana": ["むら.がる"]
+		"rare": [
+			"くさむら",
+			"むら"
+		],
+		"okurigana": [
+			"むら.がる"
+		]
 	},
 	"frequency": {
 		"mean": 1705,

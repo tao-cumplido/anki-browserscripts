@@ -1,14 +1,23 @@
 {
 	"kanji": "滝",
-	"meanings": ["waterfall", "rapids", "cascade"],
+	"meanings": [
+		"waterfall",
+		"rapids",
+		"cascade"
+	],
 	"keyword": "waterfall",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ロウ", "ソウ"]
+		"rare": [
+			"ロウ",
+			"ソウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["たき"],
+		"frequent": [
+			"たき"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

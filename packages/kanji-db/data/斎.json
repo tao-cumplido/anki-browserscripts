@@ -1,17 +1,38 @@
 {
 	"kanji": "斎",
-	"meanings": ["purification", "Buddhist food", "room", "worship", "avoid", "alike"],
+	"meanings": [
+		"purification",
+		"Buddhist food",
+		"room",
+		"worship",
+		"avoid",
+		"alike"
+	],
 	"keyword": "purification",
 	"onyomi": {
-		"frequent": ["サイ"],
+		"frequent": [
+			"サイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とき", "つつし", "ものいみ", "い", "いわ", "いつ"],
-		"okurigana": ["つつし.む", "い.む", "いわ.う", "いつ.く"]
+		"rare": [
+			"とき",
+			"つつし",
+			"ものいみ",
+			"い",
+			"いわ",
+			"いつ"
+		],
+		"okurigana": [
+			"つつし.む",
+			"い.む",
+			"いわ.う",
+			"いつ.く"
+		]
 	},
 	"frequency": {
 		"mean": 1238,

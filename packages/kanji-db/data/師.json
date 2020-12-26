@@ -1,16 +1,28 @@
 {
 	"kanji": "師",
-	"meanings": ["expert", "teacher", "master", "model", "exemplar", "army (incl. counter)", "war"],
+	"meanings": [
+		"expert",
+		"teacher",
+		"master",
+		"model",
+		"exemplar",
+		"army (incl. counter)",
+		"war"
+	],
 	"keyword": "expert",
 	"onyomi": {
-		"frequent": ["シ"],
+		"frequent": [
+			"シ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["いくさ"],
+		"rare": [
+			"いくさ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

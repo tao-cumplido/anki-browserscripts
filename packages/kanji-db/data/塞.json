@@ -1,17 +1,34 @@
 {
 	"kanji": "塞",
-	"meanings": ["close", "shut", "cover", "block", "obstruct"],
+	"meanings": [
+		"close",
+		"shut",
+		"cover",
+		"block",
+		"obstruct"
+	],
 	"keyword": "block up",
 	"onyomi": {
-		"frequent": ["ソク", "サイ"],
+		"frequent": [
+			"ソク",
+			"サイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["ふさ"],
+		"frequent": [
+			"ふさ"
+		],
 		"common": [],
-		"rare": ["とりで", "み"],
-		"okurigana": ["ふさ.ぐ", "み.ちる"]
+		"rare": [
+			"とりで",
+			"み"
+		],
+		"okurigana": [
+			"ふさ.ぐ",
+			"み.ちる"
+		]
 	},
 	"frequency": {
 		"mean": 1558,

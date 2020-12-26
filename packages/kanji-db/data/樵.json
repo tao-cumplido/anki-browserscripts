@@ -1,17 +1,29 @@
 {
 	"kanji": "樵",
-	"meanings": ["woodcutting", "lumberjack"],
+	"meanings": [
+		"woodcutting",
+		"lumberjack"
+	],
 	"keyword": "mallet",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ショウ"]
+		"rare": [
+			"ショウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["きこ", "こ", "きこり"],
-		"okurigana": ["きこ.る", "こ.る"]
+		"rare": [
+			"きこ",
+			"こ",
+			"きこり"
+		],
+		"okurigana": [
+			"きこ.る",
+			"こ.る"
+		]
 	},
 	"frequency": {
 		"mean": 3573,

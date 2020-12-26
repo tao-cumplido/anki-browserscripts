@@ -1,14 +1,20 @@
 {
 	"kanji": "車",
-	"meanings": ["car"],
+	"meanings": [
+		"car"
+	],
 	"keyword": "car",
 	"onyomi": {
-		"frequent": ["シャ"],
+		"frequent": [
+			"シャ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くるま"],
+		"frequent": [
+			"くるま"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

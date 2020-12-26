@@ -1,17 +1,28 @@
 {
 	"kanji": "黎",
-	"meanings": ["dark", "black", "many"],
+	"meanings": [
+		"dark",
+		"black",
+		"many"
+	],
 	"keyword": "tenebrous",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["レイ", "リ"]
+		"rare": [
+			"レイ",
+			"リ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くろ"],
-		"okurigana": ["くろ.い"]
+		"rare": [
+			"くろ"
+		],
+		"okurigana": [
+			"くろ.い"
+		]
 	},
 	"frequency": {
 		"mean": 2182,

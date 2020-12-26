@@ -1,17 +1,29 @@
 {
 	"kanji": "返",
-	"meanings": ["return", "answer", "fade", "repay"],
+	"meanings": [
+		"return",
+		"answer",
+		"fade",
+		"repay"
+	],
 	"keyword": "return",
 	"onyomi": {
-		"frequent": ["ヘン"],
+		"frequent": [
+			"ヘン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["かえ"],
+		"frequent": [
+			"かえ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["かえ.す", "かえ.る"]
+		"okurigana": [
+			"かえ.す",
+			"かえ.る"
+		]
 	},
 	"frequency": {
 		"mean": 747,

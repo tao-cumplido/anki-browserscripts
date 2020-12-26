@@ -1,17 +1,30 @@
 {
 	"kanji": "梱",
-	"meanings": ["pack", "tie up", "bale"],
+	"meanings": [
+		"pack",
+		"tie up",
+		"bale"
+	],
 	"keyword": "bale",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コン"]
+		"rare": [
+			"コン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["こう", "こうり", "こり", "しきみ"],
-		"okurigana": ["こう.る"]
+		"rare": [
+			"こう",
+			"こうり",
+			"こり",
+			"しきみ"
+		],
+		"okurigana": [
+			"こう.る"
+		]
 	},
 	"frequency": {
 		"mean": 2426,

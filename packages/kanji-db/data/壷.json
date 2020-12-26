@@ -1,16 +1,25 @@
 {
 	"kanji": "壷",
-	"meanings": ["jar", "pot", "hinge knuckle", "one's aim"],
+	"meanings": [
+		"jar",
+		"pot",
+		"hinge knuckle",
+		"one's aim"
+	],
 	"keyword": "crock",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コ"]
+		"rare": [
+			"コ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つぼ"],
+		"rare": [
+			"つぼ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

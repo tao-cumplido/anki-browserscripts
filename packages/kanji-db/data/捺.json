@@ -1,17 +1,31 @@
 {
 	"kanji": "捺",
-	"meanings": ["press", "print", "affix a seal", "stamp"],
+	"meanings": [
+		"press",
+		"print",
+		"affix a seal",
+		"stamp"
+	],
 	"keyword": "impress",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ナツ", "ダツ"]
+		"rare": [
+			"ナツ",
+			"ダツ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["さ", "お"],
-		"okurigana": ["さ.す", "お.す"]
+		"rare": [
+			"さ",
+			"お"
+		],
+		"okurigana": [
+			"さ.す",
+			"お.す"
+		]
 	},
 	"frequency": {
 		"mean": 3483,

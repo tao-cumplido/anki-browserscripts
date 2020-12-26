@@ -1,10 +1,15 @@
 {
 	"kanji": "冪",
-	"meanings": ["power", "exponent"],
+	"meanings": [
+		"power",
+		"exponent"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ベキ"]
+		"rare": [
+			"ベキ"
+		]
 	},
 	"frequency": {
 		"mean": 3143,

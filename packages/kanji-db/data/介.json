@@ -1,9 +1,16 @@
 {
 	"kanji": "介",
-	"meanings": ["jammed in", "shellfish", "mediate", "concern oneself with"],
+	"meanings": [
+		"jammed in",
+		"shellfish",
+		"mediate",
+		"concern oneself with"
+	],
 	"keyword": "jammed in",
 	"onyomi": {
-		"frequent": ["カイ"],
+		"frequent": [
+			"カイ"
+		],
 		"common": [],
 		"rare": []
 	},

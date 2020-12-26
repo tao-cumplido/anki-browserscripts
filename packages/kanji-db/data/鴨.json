@@ -1,16 +1,24 @@
 {
 	"kanji": "鴨",
-	"meanings": ["wild duck", "easy mark"],
+	"meanings": [
+		"wild duck",
+		"easy mark"
+	],
 	"keyword": "wild duck",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["オウ"]
+		"rare": [
+			"オウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["かも", "あひる"],
+		"rare": [
+			"かも",
+			"あひる"
+		],
 		"okurigana": []
 	},
 	"frequency": {

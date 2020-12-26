@@ -1,14 +1,22 @@
 {
 	"kanji": "堤",
-	"meanings": ["dike", "bank", "embankment"],
+	"meanings": [
+		"dike",
+		"bank",
+		"embankment"
+	],
 	"keyword": "dike",
 	"onyomi": {
-		"frequent": ["テイ"],
+		"frequent": [
+			"テイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["つつみ"],
+		"frequent": [
+			"つつみ"
+		],
 		"common": [],
 		"rare": [],
 		"okurigana": []

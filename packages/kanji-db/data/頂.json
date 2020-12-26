@@ -1,17 +1,31 @@
 {
 	"kanji": "頂",
-	"meanings": ["place on the head", "receive", "top of head", "top", "summit", "peak"],
+	"meanings": [
+		"place on the head",
+		"receive",
+		"top of head",
+		"top",
+		"summit",
+		"peak"
+	],
 	"keyword": "place on the head",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["いただ", "いただき"],
+		"frequent": [
+			"いただ",
+			"いただき"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["いただ.く"]
+		"okurigana": [
+			"いただ.く"
+		]
 	},
 	"frequency": {
 		"mean": 1196,

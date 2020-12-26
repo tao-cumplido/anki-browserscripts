@@ -1,17 +1,32 @@
 {
 	"kanji": "具",
-	"meanings": ["tool", "utensil", "means", "possess", "ingredients", "counter for armor, suits, sets of furniture"],
+	"meanings": [
+		"tool",
+		"utensil",
+		"means",
+		"possess",
+		"ingredients",
+		"counter for armor, suits, sets of furniture"
+	],
 	"keyword": "tool",
 	"onyomi": {
-		"frequent": ["グ"],
+		"frequent": [
+			"グ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["そな", "つぶさ"],
-		"okurigana": ["そな.える", "つぶさ.に"]
+		"rare": [
+			"そな",
+			"つぶさ"
+		],
+		"okurigana": [
+			"そな.える",
+			"つぶさ.に"
+		]
 	},
 	"frequency": {
 		"mean": 795,

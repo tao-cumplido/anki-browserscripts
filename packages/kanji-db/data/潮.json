@@ -1,16 +1,26 @@
 {
 	"kanji": "潮",
-	"meanings": ["tide", "salt water", "opportunity"],
+	"meanings": [
+		"tide",
+		"salt water",
+		"opportunity"
+	],
 	"keyword": "tide",
 	"onyomi": {
-		"frequent": ["チョウ"],
+		"frequent": [
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["しお"],
+		"frequent": [
+			"しお"
+		],
 		"common": [],
-		"rare": ["うしお"],
+		"rare": [
+			"うしお"
+		],
 		"okurigana": []
 	},
 	"frequency": {

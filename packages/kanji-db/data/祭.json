@@ -1,17 +1,33 @@
 {
 	"kanji": "祭",
-	"meanings": ["ritual", "offer prayers", "celebrate", "deify", "enshrine", "worship"],
+	"meanings": [
+		"ritual",
+		"offer prayers",
+		"celebrate",
+		"deify",
+		"enshrine",
+		"worship"
+	],
 	"keyword": "ritual",
 	"onyomi": {
-		"frequent": ["サイ"],
+		"frequent": [
+			"サイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["まつ"],
+		"frequent": [
+			"まつ"
+		],
 		"common": [],
-		"rare": ["まつり"],
-		"okurigana": ["まつ.る", "まつ.り"]
+		"rare": [
+			"まつり"
+		],
+		"okurigana": [
+			"まつ.る",
+			"まつ.り"
+		]
 	},
 	"frequency": {
 		"mean": 673,

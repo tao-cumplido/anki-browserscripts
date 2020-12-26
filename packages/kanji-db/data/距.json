@@ -1,17 +1,28 @@
 {
 	"kanji": "距",
-	"meanings": ["long-distance", "spur", "fetlock"],
+	"meanings": [
+		"long-distance",
+		"spur",
+		"fetlock"
+	],
 	"keyword": "long-distance",
 	"onyomi": {
-		"frequent": ["キョ"],
+		"frequent": [
+			"キョ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["へだ", "けづめ"],
-		"okurigana": ["へだ.たる"]
+		"rare": [
+			"へだ",
+			"けづめ"
+		],
+		"okurigana": [
+			"へだ.たる"
+		]
 	},
 	"frequency": {
 		"mean": 978,

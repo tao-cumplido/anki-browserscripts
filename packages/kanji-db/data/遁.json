@@ -1,17 +1,30 @@
 {
 	"kanji": "遁",
-	"meanings": ["flee", "escape", "shirk", "evade", "set free"],
+	"meanings": [
+		"flee",
+		"escape",
+		"shirk",
+		"evade",
+		"set free"
+	],
 	"keyword": "shirk",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["トン", "シュン"]
+		"rare": [
+			"トン",
+			"シュン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["のが"],
-		"okurigana": ["のが.れる"]
+		"rare": [
+			"のが"
+		],
+		"okurigana": [
+			"のが.れる"
+		]
 	},
 	"frequency": {
 		"mean": 2673,

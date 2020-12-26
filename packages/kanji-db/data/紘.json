@@ -1,16 +1,24 @@
 {
 	"kanji": "紘",
-	"meanings": ["large"],
+	"meanings": [
+		"large"
+	],
 	"keyword": "chinstrap",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おおづな", "つな", "つなぐ"],
+		"rare": [
+			"おおづな",
+			"つな",
+			"つなぐ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

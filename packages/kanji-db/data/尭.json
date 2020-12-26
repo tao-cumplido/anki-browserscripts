@@ -1,17 +1,26 @@
 {
 	"kanji": "尭",
-	"meanings": ["high", "far"],
+	"meanings": [
+		"high",
+		"far"
+	],
 	"keyword": "lofty",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ギョウ"]
+		"rare": [
+			"ギョウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["たか"],
-		"okurigana": ["たか.い"]
+		"rare": [
+			"たか"
+		],
+		"okurigana": [
+			"たか.い"
+		]
 	},
 	"frequency": {
 		"mean": 3195,

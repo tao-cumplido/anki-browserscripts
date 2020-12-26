@@ -1,17 +1,39 @@
 {
 	"kanji": "重",
-	"meanings": ["heavy", "important", "esteem", "respect", "heap up", "pile up", "nest of boxes", "-fold"],
+	"meanings": [
+		"heavy",
+		"important",
+		"esteem",
+		"respect",
+		"heap up",
+		"pile up",
+		"nest of boxes",
+		"-fold"
+	],
 	"keyword": "heavy",
 	"onyomi": {
-		"frequent": ["ジュウ", "チョウ"],
+		"frequent": [
+			"ジュウ",
+			"チョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["え", "おも", "かさ"],
+		"frequent": [
+			"え",
+			"おも",
+			"かさ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["おも.い", "おも.り", "おも.なう", "かさ.ねる", "かさ.なる"]
+		"okurigana": [
+			"おも.い",
+			"おも.り",
+			"おも.なう",
+			"かさ.ねる",
+			"かさ.なる"
+		]
 	},
 	"frequency": {
 		"mean": 200,

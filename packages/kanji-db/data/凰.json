@@ -1,15 +1,22 @@
 {
 	"kanji": "凰",
-	"meanings": ["female phoenix bird"],
+	"meanings": [
+		"female phoenix bird"
+	],
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ", "オウ"]
+		"rare": [
+			"コウ",
+			"オウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["おおとり"],
+		"rare": [
+			"おおとり"
+		],
 		"okurigana": []
 	},
 	"frequency": {

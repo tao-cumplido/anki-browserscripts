@@ -1,16 +1,25 @@
 {
 	"kanji": "皆",
-	"meanings": ["all", "everything"],
+	"meanings": [
+		"all",
+		"everything"
+	],
 	"keyword": "all",
 	"onyomi": {
-		"frequent": ["カイ"],
+		"frequent": [
+			"カイ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["みな"],
+		"frequent": [
+			"みな"
+		],
 		"common": [],
-		"rare": ["みんな"],
+		"rare": [
+			"みんな"
+		],
 		"okurigana": []
 	},
 	"frequency": {

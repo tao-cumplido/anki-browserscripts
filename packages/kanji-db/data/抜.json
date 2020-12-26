@@ -1,17 +1,38 @@
 {
 	"kanji": "抜",
-	"meanings": ["slip out", "extract", "pull out", "pilfer", "quote", "remove", "omit"],
+	"meanings": [
+		"slip out",
+		"extract",
+		"pull out",
+		"pilfer",
+		"quote",
+		"remove",
+		"omit"
+	],
 	"keyword": "slip out",
 	"onyomi": {
-		"frequent": ["バツ"],
+		"frequent": [
+			"バツ"
+		],
 		"common": [],
-		"rare": ["ハツ", "ハイ"]
+		"rare": [
+			"ハツ",
+			"ハイ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["ぬ"],
+		"frequent": [
+			"ぬ"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["ぬ.く", "ぬ.き", "ぬ.ける", "ぬ.かす", "ぬ.かる"]
+		"okurigana": [
+			"ぬ.く",
+			"ぬ.き",
+			"ぬ.ける",
+			"ぬ.かす",
+			"ぬ.かる"
+		]
 	},
 	"frequency": {
 		"mean": 812,

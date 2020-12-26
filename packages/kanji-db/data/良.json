@@ -1,17 +1,30 @@
 {
 	"kanji": "良",
-	"meanings": ["good", "pleasing", "skilled"],
+	"meanings": [
+		"good",
+		"pleasing",
+		"skilled"
+	],
 	"keyword": "good",
 	"onyomi": {
-		"frequent": ["リョウ"],
+		"frequent": [
+			"リョウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["よ"],
+		"frequent": [
+			"よ"
+		],
 		"common": [],
-		"rare": ["い"],
-		"okurigana": ["よ.い", "い.い"]
+		"rare": [
+			"い"
+		],
+		"okurigana": [
+			"よ.い",
+			"い.い"
+		]
 	},
 	"frequency": {
 		"mean": 360,

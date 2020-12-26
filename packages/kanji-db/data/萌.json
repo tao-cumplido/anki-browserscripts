@@ -1,17 +1,32 @@
 {
 	"kanji": "萌",
-	"meanings": ["show symptoms of", "sprout", "bud", "malt"],
+	"meanings": [
+		"show symptoms of",
+		"sprout",
+		"bud",
+		"malt"
+	],
 	"keyword": "germinate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ホウ"]
+		"rare": [
+			"ホウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["も", "きざ", "めばえ"],
-		"okurigana": ["も.える", "きざ.す", "きざ.し"]
+		"rare": [
+			"も",
+			"きざ",
+			"めばえ"
+		],
+		"okurigana": [
+			"も.える",
+			"きざ.す",
+			"きざ.し"
+		]
 	},
 	"frequency": {
 		"mean": 1750,

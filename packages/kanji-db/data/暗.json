@@ -1,17 +1,34 @@
 {
 	"kanji": "暗",
-	"meanings": ["darkness", "disappear", "shade", "informal", "grow dark", "be blinded"],
+	"meanings": [
+		"darkness",
+		"disappear",
+		"shade",
+		"informal",
+		"grow dark",
+		"be blinded"
+	],
 	"keyword": "darkness",
 	"onyomi": {
-		"frequent": ["アン"],
+		"frequent": [
+			"アン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くら"],
+		"frequent": [
+			"くら"
+		],
 		"common": [],
-		"rare": ["くれ"],
-		"okurigana": ["くら.い", "くら.む", "くれ.る"]
+		"rare": [
+			"くれ"
+		],
+		"okurigana": [
+			"くら.い",
+			"くら.む",
+			"くれ.る"
+		]
 	},
 	"frequency": {
 		"mean": 1001,

@@ -1,17 +1,30 @@
 {
 	"kanji": "繰",
-	"meanings": ["winding", "reel", "spin", "turn (pages)", "look up", "refer to"],
+	"meanings": [
+		"winding",
+		"reel",
+		"spin",
+		"turn (pages)",
+		"look up",
+		"refer to"
+	],
 	"keyword": "winding",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ソウ"]
+		"rare": [
+			"ソウ"
+		]
 	},
 	"kunyomi": {
-		"frequent": ["く"],
+		"frequent": [
+			"く"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["く.る"]
+		"okurigana": [
+			"く.る"
+		]
 	},
 	"frequency": {
 		"mean": 1182,

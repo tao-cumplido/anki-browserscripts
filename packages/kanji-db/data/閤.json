@@ -1,16 +1,22 @@
 {
 	"kanji": "閤",
-	"meanings": ["small side gate"],
+	"meanings": [
+		"small side gate"
+	],
 	"keyword": "side gate",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["コウ"]
+		"rare": [
+			"コウ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くぐりど"],
+		"rare": [
+			"くぐりど"
+		],
 		"okurigana": []
 	},
 	"frequency": {

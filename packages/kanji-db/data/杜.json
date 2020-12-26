@@ -1,17 +1,30 @@
 {
 	"kanji": "杜",
-	"meanings": ["woods", "grove"],
+	"meanings": [
+		"woods",
+		"grove"
+	],
 	"keyword": "temple grove",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ト", "トウ", "ズ"]
+		"rare": [
+			"ト",
+			"トウ",
+			"ズ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["もり", "ふさ", "やまなし"],
-		"okurigana": ["ふさ.ぐ"]
+		"rare": [
+			"もり",
+			"ふさ",
+			"やまなし"
+		],
+		"okurigana": [
+			"ふさ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 1999,

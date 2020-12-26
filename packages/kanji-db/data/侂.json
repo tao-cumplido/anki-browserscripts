@@ -1,16 +1,30 @@
 {
 	"kanji": "侂",
-	"meanings": ["to commission", "to entrust to", "to depute", "to request", "to ask"],
+	"meanings": [
+		"to commission",
+		"to entrust to",
+		"to depute",
+		"to request",
+		"to ask"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["タク"],
+		"common": [
+			"タク"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
-		"common": ["よ", "たの"],
+		"common": [
+			"よ",
+			"たの"
+		],
 		"rare": [],
-		"okurigana": ["よ.せる", "たの.む"]
+		"okurigana": [
+			"よ.せる",
+			"たの.む"
+		]
 	},
 	"frequency": {
 		"mean": 4436,

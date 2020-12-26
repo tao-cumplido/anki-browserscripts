@@ -1,17 +1,30 @@
 {
 	"kanji": "奪",
-	"meanings": ["rob", "take by force", "snatch away", "dispossess", "plunder", "usurp"],
+	"meanings": [
+		"rob",
+		"take by force",
+		"snatch away",
+		"dispossess",
+		"plunder",
+		"usurp"
+	],
 	"keyword": "rob",
 	"onyomi": {
-		"frequent": ["ダツ"],
+		"frequent": [
+			"ダツ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["うば"],
+		"frequent": [
+			"うば"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["うば.う"]
+		"okurigana": [
+			"うば.う"
+		]
 	},
 	"frequency": {
 		"mean": 1086,

@@ -1,17 +1,26 @@
 {
 	"kanji": "錮",
-	"meanings": ["confinement", "to tie"],
+	"meanings": [
+		"confinement",
+		"to tie"
+	],
 	"keyword": "weld",
 	"onyomi": {
-		"frequent": ["コ"],
+		"frequent": [
+			"コ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ふさ"],
-		"okurigana": ["ふさ.ぐ"]
+		"rare": [
+			"ふさ"
+		],
+		"okurigana": [
+			"ふさ.ぐ"
+		]
 	},
 	"frequency": {
 		"mean": 3393,

@@ -1,17 +1,28 @@
 {
 	"kanji": "懺",
-	"meanings": ["regret", "repent", "confess sins"],
+	"meanings": [
+		"regret",
+		"repent",
+		"confess sins"
+	],
 	"keyword": "penitential",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ザン", "サン"]
+		"rare": [
+			"ザン",
+			"サン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["くい"],
-		"okurigana": ["くい.る"]
+		"rare": [
+			"くい"
+		],
+		"okurigana": [
+			"くい.る"
+		]
 	},
 	"frequency": {
 		"mean": 3080,

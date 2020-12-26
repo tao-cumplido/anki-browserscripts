@@ -1,16 +1,29 @@
 {
 	"kanji": "歳",
-	"meanings": ["year-end", "age", "occasion", "opportunity"],
+	"meanings": [
+		"year-end",
+		"age",
+		"occasion",
+		"opportunity"
+	],
 	"keyword": "year-end",
 	"onyomi": {
-		"frequent": ["サイ"],
-		"common": ["セイ"],
+		"frequent": [
+			"サイ"
+		],
+		"common": [
+			"セイ"
+		],
 		"rare": []
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["とし", "とせ", "よわい"],
+		"rare": [
+			"とし",
+			"とせ",
+			"よわい"
+		],
 		"okurigana": []
 	},
 	"frequency": {

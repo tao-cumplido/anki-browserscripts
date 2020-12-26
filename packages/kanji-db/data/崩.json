@@ -1,17 +1,30 @@
 {
 	"kanji": "崩",
-	"meanings": ["crumble", "die", "demolish", "level"],
+	"meanings": [
+		"crumble",
+		"die",
+		"demolish",
+		"level"
+	],
 	"keyword": "crumble",
 	"onyomi": {
-		"frequent": ["ホウ"],
+		"frequent": [
+			"ホウ"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["くず"],
+		"frequent": [
+			"くず"
+		],
 		"common": [],
 		"rare": [],
-		"okurigana": ["くず.れる", "くず.れ", "くず.す"]
+		"okurigana": [
+			"くず.れる",
+			"くず.れ",
+			"くず.す"
+		]
 	},
 	"frequency": {
 		"mean": 1275,

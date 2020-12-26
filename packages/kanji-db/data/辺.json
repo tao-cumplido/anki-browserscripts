@@ -1,17 +1,32 @@
 {
 	"kanji": "辺",
-	"meanings": ["environs", "boundary", "border", "vicinity"],
+	"meanings": [
+		"environs",
+		"boundary",
+		"border",
+		"vicinity"
+	],
 	"keyword": "environs",
 	"onyomi": {
-		"frequent": ["ヘン"],
+		"frequent": [
+			"ヘン"
+		],
 		"common": [],
 		"rare": []
 	},
 	"kunyomi": {
-		"frequent": ["あた", "べ"],
+		"frequent": [
+			"あた",
+			"べ"
+		],
 		"common": [],
-		"rare": ["ほと"],
-		"okurigana": ["あた.り", "ほと.り"]
+		"rare": [
+			"ほと"
+		],
+		"okurigana": [
+			"あた.り",
+			"ほと.り"
+		]
 	},
 	"frequency": {
 		"mean": 572,

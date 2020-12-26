@@ -1,17 +1,25 @@
 {
 	"kanji": "虔",
-	"meanings": ["respect"],
+	"meanings": [
+		"respect"
+	],
 	"keyword": "reserved",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ケン"]
+		"rare": [
+			"ケン"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["つつし"],
-		"okurigana": ["つつし.む"]
+		"rare": [
+			"つつし"
+		],
+		"okurigana": [
+			"つつし.む"
+		]
 	},
 	"frequency": {
 		"mean": 2958,

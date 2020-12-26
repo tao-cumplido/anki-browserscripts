@@ -1,16 +1,25 @@
 {
 	"kanji": "圃",
-	"meanings": ["garden", "field"],
+	"meanings": [
+		"garden",
+		"field"
+	],
 	"keyword": "vegetable patch",
 	"onyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["ホ", "フ"]
+		"rare": [
+			"ホ",
+			"フ"
+		]
 	},
 	"kunyomi": {
 		"frequent": [],
 		"common": [],
-		"rare": ["はたけ", "にわ"],
+		"rare": [
+			"はたけ",
+			"にわ"
+		],
 		"okurigana": []
 	},
 	"frequency": {

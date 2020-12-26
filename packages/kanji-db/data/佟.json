@@ -1,9 +1,14 @@
 {
 	"kanji": "佟",
-	"meanings": ["name"],
+	"meanings": [
+		"name"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["トウ", "ズ"],
+		"common": [
+			"トウ",
+			"ズ"
+		],
 		"rare": []
 	},
 	"frequency": {

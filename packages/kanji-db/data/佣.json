@@ -1,9 +1,13 @@
 {
 	"kanji": "佣",
-	"meanings": ["commission fee"],
+	"meanings": [
+		"commission fee"
+	],
 	"onyomi": {
 		"frequent": [],
-		"common": ["ヨウ"],
+		"common": [
+			"ヨウ"
+		],
 		"rare": []
 	},
 	"frequency": {
