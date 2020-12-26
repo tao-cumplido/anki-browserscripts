@@ -29,7 +29,6 @@ export class AddKanjiCards extends LitElement {
 		:host {
 			display: flex;
 			flex-direction: var(--kanji-select-flex-direction, row);
-			align-items: start;
 			gap: 5px;
 		}
 
@@ -61,6 +60,9 @@ export class AddKanjiCards extends LitElement {
 
 		button {
 			width: var(--kanji-select-button-width, 100px);
+		}
+
+		button:not(:disabled) {
 			cursor: pointer;
 		}
 
@@ -71,10 +73,12 @@ export class AddKanjiCards extends LitElement {
 
 		:host(.vertical) .select > * {
 			writing-mode: vertical-rl;
+			white-space: nowrap;
 		}
 
 		:host(.vertical) button {
 			width: unset;
+			height: min-content;
 		}
 
 		:host(.vertical) button span {
