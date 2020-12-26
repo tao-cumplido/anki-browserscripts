@@ -46,24 +46,36 @@ export class Jisho extends AbstractExtension {
 		}
 	}
 
-	// eslint-disable-next-line @typescript-eslint/require-await
-	async run(): Promise<void> {
-		const query = decodeURIComponent(location.pathname.split('/')[2]);
-
-		const configColumn = this.renderConfig();
-
-		if (!/#kanji/u.exec(query)) {
-			this.renderVocabResults();
-			return;
-		}
-
+	private renderKanjiResults(query: string, container: Element) {
 		const kanjiText = [...document.querySelectorAll(/\p{sc=Han}/u.exec(query) ? 'h1.character' : '.literal_block')]
 			.map(({ textContent }) => textContent)
 			.join('');
 
 		render(
 			html`<kanji-select class="vertical" .kanji=${this.filterKanji(kanjiText)} .preselected=${[]}></kanji-select>`,
-			configColumn.appendChild(document.createElement('div')),
+			container.appendChild(document.createElement('div')),
 		);
+	}
+
+	// eslint-disable-next-line @typescript-eslint/require-await
+	async run(): Promise<void> {
+		const query = decodeURIComponent(location.pathname.split('/')[2]);
+
+		if (/#names$/u.exec(query)) {
+			return;
+		}
+
+		if (/#sentences$/u.exec(query)) {
+			return;
+		}
+
+		const configColumn = this.renderConfig();
+
+		if (/#kanji$/u.exec(query)) {
+			this.renderKanjiResults(query, configColumn);
+			return;
+		}
+
+		this.renderVocabResults();
 	}
 }
