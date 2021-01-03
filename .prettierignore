@@ -1,4 +1,4 @@
 node_modules
 dist
 /.dev
-/packages/kanji-db/data
+/userscripts/kanji/data/entries

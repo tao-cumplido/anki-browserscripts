@@ -1,0 +1,12 @@
+{
+	"extends": "../../tsconfig.base.json",
+	"compilerOptions": {
+		"sourceMap": true,
+		"experimentalDecorators": true,
+		"module": "esnext",
+		"target": "esnext",
+		"types": ["scss", "svg"],
+		"lib": ["es2020", "dom", "dom.iterable"]
+	},
+	"include": ["src/anki/model/template/**/*.ts", "types.ts"]
+}

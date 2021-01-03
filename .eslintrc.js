@@ -150,7 +150,7 @@ module.exports = {
 		'require-yield': 'error',
 		'symbol-description': 'error',
 		// plugins
-		'style/group-imports': ['error'],
+		'style/group-imports': ['error', 'dotenv', { class: 'node' }, { class: 'external' }, '@mdi', '@internal', { class: 'relative' }],
 		'style/sort-imports': ['error', { caseGroups: true, typesInGroup: 'top' }],
 		'style/experimental/no-commented-code': ['warn', { ignorePatterns: ['^https?://', '^prettier-'], extendDefaultIgnorePatterns: true }],
 	},
@@ -166,7 +166,7 @@ module.exports = {
 			parser: '@typescript-eslint/parser',
 			parserOptions: {
 				sourceType: 'module',
-				project: ['./tsconfig.json'],
+				project: require('./tsconfig.json').references.map(({ path }) => path),
 			},
 			plugins: ['@typescript-eslint'],
 			rules: {

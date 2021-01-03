@@ -1,0 +1,10 @@
+{
+	"extends": "../../tsconfig.base.json",
+	"compilerOptions": {
+		"module": "commonjs",
+		"target": "es2017",
+		"types": ["node"],
+		"lib": ["es2020"]
+	},
+	"files": ["data/build.ts"]
+}

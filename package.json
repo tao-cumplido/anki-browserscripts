@@ -4,7 +4,8 @@
 	"workspaces": {
 		"packages": [
 			"@types/*",
-			"packages/*"
+			"@internal/*",
+			"userscripts/*"
 		]
 	},
 	"volta": {

@@ -1,5 +1,5 @@
 {
-	"name": "@types/tampermonkey",
+	"name": "@types/scss",
 	"version": "0.0.0",
 	"private": true,
 	"types": "index.d.ts"

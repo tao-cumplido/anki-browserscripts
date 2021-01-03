@@ -1,0 +1,13 @@
+{
+	"extends": "../../tsconfig.base.json",
+	"compilerOptions": {
+		"sourceMap": true,
+		"experimentalDecorators": true,
+		"module": "esnext",
+		"target": "esnext",
+		"types": ["tampermonkey", "scss", "html"],
+		"lib": ["es2020", "dom", "dom.iterable"]
+	},
+	"include": ["src/**/*.ts", "types.ts"],
+	"exclude": ["src/**/*.spec.ts", "src/anki/model/template/**/*.ts"]
+}

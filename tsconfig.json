@@ -1,17 +1,18 @@
 {
-	"compilerOptions": {
-		"sourceMap": true,
-		"strict": true,
-		"noUnusedParameters": true,
-		"noUnusedLocals": true,
-		"esModuleInterop": true,
-		"experimentalDecorators": true,
-		"module": "commonjs",
-		"moduleResolution": "node",
-		"target": "es2017",
-		"typeRoots": ["node_modules/@types"],
-		"lib": ["es2020", "dom", "dom.iterable"]
-	},
-	"include": ["**/*.ts"],
-	"exclude": ["**/node_modules", "**/dist"]
+	"files": [],
+	"include": [],
+	"references": [
+		{ "path": "./@types/anki-persistence/tsconfig.json" },
+		{ "path": "./@types/html/tsconfig.json" },
+		{ "path": "./@types/scss/tsconfig.json" },
+		{ "path": "./@types/svg/tsconfig.json" },
+		{ "path": "./@types/tampermonkey/tsconfig.json" },
+		{ "path": "./@internal/anki-connect/tsconfig.json" },
+		{ "path": "./@internal/components/tsconfig.json" },
+		{ "path": "./@internal/util/tsconfig.json" },
+		{ "path": "./userscripts/kanji/tsconfig.app.json" },
+		{ "path": "./userscripts/kanji/tsconfig.anki.json" },
+		{ "path": "./userscripts/kanji/tsconfig.data.json" },
+		{ "path": "./userscripts/kanji/tsconfig.webpack.json" }
+	]
 }

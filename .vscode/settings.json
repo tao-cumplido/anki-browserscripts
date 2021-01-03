@@ -10,6 +10,6 @@
 		"source.fixAll.stylelint": true
 	},
 	"search.exclude": {
-		"packages/kanji-db/data": true
+		"userscripts/kanji/data/entries": true
 	}
 }
