@@ -41,6 +41,8 @@ export class InlineSpinner extends LitElement {
 	}
 
 	render(): TemplateResult {
-		return html`${InlineSpinner.animation[this.state].map((strong) => html`<span class=${classMap({ weak: !strong })}>•</span>`)}`;
+		return html`${InlineSpinner.animation[this.state].map(
+			(strong) => html`<span class=${classMap({ weak: !strong })}>•</span>`,
+		)}`;
 	}
 }

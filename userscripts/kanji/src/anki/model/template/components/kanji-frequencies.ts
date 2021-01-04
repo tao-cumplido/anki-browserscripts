@@ -26,7 +26,9 @@ export class KanjiFrequencies extends LitElement {
 	render(): TemplateResult {
 		return html`
 			<ul>
-				${this.renderBlock('Mean', this.ranks.mean)} ${this.ranks.literature ? this.renderBlock('Literature', this.ranks.literature) : nothing}
+				<!-- prettier-ignore -->
+				${this.renderBlock('Mean', this.ranks.mean)}
+				${this.ranks.literature ? this.renderBlock('Literature', this.ranks.literature) : nothing}
 				${this.ranks.news ? this.renderBlock('News', this.ranks.news) : nothing}
 				${this.ranks.twitter ? this.renderBlock('Twitter', this.ranks.twitter) : nothing}
 				${this.ranks.wikipedia ? this.renderBlock('Wikipedia', this.ranks.wikipedia) : nothing}

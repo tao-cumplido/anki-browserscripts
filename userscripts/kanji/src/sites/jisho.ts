@@ -42,7 +42,10 @@ export class Jisho extends AbstractExtension {
 
 				if (kanji.length) {
 					const preselected = this.filterKanji(assert(wrapper.querySelector('.concept_light-readings')?.textContent));
-					render(html`<kanji-select .kanji=${kanji} .preselected=${preselected}></kanji-select>`, wrapper.appendChild(document.createElement('div')));
+					render(
+						html`<kanji-select .kanji=${kanji} .preselected=${preselected}></kanji-select>`,
+						wrapper.appendChild(document.createElement('div')),
+					);
 				}
 			} catch {}
 		}

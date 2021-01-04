@@ -125,15 +125,22 @@ const kanjium = readFileSync(require.resolve('kanjium/data/source_files/kanjidic
 
 console.log('reading heisig-rtk source');
 
-const rtk = (csvParse(readFileSync(require.resolve('heisig-rtk/heisig-kanjis.csv'), 'utf-8'), { columns: true }) as unknown) as RtkEntry[];
+const rtk = (csvParse(readFileSync(require.resolve('heisig-rtk/heisig-kanjis.csv'), 'utf-8'), {
+	columns: true,
+}) as unknown) as RtkEntry[];
 
 console.log('reading kanjidic source');
 
 const {
 	kanjidic2: { character: kanjidic },
-} = (xml.parse(readFileSync(path.resolve(__dirname, 'kanjidic2.xml'), 'utf-8'), { ignoreAttributes: false }) as unknown) as KanjiDic;
+} = (xml.parse(readFileSync(path.resolve(__dirname, 'kanjidic2.xml'), 'utf-8'), {
+	ignoreAttributes: false,
+}) as unknown) as KanjiDic;
 
-const collectReadings = (kanjiumReadings?: string[]) => (result: MappedRecord<Readings, Set<string>>, reading: string) => {
+const collectReadings = (kanjiumReadings?: string[]) => (
+	result: MappedRecord<Readings, Set<string>>,
+	reading: string,
+) => {
 	if (reading.includes('.')) {
 		result.okurigana?.add(reading);
 		[reading] = reading.split('.');

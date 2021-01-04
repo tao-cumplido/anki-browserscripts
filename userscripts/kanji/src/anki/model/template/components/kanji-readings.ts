@@ -34,13 +34,20 @@ export class KanjiReadings extends LitElement {
 		return html`
 			<div>
 				<span class="label">${label}</span>
-				${readings.frequent.map(this.aggregateReadings('frequent'))} ${readings.common.map(this.aggregateReadings('common'))}
-				${readings.rare.map(this.aggregateReadings('rare'))} ${readings.okurigana?.length ? this.renderOkurigana(readings.okurigana) : nothing}
+				<!-- prettier-ignore -->
+				${readings.frequent.map(this.aggregateReadings('frequent'))}
+				${readings.common.map(this.aggregateReadings('common'))}
+				${readings.rare.map(this.aggregateReadings('rare'))}
+				${readings.okurigana?.length ? this.renderOkurigana(readings.okurigana) : nothing}
 			</div>
 		`;
 	}
 
 	render(): TemplateResult {
-		return html`${this.onyomi ? this.renderBlock('音', this.onyomi) : nothing} ${this.kunyomi ? this.renderBlock('訓', this.kunyomi) : nothing}`;
+		return html`
+			<!-- prettier-ignore -->
+			${this.onyomi ? this.renderBlock('音', this.onyomi) : nothing}
+			${this.kunyomi ? this.renderBlock('訓', this.kunyomi) : nothing}
+		`;
 	}
 }

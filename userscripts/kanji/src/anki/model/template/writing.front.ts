@@ -12,7 +12,17 @@ const infoContainer = assert(document.querySelector('#info'));
 
 const data = parseData(`{{Data}}`);
 
-render(html`<kanji-main .kanji=${data.kanji} drawing showGridToggle showDrawingToggle showUndoButton showClearButton></kanji-main>`, kanjiContainer);
+render(
+	html`<kanji-main
+		.kanji=${data.kanji}
+		drawing
+		showGridToggle
+		showDrawingToggle
+		showUndoButton
+		showClearButton
+	></kanji-main>`,
+	kanjiContainer,
+);
 
 render(
 	html`
