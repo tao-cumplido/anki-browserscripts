@@ -5,7 +5,7 @@ import csvParse from 'csv-parse/lib/sync';
 import xml from 'fast-xml-parser';
 import { ensureDirSync, readdirSync, readFileSync, readJsonSync, writeJson } from 'fs-extra';
 
-import type { MappedRecord } from '@internal/util';
+import type { MappedRecord } from '@~internal/util';
 
 import type { KanjiEntry, Readings } from '../types';
 

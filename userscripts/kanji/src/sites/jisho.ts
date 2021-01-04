@@ -1,6 +1,6 @@
 import { html, render } from 'lit-html';
 
-import { assert } from '@internal/util';
+import { assert } from '@~internal/util';
 
 import { AbstractExtension } from '../extension';
 import styles from './jisho.scss';

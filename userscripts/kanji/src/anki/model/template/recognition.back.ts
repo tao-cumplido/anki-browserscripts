@@ -1,6 +1,6 @@
 import { html, nothing, render } from 'lit-html';
 
-import { assert } from '@internal/util';
+import { assert } from '@~internal/util';
 
 import type { KanjiMain } from './components/kanji-main';
 import './components/kanji-frequencies';

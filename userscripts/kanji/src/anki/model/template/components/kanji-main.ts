@@ -15,9 +15,9 @@ import mdiPencil from '@mdi/svg/svg/pencil.svg';
 import mdiPlay from '@mdi/svg/svg/play.svg';
 import mdiUndo from '@mdi/svg/svg/undo.svg';
 
-import type { ToggleEvent } from '@internal/components/toggle-button';
-import '@internal/components/toggle-button';
-import { assert, safeCustomElement } from '@internal/util';
+import type { ToggleEvent } from '@~internal/components/toggle-button';
+import '@~internal/components/toggle-button';
+import { assert, safeCustomElement } from '@~internal/util';
 
 import styles from './kanji-main.scss';
 

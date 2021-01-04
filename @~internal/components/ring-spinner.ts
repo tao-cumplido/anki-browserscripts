@@ -1,7 +1,7 @@
 import type { TemplateResult } from 'lit-element';
 import { css, html, LitElement } from 'lit-element';
 
-import { safeCustomElement } from '@internal/util';
+import { safeCustomElement } from '@~internal/util';
 
 // https://loading.io/css/
 @safeCustomElement('ring-spinner')

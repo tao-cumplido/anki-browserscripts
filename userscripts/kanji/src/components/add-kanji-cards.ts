@@ -3,8 +3,8 @@ import { css, customElement, html, internalProperty, property, LitElement } from
 import { nothing } from 'lit-html';
 import { classMap } from 'lit-html/directives/class-map';
 
-import type { NotesInfoResult } from '@internal/anki-connect';
-import '@internal/components/inline-spinner';
+import type { NotesInfoResult } from '@~internal/anki-connect';
+import '@~internal/components/inline-spinner';
 
 import type { KanjiEntry } from '../../types';
 import anki from '../anki';

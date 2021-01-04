@@ -150,7 +150,7 @@ module.exports = {
 		'require-yield': 'error',
 		'symbol-description': 'error',
 		// plugins
-		'style/group-imports': ['error', 'dotenv', { class: 'node' }, { class: 'external' }, '@mdi', '@internal', { class: 'relative' }],
+		'style/group-imports': ['error', 'dotenv', { class: 'node' }, { class: 'external' }, '@mdi', '@~internal', { class: 'relative' }],
 		'style/sort-imports': ['error', { caseGroups: true, typesInGroup: 'top' }],
 		'style/experimental/no-commented-code': ['warn', { ignorePatterns: ['^https?://', '^prettier-'], extendDefaultIgnorePatterns: true }],
 	},

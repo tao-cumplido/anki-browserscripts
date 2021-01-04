@@ -2,7 +2,7 @@ import type { TemplateResult } from 'lit-element';
 import { css, html, property, LitElement } from 'lit-element';
 import { until } from 'lit-html/directives/until';
 
-import { safeCustomElement } from '@internal/util';
+import { safeCustomElement } from '@~internal/util';
 
 import './ring-spinner';
 

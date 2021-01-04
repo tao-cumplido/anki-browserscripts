@@ -1,5 +1,5 @@
 {
-	"name": "@internal/util",
+	"name": "@~internal/util",
 	"version": "0.0.0",
 	"private": true,
 	"main": "src/index.ts",

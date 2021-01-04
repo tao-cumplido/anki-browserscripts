@@ -1,7 +1,7 @@
 import jsesc from 'jsesc';
 
-import type { ModelTemplate, NotesInfoResult } from '@internal/anki-connect';
-import { request } from '@internal/anki-connect';
+import type { ModelTemplate, NotesInfoResult } from '@~internal/anki-connect';
+import { request } from '@~internal/anki-connect';
 
 import type { KanjiEntry } from '../../types';
 import { dbRevision, model, modelName, modelVersion } from './model';

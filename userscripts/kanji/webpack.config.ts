@@ -13,7 +13,7 @@ import TerserWebpackPlugin from 'terser-webpack-plugin';
 import webpack, { DefinePlugin } from 'webpack';
 import WebpackUserscript from 'webpack-userscript';
 
-import { assert } from '@internal/util';
+import { assert } from '@~internal/util';
 
 const production = process.env['NODE_ENV'] === 'production';
 const mode = production ? 'production' : 'development';

@@ -4,6 +4,7 @@
 		"strict": true,
 		"noUnusedParameters": true,
 		"noUnusedLocals": true,
-		"moduleResolution": "node"
+		"moduleResolution": "node",
+		"typeRoots": ["node_modules/@types", "node_modules/@~types"]
 	}
 }

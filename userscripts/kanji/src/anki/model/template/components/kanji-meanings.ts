@@ -1,7 +1,7 @@
 import type { TemplateResult } from 'lit-element';
 import { html, property, unsafeCSS, LitElement } from 'lit-element';
 
-import { safeCustomElement } from '@internal/util';
+import { safeCustomElement } from '@~internal/util';
 
 import styles from './kanji-meanings.scss';
 
