@@ -1,0 +1,32 @@
+{
+	"kanji": "垔",
+	"meanings": [
+		"to restrain",
+		"to dam a stream and change its direction",
+		"mound"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"シュ",
+			"ショウ",
+			"トウ",
+			"ズ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ふさ"
+		],
+		"rare": [],
+		"okurigana": [
+			"ふさ.ぐ"
+		]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

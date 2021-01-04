@@ -1,0 +1,29 @@
+{
+	"kanji": "躺",
+	"meanings": [
+		"lie down",
+		"recline"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"トウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ふ"
+		],
+		"rare": [],
+		"okurigana": [
+			"ふ.す"
+		]
+	},
+	"frequency": {
+		"mean": 4530,
+		"twitter": 1726,
+		"wikipedia": 4223
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"kanji": "窬",
+	"meanings": [
+		"small door or window",
+		"hole in the wall",
+		"to cut through a wall",
+		"dig or bore hole"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ユ",
+			"トウ",
+			"ズ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"くぐりど"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

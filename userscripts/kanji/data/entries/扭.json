@@ -1,0 +1,35 @@
+{
+	"kanji": "扭",
+	"meanings": [
+		"turn",
+		"twist",
+		"wrench",
+		"seize",
+		"grasp"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ジュウ",
+			"ニュ",
+			"チュウ",
+			"チュ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ねじまわ"
+		],
+		"rare": [],
+		"okurigana": [
+			"ねじまわ.す"
+		]
+	},
+	"frequency": {
+		"mean": 4529,
+		"twitter": 1727,
+		"wikipedia": 4221
+	}
+}

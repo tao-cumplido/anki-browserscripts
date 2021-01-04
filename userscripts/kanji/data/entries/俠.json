@@ -1,0 +1,31 @@
+{
+	"kanji": "俠",
+	"meanings": [
+		"chivalrous person",
+		"chivalry",
+		"knight-errant",
+		"tomboy"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": [
+			"キョウ",
+			"キャン"
+		]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": [
+			"おとこだて"
+		],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 3650,
+		"news": 1704,
+		"twitter": 1727,
+		"wikipedia": 3386
+	}
+}

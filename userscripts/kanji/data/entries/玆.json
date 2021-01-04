@@ -1,0 +1,35 @@
+{
+	"kanji": "玆",
+	"meanings": [
+		"now",
+		"here",
+		"this",
+		"time",
+		"year"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"シ",
+			"ケン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"しげ",
+			"ます",
+			"むしろ",
+			"ここに"
+		],
+		"rare": [],
+		"okurigana": [
+			"しげ.る"
+		]
+	},
+	"frequency": {
+		"mean": 4503,
+		"wikipedia": 4194
+	}
+}

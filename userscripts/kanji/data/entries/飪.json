@@ -1,0 +1,29 @@
+{
+	"kanji": "飪",
+	"meanings": [
+		"cooked food",
+		"cook until well done"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ジン",
+			"ニン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"に"
+		],
+		"rare": [],
+		"okurigana": [
+			"に.る"
+		]
+	},
+	"frequency": {
+		"mean": 4533,
+		"wikipedia": 4224
+	}
+}

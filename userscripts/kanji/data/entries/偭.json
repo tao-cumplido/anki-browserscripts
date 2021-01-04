@@ -1,0 +1,32 @@
+{
+	"kanji": "偭",
+	"meanings": [
+		"transgress"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ベン",
+			"メン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"む",
+			"そむ",
+			"かな"
+		],
+		"rare": [],
+		"okurigana": [
+			"む.かう",
+			"そむ.く",
+			"かな.う"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

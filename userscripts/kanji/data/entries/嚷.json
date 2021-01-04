@@ -1,0 +1,32 @@
+{
+	"kanji": "嚷",
+	"meanings": [
+		"shout",
+		"brawl",
+		"make uproar",
+		"cry"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ジョウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"わめ",
+			"どな"
+		],
+		"rare": [],
+		"okurigana": [
+			"わめ.く",
+			"どな.る"
+		]
+	},
+	"frequency": {
+		"mean": 4539,
+		"wikipedia": 4230
+	}
+}

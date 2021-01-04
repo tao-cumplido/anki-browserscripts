@@ -1,0 +1,33 @@
+{
+	"kanji": "僦",
+	"meanings": [
+		"to heir",
+		"to rent"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"シュウ",
+			"シュ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"か",
+			"おく",
+			"あつ"
+		],
+		"rare": [],
+		"okurigana": [
+			"か.りる",
+			"おく.る",
+			"あつ.まる"
+		]
+	},
+	"frequency": {
+		"mean": 4519,
+		"wikipedia": 4210
+	}
+}

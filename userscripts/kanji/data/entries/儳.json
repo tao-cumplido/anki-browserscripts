@@ -1,0 +1,33 @@
+{
+	"kanji": "儳",
+	"meanings": [
+		"obstinate",
+		"stupid",
+		"uneven",
+		"mix"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"サン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ととのわぬ",
+			"はや",
+			"わる"
+		],
+		"rare": [],
+		"okurigana": [
+			"はや.い",
+			"わる.い"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

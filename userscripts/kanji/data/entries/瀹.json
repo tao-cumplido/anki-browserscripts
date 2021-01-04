@@ -1,0 +1,32 @@
+{
+	"kanji": "瀹",
+	"meanings": [
+		"to boil",
+		"to wash",
+		"to cleanse",
+		"to soak"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"セク",
+			"ヨウ",
+			"ヤク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ひた"
+		],
+		"rare": [],
+		"okurigana": [
+			"ひた.す"
+		]
+	},
+	"frequency": {
+		"mean": 4539,
+		"wikipedia": 4230
+	}
+}

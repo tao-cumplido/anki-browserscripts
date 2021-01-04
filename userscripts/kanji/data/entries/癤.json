@@ -1,0 +1,29 @@
+{
+	"kanji": "癤",
+	"meanings": [
+		"pimple",
+		"sore",
+		"boil"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"セツ",
+			"セチ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"かさ"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4533,
+		"twitter": 1727,
+		"wikipedia": 4225
+	}
+}

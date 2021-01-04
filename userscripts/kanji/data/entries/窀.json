@@ -1,0 +1,29 @@
+{
+	"kanji": "窀",
+	"meanings": [
+		"to bury"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"チュン",
+			"トン",
+			"タン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"あつ"
+		],
+		"rare": [],
+		"okurigana": [
+			"あつ.い"
+		]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"kanji": "凓",
+	"meanings": [
+		"shiver",
+		"severe cold"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"リツ",
+			"リチ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"さむ"
+		],
+		"rare": [],
+		"okurigana": [
+			"さむ.い"
+		]
+	},
+	"frequency": {
+		"mean": 4539,
+		"wikipedia": 4230
+	}
+}

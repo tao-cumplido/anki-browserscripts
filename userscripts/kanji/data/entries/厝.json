@@ -1,0 +1,34 @@
+{
+	"kanji": "厝",
+	"meanings": [
+		"cut",
+		"engrave",
+		"gravest"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"サク",
+			"ソ",
+			"セキ",
+			"ジャク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"といし",
+			"ま",
+			"おく"
+		],
+		"rare": [],
+		"okurigana": [
+			"ま.じる"
+		]
+	},
+	"frequency": {
+		"mean": 4055,
+		"wikipedia": 3747
+	}
+}

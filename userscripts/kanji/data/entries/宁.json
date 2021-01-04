@@ -1,0 +1,32 @@
+{
+	"kanji": "宁",
+	"meanings": [
+		"calm",
+		"peaceful",
+		"serene",
+		"healthy"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"チョ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"たくわ",
+			"たたず"
+		],
+		"rare": [],
+		"okurigana": [
+			"たくわ.える",
+			"たたず.む"
+		]
+	},
+	"frequency": {
+		"mean": 4119,
+		"wikipedia": 3809
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"kanji": "砑",
+	"meanings": [
+		"to grind",
+		"to calender",
+		"to polish",
+		"to roll with a stone roller"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ガ",
+			"ゲ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"する"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

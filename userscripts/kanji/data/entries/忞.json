@@ -1,0 +1,32 @@
+{
+	"kanji": "忞",
+	"meanings": [
+		"exert oneself",
+		"restless",
+		"unaware of one's feelings"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ビン",
+			"ミン",
+			"ブン",
+			"モン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"つと"
+		],
+		"rare": [],
+		"okurigana": [
+			"つと.める"
+		]
+	},
+	"frequency": {
+		"mean": 4473,
+		"wikipedia": 4164
+	}
+}

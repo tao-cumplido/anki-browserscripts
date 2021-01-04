@@ -1,0 +1,32 @@
+{
+	"kanji": "讞",
+	"meanings": [
+		"decide",
+		"judge",
+		"verdict",
+		"decision"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ゲツ",
+			"ゲチ",
+			"ゲン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"さば"
+		],
+		"rare": [],
+		"okurigana": [
+			"さば.く"
+		]
+	},
+	"frequency": {
+		"mean": 4531,
+		"wikipedia": 4222
+	}
+}

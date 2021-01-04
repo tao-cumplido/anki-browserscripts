@@ -1,0 +1,37 @@
+{
+	"kanji": "厲",
+	"meanings": [
+		"whetstone",
+		"grind",
+		"sharpen",
+		"whet",
+		"encourage"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"レイ",
+			"ライ",
+			"レツ",
+			"レチ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"といし",
+			"と",
+			"こす"
+		],
+		"rare": [],
+		"okurigana": [
+			"と.ぐ",
+			"こす.る"
+		]
+	},
+	"frequency": {
+		"mean": 4002,
+		"wikipedia": 3698
+	}
+}

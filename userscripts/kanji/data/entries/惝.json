@@ -1,0 +1,32 @@
+{
+	"kanji": "惝",
+	"meanings": [
+		"dejected",
+		"dispirited",
+		"vague",
+		"faint",
+		"grand"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ショウ",
+			"トウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"うっとり"
+		],
+		"rare": [],
+		"okurigana": [
+			"うっとり.する"
+		]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"kanji": "釽",
+	"meanings": [
+		"farmer's hoeing fork"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ヘキ",
+			"ヒャク",
+			"ハク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"はながき",
+			"さ"
+		],
+		"rare": [],
+		"okurigana": [
+			"さ.く"
+		]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

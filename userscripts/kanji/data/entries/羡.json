@@ -1,0 +1,33 @@
+{
+	"kanji": "羡",
+	"meanings": [
+		"envy",
+		"admire",
+		"praise",
+		"covet"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"イ",
+			"セン",
+			"エン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"うらや",
+			"あまり"
+		],
+		"rare": [],
+		"okurigana": [
+			"うらや.む"
+		]
+	},
+	"frequency": {
+		"mean": 4517,
+		"wikipedia": 4208
+	}
+}

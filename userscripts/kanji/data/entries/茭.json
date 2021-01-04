@@ -1,0 +1,29 @@
+{
+	"kanji": "茭",
+	"meanings": [
+		"an aquatic grass",
+		"the stalks of which are eaten as a vegetable"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ケキ",
+			"キャク",
+			"コウ",
+			"キョウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"まぐさ"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4530,
+		"wikipedia": 4221
+	}
+}

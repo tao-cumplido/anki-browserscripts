@@ -1,0 +1,32 @@
+{
+	"kanji": "尌",
+	"meanings": [
+		"standing (something) up"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"シュ",
+			"チュ",
+			"ジュウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"た",
+			"わらわ",
+			"しもべ"
+		],
+		"rare": [],
+		"okurigana": [
+			"た.てる",
+			"た.つ"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

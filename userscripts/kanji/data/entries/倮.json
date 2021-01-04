@@ -1,0 +1,35 @@
+{
+	"kanji": "倮",
+	"meanings": [
+		"bare",
+		"naked",
+		"uncovered"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ラ",
+			"カ",
+			"ゲ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"はだか",
+			"せま",
+			"かたぬ",
+			"すはだ"
+		],
+		"rare": [],
+		"okurigana": [
+			"せま.い",
+			"かたぬ.ぐ"
+		]
+	},
+	"frequency": {
+		"mean": 4534,
+		"wikipedia": 4225
+	}
+}

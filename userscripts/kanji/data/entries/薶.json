@@ -1,0 +1,32 @@
+{
+	"kanji": "薶",
+	"meanings": [
+		"to bury",
+		"to stop up",
+		"dirty",
+		"filthy"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"バイ",
+			"マイ",
+			"リ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"うず"
+		],
+		"rare": [],
+		"okurigana": [
+			"うず.める"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

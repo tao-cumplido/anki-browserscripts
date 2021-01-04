@@ -1,0 +1,34 @@
+{
+	"kanji": "圩",
+	"meanings": [
+		"dike",
+		"embankment"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ウ",
+			"オ",
+			"イ",
+			"キョ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"つつ",
+			"きし",
+			"くぼ"
+		],
+		"rare": [],
+		"okurigana": [
+			"つつ.み",
+			"くぼ.む"
+		]
+	},
+	"frequency": {
+		"mean": 4318,
+		"wikipedia": 4009
+	}
+}

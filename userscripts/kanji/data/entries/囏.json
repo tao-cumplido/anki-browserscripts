@@ -1,0 +1,37 @@
+{
+	"kanji": "囏",
+	"meanings": [
+		"difficult",
+		"trying",
+		"be distressed",
+		"parent's funeral ceremony",
+		"mourning",
+		"perilous"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"カン",
+			"ケン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"なや",
+			"かた",
+			"も"
+		],
+		"rare": [],
+		"okurigana": [
+			"なや.む",
+			"かた.い",
+			"なや.み"
+		]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

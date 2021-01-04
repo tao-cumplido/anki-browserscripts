@@ -1,0 +1,34 @@
+{
+	"kanji": "翛",
+	"meanings": [
+		"look of rumpled feathers",
+		"bedraggled",
+		"hasty",
+		"rapid flight"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ショウ",
+			"ユウ",
+			"ユ",
+			"シュク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"はや"
+		],
+		"rare": [],
+		"okurigana": [
+			"はや.い"
+		]
+	},
+	"frequency": {
+		"mean": 4533,
+		"twitter": 1727,
+		"wikipedia": 4225
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"kanji": "亗",
+	"meanings": [
+		"harvest",
+		"year",
+		"age"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"サイ",
+			"セイ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"とし",
+			"とせ",
+			"よわ"
+		],
+		"rare": [],
+		"okurigana": [
+			"よわ.い"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

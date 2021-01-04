@@ -1,0 +1,30 @@
+{
+	"kanji": "餲",
+	"meanings": [
+		"spoiled",
+		"sour",
+		"moldy"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"エイ",
+			"アツ",
+			"アチ",
+			"アイ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"くさる"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

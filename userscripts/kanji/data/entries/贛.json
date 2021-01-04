@@ -1,0 +1,31 @@
+{
+	"kanji": "贛",
+	"meanings": [
+		"Jiangxi province",
+		"places therein"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"コウ",
+			"ク",
+			"カン",
+			"コン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"たま"
+		],
+		"rare": [],
+		"okurigana": [
+			"たま.う"
+		]
+	},
+	"frequency": {
+		"mean": 3887,
+		"wikipedia": 3589
+	}
+}

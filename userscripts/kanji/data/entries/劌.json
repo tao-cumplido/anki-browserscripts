@@ -1,0 +1,37 @@
+{
+	"kanji": "劌",
+	"meanings": [
+		"to cut",
+		"injure",
+		"stab",
+		"stick on"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ケイ",
+			"ケ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"そこ",
+			"さ",
+			"はり",
+			"とげ",
+			"あ"
+		],
+		"rare": [],
+		"okurigana": [
+			"そこ.なう",
+			"さ.く",
+			"あ.う"
+		]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

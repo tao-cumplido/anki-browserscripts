@@ -1,0 +1,34 @@
+{
+	"kanji": "啇",
+	"meanings": [
+		"the stalk",
+		"the stem",
+		"the foot",
+		"the base"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": [
+			"テキ",
+			"チャク",
+			"セキ"
+		]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": [
+			"もと",
+			"ねもと",
+			"やわ"
+		],
+		"okurigana": [
+			"やわ.らぐ"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

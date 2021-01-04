@@ -1,0 +1,30 @@
+{
+	"kanji": "僩",
+	"meanings": [
+		"courageous",
+		"martial",
+		"dignified"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"カン",
+			"ゲン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"たけだけ"
+		],
+		"rare": [],
+		"okurigana": [
+			"たけだけ.しい"
+		]
+	},
+	"frequency": {
+		"mean": 4537,
+		"wikipedia": 4228
+	}
+}

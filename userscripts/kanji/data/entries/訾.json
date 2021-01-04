@@ -1,0 +1,33 @@
+{
+	"kanji": "訾",
+	"meanings": [
+		"bad-mouth",
+		"criticize",
+		"defects"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"シ",
+			"セイ",
+			"サイ",
+			"ソ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"つとめない",
+			"そし"
+		],
+		"rare": [],
+		"okurigana": [
+			"そし.る"
+		]
+	},
+	"frequency": {
+		"mean": 4510,
+		"wikipedia": 4201
+	}
+}

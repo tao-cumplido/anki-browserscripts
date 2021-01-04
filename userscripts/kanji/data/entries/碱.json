@@ -1,0 +1,32 @@
+{
+	"kanji": "碱",
+	"meanings": [
+		"alkaline",
+		"alkali",
+		"lye",
+		"salt"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ケン",
+			"カン",
+			"セン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"あ"
+		],
+		"rare": [],
+		"okurigana": [
+			"あ.く"
+		]
+	},
+	"frequency": {
+		"mean": 4532,
+		"wikipedia": 4223
+	}
+}

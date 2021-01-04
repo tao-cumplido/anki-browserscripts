@@ -1,0 +1,33 @@
+{
+	"kanji": "刖",
+	"meanings": [
+		"cutting off feet as form of punishment"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ゲツ",
+			"グチ",
+			"ゴツ",
+			"ゴチ",
+			"カツ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"き",
+			"あやう"
+		],
+		"rare": [],
+		"okurigana": [
+			"き.る",
+			"あやう.い"
+		]
+	},
+	"frequency": {
+		"mean": 4527,
+		"wikipedia": 4218
+	}
+}

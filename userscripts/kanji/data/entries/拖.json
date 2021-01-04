@@ -1,0 +1,32 @@
+{
+	"kanji": "拖",
+	"meanings": [
+		"drag",
+		"tow",
+		"haul",
+		"delay",
+		"prolong"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"タ",
+			"イ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ひ"
+		],
+		"rare": [],
+		"okurigana": [
+			"ひ.く"
+		]
+	},
+	"frequency": {
+		"mean": 4414,
+		"wikipedia": 4105
+	}
+}

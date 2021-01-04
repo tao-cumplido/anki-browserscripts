@@ -1,0 +1,28 @@
+{
+	"kanji": "殁",
+	"meanings": [
+		"die",
+		"death",
+		"dead"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ボツ",
+			"モチ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"しぬ"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"kanji": "刨",
+	"meanings": [
+		"carpenter's plane",
+		"plane",
+		"level"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ホウ",
+			"ビョウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"けず"
+		],
+		"rare": [],
+		"okurigana": [
+			"けず.る"
+		]
+	},
+	"frequency": {
+		"mean": 4533,
+		"wikipedia": 4224
+	}
+}

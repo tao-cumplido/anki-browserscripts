@@ -1,0 +1,31 @@
+{
+	"kanji": "紈",
+	"meanings": [
+		"white silk",
+		"fine silk",
+		"gauze"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"カン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"しろぎぬ",
+			"むすぶ",
+			"かさ"
+		],
+		"rare": [],
+		"okurigana": [
+			"かさ.なる"
+		]
+	},
+	"frequency": {
+		"mean": 4520,
+		"wikipedia": 4211
+	}
+}

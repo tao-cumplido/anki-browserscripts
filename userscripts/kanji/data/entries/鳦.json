@@ -1,0 +1,28 @@
+{
+	"kanji": "鳦",
+	"meanings": [
+		"swallow"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"イツ",
+			"イチ",
+			"アツ",
+			"エチ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"つばめ"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

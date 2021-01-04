@@ -1,0 +1,32 @@
+{
+	"kanji": "胶",
+	"meanings": [
+		"glue",
+		"gum",
+		"resin",
+		"rubber",
+		"sound",
+		"shin bone"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"コウ",
+			"ギョウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"こえ",
+			"はぎのほね"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4465,
+		"wikipedia": 4156
+	}
+}

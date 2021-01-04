@@ -1,0 +1,36 @@
+{
+	"kanji": "瀆",
+	"meanings": [
+		"ditch",
+		"sluice",
+		"gutter",
+		"drain",
+		"blaspheme",
+		"pollute"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"トク",
+			"トウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"けが",
+			"みぞ"
+		],
+		"rare": [],
+		"okurigana": [
+			"けが.す",
+			"けが.れ"
+		]
+	},
+	"frequency": {
+		"mean": 4363,
+		"news": 1703,
+		"wikipedia": 4057
+	}
+}

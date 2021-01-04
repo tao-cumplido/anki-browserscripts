@@ -1,0 +1,30 @@
+{
+	"kanji": "搐",
+	"meanings": [
+		"cramp",
+		"spasm",
+		"convulsion",
+		"twitch"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"チク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"いた"
+		],
+		"rare": [],
+		"okurigana": [
+			"いた.む"
+		]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

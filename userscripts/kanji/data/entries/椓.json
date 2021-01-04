@@ -1,0 +1,30 @@
+{
+	"kanji": "椓",
+	"meanings": [
+		"strike",
+		"hit",
+		"beat",
+		"hammer"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"タク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"たた"
+		],
+		"rare": [],
+		"okurigana": [
+			"たた.く"
+		]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

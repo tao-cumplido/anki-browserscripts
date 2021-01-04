@@ -1,0 +1,32 @@
+{
+	"kanji": "嘷",
+	"meanings": [
+		"the roaring of wild beasts",
+		"to howl",
+		"to wail",
+		"to bawl"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"コウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ほ",
+			"さけ"
+		],
+		"rare": [],
+		"okurigana": [
+			"ほ.える",
+			"さけ.ぶ"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

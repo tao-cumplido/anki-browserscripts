@@ -1,0 +1,37 @@
+{
+	"kanji": "嗛",
+	"meanings": [
+		"pouch",
+		"hold",
+		"content",
+		"insufficient",
+		"put in mouth"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ケン",
+			"カン",
+			"キョウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ふく",
+			"うら",
+			"へりくだ"
+		],
+		"rare": [],
+		"okurigana": [
+			"ふく.む",
+			"うら.む",
+			"へりくだ.る"
+		]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"kanji": "寘",
+	"meanings": [
+		"put aside",
+		"put down",
+		"discard"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"シ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"おく",
+			"い",
+			"と"
+		],
+		"rare": [],
+		"okurigana": [
+			"い.れる",
+			"と.める"
+		]
+	},
+	"frequency": {
+		"mean": 4481,
+		"wikipedia": 4172
+	}
+}

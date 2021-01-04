@@ -1,0 +1,32 @@
+{
+	"kanji": "呧",
+	"meanings": [
+		"to rebuke",
+		"to scold",
+		"slander"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"テイ",
+			"タイ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"そし",
+			"しか"
+		],
+		"rare": [],
+		"okurigana": [
+			"そし.る",
+			"しか.る"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"kanji": "冘",
+	"meanings": [
+		"to move on",
+		"doubtful"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"イン",
+			"ユ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"おこた",
+			"ためら",
+			"うたが"
+		],
+		"rare": [],
+		"okurigana": [
+			"おこた.る",
+			"ためら.う",
+			"うたが.う"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

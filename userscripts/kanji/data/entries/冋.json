@@ -1,0 +1,31 @@
+{
+	"kanji": "冋",
+	"meanings": [
+		"desert",
+		"border prairie",
+		"the 1st form is radical 13"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"キョウ",
+			"ケイ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"まきがまえ",
+			"えながまえ",
+			"どうがまえ",
+			"けいがまえ"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

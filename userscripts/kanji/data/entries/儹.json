@@ -1,0 +1,30 @@
+{
+	"kanji": "儹",
+	"meanings": [
+		"to accumulate",
+		"to hoard",
+		"to store up"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"サン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"あつ"
+		],
+		"rare": [],
+		"okurigana": [
+			"あつ.める",
+			"あつ.まる"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

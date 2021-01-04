@@ -1,0 +1,33 @@
+{
+	"kanji": "噍",
+	"meanings": [
+		"chew",
+		"eat",
+		"munch"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ショウ",
+			"シュウ",
+			"シュ",
+			"シャク",
+			"ザク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"か"
+		],
+		"rare": [],
+		"okurigana": [
+			"か.む"
+		]
+	},
+	"frequency": {
+		"mean": 4536,
+		"wikipedia": 4227
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"kanji": "嘑",
+	"meanings": [
+		"to menace",
+		"to howl at",
+		"to bawl"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"コ",
+			"ク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"さけ",
+			"な",
+			"よ"
+		],
+		"rare": [],
+		"okurigana": [
+			"さけ.ぶ",
+			"な.く",
+			"よ.ぶ"
+		]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

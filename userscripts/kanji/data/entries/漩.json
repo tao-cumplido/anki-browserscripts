@@ -1,0 +1,28 @@
+{
+	"kanji": "漩",
+	"meanings": [
+		"eddy",
+		"whirlpool"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"セン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"めぐ"
+		],
+		"rare": [],
+		"okurigana": [
+			"めぐ.る"
+		]
+	},
+	"frequency": {
+		"mean": 4532,
+		"wikipedia": 4223
+	}
+}

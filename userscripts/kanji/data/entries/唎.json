@@ -1,0 +1,28 @@
+{
+	"kanji": "唎",
+	"meanings": [
+		"sound",
+		"noise",
+		"final particle"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"リ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"こえ"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4483,
+		"twitter": 1727,
+		"wikipedia": 4175
+	}
+}

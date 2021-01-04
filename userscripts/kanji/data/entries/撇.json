@@ -1,0 +1,31 @@
+{
+	"kanji": "撇",
+	"meanings": [
+		"discard",
+		"abandon",
+		"throw away"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ヘツ",
+			"ヘチ",
+			"ヘイ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ぬぐ"
+		],
+		"rare": [],
+		"okurigana": [
+			"ぬぐ.う"
+		]
+	},
+	"frequency": {
+		"mean": 4531,
+		"wikipedia": 4222
+	}
+}

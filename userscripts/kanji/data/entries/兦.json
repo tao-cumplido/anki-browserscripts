@@ -1,0 +1,32 @@
+{
+	"kanji": "兦",
+	"meanings": [
+		"destruction"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ボウ",
+			"モウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"な",
+			"ほろ"
+		],
+		"rare": [],
+		"okurigana": [
+			"な.い",
+			"ほろ.びる",
+			"ほろ.ぶ",
+			"ほろ.ぼす"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"kanji": "惕",
+	"meanings": [
+		"be cautious",
+		"careful",
+		"alert"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"テキ",
+			"チャク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"つつし"
+		],
+		"rare": [],
+		"okurigana": [
+			"つつし.む"
+		]
+	},
+	"frequency": {
+		"mean": 4384,
+		"wikipedia": 4075
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"kanji": "鉸",
+	"meanings": [
+		"hinge",
+		"shears",
+		"scissors"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"コウ",
+			"キョウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"はさみ"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4493,
+		"wikipedia": 4184
+	}
+}

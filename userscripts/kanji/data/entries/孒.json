@@ -1,0 +1,33 @@
+{
+	"kanji": "孒",
+	"meanings": [
+		"larvae of the mosquito"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ケツ",
+			"カチ",
+			"キョウ",
+			"ク",
+			"クツ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ひだりのうでがない",
+			"みじか"
+		],
+		"rare": [],
+		"okurigana": [
+			"みじか.い"
+		]
+	},
+	"frequency": {
+		"mean": 4534,
+		"twitter": 1727,
+		"wikipedia": 4226
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"kanji": "覐",
+	"meanings": [
+		"a sleep",
+		"to realize",
+		"to feel"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"カク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"おぼ",
+			"さ",
+			"さと"
+		],
+		"rare": [],
+		"okurigana": [
+			"おぼ.える",
+			"さ.ます",
+			"さ.める",
+			"さと.る"
+		]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

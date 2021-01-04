@@ -1,0 +1,28 @@
+{
+	"kanji": "噯",
+	"meanings": [
+		"interjection",
+		"exclamation",
+		"breathe"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"アイ",
+			"ガイ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"いき"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4511,
+		"wikipedia": 4202
+	}
+}

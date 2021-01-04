@@ -1,0 +1,29 @@
+{
+	"kanji": "沇",
+	"meanings": [
+		"flowing and engulfing",
+		"brimming"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"エン",
+			"イ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"なが"
+		],
+		"rare": [],
+		"okurigana": [
+			"なが.れる"
+		]
+	},
+	"frequency": {
+		"mean": 4529,
+		"wikipedia": 4220
+	}
+}

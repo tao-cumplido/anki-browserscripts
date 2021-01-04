@@ -1,0 +1,29 @@
+{
+	"kanji": "惊",
+	"meanings": [
+		"frighten",
+		"surprise",
+		"startle"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"リョウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"かな"
+		],
+		"rare": [],
+		"okurigana": [
+			"かな.しむ"
+		]
+	},
+	"frequency": {
+		"mean": 4513,
+		"wikipedia": 4204
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"kanji": "埝",
+	"meanings": [
+		"bank",
+		"dike",
+		"protuberance"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"テン",
+			"ドウ",
+			"ニョウ",
+			"ネン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"した",
+			"ます",
+			"お"
+		],
+		"rare": [],
+		"okurigana": [
+			"お.ちる"
+		]
+	},
+	"frequency": {
+		"mean": 4533,
+		"wikipedia": 4224
+	}
+}

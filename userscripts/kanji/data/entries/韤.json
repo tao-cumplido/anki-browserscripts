@@ -1,0 +1,30 @@
+{
+	"kanji": "韤",
+	"meanings": [
+		"socks",
+		"stockings"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ベツ",
+			"モチ",
+			"バツ",
+			"マチ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"くつした",
+			"たび"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

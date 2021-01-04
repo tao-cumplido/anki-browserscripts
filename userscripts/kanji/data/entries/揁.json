@@ -1,0 +1,30 @@
+{
+	"kanji": "揁",
+	"meanings": [
+		"sound of setting up a koto"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"テイ",
+			"チョウ",
+			"コウ",
+			"キョウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ひ"
+		],
+		"rare": [],
+		"okurigana": [
+			"ひ.く"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

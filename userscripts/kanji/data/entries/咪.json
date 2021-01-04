@@ -1,0 +1,30 @@
+{
+	"kanji": "咪",
+	"meanings": [
+		"sound of cat",
+		"cat's meow",
+		"meter",
+		"(Cantonese) don't!"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ビ",
+			"ベイ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"めえとる"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4477,
+		"twitter": 1727,
+		"wikipedia": 4169
+	}
+}

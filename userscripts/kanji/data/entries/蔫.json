@@ -1,0 +1,31 @@
+{
+	"kanji": "蔫",
+	"meanings": [
+		"withered",
+		"faded",
+		"decayed",
+		"calm"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"エン",
+			"オン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"しぼ"
+		],
+		"rare": [],
+		"okurigana": [
+			"しぼ.む"
+		]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"kanji": "鑱",
+	"meanings": [
+		"spade",
+		"trowel"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"サン",
+			"ゼン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"するど"
+		],
+		"rare": [],
+		"okurigana": [
+			"するど.い"
+		]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

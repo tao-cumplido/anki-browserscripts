@@ -1,0 +1,35 @@
+{
+	"kanji": "捽",
+	"meanings": [
+		"clutch",
+		"grasp",
+		"pull up",
+		"contradict"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ソツ",
+			"ソチ",
+			"チュツ",
+			"ジュチ",
+			"サイ",
+			"スイ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"つか"
+		],
+		"rare": [],
+		"okurigana": [
+			"つか.む"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"kanji": "鍊",
+	"meanings": [
+		"smelt metals",
+		"forge",
+		"refine"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": [
+			"レン"
+		]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": [
+			"ねる"
+		],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4521,
+		"twitter": 1727,
+		"wikipedia": 4213
+	}
+}

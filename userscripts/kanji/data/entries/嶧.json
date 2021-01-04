@@ -1,0 +1,31 @@
+{
+	"kanji": "嶧",
+	"meanings": [
+		"range of peaks",
+		"name of mountain"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"エキ",
+			"ヤク",
+			"セキ",
+			"シャク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"つら"
+		],
+		"rare": [],
+		"okurigana": [
+			"つら.なる"
+		]
+	},
+	"frequency": {
+		"mean": 4483,
+		"wikipedia": 4174
+	}
+}

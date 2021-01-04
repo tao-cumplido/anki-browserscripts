@@ -8,7 +8,7 @@
 	},
 	"scripts": {
 		"predata": "rm -rf data/entries",
-		"data": "ts-node data/build.ts",
+		"data": "env TS_NODE_PROJECT=tsconfig.data.json ts-node data/build.ts",
 		"build": "env NODE_ENV=production TS_NODE_PROJECT=tsconfig.webpack.json webpack",
 		"serve": "env TS_NODE_PROJECT=tsconfig.webpack.json webpack-dev-server"
 	},

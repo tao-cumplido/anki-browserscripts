@@ -1,0 +1,31 @@
+{
+	"kanji": "苾",
+	"meanings": [
+		"smell",
+		"fragrance",
+		"aroma"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ヒツ",
+			"ビチ",
+			"ヘツ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"かお"
+		],
+		"rare": [],
+		"okurigana": [
+			"かお.る"
+		]
+	},
+	"frequency": {
+		"mean": 4446,
+		"wikipedia": 4137
+	}
+}

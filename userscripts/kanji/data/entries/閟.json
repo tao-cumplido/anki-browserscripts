@@ -1,0 +1,29 @@
+{
+	"kanji": "閟",
+	"meanings": [
+		"hide",
+		"keep secret",
+		"hideaway"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ヒ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"と"
+		],
+		"rare": [],
+		"okurigana": [
+			"と.じる"
+		]
+	},
+	"frequency": {
+		"mean": 4538,
+		"wikipedia": 4229
+	}
+}

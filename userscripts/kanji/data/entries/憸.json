@@ -1,0 +1,30 @@
+{
+	"kanji": "憸",
+	"meanings": [
+		"flatter",
+		"crafty",
+		"having specious"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"セン",
+			"ケン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"かたよ"
+		],
+		"rare": [],
+		"okurigana": [
+			"かたよ.る"
+		]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

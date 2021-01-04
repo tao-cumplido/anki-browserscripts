@@ -1,0 +1,32 @@
+{
+	"kanji": "嚙",
+	"meanings": [
+		"bite",
+		"gnaw"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": [
+			"コウ",
+			"ゴウ"
+		]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": [
+			"か"
+		],
+		"okurigana": [
+			"か.む",
+			"か.じる"
+		]
+	},
+	"frequency": {
+		"mean": 4499,
+		"news": 1704,
+		"twitter": 1727,
+		"wikipedia": 4193
+	}
+}

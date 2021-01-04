@@ -1,0 +1,30 @@
+{
+	"kanji": "晛",
+	"meanings": [
+		"sunlight"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ケン",
+			"デン",
+			"ネン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ひがあらわ",
+			"ひざ"
+		],
+		"rare": [],
+		"okurigana": [
+			"ひがあらわ.れる"
+		]
+	},
+	"frequency": {
+		"mean": 4500,
+		"wikipedia": 4191
+	}
+}

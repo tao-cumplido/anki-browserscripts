@@ -1,0 +1,29 @@
+{
+	"kanji": "咉",
+	"meanings": [
+		"an echo",
+		"sound",
+		"to vomit (as an infant)"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"オウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ふさ"
+		],
+		"rare": [],
+		"okurigana": [
+			"ふさ.がる"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

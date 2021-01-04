@@ -1,0 +1,32 @@
+{
+	"kanji": "敠",
+	"meanings": [
+		"to weigh",
+		"cut",
+		"come without being invited"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"タツ",
+			"タチ",
+			"セツ",
+			"セチ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"はか"
+		],
+		"rare": [],
+		"okurigana": [
+			"はか.る"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

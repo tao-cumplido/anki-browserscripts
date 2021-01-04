@@ -1,0 +1,30 @@
+{
+	"kanji": "忑",
+	"meanings": [
+		"fearful",
+		"nervous",
+		"timid"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"トク",
+			"トウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"むな"
+		],
+		"rare": [],
+		"okurigana": [
+			"むな.しい"
+		]
+	},
+	"frequency": {
+		"mean": 4540,
+		"wikipedia": 4231
+	}
+}

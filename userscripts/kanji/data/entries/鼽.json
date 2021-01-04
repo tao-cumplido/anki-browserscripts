@@ -1,0 +1,28 @@
+{
+	"kanji": "鼽",
+	"meanings": [
+		"clogged nose"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"グ",
+			"キュウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"つ"
+		],
+		"rare": [],
+		"okurigana": [
+			"つ.まる"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

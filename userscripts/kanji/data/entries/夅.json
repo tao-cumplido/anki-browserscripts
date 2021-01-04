@@ -1,0 +1,36 @@
+{
+	"kanji": "夅",
+	"meanings": [
+		"to descend",
+		"to come down from heaven",
+		"to send down"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"コウ",
+			"ゴ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"お",
+			"ふ",
+			"くだ"
+		],
+		"rare": [],
+		"okurigana": [
+			"お.りる",
+			"お.ろす",
+			"ふ.る",
+			"くだ.る",
+			"くだ.す"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

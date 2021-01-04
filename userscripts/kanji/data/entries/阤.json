@@ -1,0 +1,30 @@
+{
+	"kanji": "阤",
+	"meanings": [
+		"hill"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"チ",
+			"シ",
+			"タ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"さか",
+			"くず"
+		],
+		"rare": [],
+		"okurigana": [
+			"くず.れる"
+		]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

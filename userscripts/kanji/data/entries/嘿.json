@@ -1,0 +1,34 @@
+{
+	"kanji": "嘿",
+	"meanings": [
+		"be silent",
+		"be quiet"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ボク",
+			"モク",
+			"コク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"しず",
+			"だま",
+			"あざむ"
+		],
+		"rare": [],
+		"okurigana": [
+			"しず.か",
+			"だま.る",
+			"あざむ.く"
+		]
+	},
+	"frequency": {
+		"mean": 4533,
+		"wikipedia": 4224
+	}
+}

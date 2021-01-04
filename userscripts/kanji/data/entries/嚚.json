@@ -1,0 +1,35 @@
+{
+	"kanji": "嚚",
+	"meanings": [
+		"argumentative",
+		"talkative"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ギン",
+			"ゴン",
+			"ガン",
+			"ゲン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"わる",
+			"おろ",
+			"つ"
+		],
+		"rare": [],
+		"okurigana": [
+			"わる.い",
+			"おろ.か",
+			"つ.れない"
+		]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

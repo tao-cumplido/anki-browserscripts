@@ -1,0 +1,30 @@
+{
+	"kanji": "膄",
+	"meanings": [
+		"become emaciated"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"シュウ",
+			"ニュ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"やせ",
+			"か"
+		],
+		"rare": [],
+		"okurigana": [
+			"やせ.る",
+			"か.ける"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

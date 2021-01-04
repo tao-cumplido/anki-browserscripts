@@ -1,0 +1,30 @@
+{
+	"kanji": "掽",
+	"meanings": [
+		"collide",
+		"meet unexpectedly"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ホウ",
+			"ヒョウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"つ",
+			"はえずみ"
+		],
+		"rare": [],
+		"okurigana": [
+			"つ.く"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

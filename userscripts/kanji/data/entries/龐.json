@@ -1,0 +1,30 @@
+{
+	"kanji": "龐",
+	"meanings": [
+		"disorderly",
+		"messy",
+		"huge",
+		"big"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ホウ",
+			"ロウ",
+			"ル"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"たかどの"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 3559,
+		"wikipedia": 3305
+	}
+}

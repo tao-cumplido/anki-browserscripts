@@ -1,0 +1,28 @@
+{
+	"kanji": "猱",
+	"meanings": [
+		"monkey with yellow hair"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ドウ",
+			"ノウ",
+			"ジュウ",
+			"ニュウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"さる"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4538,
+		"wikipedia": 4229
+	}
+}

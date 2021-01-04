@@ -1,0 +1,30 @@
+{
+	"kanji": "增",
+	"meanings": [
+		"increase",
+		"add to",
+		"augment"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": [
+			"ゾウ",
+			"ソウ"
+		]
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [],
+		"rare": [
+			"ます",
+			"ふえる",
+			"ふやす"
+		],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4246,
+		"wikipedia": 3936
+	}
+}

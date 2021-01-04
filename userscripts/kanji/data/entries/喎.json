@@ -1,0 +1,33 @@
+{
+	"kanji": "喎",
+	"meanings": [
+		"wry mouth"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"カイ",
+			"ケ",
+			"クウ",
+			"カ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"よこしま",
+			"くちがゆが",
+			"ゆが"
+		],
+		"rare": [],
+		"okurigana": [
+			"くちがゆが.む",
+			"ゆが.む"
+		]
+	},
+	"frequency": {
+		"mean": 4539,
+		"wikipedia": 4230
+	}
+}

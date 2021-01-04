@@ -1,0 +1,31 @@
+{
+	"kanji": "众",
+	"meanings": [
+		"multitude",
+		"crowd",
+		"masses",
+		"public"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ギン",
+			"ゴン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"おお"
+		],
+		"rare": [],
+		"okurigana": [
+			"おお.い"
+		]
+	},
+	"frequency": {
+		"mean": 4476,
+		"wikipedia": 4167
+	}
+}

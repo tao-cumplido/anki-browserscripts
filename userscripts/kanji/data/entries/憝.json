@@ -1,0 +1,30 @@
+{
+	"kanji": "憝",
+	"meanings": [
+		"to dislike",
+		"to abhor",
+		"to hate"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"タイ",
+			"ズイ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"うら"
+		],
+		"rare": [],
+		"okurigana": [
+			"うら.む"
+		]
+	},
+	"frequency": {
+		"mean": 4541,
+		"wikipedia": 4232
+	}
+}

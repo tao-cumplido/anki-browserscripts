@@ -1,0 +1,32 @@
+{
+	"kanji": "騐",
+	"meanings": [
+		"to verity",
+		"to fulfill",
+		"to examine",
+		"to hold an inquest"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ケン"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"あかし",
+			"しるし",
+			"ため"
+		],
+		"rare": [],
+		"okurigana": [
+			"ため.す"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

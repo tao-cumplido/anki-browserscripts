@@ -1,0 +1,30 @@
+{
+	"kanji": "悤",
+	"meanings": [
+		"agitated",
+		"restless",
+		"hurried"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ソウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"にわか",
+			"あわ"
+		],
+		"rare": [],
+		"okurigana": [
+			"あわ.てる"
+		]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

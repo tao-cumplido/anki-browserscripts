@@ -1,0 +1,32 @@
+{
+	"kanji": "嬛",
+	"meanings": [
+		"apt",
+		"clever",
+		"sycophant",
+		"flatterer"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ケン",
+			"ケイ",
+			"ギョウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"かた"
+		],
+		"rare": [],
+		"okurigana": [
+			"かた.い"
+		]
+	},
+	"frequency": {
+		"mean": 4402,
+		"wikipedia": 4093
+	}
+}

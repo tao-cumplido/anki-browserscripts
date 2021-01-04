@@ -1,0 +1,30 @@
+{
+	"kanji": "稭",
+	"meanings": [
+		"stalk of grain",
+		"rice",
+		"corn",
+		"hemp"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"カツ",
+			"ケチ",
+			"カイ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"わら"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4538,
+		"wikipedia": 4229
+	}
+}

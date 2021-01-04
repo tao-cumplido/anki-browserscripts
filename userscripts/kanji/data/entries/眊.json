@@ -1,0 +1,31 @@
+{
+	"kanji": "眊",
+	"meanings": [
+		"dim-sighted",
+		"eyes not seeing clearly"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ボウ",
+			"モウ",
+			"バク",
+			"マク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"くら"
+		],
+		"rare": [],
+		"okurigana": [
+			"くら.い"
+		]
+	},
+	"frequency": {
+		"mean": 4542,
+		"wikipedia": 4233
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"kanji": "凥",
+	"meanings": [
+		"to dwell"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"キョ",
+			"コ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"い",
+			"お"
+		],
+		"rare": [],
+		"okurigana": [
+			"い.る",
+			"お.る"
+		]
+	},
+	"frequency": {
+		"mean": 4543,
+		"wikipedia": 4234
+	}
+}

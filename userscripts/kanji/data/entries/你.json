@@ -1,0 +1,31 @@
+{
+	"kanji": "你",
+	"meanings": [
+		"you",
+		"second person pronoun"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ジ",
+			"ニ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"なんじ",
+			"しかり",
+			"その",
+			"のみ"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 3435,
+		"twitter": 1696,
+		"wikipedia": 3209
+	}
+}

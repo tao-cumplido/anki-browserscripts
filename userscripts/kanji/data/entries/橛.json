@@ -1,0 +1,30 @@
+{
+	"kanji": "橛",
+	"meanings": [
+		"post",
+		"stake",
+		"axle"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"ケツ",
+			"カチ",
+			"ケイ",
+			"ケ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"くい"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4486,
+		"wikipedia": 4177
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"kanji": "柜",
+	"meanings": [
+		"cabinet",
+		"cupboard",
+		"shop counter"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"キョ",
+			"コ",
+			"ク"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"あまだれ"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4538,
+		"wikipedia": 4229
+	}
+}

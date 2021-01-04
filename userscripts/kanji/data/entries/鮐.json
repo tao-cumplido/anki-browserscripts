@@ -1,0 +1,28 @@
+{
+	"kanji": "鮐",
+	"meanings": [
+		"blowfish",
+		"globefish",
+		"tetraodon"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"タイ",
+			"イ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"ふぐ"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4535,
+		"wikipedia": 4226
+	}
+}

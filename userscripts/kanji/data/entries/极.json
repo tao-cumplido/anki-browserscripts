@@ -1,0 +1,29 @@
+{
+	"kanji": "极",
+	"meanings": [
+		"extreme",
+		"utmost",
+		"furthest",
+		"final"
+	],
+	"onyomi": {
+		"frequent": [],
+		"common": [
+			"キョウ",
+			"ゴウ"
+		],
+		"rare": []
+	},
+	"kunyomi": {
+		"frequent": [],
+		"common": [
+			"にぐら"
+		],
+		"rare": [],
+		"okurigana": []
+	},
+	"frequency": {
+		"mean": 4405,
+		"wikipedia": 4096
+	}
+}
