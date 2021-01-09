@@ -156,7 +156,7 @@ module.exports = {
 			{ class: 'node' },
 			{ class: 'external' },
 			'@mdi',
-			'@~internal',
+			['@~internal', '@~types'],
 			{ class: 'relative' },
 		],
 		'style/sort-imports': ['error', { caseGroups: true, typesInGroup: 'top' }],

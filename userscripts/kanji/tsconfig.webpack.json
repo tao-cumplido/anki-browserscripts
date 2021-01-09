@@ -4,7 +4,7 @@
 		"module": "commonjs",
 		"target": "es2017",
 		"types": ["node", "webpack-dev-server"],
-		"lib": ["es2020", "dom", "dom.iterable"]
+		"lib": ["es2020"]
 	},
-	"files": ["webpack.config.ts"]
+	"files": ["webpack.shared.ts", "webpack.anki.ts", "webpack.main.ts"]
 }

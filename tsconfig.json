@@ -3,6 +3,7 @@
 	"include": [],
 	"references": [
 		{ "path": "./@~types/anki-persistence/tsconfig.json" },
+		{ "path": "./@~types/dom/tsconfig.json" },
 		{ "path": "./@~types/html/tsconfig.json" },
 		{ "path": "./@~types/scss/tsconfig.json" },
 		{ "path": "./@~types/svg/tsconfig.json" },
