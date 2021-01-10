@@ -7,7 +7,7 @@
 		{ "path": "./@~types/html/tsconfig.json" },
 		{ "path": "./@~types/scss/tsconfig.json" },
 		{ "path": "./@~types/svg/tsconfig.json" },
-		{ "path": "./@~types/tampermonkey/tsconfig.json" },
+		{ "path": "./@~types/tampermonkey.add-style/tsconfig.json" },
 		{ "path": "./@~internal/anki-connect/tsconfig.json" },
 		{ "path": "./@~internal/components/tsconfig.json" },
 		{ "path": "./@~internal/util/tsconfig.json" },
