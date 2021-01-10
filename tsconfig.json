@@ -10,6 +10,7 @@
 		{ "path": "./@~types/tampermonkey.add-style/tsconfig.json" },
 		{ "path": "./@~internal/anki-connect/tsconfig.json" },
 		{ "path": "./@~internal/components/tsconfig.json" },
+		{ "path": "./@~internal/dom/tsconfig.json" },
 		{ "path": "./@~internal/util/tsconfig.json" },
 		{ "path": "./userscripts/kanji/tsconfig.app.json" },
 		{ "path": "./userscripts/kanji/tsconfig.anki.json" },

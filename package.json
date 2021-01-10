@@ -29,10 +29,14 @@
 		"stylelint-config-recommended": "3.0.0",
 		"stylelint-prettier": "1.1.2",
 		"stylelint-scss": "3.18.0",
-		"ts-node": "9.0.0",
-		"typescript": "4.0.3"
+		"ts-node": "*",
+		"typescript": "*"
 	},
 	"resolutions": {
+		"**/lit-element": "2.4.0",
+		"**/lit-html": "1.3.0",
+		"**/ts-node": "9.1.1",
+		"**/typescript": "4.0.3",
 		"**/webpack/acorn": "8.0.4"
 	}
 }

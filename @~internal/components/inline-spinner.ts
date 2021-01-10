@@ -2,7 +2,7 @@ import type { TemplateResult } from 'lit-element';
 import { css, html, internalProperty, LitElement } from 'lit-element';
 import { classMap } from 'lit-html/directives/class-map';
 
-import { safeCustomElement } from '@~internal/util';
+import { safeCustomElement } from '@~internal/dom';
 
 @safeCustomElement('inline-spinner')
 export class InlineSpinner extends LitElement {

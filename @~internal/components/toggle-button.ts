@@ -1,7 +1,7 @@
 import type { TemplateResult } from 'lit-element';
 import { html, property, LitElement } from 'lit-element';
 
-import { safeCustomElement } from '@~internal/util';
+import { safeCustomElement } from '@~internal/dom';
 
 import './icon-button';
 

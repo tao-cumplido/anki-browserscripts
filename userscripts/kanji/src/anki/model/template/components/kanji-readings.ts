@@ -2,7 +2,7 @@ import type { TemplateResult } from 'lit-html';
 import { html, property, unsafeCSS, LitElement } from 'lit-element';
 import { nothing } from 'lit-html';
 
-import { safeCustomElement } from '@~internal/util';
+import { safeCustomElement } from '@~internal/dom';
 
 import type { Readings } from '../../../../../types';
 import styles from './kanji-readings.scss';

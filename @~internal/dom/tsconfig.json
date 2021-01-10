@@ -2,7 +2,7 @@
 	"extends": "../../tsconfig.base.json",
 	"compilerOptions": {
 		"types": [],
-		"lib": ["es2020"]
+		"lib": ["es2020", "dom", "dom.iterable"]
 	},
 	"include": ["src/**/*.ts"]
 }

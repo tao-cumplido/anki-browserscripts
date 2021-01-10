@@ -2,7 +2,7 @@ import type { TemplateResult } from 'lit-element';
 import { css, customElement, html, LitElement } from 'lit-element';
 import { until } from 'lit-html/directives/until';
 
-import type { TargetEvent } from '@~internal/util';
+import type { TargetEvent } from '@~internal/dom';
 
 import anki from '../anki';
 
