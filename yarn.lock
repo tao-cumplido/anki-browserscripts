@@ -1118,6 +1118,28 @@
   resolved "https://registry.yarnpkg.com/@tkausl/userscript-meta/-/userscript-meta-1.0.2.tgz#1b9beaebe5a64ae43815ae87865b3d1e4b0f1fbf"
   integrity sha1-G5vq6+WmSuQ4Fa6Hhls9HksPH78=
 
+"@tswt/core@0.0.1-alpha.10", "@tswt/core@~0.0.1-alpha.10":
+  version "0.0.1-alpha.10"
+  resolved "https://registry.yarnpkg.com/@tswt/core/-/core-0.0.1-alpha.10.tgz#226e6f31ce583a989e2d91b1887d1a56d9ca67a8"
+  integrity sha512-izQ2dejXQO4ThxsZAH5jbp4PzL+Sj2UKCnl3A5C9C/B3vg3CW20UJ68XaUAD+N75r+Y2M8x1fulwTb1vsMgjUA==
+
+"@tswt/jsdom@0.0.1-alpha.10":
+  version "0.0.1-alpha.10"
+  resolved "https://registry.yarnpkg.com/@tswt/jsdom/-/jsdom-0.0.1-alpha.10.tgz#84a584197077f6402a3b8d8bba7ac417e4ee24bb"
+  integrity sha512-KJpJEJKzrGPMJW1+WrCOJCP7ML4wkp/WFpn7mdNpfb/0eeNeVjVzlAM7NHJwdDm+pKH7S2Ql6lT7NZWU/+8OWg==
+  dependencies:
+    "@tswt/core" "0.0.1-alpha.10"
+    "@types/node" "^14.14.37"
+    "@types/parse5" "^6.0.0"
+    "@types/tough-cookie" "^4.0.0"
+
+"@tswt/window@0.0.1-alpha.10":
+  version "0.0.1-alpha.10"
+  resolved "https://registry.yarnpkg.com/@tswt/window/-/window-0.0.1-alpha.10.tgz#cabe8c24ccf95cd9d6ded3a71c40031721827cd0"
+  integrity sha512-xthhFJfS3b/kW7iT8ghhb04s40tU5p2Y39CS0tZRPDkKenyk2v5uzQjefEZAhMNPRDiE6o9p/dAhGoDXUntEAQ==
+  dependencies:
+    "@tswt/core" "~0.0.1-alpha.10"
+
 "@types/anymatch@*":
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/@types/anymatch/-/anymatch-1.3.1.tgz#336badc1beecb9dacc38bea2cf32adf627a8421a"
@@ -1263,15 +1285,6 @@
     jest-diff "^26.0.0"
     pretty-format "^26.0.0"
 
-"@types/jsdom@16.2.5":
-  version "16.2.5"
-  resolved "https://registry.yarnpkg.com/@types/jsdom/-/jsdom-16.2.5.tgz#74ebad438741d249ecb416c5486dcde4217eb66c"
-  integrity sha512-k/ZaTXtReAjwWu0clU0KLS53dyqZnA8mm+jwKFeFrvufXgICp+VNbskETFxKKAguv0pkaEKTax5MaRmvalM+TA==
-  dependencies:
-    "@types/node" "*"
-    "@types/parse5" "*"
-    "@types/tough-cookie" "*"
-
 "@types/jsesc@2.5.1":
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/@types/jsesc/-/jsesc-2.5.1.tgz#c34defc608ec94b68dc6a12a581b440942c6d503"
@@ -1309,10 +1322,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.20.tgz#f7974863edd21d1f8a494a73e8e2b3658615c340"
   integrity sha512-Y93R97Ouif9JEOWPIUyU+eyIdyRqQR0I8Ez1dzku4hDx34NWh4HbtIc3WNzwB1Y9ULvNGeu5B8h8bVL5cAk4/A==
 
-"@types/node@14.14.10":
-  version "14.14.10"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.10.tgz#5958a82e41863cfc71f2307b3748e3491ba03785"
-  integrity sha512-J32dgx2hw8vXrSbu4ZlVhn1Nm3GbeCFNw2FWL8S5QKucHGY0cyNwjdQdO+KMBZ4wpmC7KhLCiNsdk1RFRIYUQQ==
+"@types/node@14.14.37", "@types/node@^14.14.37":
+  version "14.14.37"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.37.tgz#a3dd8da4eb84a996c36e331df98d82abd76b516e"
+  integrity sha512-XYmBiy+ohOR4Lh5jE379fV2IU+6Jn4g5qASinhitfyO71b/sCo6MKsMLF5tc7Zf2CE8hViVQyYSobJNke8OvUw==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
@@ -1324,10 +1337,10 @@
   resolved "https://registry.yarnpkg.com/@types/parse-json/-/parse-json-4.0.0.tgz#2f8bb441434d163b35fb8ffdccd7138927ffb8c0"
   integrity sha512-//oorEZjL6sbPcKUaCdIGlIUeH26mgzimjBB77G6XRgnDl/L5wOnpyBGRe/Mmf5CVW3PwEBE1NjiMZ/ssFh4wA==
 
-"@types/parse5@*":
-  version "5.0.3"
-  resolved "https://registry.yarnpkg.com/@types/parse5/-/parse5-5.0.3.tgz#e7b5aebbac150f8b5fdd4a46e7f0bd8e65e19109"
-  integrity sha512-kUNnecmtkunAoQ3CnjmMkzNU/gtxG8guhi+Fk2U/kOpIKjIMKnXGp4IJCgQJrXSgMsWYimYG4TGjz/UzbGEBTw==
+"@types/parse5@^6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@types/parse5/-/parse5-6.0.0.tgz#38590dc2c3cf5717154064e3ee9b6947ee21b299"
+  integrity sha512-oPwPSj4a1wu9rsXTEGIJz91ISU725t0BmSnUhb57sI+M8XEmvUop84lzuiYdq0Y5M6xLY8DBPg0C2xEQKLyvBA==
 
 "@types/prettier@^2.0.0":
   version "2.1.6"
@@ -1375,7 +1388,7 @@
     "@types/webpack" "*"
     terser "^4.6.13"
 
-"@types/tough-cookie@*":
+"@types/tough-cookie@^4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@types/tough-cookie/-/tough-cookie-4.0.0.tgz#fef1904e4668b6e5ecee60c52cc6a078ffa6697d"
   integrity sha512-I99sngh224D0M7XgW1s120zxCt3VYQ3IQsuw3P3jbq5GG4yc79+ZjyKznyOGIQrflfylLgcfekeZW/vk0yng6A==
@@ -8647,10 +8660,10 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@*, typescript@4.0.3:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.0.3.tgz#153bbd468ef07725c1df9c77e8b453f8d36abba5"
-  integrity sha512-tEu6DGxGgRJPb/mVPIZ48e69xCn2yRmCgYmDugAVwmJ6o+0u1RI18eO7E7WBTLYLaEVVOhwQmcdhQHweux/WPg==
+typescript@*, typescript@4.1.5:
+  version "4.1.5"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.1.5.tgz#123a3b214aaff3be32926f0d8f1f6e704eb89a72"
+  integrity sha512-6OSu9PTIzmn9TCDiovULTnET6BgXtDYL4Gg4szY+cGsc3JP1dQL8qvE8kShTRx1NIw4Q9IBHlwODjkjWEtMUyA==
 
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"

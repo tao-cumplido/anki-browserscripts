@@ -1,13 +1,13 @@
 import { html, render } from 'lit-html';
 
-import { assert } from '@~internal/util';
+import { assertReturn } from '@~internal/util';
 
-import type { KanjiMain, Point } from './components/kanji-main';
+import type { Point } from './components/kanji-main';
 import './components/kanji-frequencies';
 import { parseData } from './parse-data';
 
-const container = assert(document.querySelector('#solution'));
-const main = assert(document.querySelector<KanjiMain>('kanji-main'));
+const container = assertReturn(document.querySelector('#solution'));
+const main = assertReturn(document.querySelector('kanji-main'));
 
 const data = parseData(`{{Data}}`);
 
@@ -16,7 +16,7 @@ if (Persistence.isAvailable()) {
 
 	const drawImage = () => {
 		if (!main.setDrawingColor || !main.drawImage) {
-			window.requestAnimationFrame(() => drawImage());
+			requestAnimationFrame(() => drawImage());
 			return;
 		}
 
@@ -34,7 +34,7 @@ if (data.strokes) {
 	main.showPlayAnimationButton = true;
 	main.playAnimation();
 } else {
-	const kanji = assert(container.parentElement?.insertBefore(document.createElement('div'), container));
+	const kanji = assertReturn(container.parentElement?.insertBefore(document.createElement('div'), container));
 	kanji.textContent = main.kanji;
 }
 

@@ -203,7 +203,7 @@ export class AddKanjiCards extends LitElement {
 								return;
 							}
 
-							return response.json() as Promise<KanjiEntry>;
+							return (response.json() as unknown) as Promise<KanjiEntry>;
 						})
 						.then((data) => {
 							if (data) {

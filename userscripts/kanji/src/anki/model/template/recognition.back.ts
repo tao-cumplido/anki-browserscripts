@@ -1,15 +1,14 @@
 import { html, nothing, render } from 'lit-html';
 
-import { assert } from '@~internal/util';
+import { assertReturn } from '@~internal/util';
 
-import type { KanjiMain } from './components/kanji-main';
 import './components/kanji-frequencies';
 import './components/kanji-meanings';
 import './components/kanji-readings';
 import { parseData } from './parse-data';
 
-const container = assert(document.querySelector('#solution'));
-const main = assert(document.querySelector<KanjiMain>('kanji-main'));
+const container = assertReturn(document.querySelector('#solution'));
+const main = assertReturn(document.querySelector('kanji-main'));
 
 const data = parseData(`{{Data}}`);
 

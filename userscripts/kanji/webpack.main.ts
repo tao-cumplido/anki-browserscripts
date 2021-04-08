@@ -13,21 +13,13 @@ import TerserWebpackPlugin from 'terser-webpack-plugin';
 import webpack, { DefinePlugin } from 'webpack';
 import WebpackUserscript from 'webpack-userscript';
 
-import type { Window } from '@~types/dom';
-import { assert } from '@~internal/util';
+import { assertReturn } from '@~internal/util';
 
 import { buildAnkiTemplateConfig } from './webpack.anki';
 import { babelPluginTemplateMinifier } from './webpack.shared';
 
-// jsom references types from typescript's dom lib but including it in the compilation would make ts think they're globally available
-// augmenting jsdom module here with a modularized version of the dom lib (not exhaustive, only for the use case in this file)
-declare module 'jsdom' {
-	// eslint-disable-next-line @typescript-eslint/no-empty-interface
-	interface DOMWindow extends Omit<Window, 'top' | 'self' | 'window'> {}
-}
-
 const production = process.env['NODE_ENV'] === 'production';
-const debugAnkiModels = assert<boolean>(JSON.parse(process.env['DEBUG_ANKI_MODELS'] ?? 'false'));
+const debugAnkiModels = assertReturn<boolean>(JSON.parse(process.env['DEBUG_ANKI_MODELS'] ?? 'false'));
 
 const {
 	env: { KANJI_DB_BASE },
@@ -88,7 +80,7 @@ const config: Configuration = {
 							window: { document },
 						} = new JSDOM(content);
 
-						for (const script of document.querySelectorAll('script')) {
+						for (const script of document.getElementsByTagNameNS('http://www.w3.org/1999/xhtml', 'script')) {
 							if (!script.src) {
 								continue;
 							}
@@ -129,6 +121,10 @@ const config: Configuration = {
 							if (debugAnkiModels) {
 								script.textContent = `${script.textContent.replace(/\{\{lit-guid\}\}/gmu, ' ')}//# sourceURL=${targetPath}\n`;
 							}
+						}
+
+						if (!document.body?.innerHTML) {
+							throw new Error('unexpected missing body');
 						}
 
 						return document.body.innerHTML;

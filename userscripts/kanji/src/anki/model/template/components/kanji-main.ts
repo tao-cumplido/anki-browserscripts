@@ -18,9 +18,15 @@ import mdiUndo from '@mdi/svg/svg/undo.svg';
 import type { ToggleEvent } from '@~internal/components/toggle-button';
 import '@~internal/components/toggle-button';
 import { safeCustomElement } from '@~internal/dom';
-import { assert } from '@~internal/util';
+import { assertReturn } from '@~internal/util';
 
 import styles from './kanji-main.scss';
+
+declare module '@tswt/core' {
+	interface AutonomousCustomElementMap {
+		'kanji-main': KanjiMain;
+	}
+}
 
 export interface Point {
 	x: number;
@@ -42,7 +48,7 @@ export class KanjiMain extends LitElement {
 	canvas?: HTMLCanvasElement;
 
 	@queryAll('.strokes path')
-	strokeElements!: NodeListOf<SVGPathElement>;
+	strokeElements!: NodeList<SVGPathElement>;
 
 	@property({ attribute: false })
 	kanji = '';
@@ -116,7 +122,7 @@ export class KanjiMain extends LitElement {
 	}
 
 	private setupDrawing(canvas: HTMLCanvasElement) {
-		const context = assert(canvas.getContext('2d'));
+		const context = assertReturn(canvas.getContext('2d'));
 
 		context.lineWidth = 10;
 		context.lineCap = 'round';
@@ -203,7 +209,7 @@ export class KanjiMain extends LitElement {
 				on=${mdiEye}
 				off=${mdiEyeOff}
 				@toggle=${({ detail: { state } }: ToggleEvent) => {
-					const strokes = assert(this.renderRoot.querySelector<SVGElement>('g.strokes-group'));
+					const strokes = assertReturn(this.renderRoot.querySelector<SVGElement>('g.strokes-group'));
 					strokes.style.opacity = state ? '1' : '0';
 				}}
 			></toggle-button>
@@ -216,7 +222,7 @@ export class KanjiMain extends LitElement {
 				on=${mdiLayers}
 				off=${mdiLayersOff}
 				@toggle=${({ detail: { state } }: ToggleEvent) => {
-					const guides = assert(this.renderRoot.querySelector<SVGElement>('g.guides'));
+					const guides = assertReturn(this.renderRoot.querySelector<SVGElement>('g.guides'));
 					guides.style.opacity = state ? '1' : '0';
 				}}
 			></toggle-button>
@@ -233,7 +239,7 @@ export class KanjiMain extends LitElement {
 				on=${mdiGrid}
 				off=${mdiGridOff}
 				@toggle=${({ detail: { state } }: ToggleEvent) => {
-					const grid = assert(this.renderRoot.querySelector<SVGElement>('g.grid'));
+					const grid = assertReturn(this.renderRoot.querySelector<SVGElement>('g.grid'));
 					grid.style.visibility = state ? 'visible' : 'hidden';
 				}}
 			></toggle-button>
@@ -314,10 +320,9 @@ export class KanjiMain extends LitElement {
 	}
 
 	playAnimation(): void {
-		window.requestAnimationFrame(() => {
-			let delay = 0;
-
-			for (const stroke of this.strokeElements) {
+		// https://jakearchibald.com/2013/animated-line-drawing-svg/
+		requestAnimationFrame(() => {
+			[...this.strokeElements].reduce((delay, stroke) => {
 				const length = stroke.getTotalLength();
 				const duration = length * 0.02;
 
@@ -326,19 +331,19 @@ export class KanjiMain extends LitElement {
 				stroke.style.strokeDashoffset = `${length}`;
 				stroke.style.opacity = '0';
 
-				stroke.getBoundingClientRect();
+				requestAnimationFrame(() => {
+					stroke.style.transition = `stroke-dashoffset ${duration}s cubic-bezier(0.33,0,0.25,1) ${delay}s, opacity 0s linear ${delay}s`;
+					stroke.style.strokeDashoffset = '0';
+					stroke.style.opacity = '1';
+				});
 
-				stroke.style.transition = `stroke-dashoffset ${duration}s cubic-bezier(0.33,0,0.25,1) ${delay}s, opacity 0s linear ${delay}s`;
-				stroke.style.strokeDashoffset = '0';
-				stroke.style.opacity = '1';
-
-				delay += duration;
-			}
+				return delay + duration;
+			}, 0);
 		});
 	}
 
 	firstUpdated(): void {
-		window.requestAnimationFrame(() => {
+		requestAnimationFrame(() => {
 			if (this.canvas) {
 				this.setupDrawing(this.canvas);
 			}
@@ -362,15 +367,15 @@ export class KanjiMain extends LitElement {
 
 	connectedCallback(): void {
 		super.connectedCallback();
-		window.addEventListener('mousedown', this.globalMouseDown);
-		window.addEventListener('mouseup', this.globalMouseUp);
-		window.addEventListener('click', this.persistLine);
+		addEventListener('mousedown', this.globalMouseDown);
+		addEventListener('mouseup', this.globalMouseUp);
+		addEventListener('click', this.persistLine);
 	}
 
 	disconnectedCallback(): void {
 		super.disconnectedCallback();
-		window.removeEventListener('mousedown', this.globalMouseDown);
-		window.removeEventListener('mouseup', this.globalMouseUp);
-		window.removeEventListener('click', this.persistLine);
+		removeEventListener('mousedown', this.globalMouseDown);
+		removeEventListener('mouseup', this.globalMouseUp);
+		removeEventListener('click', this.persistLine);
 	}
 }

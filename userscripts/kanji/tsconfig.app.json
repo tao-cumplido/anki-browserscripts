@@ -5,8 +5,8 @@
 		"experimentalDecorators": true,
 		"module": "esnext",
 		"target": "esnext",
-		"types": ["tampermonkey.add-style", "scss", "html"],
-		"lib": ["es2020", "dom", "dom.iterable"]
+		"types": ["tampermonkey.add-style", "scss", "html", "window"],
+		"lib": ["es2020"]
 	},
 	"include": ["src/**/*.ts", "types.ts"],
 	"exclude": ["src/**/*.spec.ts", "src/anki/model/template/**/*.ts"]

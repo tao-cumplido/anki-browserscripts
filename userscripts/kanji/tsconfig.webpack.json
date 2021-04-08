@@ -4,7 +4,11 @@
 		"module": "commonjs",
 		"target": "es2017",
 		"types": ["node", "webpack-dev-server"],
-		"lib": ["es2020"]
+		"lib": ["es2020"],
+		"baseUrl": ".",
+		"paths": {
+			"jsdom": ["../../node_modules/@tswt/jsdom", "../../node_modules/jsdom"]
+		}
 	},
 	"files": ["webpack.shared.ts", "webpack.anki.ts", "webpack.main.ts"]
 }

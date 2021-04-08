@@ -1,26 +1,21 @@
 import { html, render } from 'lit-html';
 
-import { assert } from '@~internal/util';
+import { assertReturn } from '@~internal/util';
 
 import './components/kanji-main';
 import './components/kanji-meanings';
 import './components/kanji-readings';
 import { parseData } from './parse-data';
 
-const kanjiContainer = assert(document.querySelector('#kanji'));
-const infoContainer = assert(document.querySelector('#info'));
+const kanjiContainer = assertReturn(document.querySelector('#kanji'));
+const infoContainer = assertReturn(document.querySelector('#info'));
 
 const data = parseData(`{{Data}}`);
 
 render(
-	html`<kanji-main
-		.kanji=${data.kanji}
-		drawing
-		showGridToggle
-		showDrawingToggle
-		showUndoButton
-		showClearButton
-	></kanji-main>`,
+	html`
+		<kanji-main .kanji=${data.kanji} drawing showGridToggle showDrawingToggle showUndoButton showClearButton></kanji-main>
+	`,
 	kanjiContainer,
 );
 

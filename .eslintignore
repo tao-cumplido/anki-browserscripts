@@ -1,5 +1,3 @@
 dist
 
 !*rc.js
-
-@~types/dom/index.d.ts

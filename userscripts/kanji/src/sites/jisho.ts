@@ -1,6 +1,6 @@
 import { html, render } from 'lit-html';
 
-import { assert } from '@~internal/util';
+import { assert, assertElements, assertReturn } from '@~internal/util';
 
 import { AbstractExtension } from '../extension';
 import styles from './jisho.scss';
@@ -20,7 +20,9 @@ export class Jisho extends AbstractExtension {
 		return [...new Set(text.match(/\p{sc=Han}/gmu))];
 	}
 
-	private renderConfig() {
+	private renderConfig(pageContainer: Element) {
+		assert(document.body);
+
 		const container = this.assertContainer('userscript-config');
 		const column = document.createElement('div');
 
@@ -28,7 +30,7 @@ export class Jisho extends AbstractExtension {
 		column.classList.add('column');
 
 		container.append(column);
-		document.body.insertBefore(container, assert(document.querySelector('#page_container')));
+		document.body.insertBefore(container, pageContainer);
 
 		render(html`<deck-select></deck-select>`, column);
 
@@ -38,10 +40,10 @@ export class Jisho extends AbstractExtension {
 	private renderVocabResults() {
 		for (const wrapper of document.querySelectorAll('#primary .concept_light-wrapper')) {
 			try {
-				const kanji = this.filterKanji(assert(wrapper.querySelector('ul[id^="links_drop"]')?.textContent));
+				const kanji = this.filterKanji(assertReturn(wrapper.querySelector('ul[id^="links_drop"]')?.textContent));
 
 				if (kanji.length) {
-					const preselected = this.filterKanji(assert(wrapper.querySelector('.concept_light-readings')?.textContent));
+					const preselected = this.filterKanji(assertReturn(wrapper.querySelector('.concept_light-readings')?.textContent));
 					render(
 						html`<kanji-select .kanji=${kanji} .preselected=${preselected}></kanji-select>`,
 						wrapper.appendChild(document.createElement('div')),
@@ -51,10 +53,8 @@ export class Jisho extends AbstractExtension {
 		}
 	}
 
-	private renderKanjiResults(query: string, container: Element) {
-		const kanjiText = [...document.querySelectorAll(/\p{sc=Han}/u.exec(query) ? 'h1.character' : '.literal_block')]
-			.map(({ textContent }) => textContent)
-			.join('');
+	private renderKanjiResults(container: Element, kanjiElements: readonly Element[]) {
+		const kanjiText = kanjiElements.map(({ textContent }) => textContent).join('');
 
 		render(
 			html`<kanji-select class="vertical" .kanji=${this.filterKanji(kanjiText)} .preselected=${[]}></kanji-select>`,
@@ -66,6 +66,9 @@ export class Jisho extends AbstractExtension {
 	async run(): Promise<void> {
 		const query = decodeURIComponent(location.pathname.split('/')[2]);
 
+		const [pageContainer] = assertElements(document, '#page_container');
+		const configColumn = this.renderConfig(pageContainer);
+
 		if (/#names$/u.exec(query)) {
 			return;
 		}
@@ -74,10 +77,13 @@ export class Jisho extends AbstractExtension {
 			return;
 		}
 
-		const configColumn = this.renderConfig();
-
 		if (/#kanji$/u.exec(query)) {
-			this.renderKanjiResults(query, configColumn);
+			const [kanjiElements] = assertElements(document, [/\p{sc=Han}/u.exec(query) ? 'h1.character' : '.literal_block']);
+
+			if (kanjiElements.length) {
+				this.renderKanjiResults(configColumn, kanjiElements);
+			}
+
 			return;
 		}
 

@@ -2,8 +2,8 @@
 	"extends": "../../tsconfig.base.json",
 	"compilerOptions": {
 		"experimentalDecorators": true,
-		"types": [],
-		"lib": ["es2020", "dom", "dom.iterable"]
+		"types": ["window"],
+		"lib": ["es2020"]
 	},
 	"include": ["*.ts"]
 }

@@ -30,7 +30,7 @@ export class InlineSpinner extends LitElement {
 
 	connectedCallback(): void {
 		super.connectedCallback();
-		this.interval = window.setInterval(() => {
+		this.interval = setInterval(() => {
 			this.state = (this.state + 1) % InlineSpinner.animation.length;
 		}, 250);
 	}

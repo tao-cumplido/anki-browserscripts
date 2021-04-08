@@ -5,8 +5,8 @@
 		"experimentalDecorators": true,
 		"module": "esnext",
 		"target": "esnext",
-		"types": ["scss", "svg", "anki-persistence"],
-		"lib": ["es2020", "dom", "dom.iterable"]
+		"types": ["scss", "svg", "anki-persistence", "window"],
+		"lib": ["es2020"]
 	},
 	"include": ["src/anki/model/template/**/*.ts", "types.ts"]
 }

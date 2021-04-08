@@ -18,7 +18,9 @@
 	},
 	"dependencies": {},
 	"devDependencies": {
-		"@types/node": "14.14.10",
+		"@tswt/core": "0.0.1-alpha.10",
+		"@tswt/window": "0.0.1-alpha.10",
+		"@types/node": "14.14.37",
 		"@typescript-eslint/eslint-plugin": "4.10.0",
 		"@typescript-eslint/parser": "4.10.0",
 		"eslint": "7.14.0",
@@ -36,7 +38,7 @@
 		"**/lit-element": "2.4.0",
 		"**/lit-html": "1.3.0",
 		"**/ts-node": "9.1.1",
-		"**/typescript": "4.0.3",
+		"**/typescript": "4.1.5",
 		"**/webpack/acorn": "8.0.4"
 	}
 }

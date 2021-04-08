@@ -1,6 +1,6 @@
 {
 	"name": "kanji",
-	"version": "2.0.0-beta.3",
+	"version": "2.0.0-beta.4",
 	"author": "Tao Cumplido",
 	"private": true,
 	"volta": {
@@ -23,7 +23,6 @@
 	},
 	"devDependencies": {
 		"@~types/anki-persistence": "0.5.3",
-		"@~types/dom": "0.0.0",
 		"@~types/html": "0.0.0",
 		"@~types/scss": "0.0.0",
 		"@~types/svg": "0.0.0",
@@ -31,9 +30,9 @@
 		"@babel/core": "7.12.10",
 		"@babel/plugin-proposal-logical-assignment-operators": "7.12.1",
 		"@babel/preset-env": "7.12.11",
+		"@tswt/jsdom": "0.0.1-alpha.10",
 		"@types/fs-extra": "9.0.2",
 		"@types/jest": "26.0.19",
-		"@types/jsdom": "16.2.5",
 		"@types/jsesc": "2.5.1",
 		"@types/terser-webpack-plugin": "4.2.0",
 		"@types/webpack": "4.41.25",

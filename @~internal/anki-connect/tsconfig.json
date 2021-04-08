@@ -1,8 +1,8 @@
 {
 	"extends": "../../tsconfig.base.json",
 	"compilerOptions": {
-		"types": [],
-		"lib": ["es2020", "dom", "dom.iterable"]
+		"types": ["window"],
+		"lib": ["es2020"]
 	},
 	"include": ["src/**/*.ts"]
 }
