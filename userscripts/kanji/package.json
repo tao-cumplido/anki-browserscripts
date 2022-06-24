@@ -47,7 +47,7 @@
 		"heisig-rtk": "https://github.com/sdcr/heisig-kanjis#c801bffcc44cb71b5bde6776265ee0898f2e7424",
 		"html-loader": "1.1.0",
 		"jest": "26.6.1",
-		"jsdom": "16.4.0",
+		"jsdom": "16.5.0",
 		"jsesc": "3.0.1",
 		"kanji-frequency": "https://github.com/scriptin/kanji-frequency#gh-pages",
 		"kanjium": "https://github.com/mifunetoshiro/kanjium#c97ef30c8777de7d5f8e5b04c696a3fe00a2a83a",
